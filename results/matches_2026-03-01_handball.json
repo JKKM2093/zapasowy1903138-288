@@ -1,0 +1,4130 @@
+{
+  "date": "2026-03-01",
+  "sport": "handball",
+  "generatedAt": "2026-03-01T02:55:07.801652",
+  "stats": {
+    "total": 89,
+    "qualifying": 35,
+    "formAdvantage": 26
+  },
+  "matches": [
+    {
+      "id": 8157066107023956433,
+      "homeTeam": "Horneo Alicante",
+      "awayTeam": "La Rioja",
+      "time": "01.03.2026 11:30",
+      "date": "2026-03-01",
+      "league": null,
+      "country": "",
+      "sport": "handball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/pilka-reczna/eon-horneo-alicante-SdLLX986/la-rioja-Ycb3Fk1T/?mid=U1X809Mb",
+      "qualifies": false,
+      "h2h": {
+        "home": 0,
+        "draw": 0,
+        "away": 1,
+        "total": 1,
+        "winRate": 0
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null
+    },
+    {
+      "id": 7156454154341117940,
+      "homeTeam": "Morrazo Cangas",
+      "awayTeam": "Barcelona",
+      "time": "01.03.2026 19:00",
+      "date": "2026-03-01",
+      "league": null,
+      "country": "",
+      "sport": "handball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/pilka-reczna/barcelona-WfcbnFIB/morrazo-cangas-lnIZJ2pJ/?mid=pdjqplxI",
+      "qualifies": false,
+      "h2h": {
+        "home": 0,
+        "draw": 0,
+        "away": 5,
+        "total": 5,
+        "winRate": 0
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null
+    },
+    {
+      "id": -5532538592645699064,
+      "homeTeam": "Minden",
+      "awayTeam": "Stuttgart",
+      "time": "01.03.2026 14:00",
+      "date": "2026-03-01",
+      "league": null,
+      "country": "",
+      "sport": "handball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/pilka-reczna/minden-ELshWTCD/stuttgart-Uuh1RiXn/?mid=GKxArywn",
+      "qualifies": false,
+      "h2h": {
+        "home": 0,
+        "draw": 0,
+        "away": 5,
+        "total": 5,
+        "winRate": 0
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null
+    },
+    {
+      "id": -3714548205131228609,
+      "homeTeam": "Hannover-Burgdorf",
+      "awayTeam": "Göppingen",
+      "time": "01.03.2026 15:30",
+      "date": "2026-03-01",
+      "league": null,
+      "country": "",
+      "sport": "handball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/pilka-reczna/burgdorf-zgo3Dvli/goppingen-SdgFUCbe/?mid=jwqIBf8O",
+      "qualifies": false,
+      "h2h": {
+        "home": 2,
+        "draw": 0,
+        "away": 3,
+        "total": 5,
+        "winRate": 40
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null
+    },
+    {
+      "id": 1771954819954910261,
+      "homeTeam": "Leipzig",
+      "awayTeam": "Bergischer",
+      "time": "01.03.2026 15:30",
+      "date": "2026-03-01",
+      "league": null,
+      "country": "",
+      "sport": "handball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/pilka-reczna/bergischer-UJnQvkWb/leipzig-WzslPEBG/?mid=4t9iQgNH",
+      "qualifies": false,
+      "h2h": {
+        "home": 1,
+        "draw": 0,
+        "away": 2,
+        "total": 5,
+        "winRate": 20
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null
+    },
+    {
+      "id": -687621227294489473,
+      "homeTeam": "Fuechse Berlin",
+      "awayTeam": "Rhein-Neckar",
+      "time": "01.03.2026 17:00",
+      "date": "2026-03-01",
+      "league": null,
+      "country": "",
+      "sport": "handball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/pilka-reczna/f-berlin-2JspUjT7/lowen-Ctq9eX4K/?mid=nHUrIK6U",
+      "qualifies": true,
+      "h2h": {
+        "home": 4,
+        "draw": 0,
+        "away": 1,
+        "total": 5,
+        "winRate": 80
+      },
+      "homeForm": [
+        "L",
+        "W",
+        "W",
+        "W",
+        "W"
+      ],
+      "awayForm": [
+        "W",
+        "W",
+        "L",
+        "W",
+        "W"
+      ],
+      "homeFormHome": [
+        "L",
+        "W",
+        "W",
+        "W",
+        "W"
+      ],
+      "awayFormAway": [
+        "L",
+        "W",
+        "W",
+        "W",
+        "L"
+      ],
+      "formAdvantage": false,
+      "odds": {
+        "home": 1.16,
+        "draw": 12.0,
+        "away": 6.5,
+        "bookmaker": "Pinnacle"
+      },
+      "forebet": null,
+      "sofascore": {
+        "home": 91,
+        "draw": 3,
+        "away": 6,
+        "votes": 314
+      },
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "X",
+        "prob": 8.2,
+        "ev": -0.015,
+        "edge": -0.1,
+        "kelly": 0.0,
+        "confidence": 24.0,
+        "dataQuality": 0.7
+      },
+      "tennis": null
+    },
+    {
+      "id": 5672469763948420698,
+      "homeTeam": "Orlen Wisła Płock",
+      "awayTeam": "Iskra Kielce",
+      "time": "01.03.2026 11:30",
+      "date": "2026-03-01",
+      "league": null,
+      "country": "",
+      "sport": "handball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/pilka-reczna/iskra-kielce-C0B1zszf/wisla-plock-zPDZ2YnB/?mid=zFdwNY0B",
+      "qualifies": true,
+      "h2h": {
+        "home": 3,
+        "draw": 0,
+        "away": 2,
+        "total": 5,
+        "winRate": 60
+      },
+      "homeForm": [
+        "D",
+        "W",
+        "W",
+        "W",
+        "W"
+      ],
+      "awayForm": [
+        "W",
+        "W",
+        "W",
+        "W",
+        "W"
+      ],
+      "homeFormHome": [
+        "D",
+        "W",
+        "W",
+        "W",
+        "W"
+      ],
+      "awayFormAway": [
+        "W",
+        "L",
+        "L",
+        "W",
+        "W"
+      ],
+      "formAdvantage": false,
+      "odds": {
+        "home": 1.63,
+        "draw": 7.5,
+        "away": 2.7,
+        "bookmaker": "Pinnacle"
+      },
+      "forebet": null,
+      "sofascore": {
+        "home": 59,
+        "draw": 5,
+        "away": 36,
+        "votes": 160
+      },
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "X",
+        "prob": 13.4,
+        "ev": 0.002,
+        "edge": 0.0,
+        "kelly": 0.0,
+        "confidence": 36.0,
+        "dataQuality": 0.7
+      },
+      "tennis": null
+    },
+    {
+      "id": -6720550249072527337,
+      "homeTeam": "Derventa",
+      "awayTeam": "Sloboda Tuzla",
+      "time": "01.03.2026 16:00",
+      "date": "2026-03-01",
+      "league": null,
+      "country": "",
+      "sport": "handball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/pilka-reczna/derventa-xUl0CBpF/sloboda-tuzla-tfL022sm/?mid=xvOmcBdC",
+      "qualifies": false,
+      "h2h": {
+        "home": 2,
+        "draw": 0,
+        "away": 3,
+        "total": 5,
+        "winRate": 40
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null
+    },
+    {
+      "id": 7762954026073639692,
+      "homeTeam": "Varazdin",
+      "awayTeam": "Metkovic",
+      "time": "01.03.2026 18:00",
+      "date": "2026-03-01",
+      "league": null,
+      "country": "",
+      "sport": "handball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/pilka-reczna/grk-varazdin-p2kjdC3E/metkovic-UZ24gsXh/?mid=2oxsGtNH",
+      "qualifies": false,
+      "h2h": {
+        "home": 1,
+        "draw": 0,
+        "away": 2,
+        "total": 5,
+        "winRate": 20
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null
+    },
+    {
+      "id": -8524314943089956237,
+      "homeTeam": "Bjelovar K",
+      "awayTeam": "Brod K",
+      "time": "01.03.2026 16:00",
+      "date": "2026-03-01",
+      "league": null,
+      "country": "",
+      "sport": "handball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/pilka-reczna/bjelovar-M1h1whrD/brod-j3QKjvtf/?mid=vZRQbfNr",
+      "qualifies": true,
+      "h2h": {
+        "home": 1,
+        "draw": 0,
+        "away": 0,
+        "total": 1,
+        "winRate": 100
+      },
+      "homeForm": [
+        "W",
+        "W",
+        "W",
+        "W",
+        "W"
+      ],
+      "awayForm": [
+        "L",
+        "L",
+        "L",
+        "L",
+        "L"
+      ],
+      "homeFormHome": [
+        "W",
+        "W",
+        "L",
+        "L",
+        "L"
+      ],
+      "awayFormAway": [
+        "W",
+        "W",
+        "L",
+        "L",
+        "L"
+      ],
+      "formAdvantage": true,
+      "odds": null,
+      "forebet": {
+        "prediction": "2",
+        "probability": 72.0,
+        "exactScore": "30-39",
+        "overUnder": null,
+        "btts": null
+      },
+      "sofascore": {
+        "home": 100,
+        "draw": null,
+        "away": 0,
+        "votes": 16
+      },
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "1",
+        "prob": 68.3,
+        "ev": -999.0,
+        "edge": 0.0,
+        "kelly": 0.0,
+        "confidence": 48.0,
+        "dataQuality": 0.7
+      },
+      "tennis": null
+    },
+    {
+      "id": -4436062959916788617,
+      "homeTeam": "Rudar Labin K",
+      "awayTeam": "Split 2010 K",
+      "time": "01.03.2026 18:00",
+      "date": "2026-03-01",
+      "league": null,
+      "country": "",
+      "sport": "handball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/pilka-reczna/rudar-labin-jmrEfHXD/split-2010-fVhVQf1Q/?mid=lpkhJO8c",
+      "qualifies": false,
+      "h2h": {
+        "home": 1,
+        "draw": 0,
+        "away": 4,
+        "total": 5,
+        "winRate": 20
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null
+    },
+    {
+      "id": -5755739864747576328,
+      "homeTeam": "Brskovo",
+      "awayTeam": "Mornar",
+      "time": "01.03.2026 16:00",
+      "date": "2026-03-01",
+      "league": null,
+      "country": "",
+      "sport": "handball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/pilka-reczna/brskovo-Of763gVp/mornar-QPTH3hyn/?mid=KrUeb5BO",
+      "qualifies": false,
+      "h2h": {
+        "home": 0,
+        "draw": 0,
+        "away": 5,
+        "total": 5,
+        "winRate": 0
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null
+    },
+    {
+      "id": -3892240287229363695,
+      "homeTeam": "Lovcen",
+      "awayTeam": "Partizan Tivat",
+      "time": "01.03.2026 17:00",
+      "date": "2026-03-01",
+      "league": null,
+      "country": "",
+      "sport": "handball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/pilka-reczna/lovcen-YPG9tfEI/partizan-tivat-dUkl3q8m/?mid=rwZW39sm",
+      "qualifies": true,
+      "h2h": {
+        "home": 5,
+        "draw": 0,
+        "away": 0,
+        "total": 5,
+        "winRate": 100
+      },
+      "homeForm": [
+        "W",
+        "W",
+        "W",
+        "W",
+        "W"
+      ],
+      "awayForm": [
+        "L",
+        "L",
+        "W",
+        "W",
+        "L"
+      ],
+      "homeFormHome": [
+        "W",
+        "W",
+        "W",
+        "W",
+        "W"
+      ],
+      "awayFormAway": [
+        "W",
+        "L",
+        "L",
+        "W",
+        "L"
+      ],
+      "formAdvantage": true,
+      "odds": null,
+      "forebet": {
+        "prediction": "2",
+        "probability": 72.0,
+        "exactScore": "30-39",
+        "overUnder": null,
+        "btts": null
+      },
+      "sofascore": {
+        "home": 4,
+        "draw": 4,
+        "away": 92,
+        "votes": 26
+      },
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "1",
+        "prob": 57.3,
+        "ev": -999.0,
+        "edge": 0.0,
+        "kelly": 0.0,
+        "confidence": 44.0,
+        "dataQuality": 0.7
+      },
+      "tennis": null
+    },
+    {
+      "id": -5618775185394403921,
+      "homeTeam": "Frydek-Mistek",
+      "awayTeam": "Nove Veseli",
+      "time": "01.03.2026 15:30",
+      "date": "2026-03-01",
+      "league": null,
+      "country": "",
+      "sport": "handball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/pilka-reczna/frydek-mistek-figfJ1z7/nove-veseli-EsbuFax2/?mid=2VqjB09U",
+      "qualifies": false,
+      "h2h": {
+        "home": 1,
+        "draw": 0,
+        "away": 4,
+        "total": 5,
+        "winRate": 20
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null
+    },
+    {
+      "id": -6764849249391528797,
+      "homeTeam": "Aalborg",
+      "awayTeam": "HOJ",
+      "time": "01.03.2026 18:00",
+      "date": "2026-03-01",
+      "league": null,
+      "country": "",
+      "sport": "handball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/pilka-reczna/aalborg-fDQfxPPh/hoj-AH8xxeEJ/?mid=jV0WKdVN",
+      "qualifies": true,
+      "h2h": {
+        "home": 1,
+        "draw": 0,
+        "away": 0,
+        "total": 1,
+        "winRate": 100
+      },
+      "homeForm": [
+        "L",
+        "W",
+        "W",
+        "W",
+        "W"
+      ],
+      "awayForm": [
+        "D",
+        "L",
+        "L",
+        "L",
+        "L"
+      ],
+      "homeFormHome": [
+        "W",
+        "W",
+        "W",
+        "W",
+        "W"
+      ],
+      "awayFormAway": [
+        "D",
+        "L",
+        "W",
+        "L",
+        "W"
+      ],
+      "formAdvantage": true,
+      "odds": {
+        "home": 1.04,
+        "draw": 18.0,
+        "away": 11.0,
+        "bookmaker": "Pinnacle"
+      },
+      "forebet": null,
+      "sofascore": {
+        "home": 96,
+        "draw": 2,
+        "away": 2,
+        "votes": 152
+      },
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "1",
+        "prob": 93.0,
+        "ev": -0.033,
+        "edge": -3.2,
+        "kelly": 0.0,
+        "confidence": 54.0,
+        "dataQuality": 0.7
+      },
+      "tennis": null
+    },
+    {
+      "id": 9022259567603075718,
+      "homeTeam": "Midtjylland",
+      "awayTeam": "Tik Taastrup",
+      "time": "01.03.2026 13:00",
+      "date": "2026-03-01",
+      "league": null,
+      "country": "",
+      "sport": "handball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/pilka-reczna/midtjylland-zFhZGtId/tik-taastrup-IgDRj0C1/?mid=zDN3oqrQ",
+      "qualifies": true,
+      "h2h": {
+        "home": 1,
+        "draw": 0,
+        "away": 0,
+        "total": 1,
+        "winRate": 100
+      },
+      "homeForm": [
+        "W",
+        "L",
+        "L",
+        "W",
+        "L"
+      ],
+      "awayForm": [
+        "L",
+        "L",
+        "L",
+        "D",
+        "L"
+      ],
+      "homeFormHome": [
+        "L",
+        "W",
+        "W",
+        "D",
+        "W"
+      ],
+      "awayFormAway": [
+        "W",
+        "L",
+        "W",
+        "D",
+        "L"
+      ],
+      "formAdvantage": true,
+      "odds": {
+        "home": 1.03,
+        "draw": 17.0,
+        "away": 14.0,
+        "bookmaker": "Pinnacle"
+      },
+      "forebet": null,
+      "sofascore": {
+        "home": 79,
+        "draw": 16,
+        "away": 5,
+        "votes": 19
+      },
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "X",
+        "prob": 6.7,
+        "ev": 0.138,
+        "edge": 0.8,
+        "kelly": 0.9,
+        "confidence": 35.0,
+        "dataQuality": 0.7
+      },
+      "tennis": null
+    },
+    {
+      "id": -1246572077985110090,
+      "homeTeam": "Raekker Molle",
+      "awayTeam": "Aarhus Handbold",
+      "time": "01.03.2026 13:00",
+      "date": "2026-03-01",
+      "league": null,
+      "country": "",
+      "sport": "handball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/pilka-reczna/aarhus-handbold-40bjAybU/raekker-molle-AH1gEKHN/?mid=SA2rv1z0",
+      "qualifies": false,
+      "h2h": {
+        "home": 0,
+        "draw": 0,
+        "away": 4,
+        "total": 5,
+        "winRate": 0
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null
+    },
+    {
+      "id": 3882496625952918864,
+      "homeTeam": "Sydhavsøerne",
+      "awayTeam": "Give",
+      "time": "01.03.2026 14:00",
+      "date": "2026-03-01",
+      "league": null,
+      "country": "",
+      "sport": "handball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/pilka-reczna/give-Ua22IUnI/sydhavs-erne-4I4FNqdb/?mid=fNgazJZO",
+      "qualifies": true,
+      "h2h": {
+        "home": 1,
+        "draw": 0,
+        "away": 0,
+        "total": 1,
+        "winRate": 100
+      },
+      "homeForm": [
+        "L",
+        "W",
+        "W",
+        "W",
+        "W"
+      ],
+      "awayForm": [
+        "L",
+        "L",
+        "L",
+        "L",
+        "L"
+      ],
+      "homeFormHome": [
+        "W",
+        "W",
+        "W",
+        "L",
+        "W"
+      ],
+      "awayFormAway": [
+        "W",
+        "L",
+        "W",
+        "L",
+        "W"
+      ],
+      "formAdvantage": true,
+      "odds": {
+        "home": 1.04,
+        "draw": 18.0,
+        "away": 12.0,
+        "bookmaker": "Pinnacle"
+      },
+      "forebet": null,
+      "sofascore": {
+        "home": 86,
+        "draw": 14,
+        "away": 0,
+        "votes": 14
+      },
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "1",
+        "prob": 91.3,
+        "ev": -0.05,
+        "edge": -4.8,
+        "kelly": 0.0,
+        "confidence": 51.0,
+        "dataQuality": 0.7
+      },
+      "tennis": null
+    },
+    {
+      "id": 8433690714277867386,
+      "homeTeam": "Tønder",
+      "awayTeam": "Skive",
+      "time": "01.03.2026 14:00",
+      "date": "2026-03-01",
+      "league": null,
+      "country": "",
+      "sport": "handball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/pilka-reczna/skive-0pbOLNQA/t-nder-UqOVPpeA/?mid=M9eixu5C",
+      "qualifies": false,
+      "h2h": {
+        "home": 0,
+        "draw": 0,
+        "away": 5,
+        "total": 5,
+        "winRate": 0
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null
+    },
+    {
+      "id": 9022776639167834666,
+      "homeTeam": "Skanderborg K",
+      "awayTeam": "Bjerringbro K",
+      "time": "01.03.2026 13:00",
+      "date": "2026-03-01",
+      "league": null,
+      "country": "",
+      "sport": "handball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/pilka-reczna/bjerringbro-MggHojok/skanderborg-A1I9IhB2/?mid=dt3hFQqA",
+      "qualifies": true,
+      "h2h": {
+        "home": 3,
+        "draw": 0,
+        "away": 0,
+        "total": 5,
+        "winRate": 60
+      },
+      "homeForm": [
+        "W",
+        "L",
+        "W",
+        "L",
+        "L"
+      ],
+      "awayForm": [
+        "L",
+        "L",
+        "L",
+        "L",
+        "L"
+      ],
+      "homeFormHome": [
+        "L",
+        "L",
+        "L",
+        "L",
+        "L"
+      ],
+      "awayFormAway": [
+        "W",
+        "L",
+        "W",
+        "L",
+        "W"
+      ],
+      "formAdvantage": false,
+      "odds": {
+        "home": 1.4,
+        "draw": 9.5,
+        "away": 3.4,
+        "bookmaker": "Pinnacle"
+      },
+      "forebet": {
+        "prediction": "1",
+        "probability": 55.0,
+        "exactScore": "28-26",
+        "overUnder": null,
+        "btts": null
+      },
+      "sofascore": {
+        "home": 87,
+        "draw": 10,
+        "away": 3,
+        "votes": 30
+      },
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "1",
+        "prob": 74.1,
+        "ev": 0.037,
+        "edge": 2.6,
+        "kelly": 9.3,
+        "confidence": 67.0,
+        "dataQuality": 0.8
+      },
+      "tennis": null
+    },
+    {
+      "id": -2502752559727360396,
+      "homeTeam": "Ringkøbing K",
+      "awayTeam": "Esbjerg K",
+      "time": "01.03.2026 15:00",
+      "date": "2026-03-01",
+      "league": null,
+      "country": "",
+      "sport": "handball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/pilka-reczna/esbjerg-zRCPFAxi/ringk-bing-h0jLmE8r/?mid=lvrX7rxp",
+      "qualifies": false,
+      "h2h": {
+        "home": 0,
+        "draw": 0,
+        "away": 5,
+        "total": 5,
+        "winRate": 0
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null
+    },
+    {
+      "id": 790976249390758230,
+      "homeTeam": "Fredericia K",
+      "awayTeam": "Aarhus Handbold K",
+      "time": "01.03.2026 15:00",
+      "date": "2026-03-01",
+      "league": null,
+      "country": "",
+      "sport": "handball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/pilka-reczna/aarhus-handbold-dtb99Ae3/fredericia-KQrTQdX2/?mid=tUEIba9M",
+      "qualifies": false,
+      "h2h": {
+        "home": 0,
+        "draw": 0,
+        "away": 1,
+        "total": 1,
+        "winRate": 0
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null
+    },
+    {
+      "id": -8733911766778688152,
+      "homeTeam": "Dijon",
+      "awayTeam": "PSG",
+      "time": "01.03.2026 14:00",
+      "date": "2026-03-01",
+      "league": null,
+      "country": "",
+      "sport": "handball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/pilka-reczna/dijon-tMERLOF6/paris-MmvaXAoA/?mid=pthWAPQr",
+      "qualifies": false,
+      "h2h": {
+        "home": 0,
+        "draw": 0,
+        "away": 5,
+        "total": 5,
+        "winRate": 0
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null
+    },
+    {
+      "id": -8763806732742260968,
+      "homeTeam": "Nantes",
+      "awayTeam": "Nimes",
+      "time": "01.03.2026 15:00",
+      "date": "2026-03-01",
+      "league": null,
+      "country": "",
+      "sport": "handball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/pilka-reczna/nantes-UilkyNKm/nimes-GfeKU8VS/?mid=h4lSUpIE",
+      "qualifies": true,
+      "h2h": {
+        "home": 5,
+        "draw": 0,
+        "away": 0,
+        "total": 5,
+        "winRate": 100
+      },
+      "homeForm": [
+        "W",
+        "W",
+        "W",
+        "W",
+        "W"
+      ],
+      "awayForm": [
+        "W",
+        "W",
+        "W",
+        "L",
+        "W"
+      ],
+      "homeFormHome": [
+        "W",
+        "W",
+        "D",
+        "W",
+        "L"
+      ],
+      "awayFormAway": [
+        "L",
+        "L",
+        "W",
+        "L",
+        "L"
+      ],
+      "formAdvantage": true,
+      "odds": {
+        "home": 1.09,
+        "draw": 15.0,
+        "away": 9.5,
+        "bookmaker": "Pinnacle"
+      },
+      "forebet": null,
+      "sofascore": {
+        "home": 94,
+        "draw": 2,
+        "away": 4,
+        "votes": 215
+      },
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "1",
+        "prob": 90.9,
+        "ev": -0.01,
+        "edge": -0.9,
+        "kelly": 0.0,
+        "confidence": 56.0,
+        "dataQuality": 0.7
+      },
+      "tennis": null
+    },
+    {
+      "id": 279252849588810484,
+      "homeTeam": "Contazara Zaragoza",
+      "awayTeam": "Balonmano Soria",
+      "time": "01.03.2026 11:30",
+      "date": "2026-03-01",
+      "league": null,
+      "country": "",
+      "sport": "handball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/pilka-reczna/balonmano-soria-EgHHYkg0/contazara-zaragoza-fR9YMXIk/?mid=Ukwtltit",
+      "qualifies": false,
+      "h2h": {
+        "home": 0,
+        "draw": 0,
+        "away": 1,
+        "total": 1,
+        "winRate": 0
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null
+    },
+    {
+      "id": 3294131263380130355,
+      "homeTeam": "San Jose Obrero K",
+      "awayTeam": "BM Granollers K",
+      "time": "01.03.2026 11:25",
+      "date": "2026-03-01",
+      "league": null,
+      "country": "",
+      "sport": "handball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/pilka-reczna/bm-granollers-ninTpPfS/san-jose-obrero-UmzRrRvN/?mid=U93oPoro",
+      "qualifies": false,
+      "h2h": {
+        "home": 0,
+        "draw": 0,
+        "away": 2,
+        "total": 2,
+        "winRate": 0
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null
+    },
+    {
+      "id": 3390917645327635966,
+      "homeTeam": "KRAS/Volendam 2",
+      "awayTeam": "Quintus",
+      "time": "01.03.2026 12:30",
+      "date": "2026-03-01",
+      "league": null,
+      "country": "",
+      "sport": "handball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/pilka-reczna/kras-volendam-pdaQKQkj/quintus-Ya7OyVf1/?mid=SxoIhcAs",
+      "qualifies": true,
+      "h2h": {
+        "home": 4,
+        "draw": 0,
+        "away": 1,
+        "total": 5,
+        "winRate": 80
+      },
+      "homeForm": [
+        "L",
+        "W",
+        "L",
+        "L",
+        "L"
+      ],
+      "awayForm": [
+        "W",
+        "L",
+        "L",
+        "L",
+        "W"
+      ],
+      "homeFormHome": [
+        "W",
+        "L",
+        "W",
+        "D",
+        "L"
+      ],
+      "awayFormAway": [
+        "L",
+        "L",
+        "W",
+        "L",
+        "W"
+      ],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": {
+        "prediction": "1",
+        "probability": 82.0,
+        "exactScore": "31-27",
+        "overUnder": null,
+        "btts": null
+      },
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "1",
+        "prob": 59.2,
+        "ev": -999.0,
+        "edge": 0.0,
+        "kelly": 0.0,
+        "confidence": 45.0,
+        "dataQuality": 0.7
+      },
+      "tennis": null
+    },
+    {
+      "id": 4654025477029424055,
+      "homeTeam": "Osaka Lovvits K",
+      "awayTeam": "HC Nagoya K",
+      "time": "01.03.2026 04:00",
+      "date": "2026-03-01",
+      "league": null,
+      "country": "",
+      "sport": "handball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/pilka-reczna/hc-nagoya-2PWudndg/osaka-lovvits-vDjleivC/?mid=hWbP5LD7",
+      "qualifies": false,
+      "h2h": {
+        "home": 0,
+        "draw": 0,
+        "away": 4,
+        "total": 5,
+        "winRate": 0
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null
+    },
+    {
+      "id": -1625063742387159278,
+      "homeTeam": "SK Hawks",
+      "awayTeam": "Chungnam Athletic",
+      "time": "01.03.2026 07:10",
+      "date": "2026-03-01",
+      "league": null,
+      "country": "",
+      "sport": "handball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/pilka-reczna/chungnam-athletic-AuCdtrO3/sk-hawks-GYlT5yIL/?mid=lpuvBODc",
+      "qualifies": true,
+      "h2h": {
+        "home": 4,
+        "draw": 0,
+        "away": 1,
+        "total": 5,
+        "winRate": 80
+      },
+      "homeForm": [
+        "D",
+        "W",
+        "W",
+        "L",
+        "W"
+      ],
+      "awayForm": [
+        "D",
+        "L",
+        "W",
+        "L",
+        "L"
+      ],
+      "homeFormHome": [
+        "W",
+        "L",
+        "W",
+        "W",
+        "L"
+      ],
+      "awayFormAway": [
+        "D",
+        "L",
+        "L",
+        "W",
+        "L"
+      ],
+      "formAdvantage": true,
+      "odds": {
+        "home": 1.25,
+        "draw": 9.0,
+        "away": 4.8,
+        "bookmaker": "Pinnacle"
+      },
+      "forebet": null,
+      "sofascore": {
+        "home": 93,
+        "draw": 7,
+        "away": 0,
+        "votes": 15
+      },
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "1",
+        "prob": 84.4,
+        "ev": 0.055,
+        "edge": 4.4,
+        "kelly": 21.8,
+        "confidence": 71.0,
+        "dataQuality": 0.7
+      },
+      "tennis": null
+    },
+    {
+      "id": -2492413271612298590,
+      "homeTeam": "Sugar Gliders K",
+      "awayTeam": "Gyeongnam DC K",
+      "time": "01.03.2026 09:00",
+      "date": "2026-03-01",
+      "league": null,
+      "country": "",
+      "sport": "handball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/pilka-reczna/gyeongnam-dc-CAe4xt8M/sugar-gliders-QHyuWwoj/?mid=fg8nYwhJ",
+      "qualifies": true,
+      "h2h": {
+        "home": 5,
+        "draw": 0,
+        "away": 0,
+        "total": 5,
+        "winRate": 100
+      },
+      "homeForm": [
+        "W",
+        "W",
+        "W",
+        "W",
+        "W"
+      ],
+      "awayForm": [
+        "L",
+        "W",
+        "W",
+        "D",
+        "W"
+      ],
+      "homeFormHome": [
+        "W",
+        "W",
+        "W",
+        "W",
+        "W"
+      ],
+      "awayFormAway": [
+        "W",
+        "W",
+        "W",
+        "D",
+        "L"
+      ],
+      "formAdvantage": true,
+      "odds": {
+        "home": 1.14,
+        "draw": 11.0,
+        "away": 6.75,
+        "bookmaker": "Pinnacle"
+      },
+      "forebet": null,
+      "sofascore": {
+        "home": 93,
+        "draw": null,
+        "away": 7,
+        "votes": 15
+      },
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "1",
+        "prob": 89.9,
+        "ev": 0.024,
+        "edge": 2.1,
+        "kelly": 17.4,
+        "confidence": 70.0,
+        "dataQuality": 0.7
+      },
+      "tennis": null
+    },
+    {
+      "id": -695501789917217716,
+      "homeTeam": "Busan K",
+      "awayTeam": "Samcheok City K",
+      "time": "01.03.2026 11:00",
+      "date": "2026-03-01",
+      "league": null,
+      "country": "",
+      "sport": "handball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/pilka-reczna/busan-t67hsO8c/samcheok-city-IJMhtUHK/?mid=zkoZespQ",
+      "qualifies": false,
+      "h2h": {
+        "home": 1,
+        "draw": 0,
+        "away": 4,
+        "total": 5,
+        "winRate": 20
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null
+    },
+    {
+      "id": -4587564354737003311,
+      "homeTeam": "Mersch",
+      "awayTeam": "Leideleng",
+      "time": "01.03.2026 15:00",
+      "date": "2026-03-01",
+      "league": null,
+      "country": "",
+      "sport": "handball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/pilka-reczna/leideleng-2eD7gQVI/mersch-fyUA5s8o/?mid=EXYFZNAm",
+      "qualifies": false,
+      "h2h": {
+        "home": 1,
+        "draw": 0,
+        "away": 1,
+        "total": 2,
+        "winRate": 50
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null
+    },
+    {
+      "id": 5096424378130255536,
+      "homeTeam": "Differdange",
+      "awayTeam": "Standard",
+      "time": "01.03.2026 15:00",
+      "date": "2026-03-01",
+      "league": null,
+      "country": "",
+      "sport": "handball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/pilka-reczna/differdange-2Rb6o9tI/hc-standard-tvZM5Zor/?mid=rkQoFBof",
+      "qualifies": true,
+      "h2h": {
+        "home": 5,
+        "draw": 0,
+        "away": 0,
+        "total": 5,
+        "winRate": 100
+      },
+      "homeForm": [
+        "W",
+        "W",
+        "W",
+        "W",
+        "W"
+      ],
+      "awayForm": [
+        "L",
+        "W",
+        "L",
+        "L",
+        "L"
+      ],
+      "homeFormHome": [
+        "W",
+        "W",
+        "D",
+        "W",
+        "D"
+      ],
+      "awayFormAway": [
+        "W",
+        "W",
+        "W",
+        "L",
+        "L"
+      ],
+      "formAdvantage": true,
+      "odds": null,
+      "forebet": {
+        "prediction": "2",
+        "probability": 73.0,
+        "exactScore": "23-29",
+        "overUnder": null,
+        "btts": null
+      },
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "1",
+        "prob": 55.1,
+        "ev": -999.0,
+        "edge": 0.0,
+        "kelly": 0.0,
+        "confidence": 43.0,
+        "dataQuality": 0.7
+      },
+      "tennis": null
+    },
+    {
+      "id": -5647576192536268206,
+      "homeTeam": "Kumanovo",
+      "awayTeam": "Struga",
+      "time": "01.03.2026 17:00",
+      "date": "2026-03-01",
+      "league": null,
+      "country": "",
+      "sport": "handball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/pilka-reczna/kumanovo-ShlJfrhm/struga-2B8pMN2N/?mid=2w996PTT",
+      "qualifies": false,
+      "h2h": {
+        "home": 2,
+        "draw": 0,
+        "away": 3,
+        "total": 5,
+        "winRate": 40
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null
+    },
+    {
+      "id": -7385111712034616254,
+      "homeTeam": "Grosswallstadt",
+      "awayTeam": "Ferndorf",
+      "time": "01.03.2026 16:00",
+      "date": "2026-03-01",
+      "league": null,
+      "country": "",
+      "sport": "handball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/pilka-reczna/ferndorf-WOWrszdc/groswallstadt-fcnmjYkR/?mid=roP81PmL",
+      "qualifies": false,
+      "h2h": {
+        "home": 2,
+        "draw": 0,
+        "away": 1,
+        "total": 5,
+        "winRate": 40
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null
+    },
+    {
+      "id": -5770917587198010693,
+      "homeTeam": "Hagen",
+      "awayTeam": "Huttenberg",
+      "time": "01.03.2026 16:00",
+      "date": "2026-03-01",
+      "league": null,
+      "country": "",
+      "sport": "handball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/pilka-reczna/hagen-6oLDtEQ9/huttenberg-OxfSM3f1/?mid=SjMfhLA7",
+      "qualifies": false,
+      "h2h": {
+        "home": 2,
+        "draw": 0,
+        "away": 2,
+        "total": 5,
+        "winRate": 40
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null
+    },
+    {
+      "id": -1432034909594315863,
+      "homeTeam": "Krefeld",
+      "awayTeam": "Oppenweiler/Backnang",
+      "time": "01.03.2026 16:00",
+      "date": "2026-03-01",
+      "league": null,
+      "country": "",
+      "sport": "handball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/pilka-reczna/krefeld-v53x3lym/oppenweiler-backnang-SpJntYBR/?mid=ra4sGO2E",
+      "qualifies": false,
+      "h2h": {
+        "home": 0,
+        "draw": 0,
+        "away": 0,
+        "total": 1,
+        "winRate": 0
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null
+    },
+    {
+      "id": 1079517076795169978,
+      "homeTeam": "Bietigheim-Metterzimmern",
+      "awayTeam": "Nordhorn-Lingen",
+      "time": "01.03.2026 17:00",
+      "date": "2026-03-01",
+      "league": null,
+      "country": "",
+      "sport": "handball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/pilka-reczna/bietigheim-metterzimmern-lSJyQfdA/nordhorn-Ykp5dDkE/?mid=KQInfste",
+      "qualifies": false,
+      "h2h": {
+        "home": 2,
+        "draw": 0,
+        "away": 2,
+        "total": 5,
+        "winRate": 40
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null
+    },
+    {
+      "id": -2397855875756618404,
+      "homeTeam": "Oldenburg K",
+      "awayTeam": "Göppingen K",
+      "time": "01.03.2026 13:30",
+      "date": "2026-03-01",
+      "league": null,
+      "country": "",
+      "sport": "handball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/pilka-reczna/goppingen-CAt47xsm/oldenburg-2XfCBbJP/?mid=dnvuD9Ra",
+      "qualifies": false,
+      "h2h": {
+        "home": 2,
+        "draw": 0,
+        "away": 3,
+        "total": 5,
+        "winRate": 40
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null
+    },
+    {
+      "id": 6382678632040344860,
+      "homeTeam": "Bergen",
+      "awayTeam": "Fjellhammer",
+      "time": "01.03.2026 15:00",
+      "date": "2026-03-01",
+      "league": null,
+      "country": "",
+      "sport": "handball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/pilka-reczna/bergen-bJM2ubnI/fjellhammer-zqr59Ejs/?mid=0WKEzo8M",
+      "qualifies": false,
+      "h2h": {
+        "home": 2,
+        "draw": 0,
+        "away": 3,
+        "total": 5,
+        "winRate": 40
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null
+    },
+    {
+      "id": 4911033566321235929,
+      "homeTeam": "Follo",
+      "awayTeam": "Runar",
+      "time": "01.03.2026 17:00",
+      "date": "2026-03-01",
+      "league": null,
+      "country": "",
+      "sport": "handball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/pilka-reczna/follo-hA9kau2n/runar-lx3bcJWb/?mid=WEBpVOVq",
+      "qualifies": false,
+      "h2h": {
+        "home": 1,
+        "draw": 0,
+        "away": 4,
+        "total": 5,
+        "winRate": 20
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null
+    },
+    {
+      "id": -6400451353050997015,
+      "homeTeam": "Kolstad",
+      "awayTeam": "Naerbo",
+      "time": "01.03.2026 17:00",
+      "date": "2026-03-01",
+      "league": null,
+      "country": "",
+      "sport": "handball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/pilka-reczna/kolstad-rTWbl2mC/naerbo-Q7PEec1B/?mid=hUagT20d",
+      "qualifies": true,
+      "h2h": {
+        "home": 4,
+        "draw": 0,
+        "away": 1,
+        "total": 5,
+        "winRate": 80
+      },
+      "homeForm": [
+        "L",
+        "W",
+        "L",
+        "L",
+        "W"
+      ],
+      "awayForm": [
+        "L",
+        "W",
+        "L",
+        "W",
+        "L"
+      ],
+      "homeFormHome": [
+        "L",
+        "L",
+        "W",
+        "D",
+        "W"
+      ],
+      "awayFormAway": [
+        "L",
+        "L",
+        "L",
+        "L",
+        "L"
+      ],
+      "formAdvantage": false,
+      "odds": {
+        "home": 1.1,
+        "draw": 13.0,
+        "away": 8.0,
+        "bookmaker": "Pinnacle"
+      },
+      "forebet": {
+        "prediction": "1",
+        "probability": 64.0,
+        "exactScore": "28-23",
+        "overUnder": null,
+        "btts": null
+      },
+      "sofascore": {
+        "home": 86,
+        "draw": 8,
+        "away": 5,
+        "votes": 37
+      },
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "X",
+        "prob": 8.0,
+        "ev": 0.036,
+        "edge": 0.3,
+        "kelly": 0.3,
+        "confidence": 38.0,
+        "dataQuality": 0.8
+      },
+      "tennis": null
+    },
+    {
+      "id": -2459910965062474545,
+      "homeTeam": "Storhamar K",
+      "awayTeam": "Fredrikstad K",
+      "time": "01.03.2026 15:00",
+      "date": "2026-03-01",
+      "league": null,
+      "country": "",
+      "sport": "handball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/pilka-reczna/fredrikstad-jgLjH6Xp/storhamar-Sbv1mMWK/?mid=l0wUN2kl",
+      "qualifies": true,
+      "h2h": {
+        "home": 5,
+        "draw": 0,
+        "away": 0,
+        "total": 5,
+        "winRate": 100
+      },
+      "homeForm": [
+        "W",
+        "L",
+        "W",
+        "W",
+        "W"
+      ],
+      "awayForm": [
+        "W",
+        "L",
+        "W",
+        "D",
+        "L"
+      ],
+      "homeFormHome": [
+        "L",
+        "W",
+        "L",
+        "W",
+        "W"
+      ],
+      "awayFormAway": [
+        "L",
+        "L",
+        "L",
+        "D",
+        "L"
+      ],
+      "formAdvantage": true,
+      "odds": {
+        "home": 1.05,
+        "draw": 15.0,
+        "away": 11.0,
+        "bookmaker": "Pinnacle"
+      },
+      "forebet": {
+        "prediction": "1",
+        "probability": 56.0,
+        "exactScore": "33-29",
+        "overUnder": null,
+        "btts": null
+      },
+      "sofascore": {
+        "home": 88,
+        "draw": 9,
+        "away": 3,
+        "votes": 32
+      },
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "1",
+        "prob": 87.6,
+        "ev": -0.081,
+        "edge": -7.7,
+        "kelly": 0.0,
+        "confidence": 49.0,
+        "dataQuality": 0.8
+      },
+      "tennis": null
+    },
+    {
+      "id": 1594022950573592274,
+      "homeTeam": "Larvik K",
+      "awayTeam": "Molde K",
+      "time": "01.03.2026 15:15",
+      "date": "2026-03-01",
+      "league": null,
+      "country": "",
+      "sport": "handball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/pilka-reczna/larvik-6VfonGOA/molde-Q1LVq6kT/?mid=rNb3x24s",
+      "qualifies": true,
+      "h2h": {
+        "home": 4,
+        "draw": 0,
+        "away": 1,
+        "total": 5,
+        "winRate": 80
+      },
+      "homeForm": [
+        "W",
+        "L",
+        "L",
+        "W",
+        "W"
+      ],
+      "awayForm": [
+        "W",
+        "W",
+        "L",
+        "D",
+        "L"
+      ],
+      "homeFormHome": [
+        "L",
+        "W",
+        "L",
+        "L",
+        "W"
+      ],
+      "awayFormAway": [
+        "L",
+        "W",
+        "L",
+        "D",
+        "L"
+      ],
+      "formAdvantage": true,
+      "odds": {
+        "home": 1.4,
+        "draw": 8.0,
+        "away": 3.55,
+        "bookmaker": "Pinnacle"
+      },
+      "forebet": {
+        "prediction": "1",
+        "probability": 82.0,
+        "exactScore": "31-27",
+        "overUnder": null,
+        "btts": null
+      },
+      "sofascore": {
+        "home": 79,
+        "draw": 16,
+        "away": 5,
+        "votes": 19
+      },
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "1",
+        "prob": 76.9,
+        "ev": 0.076,
+        "edge": 5.5,
+        "kelly": 19.1,
+        "confidence": 72.0,
+        "dataQuality": 0.8
+      },
+      "tennis": null
+    },
+    {
+      "id": 1545874110110924896,
+      "homeTeam": "Gjerpen K",
+      "awayTeam": "Romerike Ravens K",
+      "time": "01.03.2026 17:00",
+      "date": "2026-03-01",
+      "league": null,
+      "country": "",
+      "sport": "handball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/pilka-reczna/gjerpen-Us9lK9ZB/romerike-ravens-Us8Jx1sK/?mid=WrVpKKlD",
+      "qualifies": true,
+      "h2h": {
+        "home": 4,
+        "draw": 0,
+        "away": 1,
+        "total": 5,
+        "winRate": 80
+      },
+      "homeForm": [
+        "L",
+        "W",
+        "L",
+        "W",
+        "D"
+      ],
+      "awayForm": [
+        "L",
+        "L",
+        "L",
+        "L",
+        "L"
+      ],
+      "homeFormHome": [
+        "W",
+        "W",
+        "L",
+        "L",
+        "L"
+      ],
+      "awayFormAway": [
+        "W",
+        "W",
+        "L",
+        "W",
+        "L"
+      ],
+      "formAdvantage": true,
+      "odds": {
+        "home": 1.09,
+        "draw": 13.0,
+        "away": 9.0,
+        "bookmaker": "Pinnacle"
+      },
+      "forebet": null,
+      "sofascore": {
+        "home": 77,
+        "draw": 14,
+        "away": 9,
+        "votes": 22
+      },
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "X",
+        "prob": 7.7,
+        "ev": 0.001,
+        "edge": 0.0,
+        "kelly": 0.0,
+        "confidence": 34.0,
+        "dataQuality": 0.7
+      },
+      "tennis": null
+    },
+    {
+      "id": 9001443990276593525,
+      "homeTeam": "Haslum K",
+      "awayTeam": "Fjellhammer K",
+      "time": "01.03.2026 17:00",
+      "date": "2026-03-01",
+      "league": null,
+      "country": "",
+      "sport": "handball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/pilka-reczna/fjellhammer-vBBDOXKt/haslum-vTZEuRe9/?mid=zVGAztZg",
+      "qualifies": false,
+      "h2h": {
+        "home": 2,
+        "draw": 0,
+        "away": 3,
+        "total": 5,
+        "winRate": 40
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null
+    },
+    {
+      "id": -7780975040961077455,
+      "homeTeam": "Sola K",
+      "awayTeam": "Follo K",
+      "time": "01.03.2026 17:00",
+      "date": "2026-03-01",
+      "league": null,
+      "country": "",
+      "sport": "handball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/pilka-reczna/follo-QqOXaW4a/sola-p0hXyclm/?mid=OxIWsOtK",
+      "qualifies": true,
+      "h2h": {
+        "home": 4,
+        "draw": 0,
+        "away": 1,
+        "total": 5,
+        "winRate": 80
+      },
+      "homeForm": [
+        "W",
+        "W",
+        "W",
+        "L",
+        "W"
+      ],
+      "awayForm": [
+        "L",
+        "W",
+        "W",
+        "D",
+        "L"
+      ],
+      "homeFormHome": [
+        "W",
+        "W",
+        "L",
+        "W",
+        "W"
+      ],
+      "awayFormAway": [
+        "W",
+        "W",
+        "L",
+        "D",
+        "L"
+      ],
+      "formAdvantage": true,
+      "odds": {
+        "home": 1.09,
+        "draw": 13.0,
+        "away": 9.0,
+        "bookmaker": "Pinnacle"
+      },
+      "forebet": {
+        "prediction": "1",
+        "probability": 55.0,
+        "exactScore": "28-26",
+        "overUnder": null,
+        "btts": null
+      },
+      "sofascore": {
+        "home": 85,
+        "draw": 11,
+        "away": 4,
+        "votes": 27
+      },
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "X",
+        "prob": 8.4,
+        "ev": 0.093,
+        "edge": 0.7,
+        "kelly": 0.8,
+        "confidence": 38.0,
+        "dataQuality": 0.8
+      },
+      "tennis": null
+    },
+    {
+      "id": 1313622514016476731,
+      "homeTeam": "Tertnes K",
+      "awayTeam": "Fana K",
+      "time": "01.03.2026 17:15",
+      "date": "2026-03-01",
+      "league": null,
+      "country": "",
+      "sport": "handball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/pilka-reczna/fana-MmLaA8MO/tertnes-6kw5ntnR/?mid=zHyxMtK0",
+      "qualifies": true,
+      "h2h": {
+        "home": 3,
+        "draw": 0,
+        "away": 0,
+        "total": 5,
+        "winRate": 60
+      },
+      "homeForm": [
+        "L",
+        "W",
+        "W",
+        "L",
+        "W"
+      ],
+      "awayForm": [
+        "L",
+        "L",
+        "L",
+        "W",
+        "W"
+      ],
+      "homeFormHome": [
+        "W",
+        "L",
+        "W",
+        "W",
+        "L"
+      ],
+      "awayFormAway": [
+        "W",
+        "L",
+        "W",
+        "W",
+        "L"
+      ],
+      "formAdvantage": true,
+      "odds": {
+        "home": 1.63,
+        "draw": 7.5,
+        "away": 2.7,
+        "bookmaker": "Pinnacle"
+      },
+      "forebet": {
+        "prediction": "1",
+        "probability": 45.0,
+        "exactScore": "30-27",
+        "overUnder": null,
+        "btts": null
+      },
+      "sofascore": {
+        "home": 71,
+        "draw": 18,
+        "away": 12,
+        "votes": 17
+      },
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "1",
+        "prob": 67.7,
+        "ev": 0.104,
+        "edge": 6.4,
+        "kelly": 16.5,
+        "confidence": 70.0,
+        "dataQuality": 0.8
+      },
+      "tennis": null
+    },
+    {
+      "id": -5817254845890199247,
+      "homeTeam": "Åsane",
+      "awayTeam": "Charlottenlund",
+      "time": "01.03.2026 13:00",
+      "date": "2026-03-01",
+      "league": null,
+      "country": "",
+      "sport": "handball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/pilka-reczna/asane-nqtqWknL/charlottenlund-MqDj9p0m/?mid=rswlzS7N",
+      "qualifies": false,
+      "h2h": {
+        "home": 0,
+        "draw": 0,
+        "away": 3,
+        "total": 3,
+        "winRate": 0
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null
+    },
+    {
+      "id": 1509038700961022326,
+      "homeTeam": "Lillestrøm",
+      "awayTeam": "Bergsoy",
+      "time": "01.03.2026 14:00",
+      "date": "2026-03-01",
+      "league": null,
+      "country": "",
+      "sport": "handball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/pilka-reczna/bergsoy-6amNVMl5/lillestr-m-6yKG2JE1/?mid=CCeCU5Vp",
+      "qualifies": false,
+      "h2h": {
+        "home": 0,
+        "draw": 0,
+        "away": 1,
+        "total": 1,
+        "winRate": 0
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null
+    },
+    {
+      "id": 5314618316546450334,
+      "homeTeam": "Bjornar",
+      "awayTeam": "Tiller",
+      "time": "01.03.2026 15:00",
+      "date": "2026-03-01",
+      "league": null,
+      "country": "",
+      "sport": "handball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/pilka-reczna/bjornar-t62FfkJe/tiller-QF2nDIX0/?mid=vJmbh9Ni",
+      "qualifies": false,
+      "h2h": {
+        "home": 0,
+        "draw": 0,
+        "away": 1,
+        "total": 1,
+        "winRate": 0
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null
+    },
+    {
+      "id": 7437119358514293741,
+      "homeTeam": "Ryger Stavanger",
+      "awayTeam": "Grenland",
+      "time": "01.03.2026 15:00",
+      "date": "2026-03-01",
+      "league": null,
+      "country": "",
+      "sport": "handball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/pilka-reczna/grenland-hCGvSXE3/ryger-stavanger-Q7wOUdut/?mid=0Yy7jmh4",
+      "qualifies": false,
+      "h2h": {
+        "home": 1,
+        "draw": 0,
+        "away": 3,
+        "total": 5,
+        "winRate": 20
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null
+    },
+    {
+      "id": -2421529226902950037,
+      "homeTeam": "Gjovik K",
+      "awayTeam": "Storhamar 2 K",
+      "time": "01.03.2026 15:00",
+      "date": "2026-03-01",
+      "league": null,
+      "country": "",
+      "sport": "handball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/pilka-reczna/gj-vik-vardal-QV9sOBkg/storhamar-dEWlAA1B/?mid=IJ5bkQBd",
+      "qualifies": false,
+      "h2h": {
+        "home": 0,
+        "draw": 0,
+        "away": 1,
+        "total": 1,
+        "winRate": 0
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null
+    },
+    {
+      "id": 986381070980602350,
+      "homeTeam": "Glassverket K",
+      "awayTeam": "Flint K",
+      "time": "01.03.2026 15:00",
+      "date": "2026-03-01",
+      "league": null,
+      "country": "",
+      "sport": "handball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/pilka-reczna/flint-69gTxwZt/glassverket-pOKr7Wk6/?mid=K8eJbUlA",
+      "qualifies": false,
+      "h2h": {
+        "home": 2,
+        "draw": 0,
+        "away": 1,
+        "total": 5,
+        "winRate": 40
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null
+    },
+    {
+      "id": 908956316453847732,
+      "homeTeam": "Pors Handball K",
+      "awayTeam": "Kjelsås K",
+      "time": "01.03.2026 15:00",
+      "date": "2026-03-01",
+      "league": null,
+      "country": "",
+      "sport": "handball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/pilka-reczna/kjelsas-OfdUMiN2/pors-handball-4QPszMuA/?mid=d4Hkinsp",
+      "qualifies": false,
+      "h2h": {
+        "home": 0,
+        "draw": 0,
+        "away": 1,
+        "total": 1,
+        "winRate": 0
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null
+    },
+    {
+      "id": -9010894650252179843,
+      "homeTeam": "Trondheim K",
+      "awayTeam": "Utleira K",
+      "time": "01.03.2026 15:00",
+      "date": "2026-03-01",
+      "league": null,
+      "country": "",
+      "sport": "handball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/pilka-reczna/trondheim-YJP10Fxb/utleira-redNI7JU/?mid=QLQJd8JM",
+      "qualifies": false,
+      "h2h": {
+        "home": 1,
+        "draw": 0,
+        "away": 2,
+        "total": 3,
+        "winRate": 33
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null
+    },
+    {
+      "id": 1583531715976290330,
+      "homeTeam": "Levanger K",
+      "awayTeam": "Stavanger K",
+      "time": "01.03.2026 16:00",
+      "date": "2026-03-01",
+      "league": null,
+      "country": "",
+      "sport": "handball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/pilka-reczna/levanger-ETcNYY2I/stavanger-dSfhbuEa/?mid=pQcpDT33",
+      "qualifies": false,
+      "h2h": {
+        "home": 0,
+        "draw": 0,
+        "away": 1,
+        "total": 1,
+        "winRate": 0
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null
+    },
+    {
+      "id": 4746602778579132075,
+      "homeTeam": "SMS Kwidzyn",
+      "awayTeam": "AZS UKW Bydgoszcz",
+      "time": "01.03.2026 11:00",
+      "date": "2026-03-01",
+      "league": null,
+      "country": "",
+      "sport": "handball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/pilka-reczna/azs-ukw-bydgoszcz-YBHf4aId/sms-kwidzyn-thelXnhO/?mid=Uyr9toa4",
+      "qualifies": true,
+      "h2h": {
+        "home": 4,
+        "draw": 0,
+        "away": 1,
+        "total": 5,
+        "winRate": 80
+      },
+      "homeForm": [
+        "W",
+        "L",
+        "D",
+        "L",
+        "W"
+      ],
+      "awayForm": [
+        "W",
+        "L",
+        "L",
+        "W",
+        "L"
+      ],
+      "homeFormHome": [
+        "L",
+        "L",
+        "W",
+        "W",
+        "W"
+      ],
+      "awayFormAway": [
+        "L",
+        "L",
+        "W",
+        "W",
+        "L"
+      ],
+      "formAdvantage": true,
+      "odds": null,
+      "forebet": null,
+      "sofascore": {
+        "home": 10,
+        "draw": 5,
+        "away": 86,
+        "votes": 21
+      },
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "1",
+        "prob": 51.0,
+        "ev": -999.0,
+        "edge": 0.0,
+        "kelly": 0.0,
+        "confidence": 38.0,
+        "dataQuality": 0.6
+      },
+      "tennis": null
+    },
+    {
+      "id": 8192417772515448506,
+      "homeTeam": "Gwardia Opole II",
+      "awayTeam": "Orzeł Przeworsk",
+      "time": "01.03.2026 13:00",
+      "date": "2026-03-01",
+      "league": null,
+      "country": "",
+      "sport": "handball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/pilka-reczna/gwardia-opole-46G9ssP6/orzel-przeworsk-d26zKE8O/?mid=GbN47YuC",
+      "qualifies": false,
+      "h2h": {
+        "home": 0,
+        "draw": 0,
+        "away": 1,
+        "total": 1,
+        "winRate": 0
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null
+    },
+    {
+      "id": 8902458672889450452,
+      "homeTeam": "Grunwald Poznań II",
+      "awayTeam": "Orlik Brzeg",
+      "time": "01.03.2026 16:30",
+      "date": "2026-03-01",
+      "league": null,
+      "country": "",
+      "sport": "handball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/pilka-reczna/grunwald-poznan-QaTsTsAD/orlik-brzeg-4GrcBNjr/?mid=vmeke9PH",
+      "qualifies": true,
+      "h2h": {
+        "home": 1,
+        "draw": 0,
+        "away": 0,
+        "total": 1,
+        "winRate": 100
+      },
+      "homeForm": [
+        "W",
+        "W",
+        "W",
+        "L",
+        "L"
+      ],
+      "awayForm": [
+        "L",
+        "L",
+        "W",
+        "L",
+        "L"
+      ],
+      "homeFormHome": [
+        "W",
+        "L",
+        "W",
+        "L",
+        "D"
+      ],
+      "awayFormAway": [
+        "L",
+        "L",
+        "L",
+        "L",
+        "W"
+      ],
+      "formAdvantage": true,
+      "odds": null,
+      "forebet": null,
+      "sofascore": {
+        "home": 90,
+        "draw": null,
+        "away": 10,
+        "votes": 10
+      },
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "1",
+        "prob": 75.8,
+        "ev": -999.0,
+        "edge": 0.0,
+        "kelly": 0.0,
+        "confidence": 48.0,
+        "dataQuality": 0.6
+      },
+      "tennis": null
+    },
+    {
+      "id": 2559619497912244820,
+      "homeTeam": "Kąty Wrocławskie",
+      "awayTeam": "Real Astromal Leszno",
+      "time": "01.03.2026 17:00",
+      "date": "2026-03-01",
+      "league": null,
+      "country": "",
+      "sport": "handball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/pilka-reczna/katy-wroclawskie-GrinSFSH/real-astromal-leszno-OYOGo4bE/?mid=xObYbiQh",
+      "qualifies": true,
+      "h2h": {
+        "home": 5,
+        "draw": 0,
+        "away": 0,
+        "total": 5,
+        "winRate": 100
+      },
+      "homeForm": [
+        "W",
+        "W",
+        "W",
+        "W",
+        "W"
+      ],
+      "awayForm": [
+        "L",
+        "L",
+        "L",
+        "L",
+        "L"
+      ],
+      "homeFormHome": [
+        "W",
+        "W",
+        "W",
+        "W",
+        "W"
+      ],
+      "awayFormAway": [
+        "W",
+        "L",
+        "L",
+        "L",
+        "L"
+      ],
+      "formAdvantage": true,
+      "odds": null,
+      "forebet": null,
+      "sofascore": {
+        "home": 100,
+        "draw": null,
+        "away": 0,
+        "votes": 6
+      },
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "1",
+        "prob": 87.4,
+        "ev": -999.0,
+        "edge": 0.0,
+        "kelly": 0.0,
+        "confidence": 53.0,
+        "dataQuality": 0.6
+      },
+      "tennis": null
+    },
+    {
+      "id": -7015650361867978622,
+      "homeTeam": "MKS Grudziądz",
+      "awayTeam": "Wybrzeże Gdańsk II",
+      "time": "01.03.2026 17:00",
+      "date": "2026-03-01",
+      "league": null,
+      "country": "",
+      "sport": "handball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/pilka-reczna/mks-grudziadz-8Q87Edjq/wybrzeze-gdansk-bXojklfL/?mid=IBgPx3bT",
+      "qualifies": true,
+      "h2h": {
+        "home": 3,
+        "draw": 0,
+        "away": 0,
+        "total": 3,
+        "winRate": 100
+      },
+      "homeForm": [
+        "W",
+        "W",
+        "W",
+        "W",
+        "W"
+      ],
+      "awayForm": [
+        "L",
+        "L",
+        "L",
+        "L",
+        "W"
+      ],
+      "homeFormHome": [
+        "W",
+        "W",
+        "W",
+        "W",
+        "W"
+      ],
+      "awayFormAway": [
+        "L",
+        "W",
+        "L",
+        "W",
+        "W"
+      ],
+      "formAdvantage": true,
+      "odds": null,
+      "forebet": null,
+      "sofascore": {
+        "home": 8,
+        "draw": null,
+        "away": 92,
+        "votes": 36
+      },
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "1",
+        "prob": 70.1,
+        "ev": -999.0,
+        "edge": 0.0,
+        "kelly": 0.0,
+        "confidence": 46.0,
+        "dataQuality": 0.6
+      },
+      "tennis": null
+    },
+    {
+      "id": 2245696133007981424,
+      "homeTeam": "Szczypiorniak Olsztyn",
+      "awayTeam": "Sambor Tczew",
+      "time": "01.03.2026 17:00",
+      "date": "2026-03-01",
+      "league": null,
+      "country": "",
+      "sport": "handball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/pilka-reczna/sambor-tczew-fL4RBRma/szczypiorniak-olsztyn-jezV80N8/?mid=x2oHvPTG",
+      "qualifies": false,
+      "h2h": {
+        "home": 1,
+        "draw": 0,
+        "away": 4,
+        "total": 5,
+        "winRate": 20
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null
+    },
+    {
+      "id": 1237132619592911741,
+      "homeTeam": "Kobierzyce K",
+      "awayTeam": "Zagłębie Lubin K",
+      "time": "01.03.2026 15:00",
+      "date": "2026-03-01",
+      "league": null,
+      "country": "",
+      "sport": "handball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/pilka-reczna/kpr-gminy-kobierzyce-6TxXliv8/zaglebie-lubin-6waatW76/?mid=C2B8IrXF",
+      "qualifies": false,
+      "h2h": {
+        "home": 0,
+        "draw": 0,
+        "away": 5,
+        "total": 5,
+        "winRate": 0
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null
+    },
+    {
+      "id": -1182542648709314852,
+      "homeTeam": "PR Koszalin K",
+      "awayTeam": "MKS Gniezno K",
+      "time": "01.03.2026 15:00",
+      "date": "2026-03-01",
+      "league": null,
+      "country": "",
+      "sport": "handball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/pilka-reczna/mks-pr-urbis-gniezno-AezSChV6/poli-koszalin-Eo5kaXxs/?mid=vNEH0xXQ",
+      "qualifies": true,
+      "h2h": {
+        "home": 3,
+        "draw": 0,
+        "away": 2,
+        "total": 5,
+        "winRate": 60
+      },
+      "homeForm": [
+        "L",
+        "W",
+        "W",
+        "L",
+        "W"
+      ],
+      "awayForm": [
+        "L",
+        "L",
+        "W",
+        "W",
+        "W"
+      ],
+      "homeFormHome": [
+        "L",
+        "W",
+        "W",
+        "L",
+        "W"
+      ],
+      "awayFormAway": [
+        "W",
+        "W",
+        "W",
+        "L",
+        "W"
+      ],
+      "formAdvantage": false,
+      "odds": {
+        "home": 2.75,
+        "draw": 8.0,
+        "away": 1.63,
+        "bookmaker": "Pinnacle"
+      },
+      "forebet": {
+        "prediction": "1",
+        "probability": 64.0,
+        "exactScore": "28-23",
+        "overUnder": null,
+        "btts": null
+      },
+      "sofascore": {
+        "home": 20,
+        "draw": 10,
+        "away": 70,
+        "votes": 20
+      },
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "1",
+        "prob": 48.3,
+        "ev": 0.328,
+        "edge": 11.9,
+        "kelly": 18.8,
+        "confidence": 69.0,
+        "dataQuality": 0.8
+      },
+      "tennis": null
+    },
+    {
+      "id": 3933058318953504350,
+      "homeTeam": "Kielce K",
+      "awayTeam": "Pietrowice Wielkie K",
+      "time": "01.03.2026 18:00",
+      "date": "2026-03-01",
+      "league": null,
+      "country": "",
+      "sport": "handball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/pilka-reczna/korona-kielce-QZJIf9iC/pietrowice-wielkie-27cDcj5i/?mid=M3zFTQon",
+      "qualifies": true,
+      "h2h": {
+        "home": 1,
+        "draw": 0,
+        "away": 0,
+        "total": 1,
+        "winRate": 100
+      },
+      "homeForm": [
+        "W",
+        "L",
+        "W",
+        "W",
+        "W"
+      ],
+      "awayForm": [
+        "W",
+        "W",
+        "L",
+        "L",
+        "W"
+      ],
+      "homeFormHome": [
+        "W",
+        "L",
+        "W",
+        "W",
+        "W"
+      ],
+      "awayFormAway": [
+        "L",
+        "L",
+        "L",
+        "W",
+        "W"
+      ],
+      "formAdvantage": true,
+      "odds": null,
+      "forebet": null,
+      "sofascore": {
+        "home": 100,
+        "draw": null,
+        "away": 0,
+        "votes": 13
+      },
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "1",
+        "prob": 74.4,
+        "ev": -999.0,
+        "edge": 0.0,
+        "kelly": 0.0,
+        "confidence": 48.0,
+        "dataQuality": 0.6
+      },
+      "tennis": null
+    },
+    {
+      "id": -7525268606983797721,
+      "homeTeam": "Grunwald Ruda Slaska K",
+      "awayTeam": "Jelenia Góra K",
+      "time": "01.03.2026 10:00",
+      "date": "2026-03-01",
+      "league": null,
+      "country": "",
+      "sport": "handball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/pilka-reczna/grunwald-ruda-slaska-0dEfhti9/jelenia-gora-hMLAdVMa/?mid=lb4B1zOF",
+      "qualifies": true,
+      "h2h": {
+        "home": 1,
+        "draw": 0,
+        "away": 0,
+        "total": 1,
+        "winRate": 100
+      },
+      "homeForm": [
+        "L",
+        "W",
+        "W",
+        "W",
+        "L"
+      ],
+      "awayForm": [
+        "W",
+        "L",
+        "W",
+        "W",
+        "W"
+      ],
+      "homeFormHome": [
+        "W",
+        "W",
+        "L",
+        "W",
+        "W"
+      ],
+      "awayFormAway": [
+        "W",
+        "L",
+        "L",
+        "L",
+        "L"
+      ],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": {
+        "home": 90,
+        "draw": null,
+        "away": 10,
+        "votes": 10
+      },
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "1",
+        "prob": 70.2,
+        "ev": -999.0,
+        "edge": 0.0,
+        "kelly": 0.0,
+        "confidence": 46.0,
+        "dataQuality": 0.6
+      },
+      "tennis": null
+    },
+    {
+      "id": -1871539437685837138,
+      "homeTeam": "Kepno K",
+      "awayTeam": "AZS Uniw. Zielonogórskiego K",
+      "time": "01.03.2026 14:00",
+      "date": "2026-03-01",
+      "league": null,
+      "country": "",
+      "sport": "handball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/pilka-reczna/azs-uniw-zielonogorskiego-2qoyF4Qs/kepno-C2BLgsub/?mid=vTrjfhGk",
+      "qualifies": false,
+      "h2h": {
+        "home": 0,
+        "draw": 0,
+        "away": 1,
+        "total": 1,
+        "winRate": 0
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null
+    },
+    {
+      "id": -6689231170317790238,
+      "homeTeam": "San Jarosław K",
+      "awayTeam": "AZS AWF Warszawa K",
+      "time": "01.03.2026 14:30",
+      "date": "2026-03-01",
+      "league": null,
+      "country": "",
+      "sport": "handball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/pilka-reczna/san-jaroslaw-2Nb3XOig/warszawa-Cze9fRc5/?mid=jDXNB3vf",
+      "qualifies": true,
+      "h2h": {
+        "home": 4,
+        "draw": 0,
+        "away": 1,
+        "total": 5,
+        "winRate": 80
+      },
+      "homeForm": [
+        "W",
+        "L",
+        "W",
+        "L",
+        "W"
+      ],
+      "awayForm": [
+        "L",
+        "L",
+        "L",
+        "W",
+        "W"
+      ],
+      "homeFormHome": [
+        "W",
+        "W",
+        "W",
+        "W",
+        "L"
+      ],
+      "awayFormAway": [
+        "L",
+        "W",
+        "L",
+        "W",
+        "L"
+      ],
+      "formAdvantage": true,
+      "odds": null,
+      "forebet": null,
+      "sofascore": {
+        "home": 5,
+        "draw": null,
+        "away": 95,
+        "votes": 19
+      },
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "1",
+        "prob": 56.2,
+        "ev": -999.0,
+        "edge": 0.0,
+        "kelly": 0.0,
+        "confidence": 40.0,
+        "dataQuality": 0.6
+      },
+      "tennis": null
+    },
+    {
+      "id": 3134804028806986318,
+      "homeTeam": "Agrykola Warszawa K",
+      "awayTeam": "SPR Handball Rzeszów K",
+      "time": "01.03.2026 15:00",
+      "date": "2026-03-01",
+      "league": null,
+      "country": "",
+      "sport": "handball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/pilka-reczna/agrykola-warszawa-6HidAFhd/rzeszow-xxkuRnzk/?mid=pGUFDP9s",
+      "qualifies": true,
+      "h2h": {
+        "home": 1,
+        "draw": 0,
+        "away": 0,
+        "total": 1,
+        "winRate": 100
+      },
+      "homeForm": [
+        "L",
+        "L",
+        "W",
+        "W",
+        "W"
+      ],
+      "awayForm": [
+        "L",
+        "L",
+        "L",
+        "W",
+        "D"
+      ],
+      "homeFormHome": [
+        "L",
+        "W",
+        "W",
+        "W",
+        "W"
+      ],
+      "awayFormAway": [
+        "W",
+        "L",
+        "W",
+        "L",
+        "W"
+      ],
+      "formAdvantage": true,
+      "odds": null,
+      "forebet": {
+        "prediction": "1",
+        "probability": 45.0,
+        "exactScore": "30-27",
+        "overUnder": null,
+        "btts": null
+      },
+      "sofascore": {
+        "home": 100,
+        "draw": null,
+        "away": 0,
+        "votes": 6
+      },
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "1",
+        "prob": 69.8,
+        "ev": -999.0,
+        "edge": 0.0,
+        "kelly": 0.0,
+        "confidence": 49.0,
+        "dataQuality": 0.7
+      },
+      "tennis": null
+    },
+    {
+      "id": -7502457876504077251,
+      "homeTeam": "Radom II K",
+      "awayTeam": "Marcovia K",
+      "time": "01.03.2026 15:00",
+      "date": "2026-03-01",
+      "league": null,
+      "country": "",
+      "sport": "handball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/pilka-reczna/apr-radom-IXIL1Vvq/marcovia-pKCYNJP6/?mid=QVmqJonK",
+      "qualifies": false,
+      "h2h": {
+        "home": 1,
+        "draw": 0,
+        "away": 2,
+        "total": 3,
+        "winRate": 33
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null
+    },
+    {
+      "id": -8022330014151278788,
+      "homeTeam": "Sporting",
+      "awayTeam": "Vitoria SC",
+      "time": "01.03.2026 15:00",
+      "date": "2026-03-01",
+      "league": null,
+      "country": "",
+      "sport": "handball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/pilka-reczna/sporting-lisboa-002GWQdq/vitoria-sc-QyZw5wB6/?mid=bulcoNyQ",
+      "qualifies": true,
+      "h2h": {
+        "home": 5,
+        "draw": 0,
+        "away": 0,
+        "total": 5,
+        "winRate": 100
+      },
+      "homeForm": [
+        "W",
+        "W",
+        "L",
+        "W",
+        "W"
+      ],
+      "awayForm": [
+        "L",
+        "W",
+        "L",
+        "L",
+        "W"
+      ],
+      "homeFormHome": [
+        "W",
+        "W",
+        "W",
+        "W",
+        "W"
+      ],
+      "awayFormAway": [
+        "W",
+        "L",
+        "L",
+        "W",
+        "W"
+      ],
+      "formAdvantage": true,
+      "odds": null,
+      "forebet": {
+        "prediction": "2",
+        "probability": 73.0,
+        "exactScore": "23-29",
+        "overUnder": null,
+        "btts": null
+      },
+      "sofascore": {
+        "home": 96,
+        "draw": 3,
+        "away": 2,
+        "votes": 115
+      },
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "1",
+        "prob": 69.7,
+        "ev": -999.0,
+        "edge": 0.0,
+        "kelly": 0.0,
+        "confidence": 49.0,
+        "dataQuality": 0.7
+      },
+      "tennis": null
+    },
+    {
+      "id": -1894467943144937696,
+      "homeTeam": "Omsk",
+      "awayTeam": "Dynamo Sungul",
+      "time": "01.03.2026 11:00",
+      "date": "2026-03-01",
+      "league": null,
+      "country": "",
+      "sport": "handball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/pilka-reczna/dynamo-sungul-xzEPf1X0/omsk-MiZYOsC6/?mid=pzaekcsB",
+      "qualifies": false,
+      "h2h": {
+        "home": 1,
+        "draw": 0,
+        "away": 4,
+        "total": 5,
+        "winRate": 20
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null
+    },
+    {
+      "id": -1294540806871936015,
+      "homeTeam": "Kaustik",
+      "awayTeam": "Dinamo Astrakhan",
+      "time": "01.03.2026 13:00",
+      "date": "2026-03-01",
+      "league": null,
+      "country": "",
+      "sport": "handball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/pilka-reczna/dinamo-astrakhan-SYCFpbps/kaustik-Gxd9cZD5/?mid=4xFdmyCN",
+      "qualifies": false,
+      "h2h": {
+        "home": 0,
+        "draw": 0,
+        "away": 5,
+        "total": 5,
+        "winRate": 0
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null
+    },
+    {
+      "id": -993908781337552538,
+      "homeTeam": "Krasnodar",
+      "awayTeam": "Perm",
+      "time": "01.03.2026 15:30",
+      "date": "2026-03-01",
+      "league": null,
+      "country": "",
+      "sport": "handball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/pilka-reczna/krasnodar-v9GJqIam/medvedi-perm-Kb3UgLn7/?mid=zL5SsFZp",
+      "qualifies": false,
+      "h2h": {
+        "home": 0,
+        "draw": 0,
+        "away": 4,
+        "total": 5,
+        "winRate": 0
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null
+    },
+    {
+      "id": 7066547836916273551,
+      "homeTeam": "Minaur Baia Mare",
+      "awayTeam": "Timisoara",
+      "time": "01.03.2026 15:30",
+      "date": "2026-03-01",
+      "league": null,
+      "country": "",
+      "sport": "handball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/pilka-reczna/minaur-baia-mare-neLFMoF7/timisoara-zgPNwREf/?mid=WKAC2b0T",
+      "qualifies": false,
+      "h2h": {
+        "home": 1,
+        "draw": 0,
+        "away": 2,
+        "total": 5,
+        "winRate": 20
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null
+    },
+    {
+      "id": 2185171498843488617,
+      "homeTeam": "Koper K",
+      "awayTeam": "RK Ljubljana K",
+      "time": "01.03.2026 17:00",
+      "date": "2026-03-01",
+      "league": null,
+      "country": "",
+      "sport": "handball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/pilka-reczna/koper-bNDefWr2/rk-ljubljana-6uwZjxB0/?mid=WK5mrTYg",
+      "qualifies": false,
+      "h2h": {
+        "home": 2,
+        "draw": 0,
+        "away": 2,
+        "total": 5,
+        "winRate": 40
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null
+    },
+    {
+      "id": 2698841017081791242,
+      "homeTeam": "Millennium K",
+      "awayTeam": "ZRD Litija K",
+      "time": "01.03.2026 16:00",
+      "date": "2026-03-01",
+      "league": null,
+      "country": "",
+      "sport": "handball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/pilka-reczna/millennium-YJmTUO6b/zrd-litija-A97dTfcl/?mid=tpvvq3Kt",
+      "qualifies": false,
+      "h2h": {
+        "home": 0,
+        "draw": 0,
+        "away": 1,
+        "total": 1,
+        "winRate": 0
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null
+    },
+    {
+      "id": -5015005509930688210,
+      "homeTeam": "Winterthur K",
+      "awayTeam": "Herzogenbuchsee K",
+      "time": "01.03.2026 15:00",
+      "date": "2026-03-01",
+      "league": null,
+      "country": "",
+      "sport": "handball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/pilka-reczna/hv-herzogenbuchsee-zqCGWp8U/yellow-winterthur-Mmpqa14o/?mid=CIwyhqpL",
+      "qualifies": true,
+      "h2h": {
+        "home": 5,
+        "draw": 0,
+        "away": 0,
+        "total": 5,
+        "winRate": 100
+      },
+      "homeForm": [
+        "L",
+        "W",
+        "L",
+        "D",
+        "W"
+      ],
+      "awayForm": [
+        "L",
+        "L",
+        "L",
+        "W",
+        "L"
+      ],
+      "homeFormHome": [
+        "W",
+        "D",
+        "W",
+        "L",
+        "W"
+      ],
+      "awayFormAway": [
+        "L",
+        "L",
+        "W",
+        "L",
+        "L"
+      ],
+      "formAdvantage": true,
+      "odds": null,
+      "forebet": null,
+      "sofascore": {
+        "home": 100,
+        "draw": null,
+        "away": 0,
+        "votes": 10
+      },
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "1",
+        "prob": 80.5,
+        "ev": -999.0,
+        "edge": 0.0,
+        "kelly": 0.0,
+        "confidence": 50.0,
+        "dataQuality": 0.6
+      },
+      "tennis": null
+    },
+    {
+      "id": -4140399790094205981,
+      "homeTeam": "Amicitia Zurich K",
+      "awayTeam": "Bruhl K",
+      "time": "01.03.2026 16:00",
+      "date": "2026-03-01",
+      "league": null,
+      "country": "",
+      "sport": "handball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/pilka-reczna/amicitia-zurich-M7WyYA9N/bruhl-Sr2tieOc/?mid=AV0qngd2",
+      "qualifies": true,
+      "h2h": {
+        "home": 3,
+        "draw": 0,
+        "away": 2,
+        "total": 5,
+        "winRate": 60
+      },
+      "homeForm": [
+        "W",
+        "W",
+        "W",
+        "W",
+        "W"
+      ],
+      "awayForm": [
+        "W",
+        "L",
+        "W",
+        "W",
+        "W"
+      ],
+      "homeFormHome": [
+        "W",
+        "W",
+        "W",
+        "W",
+        "L"
+      ],
+      "awayFormAway": [
+        "L",
+        "W",
+        "L",
+        "W",
+        "W"
+      ],
+      "formAdvantage": true,
+      "odds": null,
+      "forebet": null,
+      "sofascore": {
+        "home": 100,
+        "draw": null,
+        "away": 0,
+        "votes": 12
+      },
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "1",
+        "prob": 65.0,
+        "ev": -999.0,
+        "edge": 0.0,
+        "kelly": 0.0,
+        "confidence": 44.0,
+        "dataQuality": 0.6
+      },
+      "tennis": null
+    },
+    {
+      "id": -5937452483403731228,
+      "homeTeam": "Nottwil K",
+      "awayTeam": "Zug K",
+      "time": "01.03.2026 17:00",
+      "date": "2026-03-01",
+      "league": null,
+      "country": "",
+      "sport": "handball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/pilka-reczna/spono-eagles-hvBeZCP4/zug-AFLjzgAb/?mid=4hzTg5F8",
+      "qualifies": true,
+      "h2h": {
+        "home": 3,
+        "draw": 0,
+        "away": 2,
+        "total": 5,
+        "winRate": 60
+      },
+      "homeForm": [
+        "W",
+        "L",
+        "W",
+        "L",
+        "W"
+      ],
+      "awayForm": [
+        "L",
+        "L",
+        "L",
+        "L",
+        "L"
+      ],
+      "homeFormHome": [
+        "W",
+        "W",
+        "L",
+        "L",
+        "L"
+      ],
+      "awayFormAway": [
+        "W",
+        "L",
+        "W",
+        "L",
+        "W"
+      ],
+      "formAdvantage": true,
+      "odds": null,
+      "forebet": null,
+      "sofascore": {
+        "home": 60,
+        "draw": null,
+        "away": 40,
+        "votes": 10
+      },
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "1",
+        "prob": 57.0,
+        "ev": -999.0,
+        "edge": 0.0,
+        "kelly": 0.0,
+        "confidence": 41.0,
+        "dataQuality": 0.6
+      },
+      "tennis": null
+    },
+    {
+      "id": -3817798624303427397,
+      "homeTeam": "Aargau Ost K",
+      "awayTeam": "SPONO II II K",
+      "time": "01.03.2026 14:30",
+      "date": "2026-03-01",
+      "league": null,
+      "country": "",
+      "sport": "handball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/pilka-reczna/aargau-ost-lAKC89Gg/spono-eagles-h2AWSQE0/?mid=rctgi6f3",
+      "qualifies": false,
+      "h2h": {
+        "home": 0,
+        "draw": 0,
+        "away": 1,
+        "total": 1,
+        "winRate": 0
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null
+    },
+    {
+      "id": -7785485601208277673,
+      "homeTeam": "Tumba",
+      "awayTeam": "IFK Ystads",
+      "time": "01.03.2026 15:15",
+      "date": "2026-03-01",
+      "league": null,
+      "country": "",
+      "sport": "handball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/pilka-reczna/ifk-ystads-jTcYgqCG/tumba-CItMPCON/?mid=xtYmSRfJ",
+      "qualifies": false,
+      "h2h": {
+        "home": 1,
+        "draw": 0,
+        "away": 3,
+        "total": 5,
+        "winRate": 20
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null
+    },
+    {
+      "id": 2932857433593303583,
+      "homeTeam": "Lund",
+      "awayTeam": "Varberg",
+      "time": "01.03.2026 15:30",
+      "date": "2026-03-01",
+      "league": null,
+      "country": "",
+      "sport": "handball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/pilka-reczna/h-43-lund-CMU8nAvK/varberg-GO3vlkPu/?mid=4nQZkVnQ",
+      "qualifies": false,
+      "h2h": {
+        "home": 2,
+        "draw": 0,
+        "away": 2,
+        "total": 4,
+        "winRate": 50
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null
+    },
+    {
+      "id": -8321943441584922214,
+      "homeTeam": "Rize Genclik",
+      "awayTeam": "Mihaliccik",
+      "time": "01.03.2026 11:00",
+      "date": "2026-03-01",
+      "league": null,
+      "country": "",
+      "sport": "handball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/pilka-reczna/mihaliccik-bld-sk-0I5ux0dt/rize-genclik-MiezYFHj/?mid=4WwIMHyp",
+      "qualifies": false,
+      "h2h": {
+        "home": 1,
+        "draw": 0,
+        "away": 1,
+        "total": 3,
+        "winRate": 33
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null
+    },
+    {
+      "id": -1515032636615708149,
+      "homeTeam": "Nilufer Bld.",
+      "awayTeam": "Koycegiz Belediye",
+      "time": "01.03.2026 14:00",
+      "date": "2026-03-01",
+      "league": null,
+      "country": "",
+      "sport": "handball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/pilka-reczna/koycegiz-belediye-ATgrYUnq/nilufer-bld-bwbm04UP/?mid=6VhLvHcS",
+      "qualifies": true,
+      "h2h": {
+        "home": 4,
+        "draw": 0,
+        "away": 1,
+        "total": 5,
+        "winRate": 80
+      },
+      "homeForm": [
+        "W",
+        "W",
+        "L",
+        "W",
+        "W"
+      ],
+      "awayForm": [
+        "L",
+        "W",
+        "L",
+        "L",
+        "L"
+      ],
+      "homeFormHome": [
+        "W",
+        "W",
+        "W",
+        "W",
+        "W"
+      ],
+      "awayFormAway": [
+        "W",
+        "W",
+        "W",
+        "L",
+        "W"
+      ],
+      "formAdvantage": true,
+      "odds": null,
+      "forebet": null,
+      "sofascore": {
+        "home": 95,
+        "draw": null,
+        "away": 5,
+        "votes": 21
+      },
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "1",
+        "prob": 75.7,
+        "ev": -999.0,
+        "edge": 0.0,
+        "kelly": 0.0,
+        "confidence": 48.0,
+        "dataQuality": 0.6
+      },
+      "tennis": null
+    },
+    {
+      "id": 8355986966332359527,
+      "homeTeam": "Beykoz Bld.",
+      "awayTeam": "Trabzon",
+      "time": "01.03.2026 16:30",
+      "date": "2026-03-01",
+      "league": null,
+      "country": "",
+      "sport": "handball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/pilka-reczna/beykoz-bld-27E3wxfT/trabzon-xIitU5Cl/?mid=0bXQKe6d",
+      "qualifies": true,
+      "h2h": {
+        "home": 4,
+        "draw": 0,
+        "away": 1,
+        "total": 5,
+        "winRate": 80
+      },
+      "homeForm": [
+        "L",
+        "W",
+        "L",
+        "W",
+        "L"
+      ],
+      "awayForm": [
+        "W",
+        "L",
+        "L",
+        "L",
+        "W"
+      ],
+      "homeFormHome": [
+        "L",
+        "L",
+        "W",
+        "L",
+        "L"
+      ],
+      "awayFormAway": [
+        "L",
+        "L",
+        "W",
+        "L",
+        "L"
+      ],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": {
+        "home": 73,
+        "draw": null,
+        "away": 27,
+        "votes": 15
+      },
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "1",
+        "prob": 62.1,
+        "ev": -999.0,
+        "edge": 0.0,
+        "kelly": 0.0,
+        "confidence": 43.0,
+        "dataQuality": 0.6
+      },
+      "tennis": null
+    },
+    {
+      "id": 8156447290559644227,
+      "homeTeam": "Szeged",
+      "awayTeam": "Tatabanya",
+      "time": "01.03.2026 17:00",
+      "date": "2026-03-01",
+      "league": null,
+      "country": "",
+      "sport": "handball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/pilka-reczna/szeged-pnic3fIb/tatabanya-vHMUlKir/?mid=bNfmd1Ia",
+      "qualifies": true,
+      "h2h": {
+        "home": 4,
+        "draw": 0,
+        "away": 1,
+        "total": 5,
+        "winRate": 80
+      },
+      "homeForm": [
+        "L",
+        "W",
+        "L",
+        "W",
+        "W"
+      ],
+      "awayForm": [
+        "W",
+        "W",
+        "W",
+        "L",
+        "W"
+      ],
+      "homeFormHome": [
+        "L",
+        "W",
+        "W",
+        "W",
+        "W"
+      ],
+      "awayFormAway": [
+        "L",
+        "W",
+        "L",
+        "W",
+        "W"
+      ],
+      "formAdvantage": false,
+      "odds": {
+        "home": 1.14,
+        "draw": 12.0,
+        "away": 6.75,
+        "bookmaker": "Pinnacle"
+      },
+      "forebet": null,
+      "sofascore": {
+        "home": 85,
+        "draw": 5,
+        "away": 9,
+        "votes": 75
+      },
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "X",
+        "prob": 8.9,
+        "ev": 0.074,
+        "edge": 0.6,
+        "kelly": 0.7,
+        "confidence": 35.0,
+        "dataQuality": 0.7
+      },
+      "tennis": null
+    },
+    {
+      "id": 7827031025389429723,
+      "homeTeam": "Jomi Salerno K",
+      "awayTeam": "Erice K",
+      "time": "01.03.2026 15:00",
+      "date": "2026-03-01",
+      "league": null,
+      "country": "",
+      "sport": "handball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/pilka-reczna/erice-CxkJrYI8/jomi-salerno-6ozCVfZh/?mid=rukxfXxK",
+      "qualifies": false,
+      "h2h": {
+        "home": 1,
+        "draw": 0,
+        "away": 3,
+        "total": 5,
+        "winRate": 20
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null
+    }
+  ]
+}
