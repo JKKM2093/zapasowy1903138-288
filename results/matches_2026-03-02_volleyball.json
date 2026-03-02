@@ -1,0 +1,946 @@
+{
+  "date": "2026-03-02",
+  "sport": "volleyball",
+  "generatedAt": "2026-03-02T02:57:10.693630",
+  "stats": {
+    "total": 17,
+    "qualifying": 10,
+    "formAdvantage": 7
+  },
+  "matches": [
+    {
+      "id": 4123604632210361087,
+      "homeTeam": "ChKS Chełm",
+      "awayTeam": "Ślepsk Malow Suwałki",
+      "time": "02.03.2026 16:30",
+      "date": "2026-03-02",
+      "league": null,
+      "country": "",
+      "sport": "volleyball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/siatkowka/chks-chelm-Um4hyFKf/slepsk-malow-suwalki-2kggPBWE/?mid=hhxJLJqA",
+      "qualifies": false,
+      "h2h": {
+        "home": 0,
+        "draw": 0,
+        "away": 1,
+        "total": 1,
+        "winRate": 0
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null
+    },
+    {
+      "id": 568708375442726168,
+      "homeTeam": "Bell K",
+      "awayTeam": "Boca Juniors K",
+      "time": "02.03.2026 00:00",
+      "date": "2026-03-02",
+      "league": null,
+      "country": "",
+      "sport": "volleyball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/siatkowka/biblioteca-bell-2spYECU1/boca-juniors-fZOSeG6i/?mid=4CjrXqf8",
+      "qualifies": false,
+      "h2h": {
+        "home": 0,
+        "draw": 0,
+        "away": 1,
+        "total": 1,
+        "winRate": 0
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null
+    },
+    {
+      "id": -6355634370159700117,
+      "homeTeam": "Estud. de La Plata K",
+      "awayTeam": "Gimnasia Esgrima K",
+      "time": "02.03.2026 00:00",
+      "date": "2026-03-02",
+      "league": null,
+      "country": "",
+      "sport": "volleyball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/siatkowka/estudiantes-M3mp19UH/gimnasia-esgrima-lQ7Z6ovO/?mid=ABIFEyvs",
+      "qualifies": false,
+      "h2h": {
+        "home": 1,
+        "draw": 0,
+        "away": 4,
+        "total": 5,
+        "winRate": 20
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null
+    },
+    {
+      "id": 7334189023501515997,
+      "homeTeam": "San Isidro Formosa K",
+      "awayTeam": "Sonder Rosario K",
+      "time": "02.03.2026 00:00",
+      "date": "2026-03-02",
+      "league": null,
+      "country": "",
+      "sport": "volleyball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/siatkowka/san-isidro-formosa-6e3EJLWl/sonder-rosario-f9rgAtSJ/?mid=rPGNCF8g",
+      "qualifies": true,
+      "h2h": {
+        "home": 1,
+        "draw": 0,
+        "away": 0,
+        "total": 1,
+        "winRate": 100
+      },
+      "homeForm": [
+        "W",
+        "W",
+        "W",
+        "W",
+        "L"
+      ],
+      "awayForm": [
+        "L",
+        "W",
+        "W",
+        "W",
+        "W"
+      ],
+      "homeFormHome": [
+        "W",
+        "W",
+        "W",
+        "W",
+        "W"
+      ],
+      "awayFormAway": [
+        "L",
+        "W",
+        "L",
+        "L",
+        "L"
+      ],
+      "formAdvantage": false,
+      "odds": {
+        "home": 3.2,
+        "draw": null,
+        "away": 1.28,
+        "bookmaker": "Pinnacle"
+      },
+      "forebet": {
+        "prediction": "1",
+        "probability": 54.0,
+        "exactScore": "3-1",
+        "overUnder": null,
+        "btts": null
+      },
+      "sofascore": {
+        "home": 21,
+        "draw": null,
+        "away": 79,
+        "votes": 63
+      },
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "1",
+        "prob": 53.5,
+        "ev": 0.713,
+        "edge": 22.3,
+        "kelly": 32.4,
+        "confidence": 75.0,
+        "dataQuality": 0.8
+      },
+      "tennis": null
+    },
+    {
+      "id": -5142217666850304000,
+      "homeTeam": "Sao Jose dos Campos",
+      "awayTeam": "Guarulhos",
+      "time": "02.03.2026 21:30",
+      "date": "2026-03-02",
+      "league": null,
+      "country": "",
+      "sport": "volleyball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/siatkowka/guarulhos-0pxnGFZT/sao-jose-dos-campos-xfxfdEus/?mid=2wzEUku0",
+      "qualifies": true,
+      "h2h": {
+        "home": 3,
+        "draw": 0,
+        "away": 2,
+        "total": 5,
+        "winRate": 60
+      },
+      "homeForm": [
+        "L",
+        "W",
+        "L",
+        "W",
+        "L"
+      ],
+      "awayForm": [
+        "L",
+        "W",
+        "W",
+        "W",
+        "L"
+      ],
+      "homeFormHome": [
+        "W",
+        "W",
+        "L",
+        "W",
+        "L"
+      ],
+      "awayFormAway": [
+        "L",
+        "L",
+        "W",
+        "L",
+        "L"
+      ],
+      "formAdvantage": false,
+      "odds": {
+        "home": 1.78,
+        "draw": null,
+        "away": 1.88,
+        "bookmaker": "Pinnacle"
+      },
+      "forebet": null,
+      "sofascore": {
+        "home": 50,
+        "draw": null,
+        "away": 50,
+        "votes": 107
+      },
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "1",
+        "prob": 53.3,
+        "ev": -0.051,
+        "edge": -2.8,
+        "kelly": 0.0,
+        "confidence": 39.0,
+        "dataQuality": 0.7
+      },
+      "tennis": null
+    },
+    {
+      "id": 2759278209628614773,
+      "homeTeam": "Omonia",
+      "awayTeam": "Salamina",
+      "time": "02.03.2026 18:00",
+      "date": "2026-03-02",
+      "league": null,
+      "country": "",
+      "sport": "volleyball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/siatkowka/omonia-vkU0szmU/salamina-Gdlffx0e/?mid=dIsbPXIF",
+      "qualifies": true,
+      "h2h": {
+        "home": 4,
+        "draw": 0,
+        "away": 1,
+        "total": 5,
+        "winRate": 80
+      },
+      "homeForm": [
+        "W",
+        "W",
+        "W",
+        "L",
+        "W"
+      ],
+      "awayForm": [
+        "L",
+        "L",
+        "W",
+        "W",
+        "L"
+      ],
+      "homeFormHome": [
+        "W",
+        "W",
+        "W",
+        "W",
+        "W"
+      ],
+      "awayFormAway": [
+        "W",
+        "L",
+        "L",
+        "L",
+        "L"
+      ],
+      "formAdvantage": true,
+      "odds": null,
+      "forebet": {
+        "prediction": "1",
+        "probability": 64.0,
+        "exactScore": "3-1",
+        "overUnder": null,
+        "btts": null
+      },
+      "sofascore": {
+        "home": 100,
+        "draw": null,
+        "away": 0,
+        "votes": 24
+      },
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "1",
+        "prob": 77.5,
+        "ev": -999.0,
+        "edge": 0.0,
+        "kelly": 0.0,
+        "confidence": 52.0,
+        "dataQuality": 0.7
+      },
+      "tennis": null
+    },
+    {
+      "id": -6873767152993509159,
+      "homeTeam": "Karava",
+      "awayTeam": "Anagennisis",
+      "time": "02.03.2026 18:30",
+      "date": "2026-03-02",
+      "league": null,
+      "country": "",
+      "sport": "volleyball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/siatkowka/anagennisis-Mgi2hGU7/karava-6sJvEMSt/?mid=YoPP5GEh",
+      "qualifies": true,
+      "h2h": {
+        "home": 4,
+        "draw": 0,
+        "away": 1,
+        "total": 5,
+        "winRate": 80
+      },
+      "homeForm": [
+        "W",
+        "L",
+        "W",
+        "W",
+        "L"
+      ],
+      "awayForm": [
+        "W",
+        "L",
+        "L",
+        "W",
+        "L"
+      ],
+      "homeFormHome": [
+        "W",
+        "W",
+        "L",
+        "L",
+        "L"
+      ],
+      "awayFormAway": [
+        "W",
+        "L",
+        "L",
+        "L",
+        "W"
+      ],
+      "formAdvantage": true,
+      "odds": null,
+      "forebet": {
+        "prediction": "1",
+        "probability": 64.0,
+        "exactScore": "3-1",
+        "overUnder": null,
+        "btts": null
+      },
+      "sofascore": {
+        "home": 100,
+        "draw": null,
+        "away": 0,
+        "votes": 16
+      },
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "1",
+        "prob": 72.6,
+        "ev": -999.0,
+        "edge": 0.0,
+        "kelly": 0.0,
+        "confidence": 50.0,
+        "dataQuality": 0.7
+      },
+      "tennis": null
+    },
+    {
+      "id": -1703332797250813820,
+      "homeTeam": "Ikast 2 K",
+      "awayTeam": "Bedsted K",
+      "time": "02.03.2026 19:30",
+      "date": "2026-03-02",
+      "league": null,
+      "country": "",
+      "sport": "volleyball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/siatkowka/bedsted-lY42vNiT/ikast-W8qwKHNh/?mid=Yqem6p0n",
+      "qualifies": true,
+      "h2h": {
+        "home": 3,
+        "draw": 0,
+        "away": 2,
+        "total": 5,
+        "winRate": 60
+      },
+      "homeForm": [
+        "W",
+        "W",
+        "L",
+        "W",
+        "L"
+      ],
+      "awayForm": [
+        "L",
+        "L",
+        "L",
+        "W",
+        "L"
+      ],
+      "homeFormHome": [
+        "W",
+        "L",
+        "L",
+        "W",
+        "W"
+      ],
+      "awayFormAway": [
+        "L",
+        "W",
+        "L",
+        "L",
+        "W"
+      ],
+      "formAdvantage": true,
+      "odds": null,
+      "forebet": null,
+      "sofascore": {
+        "home": 87,
+        "draw": null,
+        "away": 13,
+        "votes": 23
+      },
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "1",
+        "prob": 66.8,
+        "ev": -999.0,
+        "edge": 0.0,
+        "kelly": 0.0,
+        "confidence": 45.0,
+        "dataQuality": 0.6
+      },
+      "tennis": null
+    },
+    {
+      "id": -4961679188233114178,
+      "homeTeam": "Al-Rayyan",
+      "awayTeam": "Qatar Sports",
+      "time": "02.03.2026 18:00",
+      "date": "2026-03-02",
+      "league": null,
+      "country": "",
+      "sport": "volleyball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/siatkowka/al-rayyan-AoB7qja3/qatar-sports-KWCILIpI/?mid=hMN0LSZG",
+      "qualifies": true,
+      "h2h": {
+        "home": 5,
+        "draw": 0,
+        "away": 0,
+        "total": 5,
+        "winRate": 100
+      },
+      "homeForm": [
+        "W",
+        "W",
+        "W",
+        "W",
+        "W"
+      ],
+      "awayForm": [
+        "L",
+        "W",
+        "W",
+        "W",
+        "W"
+      ],
+      "homeFormHome": [
+        "W",
+        "W",
+        "W",
+        "L",
+        "W"
+      ],
+      "awayFormAway": [
+        "L",
+        "L",
+        "W",
+        "L",
+        "W"
+      ],
+      "formAdvantage": true,
+      "odds": {
+        "home": 1.35,
+        "draw": null,
+        "away": 2.75,
+        "bookmaker": "Pinnacle"
+      },
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "1",
+        "prob": 74.5,
+        "ev": 0.006,
+        "edge": 0.4,
+        "kelly": 1.7,
+        "confidence": 58.0,
+        "dataQuality": 0.6
+      },
+      "tennis": null
+    },
+    {
+      "id": 3715935143782501953,
+      "homeTeam": "Al-Wakra",
+      "awayTeam": "Al Arabi",
+      "time": "02.03.2026 19:30",
+      "date": "2026-03-02",
+      "league": null,
+      "country": "",
+      "sport": "volleyball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/siatkowka/al-arabi-n3wXoayh/al-wakra-M5rJEDHs/?mid=K8PhNl54",
+      "qualifies": false,
+      "h2h": {
+        "home": 2,
+        "draw": 0,
+        "away": 3,
+        "total": 5,
+        "winRate": 40
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null
+    },
+    {
+      "id": -6906729876099200894,
+      "homeTeam": "Kepco",
+      "awayTeam": "KAL Jumbos",
+      "time": "02.03.2026 05:00",
+      "date": "2026-03-02",
+      "league": null,
+      "country": "",
+      "sport": "volleyball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/siatkowka/kal-jumbos-8M5iVMap/kepco-SvhLihKs/?mid=QyBogqEd",
+      "qualifies": false,
+      "h2h": {
+        "home": 1,
+        "draw": 0,
+        "away": 4,
+        "total": 5,
+        "winRate": 20
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null
+    },
+    {
+      "id": -3306287941723249807,
+      "homeTeam": "GS Caltex K",
+      "awayTeam": "Daejeon JKJ K",
+      "time": "02.03.2026 07:00",
+      "date": "2026-03-02",
+      "league": null,
+      "country": "",
+      "sport": "volleyball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/siatkowka/daejeon-jkj-IBOaKc8g/gs-caltex-riEiDeyf/?mid=dUb1aiS8",
+      "qualifies": true,
+      "h2h": {
+        "home": 4,
+        "draw": 0,
+        "away": 1,
+        "total": 5,
+        "winRate": 80
+      },
+      "homeForm": [
+        "W",
+        "L",
+        "L",
+        "W",
+        "W"
+      ],
+      "awayForm": [
+        "L",
+        "W",
+        "L",
+        "L",
+        "L"
+      ],
+      "homeFormHome": [
+        "L",
+        "W",
+        "W",
+        "W",
+        "L"
+      ],
+      "awayFormAway": [
+        "L",
+        "L",
+        "L",
+        "L",
+        "W"
+      ],
+      "formAdvantage": true,
+      "odds": {
+        "home": 1.2,
+        "draw": null,
+        "away": 3.8,
+        "bookmaker": "Pinnacle"
+      },
+      "forebet": null,
+      "sofascore": {
+        "home": 87,
+        "draw": null,
+        "away": 13,
+        "votes": 114
+      },
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "1",
+        "prob": 80.8,
+        "ev": -0.03,
+        "edge": -2.5,
+        "kelly": 0.0,
+        "confidence": 50.0,
+        "dataQuality": 0.7
+      },
+      "tennis": null
+    },
+    {
+      "id": 4181688059220343558,
+      "homeTeam": "Nowy Dwór Mazowiecki K",
+      "awayTeam": "Developres Rzeszów K",
+      "time": "02.03.2026 18:00",
+      "date": "2026-03-02",
+      "league": null,
+      "country": "",
+      "sport": "volleyball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/siatkowka/nowy-dwor-mazowiecki-E3uX6mI7/rzeszow-n7UBf3Ma/?mid=hpnJwO4m",
+      "qualifies": false,
+      "h2h": {
+        "home": 0,
+        "draw": 0,
+        "away": 1,
+        "total": 1,
+        "winRate": 0
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null
+    },
+    {
+      "id": 5811685872790594600,
+      "homeTeam": "Radomka Radom K",
+      "awayTeam": "Bielsko-Biała K",
+      "time": "02.03.2026 19:00",
+      "date": "2026-03-02",
+      "league": null,
+      "country": "",
+      "sport": "volleyball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/siatkowka/bielsko-biala-OObfSDh5/radomka-radom-z9rTA0Qp/?mid=dvp9l0z3",
+      "qualifies": false,
+      "h2h": {
+        "home": 0,
+        "draw": 0,
+        "away": 5,
+        "total": 5,
+        "winRate": 0
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null
+    },
+    {
+      "id": -4820729555973187549,
+      "homeTeam": "Gorky N. Novgorod",
+      "awayTeam": "Jarosław",
+      "time": "02.03.2026 16:00",
+      "date": "2026-03-02",
+      "league": null,
+      "country": "",
+      "sport": "volleyball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/siatkowka/gorky-n-novgorod-bw6M1XcM/yaroslavl-2wzWMRN4/?mid=fLSSprL8",
+      "qualifies": true,
+      "h2h": {
+        "home": 2,
+        "draw": 0,
+        "away": 1,
+        "total": 3,
+        "winRate": 66
+      },
+      "homeForm": [
+        "L",
+        "L",
+        "L",
+        "L",
+        "W"
+      ],
+      "awayForm": [
+        "L",
+        "L",
+        "L",
+        "W",
+        "L"
+      ],
+      "homeFormHome": [
+        "L",
+        "W",
+        "L",
+        "L",
+        "L"
+      ],
+      "awayFormAway": [
+        "W",
+        "L",
+        "W",
+        "W",
+        "W"
+      ],
+      "formAdvantage": false,
+      "odds": {
+        "home": 1.45,
+        "draw": null,
+        "away": 2.55,
+        "bookmaker": "Pinnacle"
+      },
+      "forebet": null,
+      "sofascore": {
+        "home": 93,
+        "draw": null,
+        "away": 7,
+        "votes": 44
+      },
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "1",
+        "prob": 66.0,
+        "ev": -0.043,
+        "edge": -3.0,
+        "kelly": 0.0,
+        "confidence": 43.0,
+        "dataQuality": 0.7
+      },
+      "tennis": null
+    },
+    {
+      "id": 905012617417222232,
+      "homeTeam": "Eczacibasi K",
+      "awayTeam": "Goztepe K",
+      "time": "02.03.2026 14:00",
+      "date": "2026-03-02",
+      "league": null,
+      "country": "",
+      "sport": "volleyball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/siatkowka/eczacibasi-zPRKkmtL/goztepe-ALxvczig/?mid=8bL3o61e",
+      "qualifies": true,
+      "h2h": {
+        "home": 2,
+        "draw": 0,
+        "away": 0,
+        "total": 2,
+        "winRate": 100
+      },
+      "homeForm": [
+        "W",
+        "W",
+        "L",
+        "W",
+        "L"
+      ],
+      "awayForm": [
+        "L",
+        "W",
+        "W",
+        "L",
+        "L"
+      ],
+      "homeFormHome": [
+        "W",
+        "W",
+        "W",
+        "W",
+        "W"
+      ],
+      "awayFormAway": [
+        "L",
+        "L",
+        "W",
+        "W",
+        "L"
+      ],
+      "formAdvantage": true,
+      "odds": {
+        "home": 1.01,
+        "draw": null,
+        "away": 10.0,
+        "bookmaker": "Pinnacle"
+      },
+      "forebet": null,
+      "sofascore": {
+        "home": 93,
+        "draw": null,
+        "away": 7,
+        "votes": 132
+      },
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "1",
+        "prob": 88.1,
+        "ev": -0.111,
+        "edge": -11.0,
+        "kelly": 0.0,
+        "confidence": 42.0,
+        "dataQuality": 0.7
+      },
+      "tennis": null
+    },
+    {
+      "id": -2919238474724427582,
+      "homeTeam": "San Diego Mojo K",
+      "awayTeam": "Columbus Fury K",
+      "time": "02.03.2026 00:00",
+      "date": "2026-03-02",
+      "league": null,
+      "country": "",
+      "sport": "volleyball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/siatkowka/columbus-fury-KdajwxU2/san-diego-mojo-YapFcigq/?mid=2PIMy5zf",
+      "qualifies": true,
+      "h2h": {
+        "home": 4,
+        "draw": 0,
+        "away": 1,
+        "total": 5,
+        "winRate": 80
+      },
+      "homeForm": [
+        "W",
+        "W",
+        "W",
+        "L",
+        "W"
+      ],
+      "awayForm": [
+        "L",
+        "L",
+        "W",
+        "L",
+        "L"
+      ],
+      "homeFormHome": [
+        "W",
+        "W",
+        "W",
+        "W",
+        "L"
+      ],
+      "awayFormAway": [
+        "L",
+        "W",
+        "W",
+        "L",
+        "W"
+      ],
+      "formAdvantage": true,
+      "odds": {
+        "home": 1.5,
+        "draw": null,
+        "away": 2.35,
+        "bookmaker": "Pinnacle"
+      },
+      "forebet": {
+        "prediction": "1",
+        "probability": 70.0,
+        "exactScore": "3-1",
+        "overUnder": null,
+        "btts": null
+      },
+      "sofascore": {
+        "home": 97,
+        "draw": null,
+        "away": 3,
+        "votes": 58
+      },
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "1",
+        "prob": 80.3,
+        "ev": 0.204,
+        "edge": 13.6,
+        "kelly": 40.8,
+        "confidence": 84.0,
+        "dataQuality": 0.8
+      },
+      "tennis": null
+    }
+  ]
+}

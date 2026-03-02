@@ -1,0 +1,420 @@
+{
+  "date": "2026-03-02",
+  "sport": "handball",
+  "generatedAt": "2026-03-02T02:55:16.359887",
+  "stats": {
+    "total": 9,
+    "qualifying": 3,
+    "formAdvantage": 2
+  },
+  "matches": [
+    {
+      "id": 7747996037614064208,
+      "homeTeam": "Gwardia Opole",
+      "awayTeam": "Wybrzeże Gdańsk",
+      "time": "02.03.2026 17:00",
+      "date": "2026-03-02",
+      "league": null,
+      "country": "",
+      "sport": "handball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/pilka-reczna/gwardia-opole-MDbYGLuO/wybrzeze-gdansk-lYxbuGtn/?mid=xdO9Lts4",
+      "qualifies": false,
+      "h2h": {
+        "home": 0,
+        "draw": 0,
+        "away": 5,
+        "total": 5,
+        "winRate": 0
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null
+    },
+    {
+      "id": -4256961441869985151,
+      "homeTeam": "Sangmu",
+      "awayTeam": "Incheon City",
+      "time": "02.03.2026 05:00",
+      "date": "2026-03-02",
+      "league": null,
+      "country": "",
+      "sport": "handball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/pilka-reczna/incheon-city-6Xf8y0NS/sangmu-phoenix-2NOpk7mm/?mid=fsrn92rA",
+      "qualifies": false,
+      "h2h": {
+        "home": 0,
+        "draw": 0,
+        "away": 4,
+        "total": 5,
+        "winRate": 0
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null
+    },
+    {
+      "id": -2493625948178444873,
+      "homeTeam": "Daegu City K",
+      "awayTeam": "Incheon City K",
+      "time": "02.03.2026 07:00",
+      "date": "2026-03-02",
+      "league": null,
+      "country": "",
+      "sport": "handball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/pilka-reczna/daegu-city-lWA0u2wA/incheon-city-KhYYLc76/?mid=6Xy5jL7m",
+      "qualifies": true,
+      "h2h": {
+        "home": 3,
+        "draw": 0,
+        "away": 2,
+        "total": 5,
+        "winRate": 60
+      },
+      "homeForm": [
+        "D",
+        "L",
+        "W",
+        "L",
+        "W"
+      ],
+      "awayForm": [
+        "L",
+        "L",
+        "L",
+        "W",
+        "L"
+      ],
+      "homeFormHome": [
+        "D",
+        "L",
+        "W",
+        "L",
+        "W"
+      ],
+      "awayFormAway": [
+        "W",
+        "W",
+        "W",
+        "W",
+        "L"
+      ],
+      "formAdvantage": true,
+      "odds": {
+        "home": 1.4,
+        "draw": 8.5,
+        "away": 3.5,
+        "bookmaker": "Pinnacle"
+      },
+      "forebet": {
+        "prediction": "2",
+        "probability": 66.0,
+        "exactScore": "28-31",
+        "overUnder": null,
+        "btts": null
+      },
+      "sofascore": {
+        "home": 96,
+        "draw": 4,
+        "away": 0,
+        "votes": 27
+      },
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "X",
+        "prob": 12.2,
+        "ev": 0.036,
+        "edge": 0.4,
+        "kelly": 0.5,
+        "confidence": 39.0,
+        "dataQuality": 0.8
+      },
+      "tennis": null
+    },
+    {
+      "id": 2653329008382268532,
+      "homeTeam": "Seoul City K",
+      "awayTeam": "Gwangju City K",
+      "time": "02.03.2026 09:00",
+      "date": "2026-03-02",
+      "league": null,
+      "country": "",
+      "sport": "handball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/pilka-reczna/gwangju-city-Wf05vMhG/seoul-city-rFFpTmaP/?mid=2aVDlax0",
+      "qualifies": false,
+      "h2h": {
+        "home": 2,
+        "draw": 0,
+        "away": 1,
+        "total": 5,
+        "winRate": 40
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null
+    },
+    {
+      "id": -4060314840402678341,
+      "homeTeam": "Lubeck-Schwartau",
+      "awayTeam": "Elbflorenz",
+      "time": "02.03.2026 18:30",
+      "date": "2026-03-02",
+      "league": null,
+      "country": "",
+      "sport": "handball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/pilka-reczna/elbflorenz-448LZXgs/lubeck-schwartau-vB9x7IW6/?mid=E7SXaCCG",
+      "qualifies": false,
+      "h2h": {
+        "home": 1,
+        "draw": 0,
+        "away": 2,
+        "total": 5,
+        "winRate": 20
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null
+    },
+    {
+      "id": 1699232573829413179,
+      "homeTeam": "Saratów",
+      "awayTeam": "CSKA Moscow",
+      "time": "02.03.2026 14:30",
+      "date": "2026-03-02",
+      "league": null,
+      "country": "",
+      "sport": "handball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/pilka-reczna/cska-moscow-tCrIDMqn/saratov-vNCiV90b/?mid=GGrF5IRi",
+      "qualifies": false,
+      "h2h": {
+        "home": 1,
+        "draw": 0,
+        "away": 4,
+        "total": 5,
+        "winRate": 20
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null
+    },
+    {
+      "id": -7968837868811678221,
+      "homeTeam": "Stavropol",
+      "awayTeam": "UOR No.2 Moscow",
+      "time": "02.03.2026 16:00",
+      "date": "2026-03-02",
+      "league": null,
+      "country": "",
+      "sport": "handball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/pilka-reczna/stavropol-UDISGrfK/uor-no-2-moscow-2THKsfQJ/?mid=IuuW1zRG",
+      "qualifies": true,
+      "h2h": {
+        "home": 5,
+        "draw": 0,
+        "away": 0,
+        "total": 5,
+        "winRate": 100
+      },
+      "homeForm": [
+        "W",
+        "L",
+        "L",
+        "L",
+        "L"
+      ],
+      "awayForm": [
+        "W",
+        "L",
+        "L",
+        "W",
+        "L"
+      ],
+      "homeFormHome": [
+        "W",
+        "L",
+        "L",
+        "W",
+        "L"
+      ],
+      "awayFormAway": [
+        "L",
+        "L",
+        "W",
+        "W",
+        "W"
+      ],
+      "formAdvantage": false,
+      "odds": {
+        "home": 1.3,
+        "draw": 8.5,
+        "away": 4.3,
+        "bookmaker": "Pinnacle"
+      },
+      "forebet": {
+        "prediction": "2",
+        "probability": 76.0,
+        "exactScore": "23-35",
+        "overUnder": null,
+        "btts": null
+      },
+      "sofascore": {
+        "home": 93,
+        "draw": null,
+        "away": 7,
+        "votes": 54
+      },
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "1",
+        "prob": 70.7,
+        "ev": -0.081,
+        "edge": -6.2,
+        "kelly": 0.0,
+        "confidence": 44.0,
+        "dataQuality": 0.8
+      },
+      "tennis": null
+    },
+    {
+      "id": 8272964865625579430,
+      "homeTeam": "St. Petersburg",
+      "awayTeam": "Chekhovskiye Medvedi",
+      "time": "02.03.2026 16:30",
+      "date": "2026-03-02",
+      "league": null,
+      "country": "",
+      "sport": "handball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/pilka-reczna/chekhovskiye-medvedi-xltwkHYh/st-petersburg-x2qKHmXd/?mid=OtnN3dd4",
+      "qualifies": true,
+      "h2h": {
+        "home": 3,
+        "draw": 0,
+        "away": 1,
+        "total": 5,
+        "winRate": 60
+      },
+      "homeForm": [
+        "L",
+        "W",
+        "W",
+        "W",
+        "W"
+      ],
+      "awayForm": [
+        "L",
+        "D",
+        "W",
+        "W",
+        "W"
+      ],
+      "homeFormHome": [
+        "W",
+        "W",
+        "W",
+        "W",
+        "W"
+      ],
+      "awayFormAway": [
+        "L",
+        "D",
+        "W",
+        "L",
+        "W"
+      ],
+      "formAdvantage": true,
+      "odds": {
+        "home": 1.5,
+        "draw": 7.5,
+        "away": 3.15,
+        "bookmaker": "Pinnacle"
+      },
+      "forebet": null,
+      "sofascore": {
+        "home": 96,
+        "draw": 1,
+        "away": 3,
+        "votes": 67
+      },
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "1",
+        "prob": 75.3,
+        "ev": 0.13,
+        "edge": 8.7,
+        "kelly": 26.0,
+        "confidence": 73.0,
+        "dataQuality": 0.7
+      },
+      "tennis": null
+    },
+    {
+      "id": 407464545142093111,
+      "homeTeam": "Hallby",
+      "awayTeam": "Onnered",
+      "time": "02.03.2026 18:00",
+      "date": "2026-03-02",
+      "league": null,
+      "country": "",
+      "sport": "handball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/pilka-reczna/if-hallby-nZapG1S3/onnered-vcCN68OC/?mid=jDwk2MsT",
+      "qualifies": false,
+      "h2h": {
+        "home": 2,
+        "draw": 0,
+        "away": 3,
+        "total": 5,
+        "winRate": 40
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null
+    }
+  ]
+}
