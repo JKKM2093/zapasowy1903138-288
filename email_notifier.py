@@ -123,6 +123,31 @@ def has_valid_odds(match: Dict) -> bool:
     return home > 0 or away > 0
 
 
+def _render_team_logos_row(home_logo: str, away_logo: str, home_name: str, away_name: str) -> str:
+    """Render an optional row of team badge images above the team names line."""
+    if not home_logo and not away_logo:
+        return ''
+    parts: list[str] = []
+    if home_logo:
+        parts.append(
+            f'<img src="{home_logo}" alt="{home_name}" width="36" height="36" '
+            f'style="border-radius:50%;object-fit:contain;background:#f5f5f5;" '
+            f'onerror="this.style.display=\'none\'">'
+        )
+    else:
+        parts.append('<span style="display:inline-block;width:36px;"></span>')
+    parts.append('<span style="display:inline-block;width:24px;"></span>')
+    if away_logo:
+        parts.append(
+            f'<img src="{away_logo}" alt="{away_name}" width="36" height="36" '
+            f'style="border-radius:50%;object-fit:contain;background:#f5f5f5;" '
+            f'onerror="this.style.display=\'none\'">'
+        )
+    else:
+        parts.append('<span style="display:inline-block;width:36px;"></span>')
+    return f'<div style="margin-bottom:8px;">{"".join(parts)}</div>'
+
+
 def _clean_odds_for_render(val) -> Optional[float]:
     """
     Czyści wartość kursu przed renderowaniem - zamienia string 'nan' na None.
@@ -766,10 +791,16 @@ def create_html_email(matches: List[Dict], date: str, sort_by: str = 'time',
                 forebet_style = ''
             match_time = pick.get('match_time', 'Brak danych')
             
+            # Logos for top picks
+            _home_logo = pick.get('home_logo_url', '')
+            _away_logo = pick.get('away_logo_url', '')
+            _home_badge = f'<img src="{_home_logo}" alt="{home}" width="28" height="28" style="vertical-align:middle;border-radius:50%;margin-right:6px;" onerror="this.style.display=\'none\'">' if _home_logo else ''
+            _away_badge = f'<img src="{_away_logo}" alt="{away}" width="28" height="28" style="vertical-align:middle;border-radius:50%;margin-left:6px;" onerror="this.style.display=\'none\'">' if _away_logo else ''
+
             html += f"""
             <div class="top-pick-card">
                 <div class="top-pick-team">
-                    {team_emoji} {home} <span style="color: #999;">vs</span> {away}
+                    {_home_badge}{team_emoji} {home} <span style="color: #999;">vs</span> {away}{_away_badge}
                 </div>
                 <div style="font-size: 14px; color: #FF5722; font-weight: bold; margin: 5px 0;">
                     🕐 {match_time}
@@ -957,6 +988,7 @@ def create_html_email(matches: List[Dict], date: str, sort_by: str = 'time',
                 
                 <!-- DRUŻYNY -->
                 <div style="background: white; padding: 20px; text-align: center;">
+                    {_render_team_logos_row(match.get('home_logo_url', ''), match.get('away_logo_url', ''), home, away)}
                     <div style="font-size: 22px; font-weight: bold; color: #333;">
                         {'🎾' if is_tennis else '🏠'} {home} <span style="color: #999; font-size: 16px;">vs</span> {away} {'🎾' if is_tennis else '✈️'}
                     </div>

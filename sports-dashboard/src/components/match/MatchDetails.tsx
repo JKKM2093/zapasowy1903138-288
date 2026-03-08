@@ -62,7 +62,7 @@ export function MatchDetails({ match, open, onOpenChange }: Props) {
             <div className="flex items-center justify-between py-3">
               {/* Home */}
               <div className="flex flex-col items-center gap-2 flex-1">
-                <TeamLogo name={match.homeTeam} size="xl" />
+                <TeamLogo name={match.homeTeam} size="xl" badgeUrl={match.homeLogo} />
                 <span className="font-bold text-sm text-center leading-tight">{match.homeTeam}</span>
                 {match.homeForm?.length > 0 && (
                   <FormTimeline form={match.homeForm} teamName={match.homeTeam} maxItems={5} />
@@ -77,7 +77,7 @@ export function MatchDetails({ match, open, onOpenChange }: Props) {
 
               {/* Away */}
               <div className="flex flex-col items-center gap-2 flex-1">
-                <TeamLogo name={match.awayTeam} size="xl" />
+                <TeamLogo name={match.awayTeam} size="xl" badgeUrl={match.awayLogo} />
                 <span className="font-bold text-sm text-center leading-tight">{match.awayTeam}</span>
                 {match.awayForm?.length > 0 && (
                   <FormTimeline form={match.awayForm} teamName={match.awayTeam} maxItems={5} />

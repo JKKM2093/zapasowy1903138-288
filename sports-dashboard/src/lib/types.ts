@@ -84,6 +84,8 @@ export interface Match {
   id: string | number
   homeTeam: string
   awayTeam: string
+  homeLogo?: string
+  awayLogo?: string
   time: string
   date: string
   sport: Sport

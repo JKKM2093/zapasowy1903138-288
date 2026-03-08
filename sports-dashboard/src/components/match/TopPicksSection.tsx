@@ -55,11 +55,11 @@ function TopPickCard({ match, onSelect }: { match: Match; onSelect?: (m: Match) 
         <div className="flex items-center gap-3">
           <div className="flex-1 space-y-2 min-w-0">
             <div className="flex items-center gap-2">
-              <TeamLogo name={match.homeTeam} size="sm" />
+              <TeamLogo name={match.homeTeam} size="sm" badgeUrl={match.homeLogo} />
               <span className="font-bold text-sm truncate">{match.homeTeam}</span>
             </div>
             <div className="flex items-center gap-2">
-              <TeamLogo name={match.awayTeam} size="sm" />
+              <TeamLogo name={match.awayTeam} size="sm" badgeUrl={match.awayLogo} />
               <span className="font-bold text-sm truncate">{match.awayTeam}</span>
             </div>
           </div>

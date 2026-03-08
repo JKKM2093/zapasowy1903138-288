@@ -91,7 +91,7 @@ export function MatchRow({ match, liveScore, onSelect }: Props) {
           <div className="flex-1 min-w-0 space-y-1">
             {/* Home team */}
             <div className="flex items-center gap-2 min-w-0">
-              <TeamLogo name={match.homeTeam} size="xs" />
+              <TeamLogo name={match.homeTeam} size="xs" badgeUrl={match.homeLogo} />
               <span className={cn(
                 'text-sm font-medium truncate leading-tight',
                 forebetPred === '1' && 'text-emerald-600 dark:text-emerald-400',
@@ -106,7 +106,7 @@ export function MatchRow({ match, liveScore, onSelect }: Props) {
             </div>
             {/* Away team */}
             <div className="flex items-center gap-2 min-w-0">
-              <TeamLogo name={match.awayTeam} size="xs" />
+              <TeamLogo name={match.awayTeam} size="xs" badgeUrl={match.awayLogo} />
               <span className={cn(
                 'text-sm font-medium truncate leading-tight',
                 forebetPred === '2' && 'text-rose-600 dark:text-rose-400',

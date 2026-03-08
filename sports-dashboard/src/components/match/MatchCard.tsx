@@ -73,7 +73,7 @@ export function MatchCard({ match, liveScore, onSelect }: Props) {
           <div className="flex-1 space-y-2.5 min-w-0">
             {/* Home team */}
             <div className="flex items-center gap-2.5">
-              <TeamLogo name={match.homeTeam} size="sm" />
+              <TeamLogo name={match.homeTeam} size="sm" badgeUrl={match.homeLogo} />
               <span className={cn(
                 'font-semibold text-sm leading-tight truncate',
                 forebetPred === '1' && 'text-emerald-600 dark:text-emerald-400',
@@ -86,7 +86,7 @@ export function MatchCard({ match, liveScore, onSelect }: Props) {
             </div>
             {/* Away team */}
             <div className="flex items-center gap-2.5">
-              <TeamLogo name={match.awayTeam} size="sm" />
+              <TeamLogo name={match.awayTeam} size="sm" badgeUrl={match.awayLogo} />
               <span className={cn(
                 'font-semibold text-sm leading-tight truncate',
                 forebetPred === '2' && 'text-rose-600 dark:text-rose-400',

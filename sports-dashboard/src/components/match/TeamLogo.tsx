@@ -11,6 +11,8 @@ interface Props {
   name: string
   size?: 'xs' | 'sm' | 'md' | 'lg' | 'xl'
   className?: string
+  /** Pre-resolved badge URL from the backend (preferred over client-side fetch). */
+  badgeUrl?: string
 }
 
 const SIZES = {
@@ -21,18 +23,20 @@ const SIZES = {
   xl: 'h-16 w-16 text-base',
 }
 
-export function TeamLogo({ name, size = 'md', className }: Props) {
-  const [logoUrl, setLogoUrl] = useState<string | null>(null)
+export function TeamLogo({ name, size = 'md', className, badgeUrl }: Props) {
+  const [fetchedUrl, setFetchedUrl] = useState<string | null>(null)
   const [failed, setFailed] = useState(false)
 
   useEffect(() => {
+    if (badgeUrl) return
     let cancelled = false
     getTeamLogoUrl(name).then(url => {
-      if (!cancelled && url) setLogoUrl(url)
+      if (!cancelled && url) setFetchedUrl(url)
     })
     return () => { cancelled = true }
-  }, [name])
+  }, [name, badgeUrl])
 
+  const logoUrl = badgeUrl || fetchedUrl
   const initials = getTeamInitials(name)
   const color = getTeamColor(name)
   const sizeClass = SIZES[size]

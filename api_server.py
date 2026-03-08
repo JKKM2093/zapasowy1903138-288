@@ -280,10 +280,27 @@ def normalize_match(match):
             'reasoning': match.get('gemini_reasoning') or gm.get('reasoning'),
         }
     
+    # Team logos – prefer pre-resolved, else resolve via TheSportsDB
+    home_team_val = match.get('home_team') or match.get('homeTeam', '')
+    away_team_val = match.get('away_team') or match.get('awayTeam', '')
+    home_logo = match.get('home_logo_url') or match.get('homeLogo') or ''
+    away_logo = match.get('away_logo_url') or match.get('awayLogo') or ''
+    if not home_logo or not away_logo:
+        try:
+            from team_logo_resolver import get_logo_url
+            if not home_logo and home_team_val:
+                home_logo = get_logo_url(home_team_val) or ''
+            if not away_logo and away_team_val:
+                away_logo = get_logo_url(away_team_val) or ''
+        except Exception:
+            pass
+
     return {
-        'id': match.get('id') or hash(f"{match.get('home_team', match.get('homeTeam', ''))}_{match.get('away_team', match.get('awayTeam', ''))}"),
-        'homeTeam': match.get('home_team') or match.get('homeTeam', ''),
-        'awayTeam': match.get('away_team') or match.get('awayTeam', ''),
+        'id': match.get('id') or hash(f"{home_team_val}_{away_team_val}"),
+        'homeTeam': home_team_val,
+        'awayTeam': away_team_val,
+        'homeLogo': home_logo,
+        'awayLogo': away_logo,
         'time': raw_time,
         'date': match.get('date') or match.get('match_date', ''),
         'league': match.get('league') or match.get('tournament', ''),
