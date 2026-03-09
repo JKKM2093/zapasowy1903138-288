@@ -794,7 +794,7 @@ def create_html_email(matches: List[Dict[str, Any]], date: str, sort_by: str = '
         for pick in top_picks:
             home = pick.get('home_team', 'N/A')
             away = pick.get('away_team', 'N/A')
-            confidence = pick.get('gemini_confidence', 0)
+            confidence: float = pick.get('gemini_confidence') or 0
             prediction = pick.get('gemini_prediction', 'N/A')
             tp_ai = ensure_ai_prediction_dict(pick.get('ai_prediction'))
             # Pre-compute AI Pro color values (avoids {{dict}} syntax errors inside f-strings)
@@ -838,6 +838,7 @@ def create_html_email(matches: List[Dict[str, Any]], date: str, sort_by: str = '
             _away_logo = pick.get('away_logo_url', '')
             _home_badge = f'<img src="{_home_logo}" alt="{home}" width="28" height="28" style="vertical-align:middle;border-radius:50%;margin-right:6px;" onerror="this.style.display=\'none\'">' if _home_logo else ''
             _away_badge = f'<img src="{_away_logo}" alt="{away}" width="28" height="28" style="vertical-align:middle;border-radius:50%;margin-left:6px;" onerror="this.style.display=\'none\'">' if _away_logo else ''
+            _tp_kaf: List[str] = [str(x) for x in (tp_ai.get('keyArgumentsFor') or [])]  # type: ignore[misc]
 
             html += f"""
             <div class="top-pick-card">
@@ -879,13 +880,13 @@ def create_html_email(matches: List[Dict[str, Any]], date: str, sort_by: str = '
                 '<div style="display: flex; justify-content: space-around; text-align: center; margin-bottom: 10px;">'
                 '<div><div style="font-size: 22px; font-weight: 800; color: white;">' + tp_ai.get("pick", "") + '</div>'
                 '<div style="font-size: 8px; color: #aaa;">' + tp_ai.get("pickLabel", "") + '</div></div>'
-                '<div><div style="font-size: 22px; font-weight: 800; color: white;">' + f'{tp_ai.get("compositeConfidence", 0):.0f}' + '%</div>'
+                '<div><div style="font-size: 22px; font-weight: 800; color: white;">' + f'{(tp_ai.get("compositeConfidence") or 0):.0f}' + '%</div>'
                 '<div style="font-size: 8px; color: #aaa;">AI CONF</div></div>'
                 '<div><div style="font-size: 22px; font-weight: 800; color: ' + _tp_rc + ';">' + str(_tp_rs) + '/10</div>'
                 '<div style="font-size: 8px; color: #aaa;">RISK</div></div>'
                 '</div>'
                 '<div style="font-size: 12px; color: rgba(255,255,255,0.8); line-height: 1.4; padding: 8px; background: rgba(255,255,255,0.04); border-radius: 6px;">' + tp_ai.get("shortVerdict", "") + '</div>'
-                + ('<div style="margin-top: 8px;">' + ''.join('<span style="display:inline-block;font-size:10px;color:#69f0ae;margin-right:8px;">+ ' + a + '</span>' for a in (tp_ai.get('keyArgumentsFor') or [])[:2]) + '</div>' if tp_ai.get('keyArgumentsFor') else '')
+                + ('<div style="margin-top: 8px;">' + ''.join('<span style="display:inline-block;font-size:10px;color:#69f0ae;margin-right:8px;">+ ' + a + '</span>' for a in _tp_kaf[:2]) + '</div>' if _tp_kaf else '')
                 + '</div>'
                 ) if tp_ai.get("pick") else ''}
             </div>
@@ -974,6 +975,7 @@ def create_html_email(matches: List[Dict[str, Any]], date: str, sort_by: str = '
         # Flaga: pokaż SofaScore jeśli DOWOLNA wartość jest dostępna (home/away/draw/votes)
         has_sofascore = (ss_home is not None or ss_away is not None or 
                          ss_draw is not None or ss_votes > 0)
+        _ss_draw_color = '#FFC107' if (ss_draw is not None and ss_draw >= max(ss_home or 0, ss_draw or 0, ss_away or 0)) else '#333'
         
         # Odds - bezpieczne pobieranie z obsługą NaN
         home_odds_raw = match.get('home_odds')
@@ -1141,7 +1143,7 @@ def create_html_email(matches: List[Dict[str, Any]], date: str, sort_by: str = '
                                 <div style="font-size: 18px; font-weight: bold; color: {'#4CAF50' if ss_home and ss_home >= max(ss_home or 0, ss_draw or 0, ss_away or 0) else '#333'};">{ss_home}%</div>
                                 <div style="font-size: 10px; color: #888;">🏠</div>
                             </div>
-                            {f'<div style="text-align: center;"><div style="font-size: 18px; font-weight: bold; color: {chr(39)}#FFC107{chr(39) if ss_draw is not None and ss_draw >= max(ss_home or 0, ss_draw or 0, ss_away or 0) else chr(39)}#333{chr(39)};">{ss_draw}%</div><div style="font-size: 10px; color: #888;">🤝</div></div>' if ss_draw is not None else ''}
+                            {f'<div style="text-align: center;"><div style="font-size: 18px; font-weight: bold; color: {_ss_draw_color};">{ss_draw}%</div><div style="font-size: 10px; color: #888;">🤝</div></div>' if ss_draw is not None else ''}
                             <div style="text-align: center;">
                                 <div style="font-size: 18px; font-weight: bold; color: {'#F44336' if ss_away and ss_away >= max(ss_home or 0, ss_draw or 0, ss_away or 0) else '#333'};">{ss_away}%</div>
                                 <div style="font-size: 10px; color: #888;">✈️</div>
@@ -1178,7 +1180,7 @@ def create_html_email(matches: List[Dict[str, Any]], date: str, sort_by: str = '
                                 <div style="font-size: 9px; color: rgba(255,255,255,0.6);">EDGE</div>
                             </div>
                             <div style="text-align: center; min-width: 60px;">
-                                <div style="font-size: 20px; font-weight: bold;">{sc_conf:.0f}</div>
+                                <div style="font-size: 20px; font-weight: bold;">{(sc_conf or 0):.0f}</div>
                                 <div style="font-size: 9px; color: rgba(255,255,255,0.6);">CONF</div>
                             </div>
                         </div>
@@ -1566,7 +1568,7 @@ def send_split_emails_by_sport(
                 label = SPORT_LABEL.get(sport, sport.capitalize())
 
                 # grupa A: przewaga formy
-                if 'form_advantage' in sport_df.columns:
+                if 'form_advantage' in sport_df.columns:  # type: ignore[union-attr]
                     group_form: pd.DataFrame = sport_df[sport_df['form_advantage'] == True]  # type: ignore[assignment]
                     group_normal: pd.DataFrame = sport_df[sport_df['form_advantage'] != True]  # type: ignore[assignment]
                 else:
