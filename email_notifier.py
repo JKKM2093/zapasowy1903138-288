@@ -772,6 +772,12 @@ def create_html_email(matches: List[Dict], date: str, sort_by: str = 'time',
             confidence = pick.get('gemini_confidence', 0)
             prediction = pick.get('gemini_prediction', 'N/A')
             tp_ai = pick.get('ai_prediction') or {}
+            # Pre-compute AI Pro color values (avoids {{dict}} syntax errors inside f-strings)
+            _tp_tc = {'VERY HIGH': '#00e676', 'HIGH': '#69f0ae', 'MEDIUM': '#ffd740'}.get(tp_ai.get('confidenceTier', ''), '#555')
+            _tp_tc2 = {'VERY HIGH': '#00e676', 'HIGH': '#69f0ae', 'MEDIUM': '#ffd740'}.get(tp_ai.get('confidenceTier', ''), '#999')
+            _tp_risk = tp_ai.get('risk') or {}
+            _tp_rc = {'LOW': '#69f0ae', 'MEDIUM': '#ffd740', 'HIGH': '#ff5252'}.get(_tp_risk.get('level', ''), '#999')
+            _tp_rs = _tp_risk.get('score', '?')
             # Bezpieczne pobieranie reasoning (może być NaN/float z pandas)
             raw_reasoning = pick.get('gemini_reasoning', '')
             if raw_reasoning is None or (isinstance(raw_reasoning, float) and str(raw_reasoning) == 'nan'):
@@ -841,30 +847,24 @@ def create_html_email(matches: List[Dict], date: str, sort_by: str = 'time',
                 <div class="top-pick-reasoning">
                     <strong>🤖 Analiza AI:</strong><br>{reasoning}...
                 </div>
-                {f'''
-                <div style="margin-top: 12px; background: linear-gradient(135deg, #0d1117 0%, #161b22 100%); border-radius: 10px; padding: 14px; border: 1px solid {{"VERY HIGH": "#00e676", "HIGH": "#69f0ae", "MEDIUM": "#ffd740"}.get(tp_ai.get("confidenceTier", ""), "#555")}33;">
-                    <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 10px;">
-                        <span style="font-size: 10px; font-weight: 700; color: {{"VERY HIGH": "#00e676", "HIGH": "#69f0ae", "MEDIUM": "#ffd740"}.get(tp_ai.get("confidenceTier", ""), "#999")}; letter-spacing: 1px;">🤖 AI PRO VERDICT</span>
-                        <span style="background: {{"VERY HIGH": "#00e676", "HIGH": "#69f0ae", "MEDIUM": "#ffd740"}.get(tp_ai.get("confidenceTier", ""), "#999")}; color: #000; padding: 2px 8px; border-radius: 8px; font-size: 10px; font-weight: 700;">{tp_ai.get("confidenceTier","")}</span>
-                    </div>
-                    <div style="display: flex; justify-content: space-around; text-align: center; margin-bottom: 10px;">
-                        <div>
-                            <div style="font-size: 22px; font-weight: 800; color: white;">{tp_ai.get("pick","")}</div>
-                            <div style="font-size: 8px; color: #aaa;">{tp_ai.get("pickLabel","")}</div>
-                        </div>
-                        <div>
-                            <div style="font-size: 22px; font-weight: 800; color: white;">{tp_ai.get("compositeConfidence",0):.0f}%</div>
-                            <div style="font-size: 8px; color: #aaa;">AI CONF</div>
-                        </div>
-                        <div>
-                            <div style="font-size: 22px; font-weight: 800; color: {{"LOW": "#69f0ae", "MEDIUM": "#ffd740", "HIGH": "#ff5252"}.get((tp_ai.get("risk") or {{}}).get("level",""), "#999")};">{(tp_ai.get("risk") or {{}}).get("score","?")}/10</div>
-                            <div style="font-size: 8px; color: #aaa;">RISK</div>
-                        </div>
-                    </div>
-                    <div style="font-size: 12px; color: rgba(255,255,255,0.8); line-height: 1.4; padding: 8px; background: rgba(255,255,255,0.04); border-radius: 6px;">{tp_ai.get("shortVerdict","")}</div>
-                    {f"""<div style="margin-top: 8px;">{"".join(f'<span style="display:inline-block;font-size:10px;color:#69f0ae;margin-right:8px;">✅ {a}</span>' for a in (tp_ai.get("keyArgumentsFor") or [])[:2])}</div>""" if tp_ai.get("keyArgumentsFor") else ""}
-                </div>
-                ''' if tp_ai.get("pick") else ''}
+                {(
+                '<div style="margin-top: 12px; background: linear-gradient(135deg, #0d1117 0%, #161b22 100%); border-radius: 10px; padding: 14px; border: 1px solid ' + _tp_tc + '33;">'
+                '<div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 10px;">'
+                '<span style="font-size: 10px; font-weight: 700; color: ' + _tp_tc2 + '; letter-spacing: 1px;">AI PRO VERDICT</span>'
+                '<span style="background: ' + _tp_tc2 + '; color: #000; padding: 2px 8px; border-radius: 8px; font-size: 10px; font-weight: 700;">' + tp_ai.get("confidenceTier", "") + '</span>'
+                '</div>'
+                '<div style="display: flex; justify-content: space-around; text-align: center; margin-bottom: 10px;">'
+                '<div><div style="font-size: 22px; font-weight: 800; color: white;">' + tp_ai.get("pick", "") + '</div>'
+                '<div style="font-size: 8px; color: #aaa;">' + tp_ai.get("pickLabel", "") + '</div></div>'
+                '<div><div style="font-size: 22px; font-weight: 800; color: white;">' + f'{tp_ai.get("compositeConfidence", 0):.0f}' + '%</div>'
+                '<div style="font-size: 8px; color: #aaa;">AI CONF</div></div>'
+                '<div><div style="font-size: 22px; font-weight: 800; color: ' + _tp_rc + ';">' + str(_tp_rs) + '/10</div>'
+                '<div style="font-size: 8px; color: #aaa;">RISK</div></div>'
+                '</div>'
+                '<div style="font-size: 12px; color: rgba(255,255,255,0.8); line-height: 1.4; padding: 8px; background: rgba(255,255,255,0.04); border-radius: 6px;">' + tp_ai.get("shortVerdict", "") + '</div>'
+                + ('<div style="margin-top: 8px;">' + ''.join('<span style="display:inline-block;font-size:10px;color:#69f0ae;margin-right:8px;">+ ' + a + '</span>' for a in (tp_ai.get('keyArgumentsFor') or [])[:2]) + '</div>' if tp_ai.get('keyArgumentsFor') else '')
+                + '</div>'
+                ) if tp_ai.get("pick") else ''}
             </div>
     """
         
@@ -1211,19 +1211,10 @@ def create_html_email(matches: List[Dict], date: str, sort_by: str = 'time',
                                 <div style="font-size: 9px; color: rgba(255,255,255,0.5);">EDGE</div>
                             </div>
                         </div>
-                        {f"""<div style="margin-bottom: 8px; padding: 10px; background: rgba(255,255,255,0.04); border-radius: 8px; font-size: 12px; color: rgba(255,255,255,0.85); line-height: 1.5;">{ai_full_verdict}</div>""" if ai_full_verdict else ""}
-                        {f"""<div style="margin-bottom: 6px;">
-                            <div style="font-size: 9px; color: #69f0ae; font-weight: 600; margin-bottom: 4px;">✅ KEY ARGUMENTS</div>
-                            {"".join(f'<div style="font-size: 11px; color: rgba(255,255,255,0.7); padding: 2px 0;">• {a}</div>' for a in ai_args_for[:3])}
-                        </div>""" if ai_args_for else ""}
-                        {f"""<div style="margin-bottom: 6px;">
-                            <div style="font-size: 9px; color: #ff5252; font-weight: 600; margin-bottom: 4px;">⚠️ COUNTER ARGUMENTS</div>
-                            {"".join(f'<div style="font-size: 11px; color: rgba(255,255,255,0.7); padding: 2px 0;">• {a}</div>' for a in ai_args_against[:2])}
-                        </div>""" if ai_args_against else ""}
-                        {f"""<div style="margin-top: 8px; padding: 8px; background: rgba(255,82,82,0.15); border: 1px solid rgba(255,82,82,0.3); border-radius: 8px;">
-                            <div style="font-size: 9px; color: #ff5252; font-weight: 700; margin-bottom: 4px;">🚫 DO NOT BET</div>
-                            {"".join(f'<div style="font-size: 11px; color: #ff8a80; padding: 1px 0;">• {r}</div>' for r in ai_dnb)}
-                        </div>""" if ai_dnb else ""}
+                        {('<div style="margin-bottom: 8px; padding: 10px; background: rgba(255,255,255,0.04); border-radius: 8px; font-size: 12px; color: rgba(255,255,255,0.85); line-height: 1.5;">' + ai_full_verdict + '</div>') if ai_full_verdict else ''}
+                        {('<div style="margin-bottom: 6px;"><div style="font-size: 9px; color: #69f0ae; font-weight: 600; margin-bottom: 4px;">KEY ARGUMENTS</div>' + ''.join('<div style="font-size: 11px; color: rgba(255,255,255,0.7); padding: 2px 0;">&bull; ' + a + '</div>' for a in ai_args_for[:3]) + '</div>') if ai_args_for else ''}
+                        {('<div style="margin-bottom: 6px;"><div style="font-size: 9px; color: #ff5252; font-weight: 600; margin-bottom: 4px;">COUNTER ARGUMENTS</div>' + ''.join('<div style="font-size: 11px; color: rgba(255,255,255,0.7); padding: 2px 0;">&bull; ' + a + '</div>' for a in ai_args_against[:2]) + '</div>') if ai_args_against else ''}
+                        {('<div style="margin-top: 8px; padding: 8px; background: rgba(255,82,82,0.15); border: 1px solid rgba(255,82,82,0.3); border-radius: 8px;"><div style="font-size: 9px; color: #ff5252; font-weight: 700; margin-bottom: 4px;">DO NOT BET</div>' + ''.join('<div style="font-size: 11px; color: #ff8a80; padding: 1px 0;">&bull; ' + r + '</div>' for r in ai_dnb) + '</div>') if ai_dnb else ''}
                         <div style="margin-top: 6px; text-align: right; font-size: 9px; color: rgba(255,255,255,0.3);">Data Quality: {ai_dq} | {ai_consensus.get("strength", "")}</div>
                     </div>
                     ''' if has_ai_pred else ''}
