@@ -1,7 +1,7 @@
 {
   "date": "2026-03-09",
   "sport": "handball",
-  "generatedAt": "2026-03-09T13:03:52.963306",
+  "generatedAt": "2026-03-09T17:17:56.699883",
   "stats": {
     "total": 16,
     "qualifying": 9,
@@ -9,7 +9,7 @@
   },
   "matches": [
     {
-      "id": 3660252543005213106,
+      "id": 9175133931048625235,
       "homeTeam": "Göppingen",
       "awayTeam": "Eisenach",
       "time": "09.03.2026 18:00",
@@ -41,7 +41,7 @@
       "value_bet": false
     },
     {
-      "id": -6792473754962818928,
+      "id": 4099670916448284471,
       "homeTeam": "Gwardia Opole",
       "awayTeam": "Chrobry Głogów",
       "time": "09.03.2026 17:00",
@@ -73,7 +73,7 @@
       "value_bet": false
     },
     {
-      "id": -1724024185915253063,
+      "id": -5774002190096940981,
       "homeTeam": "Stal Mielec",
       "awayTeam": "MMTS Kwidzyn",
       "time": "09.03.2026 19:30",
@@ -105,7 +105,7 @@
       "value_bet": false
     },
     {
-      "id": -6340882000662778778,
+      "id": -1617882961540907107,
       "homeTeam": "AEK Athens",
       "awayTeam": "PAOK",
       "time": "09.03.2026 14:45",
@@ -116,51 +116,51 @@
       "matchUrl": "https://www.livesport.com/pl/mecz/pilka-reczna/aek-athens-vBoxDX2G/paok-O2Dk55o7/?mid=zsgSFk2K",
       "qualifies": true,
       "h2h": {
-        "home": 4,
+        "home": 3,
         "draw": 0,
         "away": 1,
         "total": 5,
-        "winRate": 80
+        "winRate": 60
       },
       "homeForm": [
+        "D",
         "L",
-        "W",
         "W",
         "W",
         "W"
       ],
       "awayForm": [
+        "D",
         "W",
         "W",
         "W",
-        "L",
-        "W"
+        "L"
       ],
       "homeFormHome": [
-        "W",
+        "D",
         "W",
         "W",
         "W",
         "W"
       ],
       "awayFormAway": [
+        "D",
         "L",
         "W",
-        "L",
         "L",
         "L"
       ],
       "formAdvantage": false,
       "odds": {
-        "home": 1.5,
+        "home": 1.53,
         "draw": 8.5,
         "away": 2.9,
         "bookmaker": "Pinnacle"
       },
       "forebet": {
         "prediction": "1",
-        "probability": 71.0,
-        "exactScore": "34-23",
+        "probability": 65.0,
+        "exactScore": "34-31",
         "overUnder": null,
         "btts": null,
         "homeProb": null,
@@ -168,27 +168,27 @@
         "awayProb": null
       },
       "sofascore": {
-        "home": 80,
+        "home": 81,
         "draw": 3,
         "away": 17,
-        "votes": 351
+        "votes": 421
       },
       "focusTeam": "home",
       "scoring": {
         "pick": "1",
-        "prob": 76.2,
-        "ev": 0.143,
-        "edge": 9.5,
-        "kelly": 28.6,
-        "confidence": 77.0,
+        "prob": 71.0,
+        "ev": 0.086,
+        "edge": 5.6,
+        "kelly": 16.2,
+        "confidence": 70.0,
         "dataQuality": 0.8
       },
       "tennis": null,
-      "confidence": 77.0,
+      "confidence": 70.0,
       "value_bet": true
     },
     {
-      "id": -7805766886239812746,
+      "id": -3698830270237647567,
       "homeTeam": "Afturelding",
       "awayTeam": "Thor Akureyri",
       "time": "09.03.2026 19:30",
@@ -237,7 +237,7 @@
       "odds": {
         "home": 1.28,
         "draw": 10.0,
-        "away": 4.3,
+        "away": 4.4,
         "bookmaker": "Pinnacle"
       },
       "forebet": {
@@ -253,25 +253,25 @@
       "sofascore": {
         "home": 85,
         "draw": 6,
-        "away": 9,
-        "votes": 68
+        "away": 8,
+        "votes": 95
       },
       "focusTeam": "home",
       "scoring": {
         "pick": "X",
         "prob": 10.3,
-        "ev": 0.031,
+        "ev": 0.028,
         "edge": 0.3,
         "kelly": 0.3,
-        "confidence": 39.0,
+        "confidence": 38.0,
         "dataQuality": 0.8
       },
       "tennis": null,
-      "confidence": 39.0,
+      "confidence": 38.0,
       "value_bet": true
     },
     {
-      "id": 3365564126906446903,
+      "id": -650925398652379268,
       "homeTeam": "Fram",
       "awayTeam": "IBV Vestmannaeyjar",
       "time": "09.03.2026 19:30",
@@ -318,9 +318,9 @@
       ],
       "formAdvantage": false,
       "odds": {
-        "home": 1.85,
-        "draw": 7.25,
-        "away": 2.25,
+        "home": 1.8,
+        "draw": 7.5,
+        "away": 2.35,
         "bookmaker": "Pinnacle"
       },
       "forebet": {
@@ -334,18 +334,18 @@
         "awayProb": null
       },
       "sofascore": {
-        "home": 37,
-        "draw": 3,
-        "away": 60,
-        "votes": 62
+        "home": 38,
+        "draw": 4,
+        "away": 59,
+        "votes": 82
       },
       "focusTeam": "home",
       "scoring": {
         "pick": "1",
-        "prob": 60.3,
-        "ev": 0.115,
-        "edge": 6.2,
-        "kelly": 13.6,
+        "prob": 61.0,
+        "ev": 0.098,
+        "edge": 5.4,
+        "kelly": 12.2,
         "confidence": 66.0,
         "dataQuality": 0.8
       },
@@ -354,7 +354,7 @@
       "value_bet": true
     },
     {
-      "id": 5104479986162237989,
+      "id": -7835297589122004760,
       "homeTeam": "Haukar",
       "awayTeam": "Selfoss",
       "time": "09.03.2026 19:30",
@@ -401,7 +401,7 @@
       ],
       "formAdvantage": true,
       "odds": {
-        "home": 1.2,
+        "home": 1.18,
         "draw": 11.0,
         "away": 5.5,
         "bookmaker": "Pinnacle"
@@ -417,27 +417,27 @@
         "awayProb": null
       },
       "sofascore": {
-        "home": 86,
-        "draw": 4,
-        "away": 10,
-        "votes": 69
+        "home": 88,
+        "draw": 3,
+        "away": 9,
+        "votes": 92
       },
       "focusTeam": "home",
       "scoring": {
         "pick": "X",
-        "prob": 10.3,
-        "ev": 0.134,
-        "edge": 1.2,
-        "kelly": 1.3,
-        "confidence": 40.0,
+        "prob": 10.1,
+        "ev": 0.116,
+        "edge": 1.1,
+        "kelly": 1.2,
+        "confidence": 39.0,
         "dataQuality": 0.8
       },
       "tennis": null,
-      "confidence": 40.0,
+      "confidence": 39.0,
       "value_bet": true
     },
     {
-      "id": 8120752526951011546,
+      "id": 848957827077240030,
       "homeTeam": "IR Reykjavik",
       "awayTeam": "Stjarnan",
       "time": "09.03.2026 19:30",
@@ -469,7 +469,7 @@
       "value_bet": false
     },
     {
-      "id": -7951147815255044907,
+      "id": 6191291908874052265,
       "homeTeam": "KA",
       "awayTeam": "FH Hafnarfjordur",
       "time": "09.03.2026 19:30",
@@ -501,7 +501,7 @@
       "value_bet": false
     },
     {
-      "id": 4438230234257639163,
+      "id": 1356582391364866923,
       "homeTeam": "Valur",
       "awayTeam": "Kopavogur",
       "time": "09.03.2026 19:30",
@@ -548,7 +548,7 @@
       ],
       "formAdvantage": true,
       "odds": {
-        "home": 1.2,
+        "home": 1.18,
         "draw": 11.0,
         "away": 5.5,
         "bookmaker": "Pinnacle"
@@ -564,27 +564,27 @@
         "awayProb": null
       },
       "sofascore": {
-        "home": 93,
-        "draw": 4,
-        "away": 4,
-        "votes": 81
+        "home": 95,
+        "draw": 3,
+        "away": 3,
+        "votes": 111
       },
       "focusTeam": "home",
       "scoring": {
         "pick": "1",
-        "prob": 88.5,
-        "ev": 0.062,
-        "edge": 5.2,
-        "kelly": 31.1,
-        "confidence": 76.0,
+        "prob": 88.8,
+        "ev": 0.048,
+        "edge": 4.0,
+        "kelly": 26.4,
+        "confidence": 75.0,
         "dataQuality": 0.8
       },
       "tennis": null,
-      "confidence": 76.0,
+      "confidence": 75.0,
       "value_bet": true
     },
     {
-      "id": -6535541280586416494,
+      "id": 8301949866622219591,
       "homeTeam": "N-Lubbecke",
       "awayTeam": "Elbflorenz",
       "time": "09.03.2026 18:30",
@@ -616,7 +616,7 @@
       "value_bet": false
     },
     {
-      "id": -1894710094914512838,
+      "id": 1252774480622911228,
       "homeTeam": "Vojvodina",
       "awayTeam": "Radnicki",
       "time": "09.03.2026 17:00",
@@ -682,7 +682,7 @@
         "home": 95,
         "draw": 1,
         "away": 4,
-        "votes": 162
+        "votes": 206
       },
       "focusTeam": "home",
       "scoring": {
@@ -699,7 +699,7 @@
       "value_bet": true
     },
     {
-      "id": 4403906440698915602,
+      "id": -1372700852692919590,
       "homeTeam": "Helsingborg",
       "awayTeam": "Karlskrona",
       "time": "09.03.2026 18:00",
@@ -731,7 +731,7 @@
       "value_bet": false
     },
     {
-      "id": -7784837556126586009,
+      "id": -8611831027575001192,
       "homeTeam": "Onnered",
       "awayTeam": "Vasteras Irsta HF",
       "time": "09.03.2026 18:00",
@@ -778,9 +778,9 @@
       ],
       "formAdvantage": true,
       "odds": {
-        "home": 1.15,
+        "home": 1.16,
         "draw": 11.0,
-        "away": 6.5,
+        "away": 6.75,
         "bookmaker": "Pinnacle"
       },
       "forebet": {
@@ -795,26 +795,26 @@
       },
       "sofascore": {
         "home": 93,
-        "draw": 3,
+        "draw": 4,
         "away": 4,
-        "votes": 100
+        "votes": 135
       },
       "focusTeam": "home",
       "scoring": {
         "pick": "1",
-        "prob": 80.9,
-        "ev": -0.07,
-        "edge": -6.1,
+        "prob": 80.8,
+        "ev": -0.063,
+        "edge": -5.4,
         "kelly": 0.0,
-        "confidence": 48.0,
+        "confidence": 49.0,
         "dataQuality": 0.8
       },
       "tennis": null,
-      "confidence": 48.0,
+      "confidence": 49.0,
       "value_bet": false
     },
     {
-      "id": -7123331476914060245,
+      "id": 5568487301814953191,
       "homeTeam": "Savehof",
       "awayTeam": "Amo HK",
       "time": "09.03.2026 18:00",
@@ -861,9 +861,9 @@
       ],
       "formAdvantage": false,
       "odds": {
-        "home": 1.35,
+        "home": 1.3,
         "draw": 9.5,
-        "away": 3.95,
+        "away": 4.0,
         "bookmaker": "Pinnacle"
       },
       "forebet": {
@@ -877,27 +877,27 @@
         "awayProb": null
       },
       "sofascore": {
-        "home": 96,
+        "home": 95,
         "draw": 2,
         "away": 2,
-        "votes": 177
+        "votes": 242
       },
       "focusTeam": "home",
       "scoring": {
         "pick": "1",
-        "prob": 77.4,
-        "ev": 0.045,
-        "edge": 3.3,
-        "kelly": 12.9,
-        "confidence": 69.0,
+        "prob": 77.7,
+        "ev": 0.01,
+        "edge": 0.8,
+        "kelly": 3.3,
+        "confidence": 66.0,
         "dataQuality": 0.8
       },
       "tennis": null,
-      "confidence": 69.0,
+      "confidence": 66.0,
       "value_bet": true
     },
     {
-      "id": -4761662911246606263,
+      "id": 5575330158058623469,
       "homeTeam": "Lugi",
       "awayTeam": "Redbergslids",
       "time": "09.03.2026 18:00",
@@ -945,8 +945,8 @@
       "formAdvantage": true,
       "odds": {
         "home": 1.4,
-        "draw": 7.75,
-        "away": 3.75,
+        "draw": 8.0,
+        "away": 3.5,
         "bookmaker": "Pinnacle"
       },
       "forebet": {
@@ -960,18 +960,18 @@
         "awayProb": null
       },
       "sofascore": {
-        "home": 93,
-        "draw": 3,
-        "away": 4,
-        "votes": 73
+        "home": 91,
+        "draw": 4,
+        "away": 5,
+        "votes": 103
       },
       "focusTeam": "home",
       "scoring": {
         "pick": "1",
-        "prob": 80.6,
-        "ev": 0.128,
-        "edge": 9.1,
-        "kelly": 31.9,
+        "prob": 80.1,
+        "ev": 0.121,
+        "edge": 8.6,
+        "kelly": 30.2,
         "confidence": 78.0,
         "dataQuality": 0.8
       },
