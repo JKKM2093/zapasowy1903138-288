@@ -3,9 +3,11 @@ Tests for ai_prediction_engine — Ultra PRO AI prediction layer.
 Covers: helpers, factor analysis, risk, consensus, verdicts, guardrails,
         full generate_ai_prediction for football and tennis.
 """
+# pyright: reportPrivateUsage=false
 
 import math
 import pytest
+from typing import Dict, Any
 from ai_prediction_engine import (
     AIPrediction,
     generate_ai_prediction,
@@ -33,7 +35,7 @@ from ai_prediction_engine import (
 # =========================================================================
 
 @pytest.fixture
-def football_row() -> dict:
+def football_row() -> Dict[str, Any]:
     """A fully-enriched football match row."""
     return {
         'sport': 'football',
@@ -85,7 +87,7 @@ def football_row() -> dict:
 
 
 @pytest.fixture
-def tennis_row() -> dict:
+def tennis_row() -> Dict[str, Any]:
     """A fully-enriched tennis match row."""
     return {
         'sport': 'tennis',
@@ -136,7 +138,7 @@ def tennis_row() -> dict:
 
 
 @pytest.fixture
-def minimal_row() -> dict:
+def minimal_row() -> Dict[str, Any]:
     """A minimal match row with almost no data."""
     return {
         'sport': 'football',
@@ -280,7 +282,7 @@ class TestFormTrend:
         assert label == "Unknown"
 
     def test_single_item(self):
-        score, label = _form_trend(['W'])
+        score, _label = _form_trend(['W'])
         assert score == 0.0
 
 
@@ -319,7 +321,7 @@ class TestFormConsistency:
 # =========================================================================
 
 class TestSourceExtraction:
-    def test_all_sources(self, football_row):
+    def test_all_sources(self, football_row: Dict[str, Any]) -> None:
         preds = _extract_source_prediction(football_row, 'football')
         assert 'forebet' in preds
         assert 'scoring' in preds
@@ -329,12 +331,12 @@ class TestSourceExtraction:
         assert preds['forebet'] == '1'
         assert preds['scoring'] == '1'
 
-    def test_tennis_sources(self, tennis_row):
+    def test_tennis_sources(self, tennis_row: Dict[str, Any]) -> None:
         preds = _extract_source_prediction(tennis_row, 'tennis')
         assert preds.get('sofascore') == 'A'
         assert preds.get('h2h') == 'A'
 
-    def test_empty_row(self, minimal_row):
+    def test_empty_row(self, minimal_row: Dict[str, Any]) -> None:
         preds = _extract_source_prediction(minimal_row, 'football')
         assert len(preds) == 0
 
@@ -354,7 +356,7 @@ class TestConsensus:
 
     def test_no_agreement(self):
         preds = {'a': '2', 'b': 'X'}
-        agree, total = _compute_consensus(preds, '1')
+        agree, _total = _compute_consensus(preds, '1')
         assert agree == 0
 
 
@@ -363,19 +365,19 @@ class TestConsensus:
 # =========================================================================
 
 class TestBuildFactors:
-    def test_football_factor_count(self, football_row):
+    def test_football_factor_count(self, football_row: Dict[str, Any]) -> None:
         factors = _build_factors(football_row, 'football')
         # H2H, Form, Venue Form, Market Odds, Forebet, SofaScore, Gemini = 7
         assert len(factors) == 7
 
-    def test_tennis_has_surface_factor(self, tennis_row):
+    def test_tennis_has_surface_factor(self, tennis_row: Dict[str, Any]) -> None:
         factors = _build_factors(tennis_row, 'tennis')
         names = [f['name'] for f in factors]
         assert 'Surface & Rankings' in names
         # Tennis: no Venue Form but has Surface
         assert 'Venue Form' not in names
 
-    def test_factor_has_required_keys(self, football_row):
+    def test_factor_has_required_keys(self, football_row: Dict[str, Any]) -> None:
         factors = _build_factors(football_row, 'football')
         for f in factors:
             assert 'name' in f
@@ -385,7 +387,7 @@ class TestBuildFactors:
             assert 'quality' in f
             assert 'description' in f
 
-    def test_h2h_factor_description(self, football_row):
+    def test_h2h_factor_description(self, football_row: Dict[str, Any]) -> None:
         factors = _build_factors(football_row, 'football')
         h2h = next(f for f in factors if f['name'] == 'Head-to-Head')
         assert 'Liverpool' in h2h['description']
@@ -397,24 +399,24 @@ class TestBuildFactors:
 # =========================================================================
 
 class TestComputeRisk:
-    def test_low_risk_with_consensus(self, football_row):
+    def test_low_risk_with_consensus(self, football_row: Dict[str, Any]) -> None:
         preds = {'a': '1', 'b': '1', 'c': '1', 'd': '1'}
         factors = _build_factors(football_row, 'football')
-        score, level, flags = _compute_risk(football_row, preds, '1', 0.9, factors)
+        score, level, _flags = _compute_risk(football_row, preds, '1', 0.9, factors)
         assert level == 'LOW'
         assert score < 5
 
-    def test_high_risk_with_conflict(self, minimal_row):
+    def test_high_risk_with_conflict(self, minimal_row: Dict[str, Any]) -> None:
         preds = {'a': '2', 'b': 'X', 'c': '2', 'd': '2', 'e': '1'}
         factors = _build_factors(minimal_row, 'football')
-        score, level, flags = _compute_risk(minimal_row, preds, '1', 0.2, factors)
+        score, _level, flags = _compute_risk(minimal_row, preds, '1', 0.2, factors)
         assert score >= 5
         assert len(flags) > 0
 
-    def test_risk_never_exceeds_10(self, minimal_row):
+    def test_risk_never_exceeds_10(self, minimal_row: Dict[str, Any]) -> None:
         preds = {'a': '2', 'b': 'X', 'c': '2'}
         # Extreme: very low quality, all conflicts, volatile form
-        row = {**minimal_row, 'home_form': ['W', 'L', 'W', 'L', 'W'], 'away_form': ['L', 'W', 'L', 'W', 'L'],
+        row: Dict[str, Any] = {**minimal_row, 'home_form': ['W', 'L', 'W', 'L', 'W'], 'away_form': ['L', 'W', 'L', 'W', 'L'],
                'home_odds': 2.0, 'away_odds': 2.05}
         factors = _build_factors(row, 'football')
         score, _, _ = _compute_risk(row, preds, '1', 0.1, factors)
@@ -426,7 +428,7 @@ class TestComputeRisk:
 # =========================================================================
 
 class TestVerdict:
-    def test_high_confidence_verdict(self, football_row):
+    def test_high_confidence_verdict(self, football_row: Dict[str, Any]) -> None:
         factors = _build_factors(football_row, 'football')
         verdict, short = _generate_verdict(
             football_row, '1', 'Home Win', 80, 'STRONG', 'LOW', factors, 0.08, 6.5, 'football',
@@ -434,7 +436,7 @@ class TestVerdict:
         assert 'Liverpool' in verdict
         assert 'Strong' in short
 
-    def test_low_confidence_verdict(self, football_row):
+    def test_low_confidence_verdict(self, football_row: Dict[str, Any]) -> None:
         factors = _build_factors(football_row, 'football')
         _, short = _generate_verdict(
             football_row, '1', 'Home Win', 40, 'WEAK', 'HIGH', factors, -0.05, -2, 'football',
@@ -447,9 +449,9 @@ class TestVerdict:
 # =========================================================================
 
 class TestArguments:
-    def test_extracts_for_and_against(self, football_row):
+    def test_extracts_for_and_against(self, football_row: Dict[str, Any]) -> None:
         factors = _build_factors(football_row, 'football')
-        args_for, args_against = _extract_arguments(factors, football_row)
+        args_for, _args_against = _extract_arguments(factors, football_row)
         # With rich data, should have some positive factors
         assert len(args_for) > 0
 
@@ -490,7 +492,7 @@ class TestGuardrails:
 # =========================================================================
 
 class TestGenerateAIPrediction:
-    def test_football_full_data(self, football_row):
+    def test_football_full_data(self, football_row: Dict[str, Any]) -> None:
         pred = generate_ai_prediction(football_row)
         assert isinstance(pred, AIPrediction)
         assert pred.pick == '1'
@@ -502,19 +504,19 @@ class TestGenerateAIPrediction:
         assert pred.consensus_total > 0
         assert pred.data_quality > 0
 
-    def test_tennis_prediction(self, tennis_row):
+    def test_tennis_prediction(self, tennis_row: Dict[str, Any]) -> None:
         pred = generate_ai_prediction(tennis_row)
         assert pred.pick in ('A', 'B')
         assert pred.prob_draw == 0.0
         assert 'Surface & Rankings' in [f['name'] for f in pred.factors]
 
-    def test_minimal_row_no_crash(self, minimal_row):
+    def test_minimal_row_no_crash(self, minimal_row: Dict[str, Any]) -> None:
         pred = generate_ai_prediction(minimal_row)
         assert isinstance(pred, AIPrediction)
         assert pred.pick in ('1', '2', 'X')
         assert pred.data_quality_label in ('EXCELLENT', 'GOOD', 'FAIR', 'POOR')
 
-    def test_to_dict_camel_case(self, football_row):
+    def test_to_dict_camel_case(self, football_row: Dict[str, Any]) -> None:
         pred = generate_ai_prediction(football_row)
         d = pred.to_dict()
         assert 'pick' in d
@@ -532,23 +534,23 @@ class TestGenerateAIPrediction:
         assert 'shortVerdict' in d
         assert 'doNotBetReasons' in d
 
-    def test_confidence_range(self, football_row):
+    def test_confidence_range(self, football_row: Dict[str, Any]) -> None:
         pred = generate_ai_prediction(football_row)
         assert 5 <= pred.composite_confidence <= 99
 
-    def test_risk_range(self, football_row):
+    def test_risk_range(self, football_row: Dict[str, Any]) -> None:
         pred = generate_ai_prediction(football_row)
         assert 0 <= pred.risk_score <= 10
         assert pred.risk_level in ('LOW', 'MEDIUM', 'HIGH')
 
-    def test_verdicts_not_empty(self, football_row):
+    def test_verdicts_not_empty(self, football_row: Dict[str, Any]) -> None:
         pred = generate_ai_prediction(football_row)
         assert len(pred.verdict) > 20
         assert len(pred.short_verdict) > 10
 
     def test_missing_scoring_engine_fallback(self):
         """When scoring engine is absent, prediction should still work."""
-        row = {
+        row: Dict[str, Any] = {
             'sport': 'football',
             'home_team': 'A', 'away_team': 'B',
             'focus_team': 'home',
@@ -563,7 +565,7 @@ class TestGenerateAIPrediction:
 
     def test_all_nan_values_handled(self):
         """NaN values from pandas should not crash."""
-        row = {
+        row: Dict[str, Any] = {
             'sport': 'football',
             'home_team': 'X', 'away_team': 'Y',
             'focus_team': 'home',
@@ -579,7 +581,7 @@ class TestGenerateAIPrediction:
 
 
 class TestAIPredictionDataclass:
-    def test_to_dict_roundtrip(self, football_row):
+    def test_to_dict_roundtrip(self, football_row: Dict[str, Any]) -> None:
         pred = generate_ai_prediction(football_row)
         d = pred.to_dict()
         # All values should be JSON-serializable
@@ -587,7 +589,7 @@ class TestAIPredictionDataclass:
         json_str = json.dumps(d)
         assert len(json_str) > 100
 
-    def test_do_not_bet_empty_for_good_data(self, football_row):
+    def test_do_not_bet_empty_for_good_data(self, football_row: Dict[str, Any]) -> None:
         pred = generate_ai_prediction(football_row)
         # Good data should not trigger do-not-bet (unless risk is high)
         if pred.risk_score < 8 and pred.composite_confidence >= 35:

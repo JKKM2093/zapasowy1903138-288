@@ -510,6 +510,7 @@ def scrape_and_send_email(
                         match_date = f"{year}-{month.zfill(2)}-{day.zfill(2)}"
                 if not match_date:
                     match_date = date
+                row['match_date'] = match_date
                 
                 # FOREBET
                 if use_forebet and FOREBET_AVAILABLE:
@@ -861,14 +862,13 @@ def scrape_and_send_email(
             _sb_saved = 0
             _sb_failed = 0
             for row in rows:
-                try:
-                    _supabase_mgr.save_prediction(row)
+                if _supabase_mgr.save_prediction(row):
                     _sb_saved += 1
-                except Exception as e:
+                else:
                     _sb_failed += 1
                     home = row.get('home_team', '???')
                     away = row.get('away_team', '???')
-                    print(f"   ⚠️ Błąd zapisu: {home} vs {away} - {e}")
+                    print(f"   ⚠️ Błąd zapisu: {home} vs {away}")
             print(f"   ✅ Supabase: {_sb_saved}/{len(rows)} zapisanych ({_sb_failed} błędów)")
                 # Podsumowanie scrapingu
         print("\n📊 PODSUMOWANIE SCRAPINGU:")

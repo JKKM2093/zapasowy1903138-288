@@ -88,8 +88,11 @@ class SupabaseManager:
         """
         try:
             # Prepare data for insert
+            raw_date = match_data.get('match_date')
+            if not raw_date or (isinstance(raw_date, float) and str(raw_date) == 'nan'):
+                raw_date = datetime.now().strftime('%Y-%m-%d')
             prediction_record: Dict[str, Any] = {
-                'match_date': match_data.get('match_date'),
+                'match_date': raw_date,
                 'match_time': match_data.get('match_time'),
                 'home_team': match_data.get('home_team'),
                 'away_team': match_data.get('away_team'),

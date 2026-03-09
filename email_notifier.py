@@ -6,9 +6,11 @@ NOWE: Sekcje pre-posortowanych kursów (home/draw/away) - od najwyższych do naj
 
 import smtplib
 import math
+import json
+import re
 from email.mime.text import MIMEText
 from email.mime.multipart import MIMEMultipart
-from typing import List, Dict, Optional, Any, Union
+from typing import List, Dict, Optional, Any
 import pandas as pd
 from datetime import datetime
 
@@ -16,6 +18,31 @@ from datetime import datetime
 # ============================================================================
 # GLOBAL HELPER FUNCTIONS - Obsługa NaN, None i różnych formatów danych
 # ============================================================================
+
+def ensure_ai_prediction_dict(val: Any) -> Dict[str, Any]:
+    """
+    Normalizuje ai_prediction do dict.
+    Po read_csv dict jest serializowany do stringa JSON — ta funkcja odwraca to.
+    Obsługuje: dict (passthrough), JSON string, None, NaN, pusty string.
+    """
+    if isinstance(val, dict):
+        return {str(k): v for k, v in val.items()}  # type: ignore[union-attr]
+    if val is None:
+        return {}
+    if isinstance(val, float):
+        return {}  # NaN z pandas
+    if isinstance(val, str):
+        s = val.strip()
+        if not s or s.lower() in ('nan', 'none', '{}'):
+            return {}
+        try:
+            parsed = json.loads(s.replace("'", '"'))
+            if isinstance(parsed, dict):
+                return {str(k): v for k, v in parsed.items()}  # type: ignore[union-attr]
+        except (json.JSONDecodeError, ValueError):
+            pass
+    return {}
+
 
 def is_nan_or_none(val: Any) -> bool:
     """
@@ -59,7 +86,7 @@ def safe_float(val: Any, default: float = 0.0) -> float:
         return default
 
 
-def parse_form_list(form_data: Any) -> list:
+def parse_form_list(form_data: Any) -> List[str]:
     """
     Parsuje dane formy z różnych formatów (string, lista, etc.) do listy.
     Obsługuje formaty: ['W', 'L', 'D'], "['W', 'L', 'D']", "W-L-D", "WLD", etc.
@@ -69,7 +96,7 @@ def parse_form_list(form_data: Any) -> list:
     
     # Już jest listą
     if isinstance(form_data, list):
-        return [str(x).strip().upper() for x in form_data if x]
+        return [str(x).strip().upper() for x in form_data if x]  # type: ignore[union-attr]
     
     # String - parsuj
     if isinstance(form_data, str):
@@ -83,7 +110,7 @@ def parse_form_list(form_data: Any) -> list:
                 import ast
                 parsed = ast.literal_eval(form_str)
                 if isinstance(parsed, list):
-                    return [str(x).strip().upper() for x in parsed if x]
+                    return [str(x).strip().upper() for x in parsed if x]  # type: ignore[union-attr]
             except (ValueError, SyntaxError):
                 pass
         
@@ -114,7 +141,7 @@ def format_odds_value(val: Any) -> str:
         return '—'
 
 
-def has_valid_odds(match: Dict) -> bool:
+def has_valid_odds(match: Dict[str, Any]) -> bool:
     """
     Sprawdza czy mecz ma przynajmniej jeden ważny kurs.
     """
@@ -148,7 +175,7 @@ def _render_team_logos_row(home_logo: str, away_logo: str, home_name: str, away_
     return f'<div style="margin-bottom:8px;">{"".join(parts)}</div>'
 
 
-def _clean_odds_for_render(val) -> Optional[float]:
+def _clean_odds_for_render(val: Any) -> Optional[float]:
     """
     Czyści wartość kursu przed renderowaniem - zamienia string 'nan' na None.
     Obsługuje: None, string 'nan', float NaN, pandas NaN, numpy NaN.
@@ -190,7 +217,7 @@ def _render_odds_section(home_odds: Optional[float], draw_odds: Optional[float],
     away_odds = _clean_odds_for_render(away_odds)
     
     # Zbierz wszystkie ważne kursy
-    valid_odds = []
+    valid_odds: List[float] = []
     if home_odds is not None and home_odds > 0:
         valid_odds.append(home_odds)
     if draw_odds is not None and draw_odds > 0:
@@ -302,7 +329,7 @@ def _render_forebet_section(fb_pred: Optional[str], fb_prob: Optional[float], fb
 # SORTED ODDS SECTIONS - Pre-posortowane kursy w emailu
 # ============================================================================
 
-def create_sorted_odds_sections(matches: List[Dict], limit: int = 15) -> str:
+def create_sorted_odds_sections(matches: List[Dict[str, Any]], limit: int = 15) -> str:
     """
     Tworzy HTML sekcje z meczami posortowanymi po kursach (od najwyższych).
     
@@ -319,9 +346,8 @@ def create_sorted_odds_sections(matches: List[Dict], limit: int = 15) -> str:
     if not matches_with_odds:
         return ""
     
-    def get_time_str(match):
+    def get_time_str(match: Dict[str, Any]) -> str:
         """Wyciąga godzinę meczu."""
-        import re
         match_time = match.get('match_time', '')
         if match_time:
             time_match = re.search(r'(\d{1,2}:\d{2})', str(match_time))
@@ -539,7 +565,7 @@ ODDS_SECTIONS_CSS = """
 """
 
 # Konfiguracja SMTP
-SMTP_CONFIG = {
+SMTP_CONFIG: Dict[str, Dict[str, Any]] = {
     'gmail': {
         'server': 'smtp.gmail.com',
         'port': 587,
@@ -557,7 +583,7 @@ SMTP_CONFIG = {
     }
 }
 
-def create_html_email(matches: List[Dict], date: str, sort_by: str = 'time', 
+def create_html_email(matches: List[Dict[str, Any]], date: str, sort_by: str = 'time', 
                       include_sorted_odds: bool = False, odds_limit: int = 15) -> str:
     """
     Tworzy ładny HTML email z listą meczów
@@ -575,13 +601,12 @@ def create_html_email(matches: List[Dict], date: str, sort_by: str = 'time',
     
     if sort_by == 'time':
         # Sortuj po godzinie meczu
-        def get_time_key(match):
+        def get_time_key(match: Dict[str, Any]) -> str:
             match_time = match.get('match_time', '')
             if not match_time:
                 return '99:99'  # Mecze bez czasu na końcu
             
             # Wyciągnij godzinę z różnych formatów
-            import re
             # Format: DD.MM.YYYY HH:MM lub HH:MM
             time_match = re.search(r'(\d{1,2}:\d{2})', match_time)
             if time_match:
@@ -592,7 +617,7 @@ def create_html_email(matches: List[Dict], date: str, sort_by: str = 'time',
     
     elif sort_by == 'wins':
         # Sortuj po liczbie wygranych (malejąco) - uwzględnij tryb away_team_focus
-        def get_wins(match):
+        def get_wins(match: Dict[str, Any]) -> Any:
             focus_team = match.get('focus_team', 'home')
             if focus_team == 'away':
                 return match.get('away_wins_in_h2h_last5', 0)
@@ -746,11 +771,11 @@ def create_html_email(matches: List[Dict], date: str, sort_by: str = 'time',
     # ========================================================================
     top_picks = [m for m in sorted_matches
                  if (m.get('gemini_recommendation') == 'HIGH' and m.get('gemini_confidence', 0) >= 85)
-                 or ((m.get('ai_prediction') or {}).get('confidenceTier') in ('VERY HIGH', 'HIGH')
-                     and (m.get('ai_prediction') or {}).get('compositeConfidence', 0) >= 75)]
+                 or (ensure_ai_prediction_dict(m.get('ai_prediction')).get('confidenceTier') in ('VERY HIGH', 'HIGH')
+                     and ensure_ai_prediction_dict(m.get('ai_prediction')).get('compositeConfidence', 0) >= 75)]
     # Deduplicate (a match might qualify via both gemini and ai_prediction)
-    seen_tp = set()
-    unique_top_picks = []
+    seen_tp: set[tuple[Any, ...]] = set()
+    unique_top_picks: List[Dict[str, Any]] = []
     for _tp in top_picks:
         _tp_key = (_tp.get('home_team', ''), _tp.get('away_team', ''), _tp.get('match_time', ''))
         if _tp_key not in seen_tp:
@@ -771,13 +796,13 @@ def create_html_email(matches: List[Dict], date: str, sort_by: str = 'time',
             away = pick.get('away_team', 'N/A')
             confidence = pick.get('gemini_confidence', 0)
             prediction = pick.get('gemini_prediction', 'N/A')
-            tp_ai = pick.get('ai_prediction') or {}
+            tp_ai = ensure_ai_prediction_dict(pick.get('ai_prediction'))
             # Pre-compute AI Pro color values (avoids {{dict}} syntax errors inside f-strings)
             _tp_tc = {'VERY HIGH': '#00e676', 'HIGH': '#69f0ae', 'MEDIUM': '#ffd740'}.get(tp_ai.get('confidenceTier', ''), '#555')
             _tp_tc2 = {'VERY HIGH': '#00e676', 'HIGH': '#69f0ae', 'MEDIUM': '#ffd740'}.get(tp_ai.get('confidenceTier', ''), '#999')
-            _tp_risk = tp_ai.get('risk') or {}
-            _tp_rc = {'LOW': '#69f0ae', 'MEDIUM': '#ffd740', 'HIGH': '#ff5252'}.get(_tp_risk.get('level', ''), '#999')
-            _tp_rs = _tp_risk.get('score', '?')
+            _tp_risk: Dict[str, Any] = tp_ai.get('risk') or {}
+            _tp_rc: str = {'LOW': '#69f0ae', 'MEDIUM': '#ffd740', 'HIGH': '#ff5252'}.get(str(_tp_risk.get('level', '')), '#999')
+            _tp_rs: Any = _tp_risk.get('score', '?')
             # Bezpieczne pobieranie reasoning (może być NaN/float z pandas)
             raw_reasoning = pick.get('gemini_reasoning', '')
             if raw_reasoning is None or (isinstance(raw_reasoning, float) and str(raw_reasoning) == 'nan'):
@@ -790,12 +815,10 @@ def create_html_email(matches: List[Dict], date: str, sort_by: str = 'time',
             if focus_team == 'away':
                 wins = pick.get('away_wins_in_h2h_last5', 0)
                 h2h_count = pick.get('h2h_count', pick.get('h2h_last5', 0))
-                focused_team = away
                 team_emoji = '🚀'
             else:
                 wins = pick.get('home_wins_in_h2h_last5', 0)
                 h2h_count = pick.get('h2h_count', pick.get('h2h_last5', 0))
-                focused_team = home
                 team_emoji = '🏠'
             
             win_rate = (wins / h2h_count * 100) if h2h_count > 0 else 0
@@ -895,7 +918,6 @@ def create_html_email(matches: List[Dict], date: str, sort_by: str = 'time',
         match_time = match.get('match_time', 'Brak danych')
         match_url = match.get('match_url', '#')
         
-        import re
         time_badge = ''
         if match_time and match_time != 'Brak danych':
             time_match = re.search(r'(\d{1,2}:\d{2})', match_time)
@@ -916,7 +938,7 @@ def create_html_email(matches: List[Dict], date: str, sort_by: str = 'time',
         last_h2h_home = safe_value(match.get('last_h2h_home', ''), '')
         last_h2h_away = safe_value(match.get('last_h2h_away', ''), '')
         
-        def form_to_icons(form_list):
+        def form_to_icons(form_list: List[str]) -> str:
             """Konwertuje listę wyników na ikony emoji."""
             icons = {'W': '🟢', 'L': '🔴', 'D': '🟡'}
             if not form_list:
@@ -997,12 +1019,11 @@ def create_html_email(matches: List[Dict], date: str, sort_by: str = 'time',
         has_scoring = sc_pick is not None and sc_prob is not None
         
         # AI PREDICTION PRO - bezpieczne pobieranie
-        ai_pred = match.get('ai_prediction') or {}
+        ai_pred = ensure_ai_prediction_dict(match.get('ai_prediction'))
         ai_pick = ai_pred.get('pick')
         ai_pick_label = ai_pred.get('pickLabel', '')
         ai_conf = ai_pred.get('compositeConfidence')
         ai_tier = ai_pred.get('confidenceTier', '')
-        ai_verdict = ai_pred.get('shortVerdict', '')
         ai_full_verdict = ai_pred.get('verdict', '')
         ai_consensus = ai_pred.get('consensus', {})
         ai_risk = ai_pred.get('risk', {})
@@ -1026,9 +1047,6 @@ def create_html_email(matches: List[Dict], date: str, sort_by: str = 'time',
         _ai_risk_colors = {'LOW': '#69f0ae', 'MEDIUM': '#ffd740', 'HIGH': '#ff5252'}
         _ai_value_colors = {'EXCELLENT': '#00e676', 'GOOD': '#69f0ae', 'FAIR': '#ffd740', 'NONE': '#ff5252'}
         _ai_tc = _ai_tier_colors.get(ai_tier, ('#9e9e9e', '#333'))
-        
-        # Kolory podświetlenia
-        advantage_icon = '🔥' if form_advantage else ''
         
         # TENNIS-SPECIFIC: Wykryj czy to tenis (po polu sport lub URL)
         is_tennis = (match.get('sport') == 'tennis' or 
@@ -1258,7 +1276,7 @@ def send_email_notification(
     from_email: str,
     password: str,
     provider: str = 'gmail',
-    subject: str = None,
+    subject: Optional[str] = None,
     sort_by: str = 'time',
     only_form_advantage: bool = False,
     skip_no_odds: bool = False,
@@ -1289,7 +1307,7 @@ def send_email_notification(
     df = pd.read_csv(csv_file, encoding='utf-8')
     
     # 🔧 Czyść DataFrame po wczytaniu z CSV - zamień string 'nan' na None
-    def clean_dataframe_for_email(df_in):
+    def clean_dataframe_for_email(df_in: pd.DataFrame) -> pd.DataFrame:
         """Czyści DataFrame po wczytaniu z CSV - zamienia string 'nan' na None"""
         # Zamień stringi 'nan' na None
         df_in = df_in.replace({'nan': None, 'NaN': None, 'None': None})
@@ -1302,7 +1320,7 @@ def send_email_notification(
         for col in numeric_cols:
             if col in df_in.columns:
                 df_in[col] = df_in[col].apply(
-                    lambda x: None if pd.isna(x) or (isinstance(x, str) and x.lower() == 'nan') else x
+                    lambda x: None if pd.isna(x) or (isinstance(x, str) and x.lower() == 'nan') else x  # type: ignore[arg-type]
                 )
         
         return df_in
@@ -1339,7 +1357,7 @@ def send_email_notification(
         print(f"📉 TRYB: Pomijam mecze z kursem < {min_odds_threshold}")
         before_count = len(qualified)
         if 'home_odds' in qualified.columns and 'away_odds' in qualified.columns:
-            def _odds_above_threshold(row):
+            def _odds_above_threshold(row: pd.Series) -> bool:  # type: ignore[type-arg]
                 ho = row.get('home_odds')
                 ao = row.get('away_odds')
                 if pd.isna(ho) or pd.isna(ao):
@@ -1353,7 +1371,7 @@ def send_email_notification(
             print(f"   Pominięto {skipped} meczów z kursem < {min_odds_threshold}")
 
     if len(qualified) == 0:
-        messages = []
+        messages: List[str] = []
         if only_form_advantage:
             messages.append("PRZEWAGĄ FORMY")
         if skip_no_odds:
@@ -1373,7 +1391,7 @@ def send_email_notification(
         without_odds = 0  # Wszystkie mają kursy, bo filtrujemy
 
     # Komunikat o znalezionych meczach
-    msg_parts = []
+    msg_parts: List[str] = []
     if only_form_advantage:
         msg_parts.append("z PRZEWAGĄ FORMY 🔥")
     if skip_no_odds:
@@ -1389,10 +1407,12 @@ def send_email_notification(
     
     # Przygotuj dane
     matches = qualified.to_dict('records')
+    for m in matches:
+        m['ai_prediction'] = ensure_ai_prediction_dict(m.get('ai_prediction'))
     date = datetime.now().strftime('%Y-%m-%d')
     
     if subject is None:
-        subject_parts = []
+        subject_parts: List[str] = []
         if only_form_advantage:
             subject_parts.append("🔥 PRZEWAGA FORMY")
         if skip_no_odds:
@@ -1411,7 +1431,7 @@ def send_email_notification(
     
     # Dodaj treść HTML
     html_content = create_html_email(
-        matches, date, 
+        matches, date,  # type: ignore[arg-type]
         sort_by=sort_by,
         include_sorted_odds=include_sorted_odds,
         odds_limit=odds_limit
@@ -1494,7 +1514,7 @@ def send_split_emails_by_sport(
     for col in numeric_cols:
         if col in df.columns:
             df[col] = df[col].apply(
-                lambda x: None if pd.isna(x) or (isinstance(x, str) and x.lower() == 'nan') else x
+                lambda x: None if pd.isna(x) or (isinstance(x, str) and x.lower() == 'nan') else x  # type: ignore[arg-type]
             )
 
     # --- filtruj kwalifikujące ---
@@ -1511,7 +1531,7 @@ def send_split_emails_by_sport(
     if min_odds_threshold > 0 and 'home_odds' in qualified.columns:
         before = len(qualified)
 
-        def _above(row):
+        def _above(row: pd.Series) -> bool:  # type: ignore[type-arg]
             try:
                 return float(row['home_odds']) >= min_odds_threshold and float(row['away_odds']) >= min_odds_threshold
             except (ValueError, TypeError):
@@ -1541,23 +1561,25 @@ def send_split_emails_by_sport(
             server.login(from_email, password)
 
             for sport in sorted(sports):
-                sport_df = qualified[qualified['sport'] == sport]
+                sport_df: pd.DataFrame = qualified[qualified['sport'] == sport]  # type: ignore[assignment]
                 emoji = SPORT_EMOJI.get(sport, '🏆')
                 label = SPORT_LABEL.get(sport, sport.capitalize())
 
                 # grupa A: przewaga formy
                 if 'form_advantage' in sport_df.columns:
-                    group_form = sport_df[sport_df['form_advantage'] == True]
-                    group_normal = sport_df[sport_df['form_advantage'] != True]
+                    group_form: pd.DataFrame = sport_df[sport_df['form_advantage'] == True]  # type: ignore[assignment]
+                    group_normal: pd.DataFrame = sport_df[sport_df['form_advantage'] != True]  # type: ignore[assignment]
                 else:
-                    group_form = sport_df.iloc[0:0]  # pusty
-                    group_normal = sport_df
+                    group_form = sport_df.iloc[0:0]  # type: ignore[assignment]  # pusty
+                    group_normal = sport_df  # type: ignore[assignment]
 
                 # --- Mail 1: forma ---
-                if len(group_form) > 0:
-                    matches_form = group_form.to_dict('records')
-                    subj = f"🔥 {emoji} {label}: {len(group_form)} meczów z PRZEWAGĄ FORMY — {date}"
-                    html = create_html_email(matches_form, date, sort_by=sort_by,
+                if len(group_form) > 0:  # type: ignore[arg-type]
+                    matches_form: List[Dict[str, Any]] = group_form.to_dict('records')  # type: ignore[assignment]
+                    for m in matches_form:
+                        m['ai_prediction'] = ensure_ai_prediction_dict(m.get('ai_prediction'))
+                    subj = f"🔥 {emoji} {label}: {len(group_form)} meczów z PRZEWAGĄ FORMY — {date}"  # type: ignore[arg-type]
+                    html = create_html_email(matches_form, date, sort_by=sort_by,  # type: ignore[arg-type]
                                              include_sorted_odds=include_sorted_odds,
                                              odds_limit=odds_limit)
                     msg = MIMEMultipart('alternative')
@@ -1570,10 +1592,12 @@ def send_split_emails_by_sport(
                     print(f"   ✅ Wysłano: {subj}")
 
                 # --- Mail 2: zwykłe ---
-                if len(group_normal) > 0:
-                    matches_normal = group_normal.to_dict('records')
-                    subj = f"📋 {emoji} {label}: {len(group_normal)} meczów zwykłych — {date}"
-                    html = create_html_email(matches_normal, date, sort_by=sort_by,
+                if len(group_normal) > 0:  # type: ignore[arg-type]
+                    matches_normal: List[Dict[str, Any]] = group_normal.to_dict('records')  # type: ignore[assignment]
+                    for m in matches_normal:
+                        m['ai_prediction'] = ensure_ai_prediction_dict(m.get('ai_prediction'))
+                    subj = f"📋 {emoji} {label}: {len(group_normal)} meczów zwykłych — {date}"  # type: ignore[arg-type]
+                    html = create_html_email(matches_normal, date, sort_by=sort_by,  # type: ignore[arg-type]
                                              include_sorted_odds=include_sorted_odds,
                                              odds_limit=odds_limit)
                     msg = MIMEMultipart('alternative')
