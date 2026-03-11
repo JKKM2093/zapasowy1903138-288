@@ -1,4 +1,4 @@
-@echo off
+﻿@echo off
 REM =========================================================
 REM Quick Launch Script - Tennis Only
 REM =========================================================
@@ -31,9 +31,9 @@ REM Uruchom scraper
 python scrape_and_notify.py ^
   --date %DATE% ^
   --sports tennis ^
-  --to jakub.majka.zg@gmail.com ^
-  --from-email jakub.majka.zg@gmail.com ^
-  --password "vurb tcai zaaq itjx" ^
+  --to jakubmajka76@gmail.com ^
+  --from-email jakubmajka76@gmail.com ^
+  --password "jtgs vkeg euba yhms" ^
   --headless ^
   --sort time ^
   --use-forebet ^
@@ -45,7 +45,7 @@ echo  ✅ Gotowe!
 echo ============================================================
 echo.
 echo Wyniki zapisano w:
-echo   - Email: jakub.majka.zg@gmail.com
+echo   - Email: jakubmajka76@gmail.com
 echo   - Plik: outputs\livesport_h2h_%DATE%_tennis_EMAIL.csv
 echo.
 

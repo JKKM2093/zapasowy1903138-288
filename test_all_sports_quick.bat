@@ -1,4 +1,4 @@
-@echo off
+﻿@echo off
 REM ============================================
 REM QUICK TEST - 20 meczów z każdego sportu
 REM Czas: ~10-15 minut
@@ -26,9 +26,9 @@ echo.
 python scrape_and_notify.py ^
   --date %TODAY% ^
   --sports football basketball volleyball handball rugby hockey tennis ^
-  --to jakub.majka.zg@gmail.com ^
-  --from-email jakub.majka.zg@gmail.com ^
-  --password "vurb tcai zaaq itjx" ^
+  --to jakubmajka76@gmail.com ^
+  --from-email jakubmajka76@gmail.com ^
+  --password "jtgs vkeg euba yhms" ^
   --max-matches 20 ^
   --headless ^
   --sort time

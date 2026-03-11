@@ -1,4 +1,4 @@
-@echo off
+﻿@echo off
 REM =========================================================
 REM Scraper - SIATKÓWKA (GOŚCIE) + EMAIL
 REM =========================================================
@@ -16,10 +16,10 @@ SET DATE=2025-10-12
 echo Data: %DATE%
 echo Sport: Siatkówka (Volleyball)
 echo Fokus: DRUŻYNY GOŚCI + PRZEWAGA FORMY
-echo Email: jakub.majka.zg@gmail.com
+echo Email: jakubmajka76@gmail.com
 echo.
 
-python scrape_and_notify.py --date %DATE% --sports volleyball --to jakub.majka.zg@gmail.com --from-email jakub.majka.zg@gmail.com --password "vurb tcai zaaq itjx" --away-team-focus --only-form-advantage --headless --use-forebet --use-sofascore --use-odds
+python scrape_and_notify.py --date %DATE% --sports volleyball --to jakubmajka76@gmail.com --from-email jakubmajka76@gmail.com --password "jtgs vkeg euba yhms" --away-team-focus --only-form-advantage --headless --use-forebet --use-sofascore --use-odds
 
 echo.
 echo ============================================================

@@ -1,4 +1,4 @@
-@echo off
+﻿@echo off
 REM ====================================================================
 REM 🎯 WERYFIKACJA WCZORAJSZYCH PRZEWIDYWAŃ
 REM ====================================================================
@@ -16,7 +16,7 @@ echo 📅 Sprawdzam wyniki z: %YESTERDAY%
 echo.
 
 REM Uruchom weryfikację
-python verify_predictions.py --date %YESTERDAY% --headless --send-email --to jakub.majka.zg@gmail.com --from-email jakub.majka.zg@gmail.com --password "vurb tcai zaaq itjx"
+python verify_predictions.py --date %YESTERDAY% --headless --send-email --to jakubmajka76@gmail.com --from-email jakubmajka76@gmail.com --password "jtgs vkeg euba yhms"
 
 echo.
 echo ====================================================================

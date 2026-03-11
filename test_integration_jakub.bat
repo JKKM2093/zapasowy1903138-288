@@ -1,4 +1,4 @@
-@echo off
+﻿@echo off
 REM ============================================
 REM TEST INTEGRACJI - Jakub
 REM ============================================
@@ -28,9 +28,9 @@ REM URL Twojej aplikacji UI (ZMIEŃ TO!)
 SET APP_URL=http://localhost:3000
 
 REM Twoje dane email
-SET EMAIL_TO=jakub.majka.zg@gmail.com
-SET EMAIL_FROM=jakub.majka.zg@gmail.com
-SET EMAIL_PASSWORD=vurb tcai zaaq itjx
+SET EMAIL_TO=jakubmajka76@gmail.com
+SET EMAIL_FROM=jakubmajka76@gmail.com
+SET EMAIL_PASSWORD=jtgs vkeg euba yhms
 
 REM Sport do testu (mało meczów = szybki test)
 SET SPORTS=football

@@ -1,4 +1,4 @@
-@echo off
+﻿@echo off
 REM ============================================
 REM Daily Scraper - Z INTEGRACJĄ DO APLIKACJI UI
 REM ============================================
@@ -30,9 +30,9 @@ REM Zmień te wartości na swoje!
 SET APP_URL=http://localhost:3000
 SET APP_API_KEY=
 SET SPORTS=football basketball
-SET EMAIL_TO=jakub.majka.zg@gmail.com
-SET EMAIL_FROM=jakub.majka.zg@gmail.com
-SET EMAIL_PASSWORD=vurb tcai zaaq itjx
+SET EMAIL_TO=jakubmajka76@gmail.com
+SET EMAIL_FROM=jakubmajka76@gmail.com
+SET EMAIL_PASSWORD=jtgs vkeg euba yhms
 
 REM ========================
 

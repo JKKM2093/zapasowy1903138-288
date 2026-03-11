@@ -1,4 +1,4 @@
-@echo off
+﻿@echo off
 REM ============================================
 REM Daily Scraper - TYLKO TENIS
 REM ============================================
@@ -32,9 +32,9 @@ REM Uruchom scraper z TYLKO tenisem
 python scrape_and_notify.py ^
   --date %TODAY% ^
   --sports tennis ^
-  --to jakub.majka.zg@gmail.com ^
-  --from-email jakub.majka.zg@gmail.com ^
-  --password "vurb tcai zaaq itjx" ^
+  --to jakubmajka76@gmail.com ^
+  --from-email jakubmajka76@gmail.com ^
+  --password "jtgs vkeg euba yhms" ^
   --headless ^
   --sort time ^
   --use-forebet ^
