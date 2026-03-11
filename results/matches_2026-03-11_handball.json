@@ -1,15 +1,15 @@
 {
   "date": "2026-03-11",
   "sport": "handball",
-  "generatedAt": "2026-03-11T02:28:44.917672",
+  "generatedAt": "2026-03-11T13:24:54.461216",
   "stats": {
-    "total": 63,
+    "total": 64,
     "qualifying": 32,
     "formAdvantage": 22
   },
   "matches": [
     {
-      "id": -7289862629284028197,
+      "id": 6560554868257639857,
       "homeTeam": "GOG",
       "awayTeam": "RK Zagreb",
       "time": "11.03.2026 17:45",
@@ -56,34 +56,43 @@
       ],
       "formAdvantage": true,
       "odds": {
-        "home": 1.18,
-        "draw": 12.0,
-        "away": 6.0,
+        "home": 1.12,
+        "draw": 14.0,
+        "away": 7.5,
         "bookmaker": "Pinnacle"
       },
-      "forebet": null,
+      "forebet": {
+        "prediction": "2",
+        "probability": 49.0,
+        "exactScore": "29-36",
+        "overUnder": null,
+        "btts": null,
+        "homeProb": null,
+        "drawProb": null,
+        "awayProb": null
+      },
       "sofascore": {
-        "home": 80,
+        "home": 81,
         "draw": 2,
-        "away": 18,
-        "votes": 460
+        "away": 16,
+        "votes": 796
       },
       "focusTeam": "home",
       "scoring": {
-        "pick": "1",
-        "prob": 87.0,
-        "ev": 0.026,
-        "edge": 2.2,
-        "kelly": 14.6,
-        "confidence": 69.0,
-        "dataQuality": 0.7
+        "pick": "X",
+        "prob": 7.4,
+        "ev": 0.043,
+        "edge": 0.3,
+        "kelly": 0.3,
+        "confidence": 37.0,
+        "dataQuality": 0.8
       },
       "tennis": null,
-      "confidence": 69.0,
+      "confidence": 37.0,
       "value_bet": true
     },
     {
-      "id": -8988323457738756816,
+      "id": -5941369849141386657,
       "homeTeam": "Orlen Wisła Płock",
       "awayTeam": "Szeged",
       "time": "11.03.2026 17:45",
@@ -115,7 +124,7 @@
       "value_bet": false
     },
     {
-      "id": -5303229859009069748,
+      "id": 8954267512759105437,
       "homeTeam": "Barcelona",
       "awayTeam": "Eurofarm Pelister",
       "time": "11.03.2026 19:45",
@@ -163,33 +172,42 @@
       "formAdvantage": true,
       "odds": {
         "home": 1.01,
-        "draw": 25.0,
-        "away": 25.0,
+        "draw": 30.0,
+        "away": 20.0,
         "bookmaker": "Pinnacle"
       },
-      "forebet": null,
+      "forebet": {
+        "prediction": "1",
+        "probability": 68.0,
+        "exactScore": "31-28",
+        "overUnder": null,
+        "btts": null,
+        "homeProb": null,
+        "drawProb": null,
+        "awayProb": null
+      },
       "sofascore": {
         "home": 94,
-        "draw": 1,
-        "away": 5,
-        "votes": 563
+        "draw": 2,
+        "away": 4,
+        "votes": 865
       },
       "focusTeam": "home",
       "scoring": {
         "pick": "X",
-        "prob": 4.2,
-        "ev": 0.047,
-        "edge": 0.2,
-        "kelly": 0.2,
-        "confidence": 33.0,
-        "dataQuality": 0.7
+        "prob": 4.8,
+        "ev": 0.444,
+        "edge": 1.5,
+        "kelly": 1.5,
+        "confidence": 38.0,
+        "dataQuality": 0.8
       },
       "tennis": null,
-      "confidence": 33.0,
+      "confidence": 38.0,
       "value_bet": true
     },
     {
-      "id": 2028780110131577909,
+      "id": 8297465966101268167,
       "homeTeam": "PSG",
       "awayTeam": "SC Magdeburg",
       "time": "11.03.2026 19:45",
@@ -221,7 +239,7 @@
       "value_bet": false
     },
     {
-      "id": 7664674135485065723,
+      "id": -4175685107506364665,
       "homeTeam": "Mieszkow Brześć",
       "awayTeam": "SKA Minsk",
       "time": "11.03.2026 14:45",
@@ -253,7 +271,7 @@
       "value_bet": false
     },
     {
-      "id": -5328665598588304871,
+      "id": 4367836764808726263,
       "homeTeam": "FK Orsza",
       "awayTeam": "RGUOR-2006",
       "time": "11.03.2026 12:00",
@@ -300,29 +318,70 @@
       ],
       "formAdvantage": false,
       "odds": null,
-      "forebet": null,
+      "forebet": {
+        "prediction": "1",
+        "probability": 51.0,
+        "exactScore": "33-32",
+        "overUnder": null,
+        "btts": null,
+        "homeProb": null,
+        "drawProb": null,
+        "awayProb": null
+      },
       "sofascore": {
         "home": 100,
         "draw": null,
         "away": 0,
-        "votes": 17
+        "votes": 25
       },
       "focusTeam": "home",
       "scoring": {
         "pick": "1",
-        "prob": 70.2,
+        "prob": 68.1,
         "ev": -999.0,
         "edge": 0.0,
         "kelly": 0.0,
-        "confidence": 46.0,
-        "dataQuality": 0.6
+        "confidence": 48.0,
+        "dataQuality": 0.7
       },
       "tennis": null,
-      "confidence": 46.0,
+      "confidence": 48.0,
       "value_bet": false
     },
     {
-      "id": 8243738424885662044,
+      "id": 4746472065820743336,
+      "homeTeam": "Leotar",
+      "awayTeam": "Izvidac",
+      "time": "11.03.2026 17:30",
+      "date": "2026-03-11",
+      "league": null,
+      "country": "",
+      "sport": "handball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/pilka-reczna/izvidac-4fUhaeqg/leotar-nJlf1gPB/?mid=UgYMgxjK",
+      "qualifies": false,
+      "h2h": {
+        "home": 1,
+        "draw": 0,
+        "away": 3,
+        "total": 5,
+        "winRate": 20
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null,
+      "confidence": 0,
+      "value_bet": false
+    },
+    {
+      "id": 5706336819864170720,
       "homeTeam": "Split 2010 K",
       "awayTeam": "Koka K",
       "time": "11.03.2026 17:30",
@@ -369,29 +428,38 @@
       ],
       "formAdvantage": true,
       "odds": null,
-      "forebet": null,
+      "forebet": {
+        "prediction": "1",
+        "probability": 63.0,
+        "exactScore": "28-25",
+        "overUnder": null,
+        "btts": null,
+        "homeProb": null,
+        "drawProb": null,
+        "awayProb": null
+      },
       "sofascore": {
-        "home": 96,
+        "home": 97,
         "draw": null,
-        "away": 4,
-        "votes": 26
+        "away": 3,
+        "votes": 39
       },
       "focusTeam": "home",
       "scoring": {
         "pick": "1",
-        "prob": 73.7,
+        "prob": 73.9,
         "ev": -999.0,
         "edge": 0.0,
         "kelly": 0.0,
-        "confidence": 47.0,
-        "dataQuality": 0.6
+        "confidence": 51.0,
+        "dataQuality": 0.7
       },
       "tennis": null,
-      "confidence": 47.0,
+      "confidence": 51.0,
       "value_bet": false
     },
     {
-      "id": -6294545524430932916,
+      "id": 4123671807907005578,
       "homeTeam": "HC Rudar",
       "awayTeam": "Partizan Tivat",
       "time": "11.03.2026 17:00",
@@ -438,29 +506,38 @@
       ],
       "formAdvantage": true,
       "odds": null,
-      "forebet": null,
+      "forebet": {
+        "prediction": "1",
+        "probability": 59.0,
+        "exactScore": "29-26",
+        "overUnder": null,
+        "btts": null,
+        "homeProb": null,
+        "drawProb": null,
+        "awayProb": null
+      },
       "sofascore": {
-        "home": 12,
-        "draw": null,
-        "away": 88,
-        "votes": 17
+        "home": 7,
+        "draw": 3,
+        "away": 90,
+        "votes": 29
       },
       "focusTeam": "home",
       "scoring": {
         "pick": "1",
-        "prob": 50.8,
+        "prob": 53.1,
         "ev": -999.0,
         "edge": 0.0,
         "kelly": 0.0,
-        "confidence": 38.0,
-        "dataQuality": 0.6
+        "confidence": 42.0,
+        "dataQuality": 0.7
       },
       "tennis": null,
-      "confidence": 38.0,
+      "confidence": 42.0,
       "value_bet": false
     },
     {
-      "id": -3410431246671096938,
+      "id": -481682285628641641,
       "homeTeam": "Lemvig",
       "awayTeam": "HC Kobenhavn",
       "time": "11.03.2026 18:30",
@@ -492,7 +569,7 @@
       "value_bet": false
     },
     {
-      "id": 4788091946182912807,
+      "id": 7235283695065309902,
       "homeTeam": "Raekker Molle",
       "awayTeam": "Vendsyssel",
       "time": "11.03.2026 19:00",
@@ -539,34 +616,43 @@
       ],
       "formAdvantage": false,
       "odds": {
-        "home": 1.4,
-        "draw": 8.0,
-        "away": 3.55,
+        "home": 1.43,
+        "draw": 7.75,
+        "away": 3.4,
         "bookmaker": "Pinnacle"
       },
-      "forebet": null,
+      "forebet": {
+        "prediction": "1",
+        "probability": 52.0,
+        "exactScore": "29-26",
+        "overUnder": null,
+        "btts": null,
+        "homeProb": null,
+        "drawProb": null,
+        "awayProb": null
+      },
       "sofascore": {
-        "home": 87,
-        "draw": 4,
-        "away": 9,
-        "votes": 23
+        "home": 89,
+        "draw": 6,
+        "away": 6,
+        "votes": 36
       },
       "focusTeam": "home",
       "scoring": {
         "pick": "1",
-        "prob": 71.3,
-        "ev": -0.002,
-        "edge": -0.2,
+        "prob": 69.1,
+        "ev": -0.012,
+        "edge": -0.9,
         "kelly": 0.0,
-        "confidence": 49.0,
-        "dataQuality": 0.7
+        "confidence": 50.0,
+        "dataQuality": 0.8
       },
       "tennis": null,
-      "confidence": 49.0,
+      "confidence": 50.0,
       "value_bet": false
     },
     {
-      "id": 496557765170512239,
+      "id": 5491526293552677409,
       "homeTeam": "Odense K",
       "awayTeam": "Skanderborg K",
       "time": "11.03.2026 17:30",
@@ -618,29 +704,38 @@
         "away": 67.0,
         "bookmaker": "Bet365"
       },
-      "forebet": null,
+      "forebet": {
+        "prediction": "1",
+        "probability": 83.0,
+        "exactScore": "35-23",
+        "overUnder": null,
+        "btts": null,
+        "homeProb": null,
+        "drawProb": null,
+        "awayProb": null
+      },
       "sofascore": {
-        "home": 91,
-        "draw": 5,
-        "away": 4,
-        "votes": 101
+        "home": 94,
+        "draw": 3,
+        "away": 3,
+        "votes": 201
       },
       "focusTeam": "home",
       "scoring": {
         "pick": "2",
-        "prob": 12.1,
-        "ev": 7.115,
-        "edge": 10.6,
-        "kelly": 10.8,
+        "prob": 10.2,
+        "ev": 5.846,
+        "edge": 8.7,
+        "kelly": 8.9,
         "confidence": 47.0,
-        "dataQuality": 0.6
+        "dataQuality": 0.7
       },
       "tennis": null,
       "confidence": 47.0,
       "value_bet": true
     },
     {
-      "id": 8783252728003981211,
+      "id": 1439868882546731025,
       "homeTeam": "Silkeborg-Voel K",
       "awayTeam": "Viborg K",
       "time": "11.03.2026 17:30",
@@ -672,7 +767,7 @@
       "value_bet": false
     },
     {
-      "id": -3877047236208931837,
+      "id": -687540736405550294,
       "homeTeam": "Bjerringbro K",
       "awayTeam": "Copenhagen K",
       "time": "11.03.2026 18:00",
@@ -704,7 +799,7 @@
       "value_bet": false
     },
     {
-      "id": -7310845377848792131,
+      "id": -1564064139719519226,
       "homeTeam": "Horsens K",
       "awayTeam": "EH Aalborg K",
       "time": "11.03.2026 18:00",
@@ -736,7 +831,7 @@
       "value_bet": false
     },
     {
-      "id": -2286483167905509492,
+      "id": 5810271203615738055,
       "homeTeam": "NFH K",
       "awayTeam": "HOJ K",
       "time": "11.03.2026 18:00",
@@ -783,34 +878,43 @@
       ],
       "formAdvantage": true,
       "odds": {
-        "home": 1.04,
-        "draw": 17.0,
+        "home": 1.05,
+        "draw": 16.0,
         "away": 11.0,
         "bookmaker": "Pinnacle"
       },
-      "forebet": null,
+      "forebet": {
+        "prediction": "1",
+        "probability": 76.0,
+        "exactScore": "35-29",
+        "overUnder": null,
+        "btts": null,
+        "homeProb": null,
+        "drawProb": null,
+        "awayProb": null
+      },
       "sofascore": {
-        "home": 96,
+        "home": 91,
         "draw": 2,
-        "away": 2,
-        "votes": 47
+        "away": 6,
+        "votes": 82
       },
       "focusTeam": "home",
       "scoring": {
         "pick": "X",
-        "prob": 5.9,
-        "ev": 0.007,
-        "edge": 0.0,
+        "prob": 5.8,
+        "ev": -0.066,
+        "edge": -0.4,
         "kelly": 0.0,
-        "confidence": 33.0,
-        "dataQuality": 0.7
+        "confidence": 26.0,
+        "dataQuality": 0.8
       },
       "tennis": null,
-      "confidence": 33.0,
-      "value_bet": true
+      "confidence": 26.0,
+      "value_bet": false
     },
     {
-      "id": 1964406668947048179,
+      "id": 6014655071778496361,
       "homeTeam": "Sønderjyske K",
       "awayTeam": "Ringkøbing K",
       "time": "11.03.2026 18:00",
@@ -858,33 +962,42 @@
       "formAdvantage": true,
       "odds": {
         "home": 1.38,
-        "draw": 8.5,
+        "draw": 9.0,
         "away": 3.65,
         "bookmaker": "Pinnacle"
       },
-      "forebet": null,
+      "forebet": {
+        "prediction": "1",
+        "probability": 63.0,
+        "exactScore": "30-27",
+        "overUnder": null,
+        "btts": null,
+        "homeProb": null,
+        "drawProb": null,
+        "awayProb": null
+      },
       "sofascore": {
-        "home": 95,
-        "draw": 3,
-        "away": 3,
-        "votes": 37
+        "home": 89,
+        "draw": 4,
+        "away": 7,
+        "votes": 71
       },
       "focusTeam": "home",
       "scoring": {
         "pick": "1",
-        "prob": 79.4,
-        "ev": 0.096,
-        "edge": 7.0,
-        "kelly": 25.3,
-        "confidence": 72.0,
-        "dataQuality": 0.7
+        "prob": 78.0,
+        "ev": 0.076,
+        "edge": 5.5,
+        "kelly": 20.1,
+        "confidence": 73.0,
+        "dataQuality": 0.8
       },
       "tennis": null,
-      "confidence": 72.0,
+      "confidence": 73.0,
       "value_bet": true
     },
     {
-      "id": -4112238332148211703,
+      "id": -2191388555761897671,
       "homeTeam": "Esbjerg K",
       "awayTeam": "Ikast Handbold K",
       "time": "11.03.2026 19:00",
@@ -932,33 +1045,42 @@
       "formAdvantage": true,
       "odds": {
         "home": 1.18,
-        "draw": 13.0,
+        "draw": 11.0,
         "away": 5.75,
         "bookmaker": "Pinnacle"
       },
-      "forebet": null,
+      "forebet": {
+        "prediction": "1",
+        "probability": 56.0,
+        "exactScore": "29-25",
+        "overUnder": null,
+        "btts": null,
+        "homeProb": null,
+        "drawProb": null,
+        "awayProb": null
+      },
       "sofascore": {
         "home": 93,
-        "draw": 1,
-        "away": 6,
-        "votes": 107
+        "draw": 2,
+        "away": 4,
+        "votes": 207
       },
       "focusTeam": "home",
       "scoring": {
         "pick": "X",
-        "prob": 8.3,
-        "ev": 0.074,
-        "edge": 0.6,
-        "kelly": 0.6,
-        "confidence": 35.0,
-        "dataQuality": 0.7
+        "prob": 9.4,
+        "ev": 0.035,
+        "edge": 0.3,
+        "kelly": 0.3,
+        "confidence": 38.0,
+        "dataQuality": 0.8
       },
       "tennis": null,
-      "confidence": 35.0,
+      "confidence": 38.0,
       "value_bet": true
     },
     {
-      "id": 6291413260796134202,
+      "id": -8123788370124245258,
       "homeTeam": "Kehra",
       "awayTeam": "Viljandi",
       "time": "11.03.2026 17:00",
@@ -990,7 +1112,7 @@
       "value_bet": false
     },
     {
-      "id": 4992657693378469897,
+      "id": 808316059339058649,
       "homeTeam": "Mistra",
       "awayTeam": "Polva Serviti",
       "time": "11.03.2026 17:00",
@@ -1022,7 +1144,7 @@
       "value_bet": false
     },
     {
-      "id": 9057756710577815505,
+      "id": -5523723473576855066,
       "homeTeam": "Viimsi/Alexela",
       "awayTeam": "Tapa",
       "time": "11.03.2026 17:00",
@@ -1054,7 +1176,7 @@
       "value_bet": false
     },
     {
-      "id": -7417878209007617030,
+      "id": -7063609297488686951,
       "homeTeam": "ÅIFK",
       "awayTeam": "SIF",
       "time": "11.03.2026 17:00",
@@ -1086,7 +1208,7 @@
       "value_bet": false
     },
     {
-      "id": -4189691427424566123,
+      "id": -7894663433266889408,
       "homeTeam": "Cocks K",
       "awayTeam": "Dicken K",
       "time": "11.03.2026 16:30",
@@ -1133,17 +1255,26 @@
       ],
       "formAdvantage": true,
       "odds": null,
-      "forebet": null,
+      "forebet": {
+        "prediction": "1",
+        "probability": null,
+        "exactScore": null,
+        "overUnder": null,
+        "btts": null,
+        "homeProb": null,
+        "drawProb": null,
+        "awayProb": null
+      },
       "sofascore": {
-        "home": 27,
-        "draw": null,
-        "away": 73,
-        "votes": 15
+        "home": 25,
+        "draw": 4,
+        "away": 71,
+        "votes": 24
       },
       "focusTeam": "home",
       "scoring": {
         "pick": "1",
-        "prob": 48.7,
+        "prob": 48.3,
         "ev": -999.0,
         "edge": 0.0,
         "kelly": 0.0,
@@ -1155,7 +1286,7 @@
       "value_bet": false
     },
     {
-      "id": -5845485752622106021,
+      "id": 2441921056587815390,
       "homeTeam": "HIFK K",
       "awayTeam": "Atlas K",
       "time": "11.03.2026 18:00",
@@ -1201,30 +1332,44 @@
         "L"
       ],
       "formAdvantage": true,
-      "odds": null,
-      "forebet": null,
+      "odds": {
+        "home": 1.05,
+        "draw": 19.0,
+        "away": 10.0,
+        "bookmaker": "Pinnacle"
+      },
+      "forebet": {
+        "prediction": "1",
+        "probability": 62.0,
+        "exactScore": "28-27",
+        "overUnder": null,
+        "btts": null,
+        "homeProb": null,
+        "drawProb": null,
+        "awayProb": null
+      },
       "sofascore": {
-        "home": 81,
-        "draw": 5,
-        "away": 14,
-        "votes": 21
+        "home": 83,
+        "draw": 6,
+        "away": 11,
+        "votes": 35
       },
       "focusTeam": "home",
       "scoring": {
-        "pick": "1",
-        "prob": 71.2,
-        "ev": -999.0,
-        "edge": 0.0,
-        "kelly": 0.0,
-        "confidence": 46.0,
-        "dataQuality": 0.6
+        "pick": "X",
+        "prob": 7.2,
+        "ev": 0.371,
+        "edge": 2.0,
+        "kelly": 2.1,
+        "confidence": 39.0,
+        "dataQuality": 0.8
       },
       "tennis": null,
-      "confidence": 46.0,
-      "value_bet": false
+      "confidence": 39.0,
+      "value_bet": true
     },
     {
-      "id": -3546945575655523337,
+      "id": 5313746614880720328,
       "homeTeam": "A.S.E. Douka",
       "awayTeam": "Athinaikos",
       "time": "11.03.2026 16:00",
@@ -1256,7 +1401,7 @@
       "value_bet": false
     },
     {
-      "id": 9200819468369188787,
+      "id": 5640645903642594119,
       "homeTeam": "Ionikos",
       "awayTeam": "Kilkis",
       "time": "11.03.2026 16:00",
@@ -1303,7 +1448,16 @@
       ],
       "formAdvantage": true,
       "odds": null,
-      "forebet": null,
+      "forebet": {
+        "prediction": "1",
+        "probability": 62.0,
+        "exactScore": "28-27",
+        "overUnder": null,
+        "btts": null,
+        "homeProb": null,
+        "drawProb": null,
+        "awayProb": null
+      },
       "sofascore": {
         "home": 75,
         "draw": null,
@@ -1313,19 +1467,19 @@
       "focusTeam": "home",
       "scoring": {
         "pick": "1",
-        "prob": 69.4,
+        "prob": 70.0,
         "ev": -999.0,
         "edge": 0.0,
         "kelly": 0.0,
-        "confidence": 46.0,
-        "dataQuality": 0.6
+        "confidence": 49.0,
+        "dataQuality": 0.7
       },
       "tennis": null,
-      "confidence": 46.0,
+      "confidence": 49.0,
       "value_bet": false
     },
     {
-      "id": 4754391059256399384,
+      "id": 7339771863051997855,
       "homeTeam": "PAOK",
       "awayTeam": "Feronas",
       "time": "11.03.2026 16:00",
@@ -1377,29 +1531,38 @@
         "away": 15.0,
         "bookmaker": "Pinnacle"
       },
-      "forebet": null,
+      "forebet": {
+        "prediction": "1",
+        "probability": 90.0,
+        "exactScore": "35-25",
+        "overUnder": null,
+        "btts": null,
+        "homeProb": null,
+        "drawProb": null,
+        "awayProb": null
+      },
       "sofascore": {
-        "home": 64,
+        "home": 58,
         "draw": 3,
-        "away": 33,
-        "votes": 36
+        "away": 39,
+        "votes": 67
       },
       "focusTeam": "home",
       "scoring": {
         "pick": "1",
-        "prob": 90.0,
-        "ev": -0.091,
-        "edge": -9.0,
+        "prob": 91.3,
+        "ev": -0.078,
+        "edge": -7.7,
         "kelly": 0.0,
-        "confidence": 45.0,
-        "dataQuality": 0.7
+        "confidence": 50.0,
+        "dataQuality": 0.8
       },
       "tennis": null,
-      "confidence": 45.0,
+      "confidence": 50.0,
       "value_bet": false
     },
     {
-      "id": 4032865312895106746,
+      "id": -2136084930525058276,
       "homeTeam": "Vrilissia",
       "awayTeam": "AEK Athens",
       "time": "11.03.2026 19:00",
@@ -1431,7 +1594,7 @@
       "value_bet": false
     },
     {
-      "id": -6272822923195423520,
+      "id": -2260824367361143113,
       "homeTeam": "Venlo K",
       "awayTeam": "Vlug en Lenig K",
       "time": "11.03.2026 18:30",
@@ -1478,7 +1641,16 @@
       ],
       "formAdvantage": false,
       "odds": null,
-      "forebet": null,
+      "forebet": {
+        "prediction": "1",
+        "probability": 48.0,
+        "exactScore": "28-27",
+        "overUnder": null,
+        "btts": null,
+        "homeProb": null,
+        "drawProb": null,
+        "awayProb": null
+      },
       "sofascore": {
         "home": 100,
         "draw": null,
@@ -1488,19 +1660,19 @@
       "focusTeam": "home",
       "scoring": {
         "pick": "1",
-        "prob": 67.2,
+        "prob": 64.9,
         "ev": -999.0,
         "edge": 0.0,
         "kelly": 0.0,
-        "confidence": 45.0,
-        "dataQuality": 0.6
+        "confidence": 47.0,
+        "dataQuality": 0.7
       },
       "tennis": null,
-      "confidence": 45.0,
+      "confidence": 47.0,
       "value_bet": false
     },
     {
-      "id": 5665139631670982955,
+      "id": 2113248077379319418,
       "homeTeam": "PSV Handbal K",
       "awayTeam": "Quintus K",
       "time": "11.03.2026 19:00",
@@ -1532,7 +1704,7 @@
       "value_bet": false
     },
     {
-      "id": 4155199024259953051,
+      "id": 863461252462791154,
       "homeTeam": "ASK/MSG II",
       "awayTeam": "ASK/MSG",
       "time": "11.03.2026 18:00",
@@ -1564,7 +1736,7 @@
       "value_bet": false
     },
     {
-      "id": -703167249373827989,
+      "id": 9061286172515149559,
       "homeTeam": "Drammen",
       "awayTeam": "Bergen",
       "time": "11.03.2026 16:30",
@@ -1611,34 +1783,43 @@
       ],
       "formAdvantage": true,
       "odds": {
-        "home": 1.95,
-        "draw": 7.25,
-        "away": 2.05,
+        "home": 1.93,
+        "draw": 7.75,
+        "away": 2.1,
         "bookmaker": "Pinnacle"
       },
-      "forebet": null,
+      "forebet": {
+        "prediction": "1",
+        "probability": 42.0,
+        "exactScore": "34-30",
+        "overUnder": null,
+        "btts": null,
+        "homeProb": null,
+        "drawProb": null,
+        "awayProb": null
+      },
       "sofascore": {
-        "home": 82,
-        "draw": 3,
-        "away": 16,
-        "votes": 38
+        "home": 77,
+        "draw": 5,
+        "away": 18,
+        "votes": 73
       },
       "focusTeam": "home",
       "scoring": {
         "pick": "1",
-        "prob": 63.0,
-        "ev": 0.229,
-        "edge": 11.7,
-        "kelly": 24.1,
-        "confidence": 72.0,
-        "dataQuality": 0.7
+        "prob": 59.7,
+        "ev": 0.151,
+        "edge": 7.8,
+        "kelly": 16.3,
+        "confidence": 68.0,
+        "dataQuality": 0.8
       },
       "tennis": null,
-      "confidence": 72.0,
+      "confidence": 68.0,
       "value_bet": true
     },
     {
-      "id": -8049410911615657400,
+      "id": 1718941878098794374,
       "homeTeam": "Sandefjord TIF",
       "awayTeam": "Runar",
       "time": "11.03.2026 17:15",
@@ -1670,7 +1851,7 @@
       "value_bet": false
     },
     {
-      "id": 8236963921458353509,
+      "id": 5819298851126710471,
       "homeTeam": "Follo K",
       "awayTeam": "Molde K",
       "time": "11.03.2026 17:00",
@@ -1702,7 +1883,7 @@
       "value_bet": false
     },
     {
-      "id": -952778718683924902,
+      "id": 4332194551958734428,
       "homeTeam": "Oppsal K",
       "awayTeam": "Haslum K",
       "time": "11.03.2026 17:00",
@@ -1749,34 +1930,43 @@
       ],
       "formAdvantage": true,
       "odds": {
-        "home": 1.04,
-        "draw": 14.0,
+        "home": 1.05,
+        "draw": 17.0,
         "away": 11.0,
         "bookmaker": "Pinnacle"
       },
-      "forebet": null,
+      "forebet": {
+        "prediction": "1",
+        "probability": 71.0,
+        "exactScore": "32-26",
+        "overUnder": null,
+        "btts": null,
+        "homeProb": null,
+        "drawProb": null,
+        "awayProb": null
+      },
       "sofascore": {
         "home": 84,
-        "draw": 12,
-        "away": 4,
-        "votes": 25
+        "draw": 9,
+        "away": 7,
+        "votes": 43
       },
       "focusTeam": "home",
       "scoring": {
         "pick": "X",
-        "prob": 7.8,
-        "ev": 0.095,
-        "edge": 0.7,
-        "kelly": 0.7,
-        "confidence": 35.0,
-        "dataQuality": 0.7
+        "prob": 7.3,
+        "ev": 0.233,
+        "edge": 1.4,
+        "kelly": 1.5,
+        "confidence": 39.0,
+        "dataQuality": 0.8
       },
       "tennis": null,
-      "confidence": 35.0,
+      "confidence": 39.0,
       "value_bet": true
     },
     {
-      "id": -588831590489265323,
+      "id": -6749624171581851102,
       "homeTeam": "Sola K",
       "awayTeam": "Gjerpen K",
       "time": "11.03.2026 17:00",
@@ -1823,34 +2013,43 @@
       ],
       "formAdvantage": true,
       "odds": {
-        "home": 1.08,
-        "draw": 14.0,
-        "away": 9.5,
+        "home": 1.07,
+        "draw": 15.0,
+        "away": 10.0,
         "bookmaker": "Pinnacle"
       },
-      "forebet": null,
+      "forebet": {
+        "prediction": "1",
+        "probability": 84.0,
+        "exactScore": "34-27",
+        "overUnder": null,
+        "btts": null,
+        "homeProb": null,
+        "drawProb": null,
+        "awayProb": null
+      },
       "sofascore": {
         "home": 87,
-        "draw": 13,
-        "away": 0,
-        "votes": 31
+        "draw": 10,
+        "away": 3,
+        "votes": 61
       },
       "focusTeam": "home",
       "scoring": {
         "pick": "1",
-        "prob": 87.9,
-        "ev": -0.051,
-        "edge": -4.7,
+        "prob": 89.4,
+        "ev": -0.043,
+        "edge": -4.1,
         "kelly": 0.0,
-        "confidence": 50.0,
-        "dataQuality": 0.7
+        "confidence": 54.0,
+        "dataQuality": 0.8
       },
       "tennis": null,
-      "confidence": 50.0,
+      "confidence": 54.0,
       "value_bet": false
     },
     {
-      "id": 3481124903105745424,
+      "id": 3002796443175600715,
       "homeTeam": "Åsane",
       "awayTeam": "Kragero IF",
       "time": "11.03.2026 15:30",
@@ -1897,34 +2096,43 @@
       ],
       "formAdvantage": false,
       "odds": {
-        "home": 1.35,
+        "home": 1.33,
         "draw": 9.5,
-        "away": 3.65,
+        "away": 3.6,
         "bookmaker": "Pinnacle"
       },
-      "forebet": null,
+      "forebet": {
+        "prediction": "1",
+        "probability": 71.0,
+        "exactScore": "33-29",
+        "overUnder": null,
+        "btts": null,
+        "homeProb": null,
+        "drawProb": null,
+        "awayProb": null
+      },
       "sofascore": {
-        "home": 76,
-        "draw": 14,
-        "away": 10,
-        "votes": 21
+        "home": 78,
+        "draw": 11,
+        "away": 11,
+        "votes": 36
       },
       "focusTeam": "home",
       "scoring": {
         "pick": "1",
-        "prob": 76.9,
-        "ev": 0.038,
-        "edge": 2.8,
-        "kelly": 10.9,
-        "confidence": 66.0,
-        "dataQuality": 0.7
+        "prob": 78.5,
+        "ev": 0.044,
+        "edge": 3.3,
+        "kelly": 13.3,
+        "confidence": 70.0,
+        "dataQuality": 0.8
       },
       "tennis": null,
-      "confidence": 66.0,
+      "confidence": 70.0,
       "value_bet": true
     },
     {
-      "id": 1118347980910354951,
+      "id": -8619979762092377997,
       "homeTeam": "Lider Radom",
       "awayTeam": "Końskie",
       "time": "11.03.2026 18:30",
@@ -1956,7 +2164,7 @@
       "value_bet": false
     },
     {
-      "id": 9128193449068277186,
+      "id": -5052256356482916104,
       "homeTeam": "Piotrcovia K",
       "awayTeam": "MKS Gniezno K",
       "time": "11.03.2026 19:30",
@@ -2003,34 +2211,43 @@
       ],
       "formAdvantage": true,
       "odds": {
-        "home": 1.6,
+        "home": 1.58,
         "draw": 8.0,
         "away": 2.8,
         "bookmaker": "Pinnacle"
       },
-      "forebet": null,
+      "forebet": {
+        "prediction": "1",
+        "probability": 64.0,
+        "exactScore": "28-27",
+        "overUnder": null,
+        "btts": null,
+        "homeProb": null,
+        "drawProb": null,
+        "awayProb": null
+      },
       "sofascore": {
-        "home": 86,
-        "draw": 5,
-        "away": 10,
-        "votes": 21
+        "home": 89,
+        "draw": 3,
+        "away": 8,
+        "votes": 36
       },
       "focusTeam": "home",
       "scoring": {
         "pick": "1",
-        "prob": 67.1,
-        "ev": 0.073,
-        "edge": 4.6,
-        "kelly": 12.2,
-        "confidence": 64.0,
-        "dataQuality": 0.7
+        "prob": 69.2,
+        "ev": 0.093,
+        "edge": 5.9,
+        "kelly": 16.1,
+        "confidence": 70.0,
+        "dataQuality": 0.8
       },
       "tennis": null,
-      "confidence": 64.0,
+      "confidence": 70.0,
       "value_bet": true
     },
     {
-      "id": -3841585587073117094,
+      "id": -4352648706692342969,
       "homeTeam": "Handball Warszawa K",
       "awayTeam": "SMS ZPRP Płock K",
       "time": "11.03.2026 18:20",
@@ -2076,30 +2293,44 @@
         "L"
       ],
       "formAdvantage": true,
-      "odds": null,
-      "forebet": null,
+      "odds": {
+        "home": 1.08,
+        "draw": 12.0,
+        "away": 9.5,
+        "bookmaker": "Pinnacle"
+      },
+      "forebet": {
+        "prediction": "1",
+        "probability": 77.0,
+        "exactScore": "26-23",
+        "overUnder": null,
+        "btts": null,
+        "homeProb": null,
+        "drawProb": null,
+        "awayProb": null
+      },
       "sofascore": {
-        "home": 95,
+        "home": 97,
         "draw": null,
-        "away": 5,
-        "votes": 19
+        "away": 3,
+        "votes": 31
       },
       "focusTeam": "home",
       "scoring": {
         "pick": "1",
-        "prob": 79.8,
-        "ev": -999.0,
-        "edge": 0.0,
+        "prob": 91.1,
+        "ev": -0.016,
+        "edge": -1.5,
         "kelly": 0.0,
-        "confidence": 50.0,
-        "dataQuality": 0.6
+        "confidence": 58.0,
+        "dataQuality": 0.8
       },
       "tennis": null,
-      "confidence": 50.0,
+      "confidence": 58.0,
       "value_bet": false
     },
     {
-      "id": 7129454433363505392,
+      "id": 1085236538906286053,
       "homeTeam": "Targu Jiu K",
       "awayTeam": "Baia Mare K",
       "time": "11.03.2026 16:00",
@@ -2131,7 +2362,7 @@
       "value_bet": false
     },
     {
-      "id": -6820012742652758185,
+      "id": -1838507258002052674,
       "homeTeam": "Nis K",
       "awayTeam": "Ruma K",
       "time": "11.03.2026 16:00",
@@ -2163,7 +2394,7 @@
       "value_bet": false
     },
     {
-      "id": -4280360479624231759,
+      "id": 545830303851905246,
       "homeTeam": "Jagodina K",
       "awayTeam": "Zeleznicar K",
       "time": "11.03.2026 18:00",
@@ -2195,7 +2426,7 @@
       "value_bet": false
     },
     {
-      "id": 1821510999798478434,
+      "id": -3542891155101346018,
       "homeTeam": "Napredak K",
       "awayTeam": "Medicinar Sabac K",
       "time": "11.03.2026 18:00",
@@ -2227,7 +2458,7 @@
       "value_bet": false
     },
     {
-      "id": -8261020485300057522,
+      "id": -4424054636938862211,
       "homeTeam": "ZRK Temerin K",
       "awayTeam": "Bekament K",
       "time": "11.03.2026 19:00",
@@ -2259,7 +2490,7 @@
       "value_bet": false
     },
     {
-      "id": 5142935366575604681,
+      "id": -7310395128504359081,
       "homeTeam": "Partizan K",
       "awayTeam": "Crvena zvezda K",
       "time": "11.03.2026 19:30",
@@ -2291,7 +2522,7 @@
       "value_bet": false
     },
     {
-      "id": -692624622909742465,
+      "id": 7640197039064683604,
       "homeTeam": "Ljubljana K",
       "awayTeam": "Izola K",
       "time": "11.03.2026 16:15",
@@ -2343,7 +2574,7 @@
         "home": 100,
         "draw": null,
         "away": 0,
-        "votes": 12
+        "votes": 26
       },
       "focusTeam": "home",
       "scoring": {
@@ -2360,7 +2591,7 @@
       "value_bet": false
     },
     {
-      "id": 9056664624296353595,
+      "id": 1237342095055729215,
       "homeTeam": "Thun",
       "awayTeam": "Basel",
       "time": "11.03.2026 18:15",
@@ -2407,34 +2638,43 @@
       ],
       "formAdvantage": true,
       "odds": {
-        "home": 1.25,
+        "home": 1.28,
         "draw": 10.0,
         "away": 4.4,
         "bookmaker": "Pinnacle"
       },
-      "forebet": null,
+      "forebet": {
+        "prediction": "1",
+        "probability": 65.0,
+        "exactScore": "31-26",
+        "overUnder": null,
+        "btts": null,
+        "homeProb": null,
+        "drawProb": null,
+        "awayProb": null
+      },
       "sofascore": {
-        "home": 83,
-        "draw": 4,
-        "away": 12,
-        "votes": 24
+        "home": 84,
+        "draw": 5,
+        "away": 10,
+        "votes": 58
       },
       "focusTeam": "home",
       "scoring": {
-        "pick": "X",
-        "prob": 9.7,
-        "ev": -0.031,
-        "edge": -0.3,
+        "pick": "1",
+        "prob": 76.9,
+        "ev": -0.015,
+        "edge": -1.2,
         "kelly": 0.0,
-        "confidence": 24.0,
-        "dataQuality": 0.7
+        "confidence": 53.0,
+        "dataQuality": 0.8
       },
       "tennis": null,
-      "confidence": 24.0,
+      "confidence": 53.0,
       "value_bet": false
     },
     {
-      "id": -2114841277468126558,
+      "id": 4682644306919487986,
       "homeTeam": "Zürich",
       "awayTeam": "St. Gallen",
       "time": "11.03.2026 18:15",
@@ -2481,34 +2721,43 @@
       ],
       "formAdvantage": false,
       "odds": {
-        "home": 2.4,
-        "draw": 7.75,
+        "home": 2.35,
+        "draw": 8.0,
         "away": 1.8,
         "bookmaker": "Pinnacle"
       },
-      "forebet": null,
+      "forebet": {
+        "prediction": "1",
+        "probability": 46.0,
+        "exactScore": "31-29",
+        "overUnder": null,
+        "btts": null,
+        "homeProb": null,
+        "drawProb": null,
+        "awayProb": null
+      },
       "sofascore": {
-        "home": 44,
-        "draw": 3,
-        "away": 53,
-        "votes": 32
+        "home": 42,
+        "draw": 5,
+        "away": 54,
+        "votes": 65
       },
       "focusTeam": "home",
       "scoring": {
         "pick": "X",
-        "prob": 14.5,
-        "ev": 0.127,
-        "edge": 1.6,
-        "kelly": 1.9,
-        "confidence": 39.0,
-        "dataQuality": 0.7
+        "prob": 15.4,
+        "ev": 0.233,
+        "edge": 2.9,
+        "kelly": 3.3,
+        "confidence": 44.0,
+        "dataQuality": 0.8
       },
       "tennis": null,
-      "confidence": 39.0,
+      "confidence": 44.0,
       "value_bet": true
     },
     {
-      "id": 771650372063930938,
+      "id": 8693160308165748452,
       "homeTeam": "Varberg",
       "awayTeam": "Enkoping",
       "time": "11.03.2026 18:00",
@@ -2554,30 +2803,44 @@
         "W"
       ],
       "formAdvantage": true,
-      "odds": null,
-      "forebet": null,
+      "odds": {
+        "home": 1.01,
+        "draw": 20.0,
+        "away": 15.0,
+        "bookmaker": "Pinnacle"
+      },
+      "forebet": {
+        "prediction": "1",
+        "probability": 84.0,
+        "exactScore": "32-28",
+        "overUnder": null,
+        "btts": null,
+        "homeProb": null,
+        "drawProb": null,
+        "awayProb": null
+      },
       "sofascore": {
         "home": 88,
-        "draw": 4,
-        "away": 8,
-        "votes": 25
+        "draw": 6,
+        "away": 6,
+        "votes": 48
       },
       "focusTeam": "home",
       "scoring": {
         "pick": "1",
-        "prob": 78.5,
-        "ev": -999.0,
-        "edge": 0.0,
+        "prob": 92.8,
+        "ev": -0.063,
+        "edge": -6.3,
         "kelly": 0.0,
-        "confidence": 49.0,
-        "dataQuality": 0.6
+        "confidence": 53.0,
+        "dataQuality": 0.8
       },
       "tennis": null,
-      "confidence": 49.0,
+      "confidence": 53.0,
       "value_bet": false
     },
     {
-      "id": 7092396109250399608,
+      "id": -5921734675334759228,
       "homeTeam": "Savehof K",
       "awayTeam": "Boden K",
       "time": "11.03.2026 17:00",
@@ -2625,33 +2888,42 @@
       "formAdvantage": true,
       "odds": {
         "home": 1.18,
-        "draw": 10.0,
+        "draw": 11.0,
         "away": 5.75,
         "bookmaker": "Pinnacle"
       },
-      "forebet": null,
+      "forebet": {
+        "prediction": "1",
+        "probability": 78.0,
+        "exactScore": "34-23",
+        "overUnder": null,
+        "btts": null,
+        "homeProb": null,
+        "drawProb": null,
+        "awayProb": null
+      },
       "sofascore": {
-        "home": 94,
-        "draw": 6,
-        "away": 0,
-        "votes": 36
+        "home": 93,
+        "draw": 5,
+        "away": 2,
+        "votes": 81
       },
       "focusTeam": "home",
       "scoring": {
         "pick": "1",
-        "prob": 91.0,
-        "ev": 0.074,
-        "edge": 6.2,
-        "kelly": 40.9,
-        "confidence": 76.0,
-        "dataQuality": 0.7
+        "prob": 90.9,
+        "ev": 0.073,
+        "edge": 6.1,
+        "kelly": 40.3,
+        "confidence": 79.0,
+        "dataQuality": 0.8
       },
       "tennis": null,
-      "confidence": 76.0,
+      "confidence": 79.0,
       "value_bet": true
     },
     {
-      "id": 1641978820137640786,
+      "id": -4512333004378798949,
       "homeTeam": "Hallby K",
       "awayTeam": "Skara K",
       "time": "11.03.2026 18:00",
@@ -2683,7 +2955,7 @@
       "value_bet": false
     },
     {
-      "id": -166880741925732586,
+      "id": -5149533521730992627,
       "homeTeam": "Önnereds K",
       "awayTeam": "Aranas K",
       "time": "11.03.2026 18:00",
@@ -2715,7 +2987,7 @@
       "value_bet": false
     },
     {
-      "id": -824250349270104670,
+      "id": -6301270115168521664,
       "homeTeam": "Skuru K",
       "awayTeam": "Kungalvs K",
       "time": "11.03.2026 18:00",
@@ -2762,34 +3034,43 @@
       ],
       "formAdvantage": true,
       "odds": {
-        "home": 1.15,
-        "draw": 12.0,
+        "home": 1.14,
+        "draw": 13.0,
         "away": 6.5,
         "bookmaker": "Pinnacle"
       },
-      "forebet": null,
+      "forebet": {
+        "prediction": "1",
+        "probability": 54.0,
+        "exactScore": "29-27",
+        "overUnder": null,
+        "btts": null,
+        "homeProb": null,
+        "drawProb": null,
+        "awayProb": null
+      },
       "sofascore": {
-        "home": 91,
+        "home": 93,
         "draw": 3,
-        "away": 6,
-        "votes": 32
+        "away": 3,
+        "votes": 61
       },
       "focusTeam": "home",
       "scoring": {
         "pick": "X",
-        "prob": 8.1,
-        "ev": -0.025,
-        "edge": -0.2,
-        "kelly": 0.0,
-        "confidence": 24.0,
-        "dataQuality": 0.7
+        "prob": 9.0,
+        "ev": 0.168,
+        "edge": 1.3,
+        "kelly": 1.4,
+        "confidence": 39.0,
+        "dataQuality": 0.8
       },
       "tennis": null,
-      "confidence": 24.0,
-      "value_bet": false
+      "confidence": 39.0,
+      "value_bet": true
     },
     {
-      "id": 5313195690689426894,
+      "id": 3172079962461028999,
       "homeTeam": "Vasteras K",
       "awayTeam": "Skovde K",
       "time": "11.03.2026 18:00",
@@ -2821,7 +3102,7 @@
       "value_bet": false
     },
     {
-      "id": -3391893181225786804,
+      "id": -5112211018832720653,
       "homeTeam": "Spor Toto",
       "awayTeam": "Istanbul Genclik Spor Kulubu",
       "time": "11.03.2026 12:00",
@@ -2853,7 +3134,7 @@
       "value_bet": false
     },
     {
-      "id": 5897483382978799519,
+      "id": 8456322367555997817,
       "homeTeam": "Besiktas",
       "awayTeam": "Trabzon",
       "time": "11.03.2026 14:00",
@@ -2900,24 +3181,38 @@
       ],
       "formAdvantage": false,
       "odds": null,
-      "forebet": null,
-      "sofascore": null,
+      "forebet": {
+        "prediction": "1",
+        "probability": 81.0,
+        "exactScore": "40-30",
+        "overUnder": null,
+        "btts": null,
+        "homeProb": null,
+        "drawProb": null,
+        "awayProb": null
+      },
+      "sofascore": {
+        "home": 94,
+        "draw": null,
+        "away": 6,
+        "votes": 16
+      },
       "focusTeam": "home",
       "scoring": {
         "pick": "1",
-        "prob": 65.7,
+        "prob": 79.6,
         "ev": -999.0,
         "edge": 0.0,
         "kelly": 0.0,
-        "confidence": 41.0,
-        "dataQuality": 0.5
+        "confidence": 53.0,
+        "dataQuality": 0.7
       },
       "tennis": null,
-      "confidence": 41.0,
+      "confidence": 53.0,
       "value_bet": false
     },
     {
-      "id": -8742888518005628849,
+      "id": -5833106407082761514,
       "homeTeam": "Nilufer Bld.",
       "awayTeam": "Giresunspor",
       "time": "11.03.2026 14:00",
@@ -2964,29 +3259,38 @@
       ],
       "formAdvantage": false,
       "odds": null,
-      "forebet": null,
+      "forebet": {
+        "prediction": "1",
+        "probability": 69.0,
+        "exactScore": "35-27",
+        "overUnder": null,
+        "btts": null,
+        "homeProb": null,
+        "drawProb": null,
+        "awayProb": null
+      },
       "sofascore": {
-        "home": 63,
-        "draw": 4,
-        "away": 33,
-        "votes": 729
+        "home": 100,
+        "draw": null,
+        "away": 0,
+        "votes": 14
       },
       "focusTeam": "home",
       "scoring": {
         "pick": "1",
-        "prob": 68.9,
+        "prob": 76.8,
         "ev": -999.0,
         "edge": 0.0,
         "kelly": 0.0,
-        "confidence": 46.0,
-        "dataQuality": 0.6
+        "confidence": 52.0,
+        "dataQuality": 0.7
       },
       "tennis": null,
-      "confidence": 46.0,
+      "confidence": 52.0,
       "value_bet": false
     },
     {
-      "id": -4400483844167888120,
+      "id": 8201808573089399900,
       "homeTeam": "Rize Genclik",
       "awayTeam": "Beykoz Bld.",
       "time": "11.03.2026 10:00",
@@ -3018,7 +3322,7 @@
       "value_bet": false
     },
     {
-      "id": -6100427546993578775,
+      "id": 4376208316282766496,
       "homeTeam": "Guneysu",
       "awayTeam": "Ankara Hentbol",
       "time": "11.03.2026 12:00",
@@ -3065,29 +3369,38 @@
       ],
       "formAdvantage": false,
       "odds": null,
-      "forebet": null,
+      "forebet": {
+        "prediction": "1",
+        "probability": 76.0,
+        "exactScore": "45-25",
+        "overUnder": null,
+        "btts": null,
+        "homeProb": null,
+        "drawProb": null,
+        "awayProb": null
+      },
       "sofascore": {
-        "home": 95,
-        "draw": 5,
+        "home": 100,
+        "draw": null,
         "away": 0,
-        "votes": 21
+        "votes": 10
       },
       "focusTeam": "home",
       "scoring": {
         "pick": "1",
-        "prob": 74.6,
+        "prob": 78.0,
         "ev": -999.0,
         "edge": 0.0,
         "kelly": 0.0,
-        "confidence": 48.0,
-        "dataQuality": 0.6
+        "confidence": 52.0,
+        "dataQuality": 0.7
       },
       "tennis": null,
-      "confidence": 48.0,
+      "confidence": 52.0,
       "value_bet": false
     },
     {
-      "id": 7375084843117947762,
+      "id": 1812273540013668952,
       "homeTeam": "Mihaliccik",
       "awayTeam": "Koycegiz Belediye",
       "time": "11.03.2026 13:00",
@@ -3134,29 +3447,38 @@
       ],
       "formAdvantage": false,
       "odds": null,
-      "forebet": null,
+      "forebet": {
+        "prediction": "1",
+        "probability": 61.0,
+        "exactScore": "33-31",
+        "overUnder": null,
+        "btts": null,
+        "homeProb": null,
+        "drawProb": null,
+        "awayProb": null
+      },
       "sofascore": {
-        "home": 100,
+        "home": 91,
         "draw": null,
-        "away": 0,
-        "votes": 1
+        "away": 9,
+        "votes": 11
       },
       "focusTeam": "home",
       "scoring": {
         "pick": "1",
-        "prob": 68.1,
+        "prob": 67.3,
         "ev": -999.0,
         "edge": 0.0,
         "kelly": 0.0,
-        "confidence": 45.0,
-        "dataQuality": 0.6
+        "confidence": 48.0,
+        "dataQuality": 0.7
       },
       "tennis": null,
-      "confidence": 45.0,
+      "confidence": 48.0,
       "value_bet": false
     },
     {
-      "id": -177159220118145288,
+      "id": -2488640952705013412,
       "homeTeam": "DVSC Schaeffler K",
       "awayTeam": "Kisvardai KC K",
       "time": "11.03.2026 17:00",
@@ -3202,30 +3524,44 @@
         "L"
       ],
       "formAdvantage": true,
-      "odds": null,
-      "forebet": null,
+      "odds": {
+        "home": 1.02,
+        "draw": 18.0,
+        "away": 14.0,
+        "bookmaker": "Pinnacle"
+      },
+      "forebet": {
+        "prediction": "1",
+        "probability": 81.0,
+        "exactScore": "36-26",
+        "overUnder": null,
+        "btts": null,
+        "homeProb": null,
+        "drawProb": null,
+        "awayProb": null
+      },
       "sofascore": {
-        "home": 94,
-        "draw": 3,
-        "away": 3,
-        "votes": 36
+        "home": 92,
+        "draw": 7,
+        "away": 2,
+        "votes": 60
       },
       "focusTeam": "home",
       "scoring": {
         "pick": "1",
-        "prob": 83.4,
-        "ev": -999.0,
-        "edge": 0.0,
+        "prob": 94.1,
+        "ev": -0.04,
+        "edge": -3.9,
         "kelly": 0.0,
-        "confidence": 51.0,
-        "dataQuality": 0.6
+        "confidence": 56.0,
+        "dataQuality": 0.8
       },
       "tennis": null,
-      "confidence": 51.0,
+      "confidence": 56.0,
       "value_bet": false
     },
     {
-      "id": 926260033193479212,
+      "id": -3825261024595923844,
       "homeTeam": "Mosonmagyarovar K",
       "awayTeam": "Vaci K",
       "time": "11.03.2026 17:00",
@@ -3257,7 +3593,7 @@
       "value_bet": false
     },
     {
-      "id": 2859233330890103484,
+      "id": -8724234333939148061,
       "homeTeam": "MTK Budapest K",
       "awayTeam": "Győr K",
       "time": "11.03.2026 17:00",
