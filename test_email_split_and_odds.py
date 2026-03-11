@@ -92,7 +92,7 @@ class TestMinOddsThreshold:
         with patch('email_notifier.create_html_email', return_value='<html>ok</html>') as mock_html:
             send_email_notification(
                 csv_file=csv, to_email='a@b.com', from_email='a@b.com',
-                password='x', min_odds_threshold=0.0,
+                password='x', skip_no_odds=False, min_odds_threshold=0.0,
             )
             matches_sent = mock_html.call_args[0][0]
             teams = {m['home_team'] for m in matches_sent}

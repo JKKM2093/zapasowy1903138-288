@@ -1281,7 +1281,7 @@ def send_email_notification(
     subject: Optional[str] = None,
     sort_by: str = 'time',
     only_form_advantage: bool = False,
-    skip_no_odds: bool = False,
+    skip_no_odds: bool = True,
     include_sorted_odds: bool = True,
     odds_limit: int = 15,
     min_odds_threshold: float = 0.0

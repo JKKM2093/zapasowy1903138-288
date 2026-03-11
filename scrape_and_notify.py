@@ -113,7 +113,7 @@ def scrape_and_send_email(
     app_url: str = None,
     app_api_key: str = None,
     only_form_advantage: bool = False,
-    skip_no_odds: bool = False,
+    skip_no_odds: bool = True,
     away_team_focus: bool = False,
     use_forebet: bool = False,
     use_sofascore: bool = True,
@@ -1046,8 +1046,6 @@ WAŻNE dla Gmail:
                        help='Sortowanie: time (godzina), wins (wygrane), team (alfabetycznie)')
     parser.add_argument('--only-form-advantage', action='store_true',
                        help='🔥 Wyślij tylko mecze z PRZEWAGĄ FORMY gospodarzy/gości (przyspiesza proces)')
-    parser.add_argument('--skip-no-odds', action='store_true',
-                       help='💰 Pomijaj mecze BEZ KURSÓW bukmacherskich')
     parser.add_argument('--away-team-focus', action='store_true',
                        help='🏃 Szukaj meczów gdzie GOŚCIE mają >=60%% H2H (zamiast gospodarzy)')
     parser.add_argument('--use-forebet', action='store_true',
@@ -1095,7 +1093,6 @@ WAŻNE dla Gmail:
         app_url=args.app_url,
         app_api_key=args.app_api_key,
         only_form_advantage=args.only_form_advantage,
-        skip_no_odds=args.skip_no_odds,
         away_team_focus=args.away_team_focus,
         use_forebet=args.use_forebet,
         use_sofascore=use_sofascore,
