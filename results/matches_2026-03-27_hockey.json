@@ -1,0 +1,6524 @@
+{
+  "date": "2026-03-27",
+  "sport": "hockey",
+  "generatedAt": "2026-03-27T01:56:44.639929",
+  "stats": {
+    "total": 117,
+    "qualifying": 59,
+    "formAdvantage": 35
+  },
+  "matches": [
+    {
+      "id": 4530134638725955950,
+      "homeTeam": "Liberec",
+      "awayTeam": "Karlowe Wary",
+      "time": "27.03.2026 17:00",
+      "date": "2026-03-27",
+      "league": null,
+      "country": "",
+      "sport": "hockey",
+      "matchUrl": "https://www.livesport.com/pl/mecz/hokej/karlovy-vary-pIEGPioE/liberec-tp8PNVFQ/?mid=bR7kPPGO",
+      "qualifies": false,
+      "h2h": {
+        "home": 2,
+        "draw": 0,
+        "away": 3,
+        "total": 5,
+        "winRate": 40
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null,
+      "confidence": 0,
+      "value_bet": false
+    },
+    {
+      "id": 3208510318564045702,
+      "homeTeam": "Mountfield HK",
+      "awayTeam": "Trzyniec",
+      "time": "27.03.2026 17:00",
+      "date": "2026-03-27",
+      "league": null,
+      "country": "",
+      "sport": "hockey",
+      "matchUrl": "https://www.livesport.com/pl/mecz/hokej/mountfield-hk-xdNp4YNk/trinec-UJFDTRxD/?mid=6Vu96E5L",
+      "qualifies": false,
+      "h2h": {
+        "home": 2,
+        "draw": 0,
+        "away": 3,
+        "total": 5,
+        "winRate": 40
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null,
+      "confidence": 0,
+      "value_bet": false
+    },
+    {
+      "id": 4125713717101621046,
+      "homeTeam": "Bremerhaven",
+      "awayTeam": "Mannheim",
+      "time": "27.03.2026 18:30",
+      "date": "2026-03-27",
+      "league": null,
+      "country": "",
+      "sport": "hockey",
+      "matchUrl": "https://www.livesport.com/pl/mecz/hokej/bremerhaven-vRV0SS63/mannheim-0jhpSN72/?mid=E7XNjpOF",
+      "qualifies": false,
+      "h2h": {
+        "home": 0,
+        "draw": 0,
+        "away": 5,
+        "total": 5,
+        "winRate": 0
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null,
+      "confidence": 0,
+      "value_bet": false
+    },
+    {
+      "id": 7996671329328884439,
+      "homeTeam": "Eisbaren Berlin",
+      "awayTeam": "Straubing",
+      "time": "27.03.2026 18:30",
+      "date": "2026-03-27",
+      "league": null,
+      "country": "",
+      "sport": "hockey",
+      "matchUrl": "https://www.livesport.com/pl/mecz/hokej/eisbaren-vwLXr6U8/straubing-4rgakDjm/?mid=4x6GnitJ",
+      "qualifies": false,
+      "h2h": {
+        "home": 1,
+        "draw": 0,
+        "away": 4,
+        "total": 5,
+        "winRate": 20
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null,
+      "confidence": 0,
+      "value_bet": false
+    },
+    {
+      "id": 2959665691043116559,
+      "homeTeam": "Ingolstadt",
+      "awayTeam": "Munchen",
+      "time": "27.03.2026 18:30",
+      "date": "2026-03-27",
+      "league": null,
+      "country": "",
+      "sport": "hockey",
+      "matchUrl": "https://www.livesport.com/pl/mecz/hokej/ingolstadt-OzEsAZ6s/munchen-dOHrLrqd/?mid=K2FMcHlK",
+      "qualifies": false,
+      "h2h": {
+        "home": 2,
+        "draw": 0,
+        "away": 3,
+        "total": 5,
+        "winRate": 40
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null,
+      "confidence": 0,
+      "value_bet": false
+    },
+    {
+      "id": 2810847091844888547,
+      "homeTeam": "Koeln",
+      "awayTeam": "Schwenninger",
+      "time": "27.03.2026 18:30",
+      "date": "2026-03-27",
+      "league": null,
+      "country": "",
+      "sport": "hockey",
+      "matchUrl": "https://www.livesport.com/pl/mecz/hokej/koln-va2irFDJ/schwenninger-x8GmLQb2/?mid=2q6bOzjK",
+      "qualifies": true,
+      "h2h": {
+        "home": 5,
+        "draw": 0,
+        "away": 0,
+        "total": 5,
+        "winRate": 100
+      },
+      "homeForm": [
+        "W",
+        "W",
+        "L",
+        "L",
+        "L"
+      ],
+      "awayForm": [
+        "L",
+        "W",
+        "W",
+        "L",
+        "L"
+      ],
+      "homeFormHome": [
+        "L",
+        "W",
+        "W",
+        "W",
+        "L"
+      ],
+      "awayFormAway": [
+        "W",
+        "W",
+        "L",
+        "L",
+        "L"
+      ],
+      "formAdvantage": false,
+      "odds": {
+        "home": 1.4,
+        "draw": 5.25,
+        "away": 5.75,
+        "bookmaker": "Pinnacle"
+      },
+      "forebet": null,
+      "sofascore": {
+        "home": 87,
+        "draw": null,
+        "away": 13,
+        "votes": 173
+      },
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "1",
+        "prob": 83.0,
+        "ev": 0.162,
+        "edge": 11.6,
+        "kelly": 40.5,
+        "confidence": 80.0,
+        "dataQuality": 0.7
+      },
+      "tennis": null,
+      "confidence": 80.0,
+      "value_bet": true
+    },
+    {
+      "id": 9107371731595286562,
+      "homeTeam": "GKS Katowice",
+      "awayTeam": "Unia Oświęcim",
+      "time": "27.03.2026 17:30",
+      "date": "2026-03-27",
+      "league": null,
+      "country": "",
+      "sport": "hockey",
+      "matchUrl": "https://www.livesport.com/pl/mecz/hokej/gks-katowice-jTgUtc77/unia-oswiecim-M1NscaF8/?mid=8GiwHirH",
+      "qualifies": false,
+      "h2h": {
+        "home": 2,
+        "draw": 0,
+        "away": 3,
+        "total": 5,
+        "winRate": 40
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null,
+      "confidence": 0,
+      "value_bet": false
+    },
+    {
+      "id": -2972610043676111482,
+      "homeTeam": "Lulea",
+      "awayTeam": "Frolunda",
+      "time": "27.03.2026 18:00",
+      "date": "2026-03-27",
+      "league": null,
+      "country": "",
+      "sport": "hockey",
+      "matchUrl": "https://www.livesport.com/pl/mecz/hokej/frolunda-pAG4OqEE/lulea-0QhOwF1e/?mid=AT7StiAc",
+      "qualifies": true,
+      "h2h": {
+        "home": 3,
+        "draw": 0,
+        "away": 2,
+        "total": 5,
+        "winRate": 60
+      },
+      "homeForm": [
+        "L",
+        "W",
+        "W",
+        "L",
+        "W"
+      ],
+      "awayForm": [
+        "W",
+        "D",
+        "W",
+        "L",
+        "L"
+      ],
+      "homeFormHome": [
+        "W",
+        "L",
+        "L",
+        "L",
+        "D"
+      ],
+      "awayFormAway": [
+        "L",
+        "W",
+        "L",
+        "W",
+        "L"
+      ],
+      "formAdvantage": false,
+      "odds": {
+        "home": 2.5,
+        "draw": 3.85,
+        "away": 2.45,
+        "bookmaker": "Pinnacle"
+      },
+      "forebet": null,
+      "sofascore": {
+        "home": 55,
+        "draw": null,
+        "away": 45,
+        "votes": 219
+      },
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "1",
+        "prob": 49.9,
+        "ev": 0.248,
+        "edge": 9.9,
+        "kelly": 16.5,
+        "confidence": 64.0,
+        "dataQuality": 0.7
+      },
+      "tennis": null,
+      "confidence": 64.0,
+      "value_bet": true
+    },
+    {
+      "id": 3675288329363810733,
+      "homeTeam": "Malmo",
+      "awayTeam": "Skelleftea",
+      "time": "27.03.2026 18:00",
+      "date": "2026-03-27",
+      "league": null,
+      "country": "",
+      "sport": "hockey",
+      "matchUrl": "https://www.livesport.com/pl/mecz/hokej/malmo-pO1SCzgR/skelleftea-8jdWygW7/?mid=WdiguvZh",
+      "qualifies": false,
+      "h2h": {
+        "home": 0,
+        "draw": 0,
+        "away": 5,
+        "total": 5,
+        "winRate": 0
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null,
+      "confidence": 0,
+      "value_bet": false
+    },
+    {
+      "id": -6039667036010843924,
+      "homeTeam": "Florida Panthers",
+      "awayTeam": "Minnesota Wild",
+      "time": "26.03.2026 23:00",
+      "date": "2026-03-27",
+      "league": null,
+      "country": "",
+      "sport": "hockey",
+      "matchUrl": "https://www.livesport.com/pl/mecz/hokej/florida-panthers-fc1eq8Pp/minnesota-wild-j9Ck7BHi/?mid=0zcs682S",
+      "qualifies": false,
+      "h2h": {
+        "home": 2,
+        "draw": 0,
+        "away": 3,
+        "total": 5,
+        "winRate": 40
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null,
+      "confidence": 0,
+      "value_bet": false
+    },
+    {
+      "id": -6802038774735219446,
+      "homeTeam": "Montreal Canadiens",
+      "awayTeam": "Columbus Blue Jackets",
+      "time": "26.03.2026 23:00",
+      "date": "2026-03-27",
+      "league": null,
+      "country": "",
+      "sport": "hockey",
+      "matchUrl": "https://www.livesport.com/pl/mecz/hokej/columbus-blue-jackets-0vCzmbQ5/montreal-canadiens-nu2G7VWc/?mid=C4BuMBRF",
+      "qualifies": true,
+      "h2h": {
+        "home": 3,
+        "draw": 0,
+        "away": 2,
+        "total": 5,
+        "winRate": 60
+      },
+      "homeForm": [
+        "W",
+        "W",
+        "L",
+        "W",
+        "L"
+      ],
+      "awayForm": [
+        "W",
+        "L",
+        "W",
+        "W",
+        "W"
+      ],
+      "homeFormHome": [
+        "W",
+        "W",
+        "W",
+        "L",
+        "L"
+      ],
+      "awayFormAway": [
+        "W",
+        "L",
+        "L",
+        "L",
+        "L"
+      ],
+      "formAdvantage": false,
+      "odds": {
+        "home": 2.4,
+        "draw": 4.0,
+        "away": 2.5,
+        "bookmaker": "Pinnacle"
+      },
+      "forebet": {
+        "prediction": "1",
+        "probability": 61.0,
+        "exactScore": "4-3",
+        "overUnder": "Over 5.5",
+        "btts": "Yes",
+        "homeProb": null,
+        "drawProb": null,
+        "awayProb": null
+      },
+      "sofascore": {
+        "home": 81,
+        "draw": null,
+        "away": 19,
+        "votes": 2469
+      },
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "1",
+        "prob": 59.1,
+        "ev": 0.419,
+        "edge": 17.5,
+        "kelly": 30.0,
+        "confidence": 78.0,
+        "dataQuality": 0.8
+      },
+      "tennis": null,
+      "confidence": 78.0,
+      "value_bet": true
+    },
+    {
+      "id": 1842712375954714350,
+      "homeTeam": "Ottawa Senators",
+      "awayTeam": "Pittsburgh Penguins",
+      "time": "26.03.2026 23:00",
+      "date": "2026-03-27",
+      "league": null,
+      "country": "",
+      "sport": "hockey",
+      "matchUrl": "https://www.livesport.com/pl/mecz/hokej/ottawa-senators-noTCHmWM/pittsburgh-penguins-AkN0nWU6/?mid=I3wD33Bl",
+      "qualifies": true,
+      "h2h": {
+        "home": 4,
+        "draw": 0,
+        "away": 1,
+        "total": 5,
+        "winRate": 80
+      },
+      "homeForm": [
+        "W",
+        "W",
+        "W",
+        "W",
+        "L"
+      ],
+      "awayForm": [
+        "L",
+        "L",
+        "W",
+        "D",
+        "W"
+      ],
+      "homeFormHome": [
+        "W",
+        "W",
+        "W",
+        "W",
+        "L"
+      ],
+      "awayFormAway": [
+        "W",
+        "W",
+        "L",
+        "L",
+        "W"
+      ],
+      "formAdvantage": true,
+      "odds": {
+        "home": 2.1,
+        "draw": 4.0,
+        "away": 3.0,
+        "bookmaker": "Pinnacle"
+      },
+      "forebet": {
+        "prediction": "1",
+        "probability": 58.0,
+        "exactScore": "3-2",
+        "overUnder": "Under 5.5",
+        "btts": "Yes",
+        "homeProb": null,
+        "drawProb": null,
+        "awayProb": null
+      },
+      "sofascore": {
+        "home": 78,
+        "draw": null,
+        "away": 22,
+        "votes": 2214
+      },
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "1",
+        "prob": 71.6,
+        "ev": 0.505,
+        "edge": 24.0,
+        "kelly": 45.9,
+        "confidence": 83.0,
+        "dataQuality": 0.8
+      },
+      "tennis": null,
+      "confidence": 83.0,
+      "value_bet": true
+    },
+    {
+      "id": -3522681476622487756,
+      "homeTeam": "Philadelphia Flyers",
+      "awayTeam": "Chicago Blackhawks",
+      "time": "26.03.2026 23:00",
+      "date": "2026-03-27",
+      "league": null,
+      "country": "",
+      "sport": "hockey",
+      "matchUrl": "https://www.livesport.com/pl/mecz/hokej/chicago-blackhawks-A1kbmKeg/philadelphia-flyers-QySGG7oT/?mid=QHtMbQf2",
+      "qualifies": true,
+      "h2h": {
+        "home": 3,
+        "draw": 0,
+        "away": 2,
+        "total": 5,
+        "winRate": 60
+      },
+      "homeForm": [
+        "L",
+        "W",
+        "W",
+        "W",
+        "D"
+      ],
+      "awayForm": [
+        "W",
+        "D",
+        "L",
+        "W",
+        "D"
+      ],
+      "homeFormHome": [
+        "L",
+        "D",
+        "W",
+        "L",
+        "L"
+      ],
+      "awayFormAway": [
+        "W",
+        "W",
+        "W",
+        "W",
+        "W"
+      ],
+      "formAdvantage": false,
+      "odds": {
+        "home": 2.1,
+        "draw": 4.1,
+        "away": 2.95,
+        "bookmaker": "Pinnacle"
+      },
+      "forebet": {
+        "prediction": "2",
+        "probability": 53.0,
+        "exactScore": "2-3",
+        "overUnder": "Under 5.5",
+        "btts": "Yes",
+        "homeProb": null,
+        "drawProb": null,
+        "awayProb": null
+      },
+      "sofascore": {
+        "home": 84,
+        "draw": null,
+        "away": 16,
+        "votes": 1972
+      },
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "1",
+        "prob": 52.3,
+        "ev": 0.098,
+        "edge": 4.7,
+        "kelly": 8.9,
+        "confidence": 61.0,
+        "dataQuality": 0.8
+      },
+      "tennis": null,
+      "confidence": 61.0,
+      "value_bet": true
+    },
+    {
+      "id": -1851475406717288319,
+      "homeTeam": "Tampa Bay Lightning",
+      "awayTeam": "Seattle Kraken",
+      "time": "26.03.2026 23:00",
+      "date": "2026-03-27",
+      "league": null,
+      "country": "",
+      "sport": "hockey",
+      "matchUrl": "https://www.livesport.com/pl/mecz/hokej/seattle-kraken-MibYQ5nU/tampa-bay-lightning-YVE3zk1c/?mid=vL8Y7UXF",
+      "qualifies": true,
+      "h2h": {
+        "home": 4,
+        "draw": 0,
+        "away": 1,
+        "total": 5,
+        "winRate": 80
+      },
+      "homeForm": [
+        "W",
+        "D",
+        "W",
+        "W",
+        "W"
+      ],
+      "awayForm": [
+        "D",
+        "L",
+        "L",
+        "L",
+        "W"
+      ],
+      "homeFormHome": [
+        "W",
+        "L",
+        "W",
+        "L",
+        "L"
+      ],
+      "awayFormAway": [
+        "L",
+        "L",
+        "L",
+        "W",
+        "L"
+      ],
+      "formAdvantage": true,
+      "odds": {
+        "home": 1.58,
+        "draw": 4.7,
+        "away": 4.8,
+        "bookmaker": "Pinnacle"
+      },
+      "forebet": {
+        "prediction": "1",
+        "probability": 64.0,
+        "exactScore": "3-1",
+        "overUnder": "Under 5.5",
+        "btts": "Yes",
+        "homeProb": null,
+        "drawProb": null,
+        "awayProb": null
+      },
+      "sofascore": {
+        "home": 92,
+        "draw": null,
+        "away": 8,
+        "votes": 2509
+      },
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "1",
+        "prob": 81.5,
+        "ev": 0.287,
+        "edge": 18.2,
+        "kelly": 49.5,
+        "confidence": 87.0,
+        "dataQuality": 0.8
+      },
+      "tennis": null,
+      "confidence": 87.0,
+      "value_bet": true
+    },
+    {
+      "id": -1970147851243301001,
+      "homeTeam": "Nashville Predators",
+      "awayTeam": "New Jersey Devils",
+      "time": "27.03.2026 00:00",
+      "date": "2026-03-27",
+      "league": null,
+      "country": "",
+      "sport": "hockey",
+      "matchUrl": "https://www.livesport.com/pl/mecz/hokej/nashville-predators-QV0K6kn4/new-jersey-devils-Kh0O591A/?mid=EwNGK7HL",
+      "qualifies": false,
+      "h2h": {
+        "home": 1,
+        "draw": 0,
+        "away": 4,
+        "total": 5,
+        "winRate": 20
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null,
+      "confidence": 0,
+      "value_bet": false
+    },
+    {
+      "id": -6369699410947686939,
+      "homeTeam": "St. Louis Blues",
+      "awayTeam": "San Jose Sharks",
+      "time": "27.03.2026 00:00",
+      "date": "2026-03-27",
+      "league": null,
+      "country": "",
+      "sport": "hockey",
+      "matchUrl": "https://www.livesport.com/pl/mecz/hokej/san-jose-sharks-E588Co9j/st-louis-blues-KSAayVoi/?mid=IBT7MTn9",
+      "qualifies": true,
+      "h2h": {
+        "home": 3,
+        "draw": 0,
+        "away": 2,
+        "total": 5,
+        "winRate": 60
+      },
+      "homeForm": [
+        "W",
+        "W",
+        "D",
+        "L",
+        "W"
+      ],
+      "awayForm": [
+        "L",
+        "L",
+        "L",
+        "L",
+        "L"
+      ],
+      "homeFormHome": [
+        "W",
+        "W",
+        "D",
+        "L",
+        "W"
+      ],
+      "awayFormAway": [
+        "L",
+        "W",
+        "W",
+        "L",
+        "L"
+      ],
+      "formAdvantage": true,
+      "odds": {
+        "home": 2.2,
+        "draw": 4.0,
+        "away": 2.8,
+        "bookmaker": "Pinnacle"
+      },
+      "forebet": {
+        "prediction": "1",
+        "probability": 64.0,
+        "exactScore": "4-3",
+        "overUnder": "Over 5.5",
+        "btts": "Yes",
+        "homeProb": null,
+        "drawProb": null,
+        "awayProb": null
+      },
+      "sofascore": {
+        "home": 68,
+        "draw": null,
+        "away": 32,
+        "votes": 1772
+      },
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "1",
+        "prob": 67.5,
+        "ev": 0.486,
+        "edge": 22.1,
+        "kelly": 40.5,
+        "confidence": 81.0,
+        "dataQuality": 0.8
+      },
+      "tennis": null,
+      "confidence": 81.0,
+      "value_bet": true
+    },
+    {
+      "id": 7275683830462904965,
+      "homeTeam": "Winnipeg Jets",
+      "awayTeam": "Colorado Avalanche",
+      "time": "27.03.2026 00:00",
+      "date": "2026-03-27",
+      "league": null,
+      "country": "",
+      "sport": "hockey",
+      "matchUrl": "https://www.livesport.com/pl/mecz/hokej/colorado-avalanche-hACAnvBa/winnipeg-jets-r3L8pAaJ/?mid=vJRL1st1",
+      "qualifies": true,
+      "h2h": {
+        "home": 3,
+        "draw": 0,
+        "away": 2,
+        "total": 5,
+        "winRate": 60
+      },
+      "homeForm": [
+        "W",
+        "W",
+        "D",
+        "L",
+        "D"
+      ],
+      "awayForm": [
+        "W",
+        "W",
+        "W",
+        "D",
+        "L"
+      ],
+      "homeFormHome": [
+        "W",
+        "D",
+        "W",
+        "W",
+        "L"
+      ],
+      "awayFormAway": [
+        "W",
+        "W",
+        "W",
+        "W",
+        "W"
+      ],
+      "formAdvantage": false,
+      "odds": {
+        "home": 3.45,
+        "draw": 4.1,
+        "away": 1.9,
+        "bookmaker": "Pinnacle"
+      },
+      "forebet": {
+        "prediction": "2",
+        "probability": 53.0,
+        "exactScore": "1-3",
+        "overUnder": "Under 5.5",
+        "btts": "Yes",
+        "homeProb": null,
+        "drawProb": null,
+        "awayProb": null
+      },
+      "sofascore": {
+        "home": 16,
+        "draw": null,
+        "away": 84,
+        "votes": 2224
+      },
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "1",
+        "prob": 35.5,
+        "ev": 0.225,
+        "edge": 6.5,
+        "kelly": 9.2,
+        "confidence": 57.0,
+        "dataQuality": 0.8
+      },
+      "tennis": null,
+      "confidence": 57.0,
+      "value_bet": true
+    },
+    {
+      "id": 766395546435069323,
+      "homeTeam": "Calgary Flames",
+      "awayTeam": "Anaheim Ducks",
+      "time": "27.03.2026 01:00",
+      "date": "2026-03-27",
+      "league": null,
+      "country": "",
+      "sport": "hockey",
+      "matchUrl": "https://www.livesport.com/pl/mecz/hokej/anaheim-ducks-4CM4ojpD/calgary-flames-EZekktRt/?mid=QZPTaLAD",
+      "qualifies": false,
+      "h2h": {
+        "home": 2,
+        "draw": 0,
+        "away": 3,
+        "total": 5,
+        "winRate": 40
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null,
+      "confidence": 0,
+      "value_bet": false
+    },
+    {
+      "id": -2928367088371723728,
+      "homeTeam": "Utah Mammoth",
+      "awayTeam": "Washington Capitals",
+      "time": "27.03.2026 01:00",
+      "date": "2026-03-27",
+      "league": null,
+      "country": "",
+      "sport": "hockey",
+      "matchUrl": "https://www.livesport.com/pl/mecz/hokej/utah-mammoth-hnwxhtVp/washington-capitals-UND9nmoG/?mid=pMDnFouq",
+      "qualifies": true,
+      "h2h": {
+        "home": 2,
+        "draw": 0,
+        "away": 1,
+        "total": 3,
+        "winRate": 66
+      },
+      "homeForm": [
+        "L",
+        "W",
+        "L",
+        "W",
+        "W"
+      ],
+      "awayForm": [
+        "L",
+        "D",
+        "W",
+        "W",
+        "D"
+      ],
+      "homeFormHome": [
+        "L",
+        "W",
+        "L",
+        "L",
+        "D"
+      ],
+      "awayFormAway": [
+        "L",
+        "W",
+        "L",
+        "L",
+        "W"
+      ],
+      "formAdvantage": false,
+      "odds": {
+        "home": 2.25,
+        "draw": 3.95,
+        "away": 2.75,
+        "bookmaker": "Pinnacle"
+      },
+      "forebet": {
+        "prediction": "1",
+        "probability": 53.0,
+        "exactScore": "6-3",
+        "overUnder": "Over 5.5",
+        "btts": "Yes",
+        "homeProb": null,
+        "drawProb": null,
+        "awayProb": null
+      },
+      "sofascore": {
+        "home": 74,
+        "draw": null,
+        "away": 26,
+        "votes": 1798
+      },
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "1",
+        "prob": 61.0,
+        "ev": 0.374,
+        "edge": 16.6,
+        "kelly": 29.9,
+        "confidence": 78.0,
+        "dataQuality": 0.8
+      },
+      "tennis": null,
+      "confidence": 78.0,
+      "value_bet": true
+    },
+    {
+      "id": 556471327706846082,
+      "homeTeam": "Vegas Golden Knights",
+      "awayTeam": "Edmonton Oilers",
+      "time": "27.03.2026 01:30",
+      "date": "2026-03-27",
+      "league": null,
+      "country": "",
+      "sport": "hockey",
+      "matchUrl": "https://www.livesport.com/pl/mecz/hokej/edmonton-oilers-Mg0qoxeI/vegas-golden-knights-fTT0TsUg/?mid=tr8GNO2K",
+      "qualifies": false,
+      "h2h": {
+        "home": 1,
+        "draw": 0,
+        "away": 4,
+        "total": 5,
+        "winRate": 20
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null,
+      "confidence": 0,
+      "value_bet": false
+    },
+    {
+      "id": -740681891927285804,
+      "homeTeam": "Vancouver Canucks",
+      "awayTeam": "Los Angeles Kings",
+      "time": "27.03.2026 02:00",
+      "date": "2026-03-27",
+      "league": null,
+      "country": "",
+      "sport": "hockey",
+      "matchUrl": "https://www.livesport.com/pl/mecz/hokej/los-angeles-kings-CIDo8i2o/vancouver-canucks-YiOrnTV9/?mid=xEgnI2Qs",
+      "qualifies": false,
+      "h2h": {
+        "home": 2,
+        "draw": 0,
+        "away": 3,
+        "total": 5,
+        "winRate": 40
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null,
+      "confidence": 0,
+      "value_bet": false
+    },
+    {
+      "id": 2414484998692893627,
+      "homeTeam": "Buffalo Sabres",
+      "awayTeam": "Detroit Red Wings",
+      "time": "27.03.2026 23:00",
+      "date": "2026-03-27",
+      "league": null,
+      "country": "",
+      "sport": "hockey",
+      "matchUrl": "https://www.livesport.com/pl/mecz/hokej/buffalo-sabres-UobjtMIP/detroit-red-wings-dnJdmCF0/?mid=6y2eDP9e",
+      "qualifies": true,
+      "h2h": {
+        "home": 3,
+        "draw": 0,
+        "away": 2,
+        "total": 5,
+        "winRate": 60
+      },
+      "homeForm": [
+        "D",
+        "D",
+        "W",
+        "W",
+        "W"
+      ],
+      "awayForm": [
+        "L",
+        "L",
+        "W",
+        "W",
+        "D"
+      ],
+      "homeFormHome": [
+        "D",
+        "W",
+        "L",
+        "W",
+        "W"
+      ],
+      "awayFormAway": [
+        "W",
+        "W",
+        "L",
+        "L",
+        "L"
+      ],
+      "formAdvantage": true,
+      "odds": {
+        "home": 2.1,
+        "draw": 4.0,
+        "away": 3.15,
+        "bookmaker": "Pinnacle"
+      },
+      "forebet": {
+        "prediction": "1",
+        "probability": 60.0,
+        "exactScore": "4-3",
+        "overUnder": "Over 5.5",
+        "btts": "Yes",
+        "homeProb": null,
+        "drawProb": null,
+        "awayProb": null
+      },
+      "sofascore": {
+        "home": 85,
+        "draw": null,
+        "away": 15,
+        "votes": 296
+      },
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "1",
+        "prob": 67.0,
+        "ev": 0.408,
+        "edge": 19.4,
+        "kelly": 37.1,
+        "confidence": 81.0,
+        "dataQuality": 0.8
+      },
+      "tennis": null,
+      "confidence": 81.0,
+      "value_bet": true
+    },
+    {
+      "id": 8900916392919936333,
+      "homeTeam": "New York Rangers",
+      "awayTeam": "Chicago Blackhawks",
+      "time": "27.03.2026 23:00",
+      "date": "2026-03-27",
+      "league": null,
+      "country": "",
+      "sport": "hockey",
+      "matchUrl": "https://www.livesport.com/pl/mecz/hokej/chicago-blackhawks-A1kbmKeg/new-york-rangers-O4zxeyWN/?mid=hh03B3v8",
+      "qualifies": true,
+      "h2h": {
+        "home": 3,
+        "draw": 0,
+        "away": 2,
+        "total": 5,
+        "winRate": 60
+      },
+      "homeForm": [
+        "L",
+        "L",
+        "D",
+        "L",
+        "L"
+      ],
+      "awayForm": [
+        "W",
+        "D",
+        "L",
+        "W",
+        "D"
+      ],
+      "homeFormHome": [
+        "L",
+        "D",
+        "L",
+        "L",
+        "W"
+      ],
+      "awayFormAway": [
+        "W",
+        "W",
+        "W",
+        "W",
+        "W"
+      ],
+      "formAdvantage": false,
+      "odds": {
+        "home": 2.15,
+        "draw": 3.8,
+        "away": 3.1,
+        "bookmaker": "Pinnacle"
+      },
+      "forebet": {
+        "prediction": "2",
+        "probability": 53.0,
+        "exactScore": "2-3",
+        "overUnder": "Under 5.5",
+        "btts": "Yes",
+        "homeProb": null,
+        "drawProb": null,
+        "awayProb": null
+      },
+      "sofascore": {
+        "home": 73,
+        "draw": null,
+        "away": 27,
+        "votes": 271
+      },
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "2",
+        "prob": 38.8,
+        "ev": 0.204,
+        "edge": 6.6,
+        "kelly": 9.7,
+        "confidence": 58.0,
+        "dataQuality": 0.8
+      },
+      "tennis": null,
+      "confidence": 58.0,
+      "value_bet": true
+    },
+    {
+      "id": -8670889141917947095,
+      "homeTeam": "Den Haag",
+      "awayTeam": "Neuwied",
+      "time": "27.03.2026 19:35",
+      "date": "2026-03-27",
+      "league": null,
+      "country": "",
+      "sport": "hockey",
+      "matchUrl": "https://www.livesport.com/pl/mecz/hokej/ehc-neuwied-lvH4bNIQ/hijs-hokij-den-haag-zNZnoMPr/?mid=dpjRNo5F",
+      "qualifies": true,
+      "h2h": {
+        "home": 3,
+        "draw": 0,
+        "away": 2,
+        "total": 5,
+        "winRate": 60
+      },
+      "homeForm": [
+        "L",
+        "W",
+        "W",
+        "W",
+        "L"
+      ],
+      "awayForm": [
+        "W",
+        "L",
+        "D",
+        "W",
+        "W"
+      ],
+      "homeFormHome": [
+        "W",
+        "L",
+        "W",
+        "W",
+        "W"
+      ],
+      "awayFormAway": [
+        "L",
+        "L",
+        "W",
+        "W",
+        "L"
+      ],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": {
+        "home": 91,
+        "draw": null,
+        "away": 9,
+        "votes": 90
+      },
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "1",
+        "prob": 61.6,
+        "ev": -999.0,
+        "edge": 0.0,
+        "kelly": 0.0,
+        "confidence": 43.0,
+        "dataQuality": 0.6
+      },
+      "tennis": null,
+      "confidence": 43.0,
+      "value_bet": false
+    },
+    {
+      "id": 2947467017559646674,
+      "homeTeam": "KeuPa",
+      "awayTeam": "Jarvenpaa",
+      "time": "27.03.2026 16:30",
+      "date": "2026-03-27",
+      "league": null,
+      "country": "",
+      "sport": "hockey",
+      "matchUrl": "https://www.livesport.com/pl/mecz/hokej/haukat-jarvenpaa-OYnXkvcA/keupa-YgTBpmRQ/?mid=bgGdAJZI",
+      "qualifies": false,
+      "h2h": {
+        "home": 0,
+        "draw": 0,
+        "away": 0,
+        "total": 0,
+        "winRate": 0
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null,
+      "confidence": 0,
+      "value_bet": false
+    },
+    {
+      "id": -4241931110240707640,
+      "homeTeam": "Gap",
+      "awayTeam": "Chamonix Mont-Blanc",
+      "time": "27.03.2026 19:00",
+      "date": "2026-03-27",
+      "league": null,
+      "country": "",
+      "sport": "hockey",
+      "matchUrl": "https://www.livesport.com/pl/mecz/hokej/chamonix-mont-blanc-byLLnpOd/gap-2TtYxh3I/?mid=WAGQqDYq",
+      "qualifies": false,
+      "h2h": {
+        "home": 1,
+        "draw": 0,
+        "away": 4,
+        "total": 5,
+        "winRate": 20
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null,
+      "confidence": 0,
+      "value_bet": false
+    },
+    {
+      "id": 5397679787692306110,
+      "homeTeam": "Anglet",
+      "awayTeam": "Cergy-Pontoise",
+      "time": "27.03.2026 19:30",
+      "date": "2026-03-27",
+      "league": null,
+      "country": "",
+      "sport": "hockey",
+      "matchUrl": "https://www.livesport.com/pl/mecz/hokej/anglet-t4PXVott/cergy-pontoise-CK87QfVF/?mid=vyKYsi3d",
+      "qualifies": false,
+      "h2h": {
+        "home": 2,
+        "draw": 0,
+        "away": 3,
+        "total": 5,
+        "winRate": 40
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null,
+      "confidence": 0,
+      "value_bet": false
+    },
+    {
+      "id": 5339436173228447009,
+      "homeTeam": "Rouen",
+      "awayTeam": "Bordeaux",
+      "time": "27.03.2026 19:00",
+      "date": "2026-03-27",
+      "league": null,
+      "country": "",
+      "sport": "hockey",
+      "matchUrl": "https://www.livesport.com/pl/mecz/hokej/bordeaux-n9V6xiyI/rouen-xYpMeMxS/?mid=YZUd69G6",
+      "qualifies": true,
+      "h2h": {
+        "home": 4,
+        "draw": 0,
+        "away": 1,
+        "total": 5,
+        "winRate": 80
+      },
+      "homeForm": [
+        "W",
+        "W",
+        "L",
+        "W",
+        "D"
+      ],
+      "awayForm": [
+        "W",
+        "L",
+        "W",
+        "W",
+        "W"
+      ],
+      "homeFormHome": [
+        "W",
+        "D",
+        "W",
+        "D",
+        "W"
+      ],
+      "awayFormAway": [
+        "L",
+        "L",
+        "W",
+        "L",
+        "L"
+      ],
+      "formAdvantage": false,
+      "odds": {
+        "home": 1.45,
+        "draw": 4.6,
+        "away": 4.8,
+        "bookmaker": "Pinnacle"
+      },
+      "forebet": null,
+      "sofascore": {
+        "home": 83,
+        "draw": null,
+        "away": 17,
+        "votes": 46
+      },
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "1",
+        "prob": 76.0,
+        "ev": 0.102,
+        "edge": 7.1,
+        "kelly": 22.8,
+        "confidence": 71.0,
+        "dataQuality": 0.7
+      },
+      "tennis": null,
+      "confidence": 71.0,
+      "value_bet": true
+    },
+    {
+      "id": -559554007695881808,
+      "homeTeam": "Grenoble",
+      "awayTeam": "Angers",
+      "time": "27.03.2026 19:30",
+      "date": "2026-03-27",
+      "league": null,
+      "country": "",
+      "sport": "hockey",
+      "matchUrl": "https://www.livesport.com/pl/mecz/hokej/angers-2udEPMGq/grenoble-fas8xYmC/?mid=AZEUK8Va",
+      "qualifies": true,
+      "h2h": {
+        "home": 3,
+        "draw": 0,
+        "away": 2,
+        "total": 5,
+        "winRate": 60
+      },
+      "homeForm": [
+        "W",
+        "W",
+        "L",
+        "W",
+        "W"
+      ],
+      "awayForm": [
+        "W",
+        "L",
+        "D",
+        "W",
+        "W"
+      ],
+      "homeFormHome": [
+        "W",
+        "W",
+        "W",
+        "W",
+        "W"
+      ],
+      "awayFormAway": [
+        "W",
+        "W",
+        "L",
+        "W",
+        "L"
+      ],
+      "formAdvantage": true,
+      "odds": {
+        "home": 1.5,
+        "draw": 4.5,
+        "away": 4.2,
+        "bookmaker": "Pinnacle"
+      },
+      "forebet": {
+        "prediction": "1",
+        "probability": 64.0,
+        "exactScore": "4-3",
+        "overUnder": "Over 5.5",
+        "btts": "Yes",
+        "homeProb": null,
+        "drawProb": null,
+        "awayProb": null
+      },
+      "sofascore": {
+        "home": 78,
+        "draw": null,
+        "away": 22,
+        "votes": 49
+      },
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "1",
+        "prob": 68.6,
+        "ev": 0.029,
+        "edge": 1.9,
+        "kelly": 5.8,
+        "confidence": 64.0,
+        "dataQuality": 0.8
+      },
+      "tennis": null,
+      "confidence": 64.0,
+      "value_bet": true
+    },
+    {
+      "id": -457900591419081296,
+      "homeTeam": "Barrie Colts",
+      "awayTeam": "Niagara IceDogs",
+      "time": "26.03.2026 23:00",
+      "date": "2026-03-27",
+      "league": null,
+      "country": "",
+      "sport": "hockey",
+      "matchUrl": "https://www.livesport.com/pl/mecz/hokej/barrie-colts-fDwzT2DQ/niagara-icedogs-dMP1OMLs/?mid=WAbtHdxH",
+      "qualifies": true,
+      "h2h": {
+        "home": 3,
+        "draw": 0,
+        "away": 2,
+        "total": 5,
+        "winRate": 60
+      },
+      "homeForm": [
+        "W",
+        "D",
+        "D",
+        "L",
+        "W"
+      ],
+      "awayForm": [
+        "L",
+        "W",
+        "W",
+        "L",
+        "L"
+      ],
+      "homeFormHome": [
+        "W",
+        "D",
+        "W",
+        "D",
+        "W"
+      ],
+      "awayFormAway": [
+        "L",
+        "L",
+        "W",
+        "L",
+        "W"
+      ],
+      "formAdvantage": true,
+      "odds": {
+        "home": 1.3,
+        "draw": 5.5,
+        "away": 6.5,
+        "bookmaker": "Pinnacle"
+      },
+      "forebet": {
+        "prediction": "1",
+        "probability": 60.0,
+        "exactScore": "4-3",
+        "overUnder": "Over 5.5",
+        "btts": "Yes",
+        "homeProb": null,
+        "drawProb": null,
+        "awayProb": null
+      },
+      "sofascore": {
+        "home": 85,
+        "draw": null,
+        "away": 15,
+        "votes": 65
+      },
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "2",
+        "prob": 15.3,
+        "ev": -0.006,
+        "edge": -0.1,
+        "kelly": 0.0,
+        "confidence": 30.0,
+        "dataQuality": 0.8
+      },
+      "tennis": null,
+      "confidence": 30.0,
+      "value_bet": false
+    },
+    {
+      "id": 9057010781047983391,
+      "homeTeam": "Flint Firebirds",
+      "awayTeam": "Owen Sound Attack",
+      "time": "26.03.2026 23:00",
+      "date": "2026-03-27",
+      "league": null,
+      "country": "",
+      "sport": "hockey",
+      "matchUrl": "https://www.livesport.com/pl/mecz/hokej/flint-firebirds-th4TtMsQ/owen-sound-attack-nZtdxtjs/?mid=l4O82cNN",
+      "qualifies": true,
+      "h2h": {
+        "home": 4,
+        "draw": 0,
+        "away": 1,
+        "total": 5,
+        "winRate": 80
+      },
+      "homeForm": [
+        "W",
+        "W",
+        "L",
+        "L",
+        "W"
+      ],
+      "awayForm": [
+        "L",
+        "W",
+        "L",
+        "W",
+        "W"
+      ],
+      "homeFormHome": [
+        "W",
+        "W",
+        "W",
+        "W",
+        "D"
+      ],
+      "awayFormAway": [
+        "L",
+        "L",
+        "L",
+        "L",
+        "L"
+      ],
+      "formAdvantage": false,
+      "odds": {
+        "home": 1.4,
+        "draw": 5.0,
+        "away": 5.5,
+        "bookmaker": "Pinnacle"
+      },
+      "forebet": {
+        "prediction": "1",
+        "probability": 73.0,
+        "exactScore": "6-1",
+        "overUnder": "Over 5.5",
+        "btts": "Yes",
+        "homeProb": null,
+        "drawProb": null,
+        "awayProb": null
+      },
+      "sofascore": {
+        "home": 83,
+        "draw": null,
+        "away": 17,
+        "votes": 53
+      },
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "1",
+        "prob": 80.6,
+        "ev": 0.128,
+        "edge": 9.1,
+        "kelly": 31.9,
+        "confidence": 78.0,
+        "dataQuality": 0.8
+      },
+      "tennis": null,
+      "confidence": 78.0,
+      "value_bet": true
+    },
+    {
+      "id": 5822320871395233176,
+      "homeTeam": "Peterborough Petes",
+      "awayTeam": "North Bay Battalion",
+      "time": "26.03.2026 23:05",
+      "date": "2026-03-27",
+      "league": null,
+      "country": "",
+      "sport": "hockey",
+      "matchUrl": "https://www.livesport.com/pl/mecz/hokej/north-bay-battalion-jTtNLK50/peterborough-petes-8duSUOrE/?mid=xl3Z0pnJ",
+      "qualifies": false,
+      "h2h": {
+        "home": 1,
+        "draw": 0,
+        "away": 4,
+        "total": 5,
+        "winRate": 20
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null,
+      "confidence": 0,
+      "value_bet": false
+    },
+    {
+      "id": -1756434615300814856,
+      "homeTeam": "Windsor Spitfires",
+      "awayTeam": "Guelph Storm",
+      "time": "26.03.2026 23:05",
+      "date": "2026-03-27",
+      "league": null,
+      "country": "",
+      "sport": "hockey",
+      "matchUrl": "https://www.livesport.com/pl/mecz/hokej/guelph-storm-QPu0y05m/windsor-spitfires-QoZZIIkJ/?mid=hIv1tD5S",
+      "qualifies": true,
+      "h2h": {
+        "home": 3,
+        "draw": 0,
+        "away": 2,
+        "total": 5,
+        "winRate": 60
+      },
+      "homeForm": [
+        "W",
+        "D",
+        "W",
+        "W",
+        "W"
+      ],
+      "awayForm": [
+        "L",
+        "W",
+        "L",
+        "L",
+        "L"
+      ],
+      "homeFormHome": [
+        "W",
+        "W",
+        "D",
+        "W",
+        "W"
+      ],
+      "awayFormAway": [
+        "L",
+        "L",
+        "W",
+        "W",
+        "L"
+      ],
+      "formAdvantage": true,
+      "odds": {
+        "home": 1.25,
+        "draw": 5.75,
+        "away": 6.5,
+        "bookmaker": "Pinnacle"
+      },
+      "forebet": {
+        "prediction": "1",
+        "probability": 76.0,
+        "exactScore": "5-2",
+        "overUnder": "Over 5.5",
+        "btts": "Yes",
+        "homeProb": null,
+        "drawProb": null,
+        "awayProb": null
+      },
+      "sofascore": {
+        "home": 84,
+        "draw": null,
+        "away": 16,
+        "votes": 58
+      },
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "1",
+        "prob": 79.1,
+        "ev": -0.011,
+        "edge": -0.9,
+        "kelly": 0.0,
+        "confidence": 54.0,
+        "dataQuality": 0.8
+      },
+      "tennis": null,
+      "confidence": 54.0,
+      "value_bet": false
+    },
+    {
+      "id": 1592656947405184062,
+      "homeTeam": "Brantford Bulldogs",
+      "awayTeam": "Sudbury Wolves",
+      "time": "27.03.2026 23:00",
+      "date": "2026-03-27",
+      "league": null,
+      "country": "",
+      "sport": "hockey",
+      "matchUrl": "https://www.livesport.com/pl/mecz/hokej/brantford-bulldogs-lWYW6Lj7/sudbury-wolves-d6sJM0jf/?mid=f17J9EUj",
+      "qualifies": true,
+      "h2h": {
+        "home": 5,
+        "draw": 0,
+        "away": 0,
+        "total": 5,
+        "winRate": 100
+      },
+      "homeForm": [
+        "L",
+        "W",
+        "W",
+        "W",
+        "W"
+      ],
+      "awayForm": [
+        "L",
+        "W",
+        "L",
+        "L",
+        "L"
+      ],
+      "homeFormHome": [
+        "W",
+        "W",
+        "W",
+        "W",
+        "W"
+      ],
+      "awayFormAway": [
+        "L",
+        "L",
+        "L",
+        "L",
+        "W"
+      ],
+      "formAdvantage": true,
+      "odds": {
+        "home": 1.28,
+        "draw": 5.25,
+        "away": 6.75,
+        "bookmaker": "Pinnacle"
+      },
+      "forebet": {
+        "prediction": "1",
+        "probability": 58.0,
+        "exactScore": "3-2",
+        "overUnder": "Under 5.5",
+        "btts": "Yes",
+        "homeProb": null,
+        "drawProb": null,
+        "awayProb": null
+      },
+      "sofascore": {
+        "home": 100,
+        "draw": null,
+        "away": 0,
+        "votes": 10
+      },
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "1",
+        "prob": 88.5,
+        "ev": 0.132,
+        "edge": 10.3,
+        "kelly": 47.2,
+        "confidence": 83.0,
+        "dataQuality": 0.8
+      },
+      "tennis": null,
+      "confidence": 83.0,
+      "value_bet": true
+    },
+    {
+      "id": -772276134918553043,
+      "homeTeam": "Kitchener Rangers",
+      "awayTeam": "Saginaw Spirit",
+      "time": "27.03.2026 23:00",
+      "date": "2026-03-27",
+      "league": null,
+      "country": "",
+      "sport": "hockey",
+      "matchUrl": "https://www.livesport.com/pl/mecz/hokej/kitchener-rangers-GtFZjLYN/saginaw-spirit-0ndwAOJu/?mid=zaoBKj06",
+      "qualifies": true,
+      "h2h": {
+        "home": 5,
+        "draw": 0,
+        "away": 0,
+        "total": 5,
+        "winRate": 100
+      },
+      "homeForm": [
+        "D",
+        "L",
+        "W",
+        "W",
+        "W"
+      ],
+      "awayForm": [
+        "D",
+        "L",
+        "W",
+        "W",
+        "L"
+      ],
+      "homeFormHome": [
+        "L",
+        "W",
+        "W",
+        "W",
+        "W"
+      ],
+      "awayFormAway": [
+        "W",
+        "L",
+        "L",
+        "W",
+        "W"
+      ],
+      "formAdvantage": true,
+      "odds": {
+        "home": 1.28,
+        "draw": 5.5,
+        "away": 6.25,
+        "bookmaker": "Pinnacle"
+      },
+      "forebet": {
+        "prediction": "2",
+        "probability": 62.0,
+        "exactScore": "2-4",
+        "overUnder": "Over 5.5",
+        "btts": "Yes",
+        "homeProb": null,
+        "drawProb": null,
+        "awayProb": null
+      },
+      "sofascore": {
+        "home": 92,
+        "draw": null,
+        "away": 8,
+        "votes": 12
+      },
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "1",
+        "prob": 75.9,
+        "ev": -0.029,
+        "edge": -2.3,
+        "kelly": 0.0,
+        "confidence": 51.0,
+        "dataQuality": 0.8
+      },
+      "tennis": null,
+      "confidence": 51.0,
+      "value_bet": false
+    },
+    {
+      "id": -3468920627374821928,
+      "homeTeam": "London Knights",
+      "awayTeam": "Soo Greyhounds",
+      "time": "27.03.2026 23:00",
+      "date": "2026-03-27",
+      "league": null,
+      "country": "",
+      "sport": "hockey",
+      "matchUrl": "https://www.livesport.com/pl/mecz/hokej/london-knights-vyfdQbJ6/soo-greyhounds-UJuRKvL6/?mid=CbVrZkFa",
+      "qualifies": true,
+      "h2h": {
+        "home": 4,
+        "draw": 0,
+        "away": 1,
+        "total": 5,
+        "winRate": 80
+      },
+      "homeForm": [
+        "L",
+        "W",
+        "W",
+        "L",
+        "W"
+      ],
+      "awayForm": [
+        "L",
+        "W",
+        "L",
+        "L",
+        "L"
+      ],
+      "homeFormHome": [
+        "W",
+        "W",
+        "W",
+        "W",
+        "L"
+      ],
+      "awayFormAway": [
+        "W",
+        "L",
+        "L",
+        "W",
+        "L"
+      ],
+      "formAdvantage": true,
+      "odds": {
+        "home": 1.95,
+        "draw": 4.0,
+        "away": 2.9,
+        "bookmaker": "Pinnacle"
+      },
+      "forebet": {
+        "prediction": "2",
+        "probability": 59.0,
+        "exactScore": "2-3",
+        "overUnder": "Over 5.5",
+        "btts": "Yes",
+        "homeProb": null,
+        "drawProb": null,
+        "awayProb": null
+      },
+      "sofascore": {
+        "home": 91,
+        "draw": null,
+        "away": 9,
+        "votes": 11
+      },
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "1",
+        "prob": 65.5,
+        "ev": 0.276,
+        "edge": 14.2,
+        "kelly": 29.1,
+        "confidence": 79.0,
+        "dataQuality": 0.8
+      },
+      "tennis": null,
+      "confidence": 79.0,
+      "value_bet": true
+    },
+    {
+      "id": 5817737633315189355,
+      "homeTeam": "Ottawa 67s",
+      "awayTeam": "Kingston Frontenacs",
+      "time": "27.03.2026 23:00",
+      "date": "2026-03-27",
+      "league": null,
+      "country": "",
+      "sport": "hockey",
+      "matchUrl": "https://www.livesport.com/pl/mecz/hokej/kingston-frontenacs-2Zxy6u6D/ottawa-67s-nmvWTrbK/?mid=Cvwope63",
+      "qualifies": true,
+      "h2h": {
+        "home": 4,
+        "draw": 0,
+        "away": 1,
+        "total": 5,
+        "winRate": 80
+      },
+      "homeForm": [
+        "W",
+        "L",
+        "W",
+        "W",
+        "W"
+      ],
+      "awayForm": [
+        "L",
+        "L",
+        "W",
+        "W",
+        "W"
+      ],
+      "homeFormHome": [
+        "W",
+        "W",
+        "W",
+        "D",
+        "L"
+      ],
+      "awayFormAway": [
+        "L",
+        "W",
+        "L",
+        "W",
+        "W"
+      ],
+      "formAdvantage": true,
+      "odds": {
+        "home": 1.35,
+        "draw": 4.9,
+        "away": 5.25,
+        "bookmaker": "Pinnacle"
+      },
+      "forebet": {
+        "prediction": "2",
+        "probability": 52.0,
+        "exactScore": "3-4",
+        "overUnder": "Over 5.5",
+        "btts": "Yes",
+        "homeProb": null,
+        "drawProb": null,
+        "awayProb": null
+      },
+      "sofascore": {
+        "home": 100,
+        "draw": null,
+        "away": 0,
+        "votes": 9
+      },
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "1",
+        "prob": 72.1,
+        "ev": -0.026,
+        "edge": -1.9,
+        "kelly": 0.0,
+        "confidence": 50.0,
+        "dataQuality": 0.8
+      },
+      "tennis": null,
+      "confidence": 50.0,
+      "value_bet": false
+    },
+    {
+      "id": -978298958836014247,
+      "homeTeam": "Peterborough Petes",
+      "awayTeam": "North Bay Battalion",
+      "time": "27.03.2026 23:05",
+      "date": "2026-03-27",
+      "league": null,
+      "country": "",
+      "sport": "hockey",
+      "matchUrl": "https://www.livesport.com/pl/mecz/hokej/north-bay-battalion-jTtNLK50/peterborough-petes-8duSUOrE/?mid=00Jp81gn",
+      "qualifies": false,
+      "h2h": {
+        "home": 1,
+        "draw": 0,
+        "away": 4,
+        "total": 5,
+        "winRate": 20
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null,
+      "confidence": 0,
+      "value_bet": false
+    },
+    {
+      "id": 3624200616145255161,
+      "homeTeam": "Newfoundland Regiment",
+      "awayTeam": "Cape Breton Eagles",
+      "time": "27.03.2026 21:30",
+      "date": "2026-03-27",
+      "league": null,
+      "country": "",
+      "sport": "hockey",
+      "matchUrl": "https://www.livesport.com/pl/mecz/hokej/cape-breton-eagles-vsayqoPl/newfoundland-regiment-nkQZfT0s/?mid=joE3p1Tr",
+      "qualifies": true,
+      "h2h": {
+        "home": 3,
+        "draw": 0,
+        "away": 2,
+        "total": 5,
+        "winRate": 60
+      },
+      "homeForm": [
+        "L",
+        "W",
+        "W",
+        "L",
+        "D"
+      ],
+      "awayForm": [
+        "W",
+        "L",
+        "W",
+        "D",
+        "L"
+      ],
+      "homeFormHome": [
+        "L",
+        "W",
+        "W",
+        "L",
+        "D"
+      ],
+      "awayFormAway": [
+        "W",
+        "W",
+        "L",
+        "L",
+        "L"
+      ],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": {
+        "prediction": "2",
+        "probability": 52.0,
+        "exactScore": "3-4",
+        "overUnder": "Over 5.5",
+        "btts": "Yes",
+        "homeProb": null,
+        "drawProb": null,
+        "awayProb": null
+      },
+      "sofascore": {
+        "home": 42,
+        "draw": null,
+        "away": 58,
+        "votes": 48
+      },
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "1",
+        "prob": 45.3,
+        "ev": -999.0,
+        "edge": 0.0,
+        "kelly": 0.0,
+        "confidence": 39.0,
+        "dataQuality": 0.7
+      },
+      "tennis": null,
+      "confidence": 39.0,
+      "value_bet": false
+    },
+    {
+      "id": 8707198657717594864,
+      "homeTeam": "Charlottetown Islanders",
+      "awayTeam": "Quebec Remparts",
+      "time": "27.03.2026 22:00",
+      "date": "2026-03-27",
+      "league": null,
+      "country": "",
+      "sport": "hockey",
+      "matchUrl": "https://www.livesport.com/pl/mecz/hokej/charlottetown-islanders-4z1ljTWE/quebec-remparts-hp3ur5ve/?mid=bewX7eR6",
+      "qualifies": false,
+      "h2h": {
+        "home": 1,
+        "draw": 0,
+        "away": 4,
+        "total": 5,
+        "winRate": 20
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null,
+      "confidence": 0,
+      "value_bet": false
+    },
+    {
+      "id": 4767455794816199894,
+      "homeTeam": "Moncton Wildcats",
+      "awayTeam": "Saint John Sea Dogs",
+      "time": "27.03.2026 22:00",
+      "date": "2026-03-27",
+      "league": null,
+      "country": "",
+      "sport": "hockey",
+      "matchUrl": "https://www.livesport.com/pl/mecz/hokej/moncton-wildcats-jiadl71R/saint-john-sea-dogs-QX117ju7/?mid=bV754MKE",
+      "qualifies": true,
+      "h2h": {
+        "home": 5,
+        "draw": 0,
+        "away": 0,
+        "total": 5,
+        "winRate": 100
+      },
+      "homeForm": [
+        "W",
+        "W",
+        "W",
+        "W",
+        "W"
+      ],
+      "awayForm": [
+        "W",
+        "L",
+        "L",
+        "L",
+        "L"
+      ],
+      "homeFormHome": [
+        "W",
+        "W",
+        "W",
+        "W",
+        "W"
+      ],
+      "awayFormAway": [
+        "W",
+        "L",
+        "L",
+        "W",
+        "W"
+      ],
+      "formAdvantage": true,
+      "odds": {
+        "home": 1.06,
+        "draw": 9.0,
+        "away": 16.0,
+        "bookmaker": "Pinnacle"
+      },
+      "forebet": {
+        "prediction": "1",
+        "probability": 61.0,
+        "exactScore": "4-3",
+        "overUnder": "Over 5.5",
+        "btts": "Yes",
+        "homeProb": null,
+        "drawProb": null,
+        "awayProb": null
+      },
+      "sofascore": {
+        "home": 95,
+        "draw": null,
+        "away": 5,
+        "votes": 20
+      },
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "1",
+        "prob": 91.2,
+        "ev": -0.033,
+        "edge": -3.2,
+        "kelly": 0.0,
+        "confidence": 56.0,
+        "dataQuality": 0.8
+      },
+      "tennis": null,
+      "confidence": 56.0,
+      "value_bet": false
+    },
+    {
+      "id": -5067170778723756010,
+      "homeTeam": "Blainville-Boisbriand Armada",
+      "awayTeam": "Victoriaville Tigres",
+      "time": "27.03.2026 23:00",
+      "date": "2026-03-27",
+      "league": null,
+      "country": "",
+      "sport": "hockey",
+      "matchUrl": "https://www.livesport.com/pl/mecz/hokej/blainville-boisbriand-armada-d2mJcpvr/victoriaville-tigres-vo7n36GK/?mid=G8uy8Gr4",
+      "qualifies": true,
+      "h2h": {
+        "home": 4,
+        "draw": 0,
+        "away": 1,
+        "total": 5,
+        "winRate": 80
+      },
+      "homeForm": [
+        "W",
+        "W",
+        "L",
+        "W",
+        "W"
+      ],
+      "awayForm": [
+        "L",
+        "L",
+        "L",
+        "L",
+        "L"
+      ],
+      "homeFormHome": [
+        "L",
+        "W",
+        "W",
+        "W",
+        "W"
+      ],
+      "awayFormAway": [
+        "L",
+        "W",
+        "W",
+        "L",
+        "W"
+      ],
+      "formAdvantage": true,
+      "odds": {
+        "home": 1.12,
+        "draw": 8.0,
+        "away": 11.0,
+        "bookmaker": "Pinnacle"
+      },
+      "forebet": {
+        "prediction": "2",
+        "probability": 55.0,
+        "exactScore": "2-3",
+        "overUnder": "Under 5.5",
+        "btts": "Yes",
+        "homeProb": null,
+        "drawProb": null,
+        "awayProb": null
+      },
+      "sofascore": {
+        "home": 80,
+        "draw": null,
+        "away": 20,
+        "votes": 10
+      },
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "2",
+        "prob": 12.8,
+        "ev": 0.41,
+        "edge": 3.7,
+        "kelly": 4.1,
+        "confidence": 44.0,
+        "dataQuality": 0.8
+      },
+      "tennis": null,
+      "confidence": 44.0,
+      "value_bet": true
+    },
+    {
+      "id": 8931610883647466431,
+      "homeTeam": "Chicoutimi Sagueneens",
+      "awayTeam": "Halifax Mooseheads",
+      "time": "27.03.2026 23:00",
+      "date": "2026-03-27",
+      "league": null,
+      "country": "",
+      "sport": "hockey",
+      "matchUrl": "https://www.livesport.com/pl/mecz/hokej/chicoutimi-sagueneens-Qc1mtq97/halifax-mooseheads-887uhk22/?mid=Gl3agdCD",
+      "qualifies": true,
+      "h2h": {
+        "home": 3,
+        "draw": 0,
+        "away": 2,
+        "total": 5,
+        "winRate": 60
+      },
+      "homeForm": [
+        "W",
+        "W",
+        "W",
+        "L",
+        "W"
+      ],
+      "awayForm": [
+        "L",
+        "L",
+        "W",
+        "W",
+        "W"
+      ],
+      "homeFormHome": [
+        "W",
+        "W",
+        "W",
+        "W",
+        "W"
+      ],
+      "awayFormAway": [
+        "L",
+        "L",
+        "W",
+        "W",
+        "W"
+      ],
+      "formAdvantage": true,
+      "odds": {
+        "home": 1.02,
+        "draw": 11.0,
+        "away": 20.0,
+        "bookmaker": "Pinnacle"
+      },
+      "forebet": {
+        "prediction": "2",
+        "probability": 52.0,
+        "exactScore": "3-4",
+        "overUnder": "Over 5.5",
+        "btts": "Yes",
+        "homeProb": null,
+        "drawProb": null,
+        "awayProb": null
+      },
+      "sofascore": {
+        "home": 91,
+        "draw": null,
+        "away": 9,
+        "votes": 11
+      },
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "2",
+        "prob": 14.5,
+        "ev": 1.901,
+        "edge": 9.5,
+        "kelly": 10.0,
+        "confidence": 52.0,
+        "dataQuality": 0.8
+      },
+      "tennis": null,
+      "confidence": 52.0,
+      "value_bet": true
+    },
+    {
+      "id": -2137226454346845086,
+      "homeTeam": "Drummondville Voltigeurs",
+      "awayTeam": "Val-d'Or Foreurs",
+      "time": "27.03.2026 23:00",
+      "date": "2026-03-27",
+      "league": null,
+      "country": "",
+      "sport": "hockey",
+      "matchUrl": "https://www.livesport.com/pl/mecz/hokej/drummondville-voltigeurs-8pFZeO8f/val-d-or-foreurs-Ua3rf2w7/?mid=IeK8MFcc",
+      "qualifies": true,
+      "h2h": {
+        "home": 3,
+        "draw": 0,
+        "away": 2,
+        "total": 5,
+        "winRate": 60
+      },
+      "homeForm": [
+        "L",
+        "W",
+        "W",
+        "W",
+        "W"
+      ],
+      "awayForm": [
+        "L",
+        "L",
+        "L",
+        "L",
+        "L"
+      ],
+      "homeFormHome": [
+        "W",
+        "W",
+        "W",
+        "W",
+        "W"
+      ],
+      "awayFormAway": [
+        "W",
+        "L",
+        "L",
+        "L",
+        "L"
+      ],
+      "formAdvantage": true,
+      "odds": {
+        "home": 1.25,
+        "draw": 5.75,
+        "away": 6.5,
+        "bookmaker": "Pinnacle"
+      },
+      "forebet": {
+        "prediction": "2",
+        "probability": 52.0,
+        "exactScore": "3-4",
+        "overUnder": "Over 5.5",
+        "btts": "Yes",
+        "homeProb": null,
+        "drawProb": null,
+        "awayProb": null
+      },
+      "sofascore": {
+        "home": 100,
+        "draw": null,
+        "away": 0,
+        "votes": 6
+      },
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "1",
+        "prob": 74.5,
+        "ev": -0.068,
+        "edge": -5.5,
+        "kelly": 0.0,
+        "confidence": 47.0,
+        "dataQuality": 0.8
+      },
+      "tennis": null,
+      "confidence": 47.0,
+      "value_bet": false
+    },
+    {
+      "id": 7224369322434391470,
+      "homeTeam": "Rouyn-Noranda Huskies",
+      "awayTeam": "Gatineau Olympiques",
+      "time": "27.03.2026 23:00",
+      "date": "2026-03-27",
+      "league": null,
+      "country": "",
+      "sport": "hockey",
+      "matchUrl": "https://www.livesport.com/pl/mecz/hokej/gatineau-olympiques-nyEwerO0/rouyn-noranda-huskies-vBAVd4gl/?mid=M5x4Mft0",
+      "qualifies": true,
+      "h2h": {
+        "home": 5,
+        "draw": 0,
+        "away": 0,
+        "total": 5,
+        "winRate": 100
+      },
+      "homeForm": [
+        "W",
+        "W",
+        "W",
+        "W",
+        "W"
+      ],
+      "awayForm": [
+        "W",
+        "L",
+        "L",
+        "L",
+        "W"
+      ],
+      "homeFormHome": [
+        "W",
+        "L",
+        "W",
+        "W",
+        "W"
+      ],
+      "awayFormAway": [
+        "L",
+        "W",
+        "W",
+        "W",
+        "L"
+      ],
+      "formAdvantage": true,
+      "odds": {
+        "home": 1.25,
+        "draw": 5.25,
+        "away": 7.0,
+        "bookmaker": "Pinnacle"
+      },
+      "forebet": {
+        "prediction": "2",
+        "probability": 55.0,
+        "exactScore": "2-3",
+        "overUnder": "Under 5.5",
+        "btts": "Yes",
+        "homeProb": null,
+        "drawProb": null,
+        "awayProb": null
+      },
+      "sofascore": {
+        "home": 100,
+        "draw": null,
+        "away": 0,
+        "votes": 8
+      },
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "1",
+        "prob": 81.5,
+        "ev": 0.019,
+        "edge": 1.5,
+        "kelly": 7.5,
+        "confidence": 69.0,
+        "dataQuality": 0.8
+      },
+      "tennis": null,
+      "confidence": 69.0,
+      "value_bet": true
+    },
+    {
+      "id": -7437414919464890597,
+      "homeTeam": "Shawinigan Cataractes",
+      "awayTeam": "Sherbrooke Phoenix",
+      "time": "27.03.2026 23:00",
+      "date": "2026-03-27",
+      "league": null,
+      "country": "",
+      "sport": "hockey",
+      "matchUrl": "https://www.livesport.com/pl/mecz/hokej/shawinigan-cataractes-pbATLfqF/sherbrooke-phoenix-r37ngMhD/?mid=2qQ1Bkkd",
+      "qualifies": true,
+      "h2h": {
+        "home": 5,
+        "draw": 0,
+        "away": 0,
+        "total": 5,
+        "winRate": 100
+      },
+      "homeForm": [
+        "W",
+        "W",
+        "W",
+        "L",
+        "L"
+      ],
+      "awayForm": [
+        "L",
+        "L",
+        "W",
+        "W",
+        "W"
+      ],
+      "homeFormHome": [
+        "W",
+        "W",
+        "L",
+        "L",
+        "L"
+      ],
+      "awayFormAway": [
+        "W",
+        "L",
+        "W",
+        "L",
+        "L"
+      ],
+      "formAdvantage": false,
+      "odds": {
+        "home": 1.7,
+        "draw": 4.3,
+        "away": 3.3,
+        "bookmaker": "Pinnacle"
+      },
+      "forebet": {
+        "prediction": "1",
+        "probability": 52.0,
+        "exactScore": "3-2",
+        "overUnder": "Over 5.5",
+        "btts": "Yes",
+        "homeProb": null,
+        "drawProb": null,
+        "awayProb": null
+      },
+      "sofascore": {
+        "home": 88,
+        "draw": null,
+        "away": 12,
+        "votes": 8
+      },
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "1",
+        "prob": 76.6,
+        "ev": 0.302,
+        "edge": 17.8,
+        "kelly": 43.1,
+        "confidence": 85.0,
+        "dataQuality": 0.8
+      },
+      "tennis": null,
+      "confidence": 85.0,
+      "value_bet": true
+    },
+    {
+      "id": -6453989206333363782,
+      "homeTeam": "Bataillon St-Hyacinthe",
+      "awayTeam": "National Quebec",
+      "time": "26.03.2026 23:30",
+      "date": "2026-03-27",
+      "league": null,
+      "country": "",
+      "sport": "hockey",
+      "matchUrl": "https://www.livesport.com/pl/mecz/hokej/bataillon-st-hyacinthe-ObN7lxAt/national-quebec-KQGGnGvg/?mid=2J2DeI2E",
+      "qualifies": true,
+      "h2h": {
+        "home": 3,
+        "draw": 0,
+        "away": 2,
+        "total": 5,
+        "winRate": 60
+      },
+      "homeForm": [
+        "L",
+        "D",
+        "W",
+        "W",
+        "W"
+      ],
+      "awayForm": [
+        "W",
+        "W",
+        "L",
+        "D",
+        "W"
+      ],
+      "homeFormHome": [
+        "D",
+        "W",
+        "D",
+        "W",
+        "W"
+      ],
+      "awayFormAway": [
+        "L",
+        "W",
+        "W",
+        "L",
+        "L"
+      ],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": {
+        "prediction": "1",
+        "probability": 66.0,
+        "exactScore": "5-3",
+        "overUnder": "Over 5.5",
+        "btts": "Yes",
+        "homeProb": null,
+        "drawProb": null,
+        "awayProb": null
+      },
+      "sofascore": {
+        "home": 82,
+        "draw": null,
+        "away": 18,
+        "votes": 3344
+      },
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "1",
+        "prob": 60.1,
+        "ev": -999.0,
+        "edge": 0.0,
+        "kelly": 0.0,
+        "confidence": 45.0,
+        "dataQuality": 0.7
+      },
+      "tennis": null,
+      "confidence": 45.0,
+      "value_bet": false
+    },
+    {
+      "id": -4541553915121838444,
+      "homeTeam": "Cool FM St-Georges",
+      "awayTeam": "Assurancia Thetford",
+      "time": "27.03.2026 00:00",
+      "date": "2026-03-27",
+      "league": null,
+      "country": "",
+      "sport": "hockey",
+      "matchUrl": "https://www.livesport.com/pl/mecz/hokej/saint-georges-EZD4xJcQ/thetford-mines-69AdvuTD/?mid=dvgjFyR7",
+      "qualifies": true,
+      "h2h": {
+        "home": 3,
+        "draw": 0,
+        "away": 2,
+        "total": 5,
+        "winRate": 60
+      },
+      "homeForm": [
+        "W",
+        "L",
+        "L",
+        "W",
+        "L"
+      ],
+      "awayForm": [
+        "L",
+        "W",
+        "W",
+        "D",
+        "W"
+      ],
+      "homeFormHome": [
+        "L",
+        "W",
+        "L",
+        "W",
+        "L"
+      ],
+      "awayFormAway": [
+        "W",
+        "W",
+        "L",
+        "L",
+        "W"
+      ],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": {
+        "prediction": "2",
+        "probability": 52.0,
+        "exactScore": "3-4",
+        "overUnder": "Over 5.5",
+        "btts": "Yes",
+        "homeProb": null,
+        "drawProb": null,
+        "awayProb": null
+      },
+      "sofascore": {
+        "home": 88,
+        "draw": null,
+        "away": 12,
+        "votes": 8
+      },
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "1",
+        "prob": 50.8,
+        "ev": -999.0,
+        "edge": 0.0,
+        "kelly": 0.0,
+        "confidence": 41.0,
+        "dataQuality": 0.7
+      },
+      "tennis": null,
+      "confidence": 41.0,
+      "value_bet": false
+    },
+    {
+      "id": 7779864268798218352,
+      "homeTeam": "Eperviers Sorel-Tracy",
+      "awayTeam": "Marquis Jonquiere",
+      "time": "27.03.2026 00:00",
+      "date": "2026-03-27",
+      "league": null,
+      "country": "",
+      "sport": "hockey",
+      "matchUrl": "https://www.livesport.com/pl/mecz/hokej/jonquiere-marquis-fk5cHHL0/sorel-tracy-eperviers-Gr0WXx6s/?mid=hEEJyXpB",
+      "qualifies": false,
+      "h2h": {
+        "home": 2,
+        "draw": 0,
+        "away": 3,
+        "total": 5,
+        "winRate": 40
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null,
+      "confidence": 0,
+      "value_bet": false
+    },
+    {
+      "id": 5277558417648540640,
+      "homeTeam": "Torpedo",
+      "awayTeam": "Karaganda",
+      "time": "27.03.2026 13:30",
+      "date": "2026-03-27",
+      "league": null,
+      "country": "",
+      "sport": "hockey",
+      "matchUrl": "https://www.livesport.com/pl/mecz/hokej/kazzinc-torpedo-O4OFe0rO/saryarka-karaganda-8xxP0iar/?mid=Mw4Lzzgl",
+      "qualifies": false,
+      "h2h": {
+        "home": 1,
+        "draw": 0,
+        "away": 4,
+        "total": 5,
+        "winRate": 20
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null,
+      "confidence": 0,
+      "value_bet": false
+    },
+    {
+      "id": -4868164439030887103,
+      "homeTeam": "Liepaja",
+      "awayTeam": "Zemgale",
+      "time": "27.03.2026 16:30",
+      "date": "2026-03-27",
+      "league": null,
+      "country": "",
+      "sport": "hockey",
+      "matchUrl": "https://www.livesport.com/pl/mecz/hokej/liepaja-pEEvB3Sp/zemgale-Wxq9jg7R/?mid=Ucx6GA3l",
+      "qualifies": true,
+      "h2h": {
+        "home": 3,
+        "draw": 0,
+        "away": 2,
+        "total": 5,
+        "winRate": 60
+      },
+      "homeForm": [
+        "W",
+        "D",
+        "W",
+        "W",
+        "W"
+      ],
+      "awayForm": [
+        "L",
+        "W",
+        "W",
+        "W",
+        "W"
+      ],
+      "homeFormHome": [
+        "W",
+        "W",
+        "W",
+        "W",
+        "W"
+      ],
+      "awayFormAway": [
+        "W",
+        "L",
+        "L",
+        "L",
+        "W"
+      ],
+      "formAdvantage": true,
+      "odds": {
+        "home": 2.4,
+        "draw": 3.85,
+        "away": 2.25,
+        "bookmaker": "Pinnacle"
+      },
+      "forebet": null,
+      "sofascore": {
+        "home": 80,
+        "draw": null,
+        "away": 20,
+        "votes": 25
+      },
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "1",
+        "prob": 61.8,
+        "ev": 0.482,
+        "edge": 20.1,
+        "kelly": 34.4,
+        "confidence": 76.0,
+        "dataQuality": 0.7
+      },
+      "tennis": null,
+      "confidence": 76.0,
+      "value_bet": true
+    },
+    {
+      "id": -7263406483244050127,
+      "homeTeam": "Weiden",
+      "awayTeam": "Kaufbeuren",
+      "time": "27.03.2026 19:00",
+      "date": "2026-03-27",
+      "league": null,
+      "country": "",
+      "sport": "hockey",
+      "matchUrl": "https://www.livesport.com/pl/mecz/hokej/kaufbeuren-6aQdMpof/weiden-GQId0qlE/?mid=ML2ym0Y1",
+      "qualifies": true,
+      "h2h": {
+        "home": 4,
+        "draw": 0,
+        "away": 1,
+        "total": 5,
+        "winRate": 80
+      },
+      "homeForm": [
+        "L",
+        "L",
+        "L",
+        "D",
+        "W"
+      ],
+      "awayForm": [
+        "D",
+        "D",
+        "L",
+        "W",
+        "D"
+      ],
+      "homeFormHome": [
+        "L",
+        "D",
+        "L",
+        "D",
+        "L"
+      ],
+      "awayFormAway": [
+        "L",
+        "W",
+        "L",
+        "L",
+        "L"
+      ],
+      "formAdvantage": false,
+      "odds": {
+        "home": 2.35,
+        "draw": 3.85,
+        "away": 2.35,
+        "bookmaker": "Pinnacle"
+      },
+      "forebet": null,
+      "sofascore": {
+        "home": 55,
+        "draw": null,
+        "away": 45,
+        "votes": 60
+      },
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "1",
+        "prob": 59.3,
+        "ev": 0.394,
+        "edge": 16.8,
+        "kelly": 29.2,
+        "confidence": 75.0,
+        "dataQuality": 0.7
+      },
+      "tennis": null,
+      "confidence": 75.0,
+      "value_bet": true
+    },
+    {
+      "id": -2007162560737179841,
+      "homeTeam": "Kassel",
+      "awayTeam": "Lausitzer Fuchse",
+      "time": "27.03.2026 18:30",
+      "date": "2026-03-27",
+      "league": null,
+      "country": "",
+      "sport": "hockey",
+      "matchUrl": "https://www.livesport.com/pl/mecz/hokej/kassel-EoqRKsT1/lausitzer-fuchse-A3NIKOTk/?mid=IgiWsMnA",
+      "qualifies": true,
+      "h2h": {
+        "home": 3,
+        "draw": 0,
+        "away": 2,
+        "total": 5,
+        "winRate": 60
+      },
+      "homeForm": [
+        "W",
+        "D",
+        "W",
+        "W",
+        "W"
+      ],
+      "awayForm": [
+        "L",
+        "W",
+        "L",
+        "L",
+        "W"
+      ],
+      "homeFormHome": [
+        "D",
+        "W",
+        "W",
+        "W",
+        "L"
+      ],
+      "awayFormAway": [
+        "W",
+        "W",
+        "W",
+        "L",
+        "W"
+      ],
+      "formAdvantage": true,
+      "odds": {
+        "home": 1.55,
+        "draw": 4.4,
+        "away": 4.2,
+        "bookmaker": "Pinnacle"
+      },
+      "forebet": null,
+      "sofascore": {
+        "home": 83,
+        "draw": null,
+        "away": 17,
+        "votes": 70
+      },
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "1",
+        "prob": 69.9,
+        "ev": 0.084,
+        "edge": 5.4,
+        "kelly": 15.3,
+        "confidence": 66.0,
+        "dataQuality": 0.7
+      },
+      "tennis": null,
+      "confidence": 66.0,
+      "value_bet": true
+    },
+    {
+      "id": 6190017069002870882,
+      "homeTeam": "Rosenheim",
+      "awayTeam": "Regensburg",
+      "time": "27.03.2026 18:30",
+      "date": "2026-03-27",
+      "league": null,
+      "country": "",
+      "sport": "hockey",
+      "matchUrl": "https://www.livesport.com/pl/mecz/hokej/regensburg-Y5a0eDHD/rosenheim-Sjx67TD7/?mid=MeuTXpzR",
+      "qualifies": false,
+      "h2h": {
+        "home": 2,
+        "draw": 0,
+        "away": 3,
+        "total": 5,
+        "winRate": 40
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null,
+      "confidence": 0,
+      "value_bet": false
+    },
+    {
+      "id": 7685116116942849170,
+      "homeTeam": "Ravensburg",
+      "awayTeam": "Bietigheim/Bissingen",
+      "time": "27.03.2026 19:00",
+      "date": "2026-03-27",
+      "league": null,
+      "country": "",
+      "sport": "hockey",
+      "matchUrl": "https://www.livesport.com/pl/mecz/hokej/bietigheim-bissingen-0zXdT8ic/tower-stars-pYJeJ4TE/?mid=COnCaZNp",
+      "qualifies": true,
+      "h2h": {
+        "home": 3,
+        "draw": 0,
+        "away": 2,
+        "total": 5,
+        "winRate": 60
+      },
+      "homeForm": [
+        "W",
+        "L",
+        "D",
+        "W",
+        "D"
+      ],
+      "awayForm": [
+        "D",
+        "W",
+        "W",
+        "D",
+        "W"
+      ],
+      "homeFormHome": [
+        "L",
+        "W",
+        "D",
+        "W",
+        "D"
+      ],
+      "awayFormAway": [
+        "W",
+        "W",
+        "L",
+        "L",
+        "W"
+      ],
+      "formAdvantage": false,
+      "odds": {
+        "home": 1.75,
+        "draw": 4.5,
+        "away": 3.25,
+        "bookmaker": "Pinnacle"
+      },
+      "forebet": {
+        "prediction": "1",
+        "probability": 58.0,
+        "exactScore": "3-2",
+        "overUnder": "Under 5.5",
+        "btts": "Yes",
+        "homeProb": null,
+        "drawProb": null,
+        "awayProb": null
+      },
+      "sofascore": {
+        "home": 78,
+        "draw": null,
+        "away": 22,
+        "votes": 51
+      },
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "1",
+        "prob": 60.7,
+        "ev": 0.063,
+        "edge": 3.6,
+        "kelly": 8.3,
+        "confidence": 63.0,
+        "dataQuality": 0.8
+      },
+      "tennis": null,
+      "confidence": 63.0,
+      "value_bet": true
+    },
+    {
+      "id": 1264920902610983284,
+      "homeTeam": "Fuchse Duisburg",
+      "awayTeam": "Deggendorf",
+      "time": "27.03.2026 18:30",
+      "date": "2026-03-27",
+      "league": null,
+      "country": "",
+      "sport": "hockey",
+      "matchUrl": "https://www.livesport.com/pl/mecz/hokej/deggendorf-tMD0kJuD/fuchse-duisburg-jTtWLDyf/?mid=fTN2vHzo",
+      "qualifies": false,
+      "h2h": {
+        "home": 1,
+        "draw": 0,
+        "away": 2,
+        "total": 3,
+        "winRate": 33
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null,
+      "confidence": 0,
+      "value_bet": false
+    },
+    {
+      "id": 7778827693518296173,
+      "homeTeam": "Tolzer Lowen",
+      "awayTeam": "Trappers",
+      "time": "27.03.2026 18:30",
+      "date": "2026-03-27",
+      "league": null,
+      "country": "",
+      "sport": "hockey",
+      "matchUrl": "https://www.livesport.com/pl/mecz/hokej/tolzer-lowen-jBKiKpE8/trappers-rmbyqMNH/?mid=xUY8fTQr",
+      "qualifies": false,
+      "h2h": {
+        "home": 0,
+        "draw": 0,
+        "away": 5,
+        "total": 5,
+        "winRate": 0
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null,
+      "confidence": 0,
+      "value_bet": false
+    },
+    {
+      "id": -1990026276590345456,
+      "homeTeam": "EC Hannover",
+      "awayTeam": "Memmingen",
+      "time": "27.03.2026 19:00",
+      "date": "2026-03-27",
+      "league": null,
+      "country": "",
+      "sport": "hockey",
+      "matchUrl": "https://www.livesport.com/pl/mecz/hokej/ec-hannover-n1xIgE6f/ecdc-memmingen-G4k7xdS4/?mid=zRFCdGdT",
+      "qualifies": false,
+      "h2h": {
+        "home": 1,
+        "draw": 0,
+        "away": 4,
+        "total": 5,
+        "winRate": 20
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null,
+      "confidence": 0,
+      "value_bet": false
+    },
+    {
+      "id": 2054510220021821708,
+      "homeTeam": "Selber Wolfe",
+      "awayTeam": "Hannover",
+      "time": "27.03.2026 19:00",
+      "date": "2026-03-27",
+      "league": null,
+      "country": "",
+      "sport": "hockey",
+      "matchUrl": "https://www.livesport.com/pl/mecz/hokej/hannover-rmicKBLC/selber-wolfe-tdlk45LD/?mid=xAS8ksqn",
+      "qualifies": false,
+      "h2h": {
+        "home": 2,
+        "draw": 0,
+        "away": 3,
+        "total": 5,
+        "winRate": 40
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null,
+      "confidence": 0,
+      "value_bet": false
+    },
+    {
+      "id": 3535231310053216785,
+      "homeTeam": "Storhamar",
+      "awayTeam": "Stavanger",
+      "time": "27.03.2026 18:00",
+      "date": "2026-03-27",
+      "league": null,
+      "country": "",
+      "sport": "hockey",
+      "matchUrl": "https://www.livesport.com/pl/mecz/hokej/stavanger-AJ64KC5t/storhamar-IqACIjzg/?mid=Cl0Tq2ZH",
+      "qualifies": true,
+      "h2h": {
+        "home": 4,
+        "draw": 0,
+        "away": 1,
+        "total": 5,
+        "winRate": 80
+      },
+      "homeForm": [
+        "D",
+        "W",
+        "W",
+        "W",
+        "W"
+      ],
+      "awayForm": [
+        "W",
+        "L",
+        "L",
+        "L",
+        "W"
+      ],
+      "homeFormHome": [
+        "W",
+        "W",
+        "W",
+        "W",
+        "L"
+      ],
+      "awayFormAway": [
+        "L",
+        "L",
+        "W",
+        "L",
+        "L"
+      ],
+      "formAdvantage": true,
+      "odds": {
+        "home": 1.45,
+        "draw": 4.9,
+        "away": 5.0,
+        "bookmaker": "Pinnacle"
+      },
+      "forebet": {
+        "prediction": "X",
+        "probability": null,
+        "exactScore": null,
+        "overUnder": null,
+        "btts": null,
+        "homeProb": null,
+        "drawProb": null,
+        "awayProb": null
+      },
+      "sofascore": {
+        "home": 81,
+        "draw": null,
+        "away": 19,
+        "votes": 54
+      },
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "1",
+        "prob": 79.2,
+        "ev": 0.148,
+        "edge": 10.2,
+        "kelly": 33.0,
+        "confidence": 76.0,
+        "dataQuality": 0.7
+      },
+      "tennis": null,
+      "confidence": 76.0,
+      "value_bet": true
+    },
+    {
+      "id": -6415774834641434040,
+      "homeTeam": "Traktor Czelabińsk",
+      "awayTeam": "Kazań",
+      "time": "27.03.2026 14:00",
+      "date": "2026-03-27",
+      "league": null,
+      "country": "",
+      "sport": "hockey",
+      "matchUrl": "https://www.livesport.com/pl/mecz/hokej/kazan-v320kOMr/traktor-chelyabinsk-C2PzG534/?mid=6XvcggsA",
+      "qualifies": false,
+      "h2h": {
+        "home": 1,
+        "draw": 0,
+        "away": 4,
+        "total": 5,
+        "winRate": 20
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null,
+      "confidence": 0,
+      "value_bet": false
+    },
+    {
+      "id": -4804947513881538865,
+      "homeTeam": "Ufa",
+      "awayTeam": "Jekaterynburg",
+      "time": "27.03.2026 14:00",
+      "date": "2026-03-27",
+      "league": null,
+      "country": "",
+      "sport": "hockey",
+      "matchUrl": "https://www.livesport.com/pl/mecz/hokej/ekaterinburg-EizNoU4H/ufa-n7KcqQqF/?mid=xGkQvfSG",
+      "qualifies": false,
+      "h2h": {
+        "home": 2,
+        "draw": 0,
+        "away": 3,
+        "total": 5,
+        "winRate": 40
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null,
+      "confidence": 0,
+      "value_bet": false
+    },
+    {
+      "id": 4371975317474639845,
+      "homeTeam": "Niżny Nowogród",
+      "awayTeam": "Czerepowiec",
+      "time": "27.03.2026 16:30",
+      "date": "2026-03-27",
+      "league": null,
+      "country": "",
+      "sport": "hockey",
+      "matchUrl": "https://www.livesport.com/pl/mecz/hokej/nizny-nowogrod-YBQWGolb/severstal-czerepowiec-hG90tOto/?mid=hOyv2JcR",
+      "qualifies": false,
+      "h2h": {
+        "home": 2,
+        "draw": 0,
+        "away": 3,
+        "total": 5,
+        "winRate": 40
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null,
+      "confidence": 0,
+      "value_bet": false
+    },
+    {
+      "id": -6800930942925261075,
+      "homeTeam": "St. Petersburg",
+      "awayTeam": "CSKA Moskwa",
+      "time": "27.03.2026 16:30",
+      "date": "2026-03-27",
+      "league": null,
+      "country": "",
+      "sport": "hockey",
+      "matchUrl": "https://www.livesport.com/pl/mecz/hokej/cska-moscow-pGuexlkn/st-petersburg-zVJwe4ER/?mid=OSsoxBkt",
+      "qualifies": false,
+      "h2h": {
+        "home": 2,
+        "draw": 0,
+        "away": 3,
+        "total": 5,
+        "winRate": 40
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null,
+      "confidence": 0,
+      "value_bet": false
+    },
+    {
+      "id": -2043516035728640444,
+      "homeTeam": "Torpedo Gorky",
+      "awayTeam": "Magnitka Magnitogorsk",
+      "time": "27.03.2026 11:00",
+      "date": "2026-03-27",
+      "league": null,
+      "country": "",
+      "sport": "hockey",
+      "matchUrl": "https://www.livesport.com/pl/mecz/hokej/magnitka-magnitogorsk-SUbQa1o3/torpedo-gorky-vhl-x6UjGjj8/?mid=p0sn2C1E",
+      "qualifies": false,
+      "h2h": {
+        "home": 1,
+        "draw": 0,
+        "away": 4,
+        "total": 5,
+        "winRate": 20
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null,
+      "confidence": 0,
+      "value_bet": false
+    },
+    {
+      "id": -2649712191606823482,
+      "homeTeam": "Omskie Krylia",
+      "awayTeam": "Chelmet Chelyabinsk",
+      "time": "27.03.2026 13:00",
+      "date": "2026-03-27",
+      "league": null,
+      "country": "",
+      "sport": "hockey",
+      "matchUrl": "https://www.livesport.com/pl/mecz/hokej/mechel-chelyabinsk-2kz7cMDB/omskie-krylia-vhl-0YwoQEU1/?mid=rFTZW5pp",
+      "qualifies": false,
+      "h2h": {
+        "home": 1,
+        "draw": 0,
+        "away": 4,
+        "total": 5,
+        "winRate": 20
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null,
+      "confidence": 0,
+      "value_bet": false
+    },
+    {
+      "id": -6391275410738601189,
+      "homeTeam": "CSK VVS",
+      "awayTeam": "Novokuznetsk",
+      "time": "27.03.2026 15:00",
+      "date": "2026-03-27",
+      "league": null,
+      "country": "",
+      "sport": "hockey",
+      "matchUrl": "https://www.livesport.com/pl/mecz/hokej/csk-vvs-samara-vhl-2wDnLCar/nowokuznieck-4nP4oQ3H/?mid=xzEsv0FO",
+      "qualifies": false,
+      "h2h": {
+        "home": 0,
+        "draw": 0,
+        "away": 5,
+        "total": 5,
+        "winRate": 0
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null,
+      "confidence": 0,
+      "value_bet": false
+    },
+    {
+      "id": 5338932749328393149,
+      "homeTeam": "Dizel",
+      "awayTeam": "Almetyevsk",
+      "time": "27.03.2026 16:00",
+      "date": "2026-03-27",
+      "league": null,
+      "country": "",
+      "sport": "hockey",
+      "matchUrl": "https://www.livesport.com/pl/mecz/hokej/almetyevsk-OjLH0pat/dizel-vhl-OMXYuNbI/?mid=tjgFhaUH",
+      "qualifies": false,
+      "h2h": {
+        "home": 1,
+        "draw": 0,
+        "away": 4,
+        "total": 5,
+        "winRate": 20
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null,
+      "confidence": 0,
+      "value_bet": false
+    },
+    {
+      "id": 8087199939255262099,
+      "homeTeam": "Tornado K",
+      "awayTeam": "Krasnoyarsk K",
+      "time": "27.03.2026 14:00",
+      "date": "2026-03-27",
+      "league": null,
+      "country": "",
+      "sport": "hockey",
+      "matchUrl": "https://www.livesport.com/pl/mecz/hokej/biryusa-krasnoyarsk-dhphFb1H/tornado-SIulGvnB/?mid=GSu9ZZn3",
+      "qualifies": false,
+      "h2h": {
+        "home": 1,
+        "draw": 0,
+        "away": 4,
+        "total": 5,
+        "winRate": 20
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null,
+      "confidence": 0,
+      "value_bet": false
+    },
+    {
+      "id": -4208080230379303383,
+      "homeTeam": "Nitra",
+      "awayTeam": "Michalovce",
+      "time": "27.03.2026 17:00",
+      "date": "2026-03-27",
+      "league": null,
+      "country": "",
+      "sport": "hockey",
+      "matchUrl": "https://www.livesport.com/pl/mecz/hokej/michalovce-hA9eSIRG/nitra-v7xWYbP2/?mid=zyk6mEHa",
+      "qualifies": true,
+      "h2h": {
+        "home": 3,
+        "draw": 0,
+        "away": 2,
+        "total": 5,
+        "winRate": 60
+      },
+      "homeForm": [
+        "W",
+        "L",
+        "D",
+        "W",
+        "W"
+      ],
+      "awayForm": [
+        "L",
+        "W",
+        "W",
+        "D",
+        "W"
+      ],
+      "homeFormHome": [
+        "D",
+        "W",
+        "W",
+        "W",
+        "W"
+      ],
+      "awayFormAway": [
+        "W",
+        "L",
+        "W",
+        "L",
+        "L"
+      ],
+      "formAdvantage": false,
+      "odds": {
+        "home": 1.5,
+        "draw": 5.0,
+        "away": 5.0,
+        "bookmaker": "Pinnacle"
+      },
+      "forebet": null,
+      "sofascore": {
+        "home": 86,
+        "draw": null,
+        "away": 14,
+        "votes": 63
+      },
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "1",
+        "prob": 68.8,
+        "ev": 0.031,
+        "edge": 2.1,
+        "kelly": 6.3,
+        "confidence": 61.0,
+        "dataQuality": 0.7
+      },
+      "tennis": null,
+      "confidence": 61.0,
+      "value_bet": true
+    },
+    {
+      "id": 5245697596326640409,
+      "homeTeam": "Trencin",
+      "awayTeam": "HC 19 Humenne",
+      "time": "27.03.2026 16:30",
+      "date": "2026-03-27",
+      "league": null,
+      "country": "",
+      "sport": "hockey",
+      "matchUrl": "https://www.livesport.com/pl/mecz/hokej/hc-19-humenne-MXvpP2Xo/trencin-EHb6FqYG/?mid=MFP7DJLF",
+      "qualifies": true,
+      "h2h": {
+        "home": 3,
+        "draw": 0,
+        "away": 1,
+        "total": 4,
+        "winRate": 75
+      },
+      "homeForm": [
+        "L",
+        "W",
+        "L",
+        "W",
+        "D"
+      ],
+      "awayForm": [
+        "W",
+        "L",
+        "W",
+        "W",
+        "W"
+      ],
+      "homeFormHome": [
+        "L",
+        "L",
+        "W",
+        "L",
+        "L"
+      ],
+      "awayFormAway": [
+        "L",
+        "L",
+        "W",
+        "L",
+        "L"
+      ],
+      "formAdvantage": false,
+      "odds": {
+        "home": 1.36,
+        "draw": 5.25,
+        "away": 6.0,
+        "bookmaker": "Bet365"
+      },
+      "forebet": {
+        "prediction": "1",
+        "probability": 53.0,
+        "exactScore": "3-2",
+        "overUnder": "Over 5.5",
+        "btts": "Yes",
+        "homeProb": null,
+        "drawProb": null,
+        "awayProb": null
+      },
+      "sofascore": {
+        "home": 87,
+        "draw": null,
+        "away": 13,
+        "votes": 52
+      },
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "2",
+        "prob": 16.9,
+        "ev": 0.013,
+        "edge": 0.2,
+        "kelly": 0.3,
+        "confidence": 41.0,
+        "dataQuality": 0.8
+      },
+      "tennis": null,
+      "confidence": 41.0,
+      "value_bet": true
+    },
+    {
+      "id": -6364567196244298072,
+      "homeTeam": "Presov",
+      "awayTeam": "Skalica",
+      "time": "27.03.2026 17:00",
+      "date": "2026-03-27",
+      "league": null,
+      "country": "",
+      "sport": "hockey",
+      "matchUrl": "https://www.livesport.com/pl/mecz/hokej/21-presov-jgDWbM8K/skalica-0MQvXxfF/?mid=fTNFBcjS",
+      "qualifies": true,
+      "h2h": {
+        "home": 4,
+        "draw": 0,
+        "away": 1,
+        "total": 5,
+        "winRate": 80
+      },
+      "homeForm": [
+        "D",
+        "L",
+        "L",
+        "L",
+        "L"
+      ],
+      "awayForm": [
+        "W",
+        "W",
+        "D",
+        "D",
+        "W"
+      ],
+      "homeFormHome": [
+        "D",
+        "L",
+        "L",
+        "L",
+        "D"
+      ],
+      "awayFormAway": [
+        "W",
+        "L",
+        "L",
+        "L",
+        "L"
+      ],
+      "formAdvantage": false,
+      "odds": {
+        "home": 1.62,
+        "draw": 5.0,
+        "away": 3.7,
+        "bookmaker": "Bet365"
+      },
+      "forebet": null,
+      "sofascore": {
+        "home": 75,
+        "draw": null,
+        "away": 25,
+        "votes": 44
+      },
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "1",
+        "prob": 65.2,
+        "ev": 0.056,
+        "edge": 3.4,
+        "kelly": 9.0,
+        "confidence": 62.0,
+        "dataQuality": 0.7
+      },
+      "tennis": null,
+      "confidence": 62.0,
+      "value_bet": true
+    },
+    {
+      "id": -898008043211175108,
+      "homeTeam": "Lausanne",
+      "awayTeam": "Servette",
+      "time": "27.03.2026 19:00",
+      "date": "2026-03-27",
+      "league": null,
+      "country": "",
+      "sport": "hockey",
+      "matchUrl": "https://www.livesport.com/pl/mecz/hokej/lausanne-0CAYHtul/servette-46e8yYpl/?mid=UqH9TiMG",
+      "qualifies": false,
+      "h2h": {
+        "home": 2,
+        "draw": 0,
+        "away": 3,
+        "total": 5,
+        "winRate": 40
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null,
+      "confidence": 0,
+      "value_bet": false
+    },
+    {
+      "id": 8751619304504515936,
+      "homeTeam": "Lugano",
+      "awayTeam": "Zurich",
+      "time": "27.03.2026 19:00",
+      "date": "2026-03-27",
+      "league": null,
+      "country": "",
+      "sport": "hockey",
+      "matchUrl": "https://www.livesport.com/pl/mecz/hokej/lugano-0UG7sGhE/zurich-vmRgFvP6/?mid=n3dsriyA",
+      "qualifies": false,
+      "h2h": {
+        "home": 0,
+        "draw": 0,
+        "away": 5,
+        "total": 5,
+        "winRate": 0
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null,
+      "confidence": 0,
+      "value_bet": false
+    },
+    {
+      "id": -7784779415237152388,
+      "homeTeam": "Visp",
+      "awayTeam": "Chaux-de-Fonds",
+      "time": "27.03.2026 18:45",
+      "date": "2026-03-27",
+      "league": null,
+      "country": "",
+      "sport": "hockey",
+      "matchUrl": "https://www.livesport.com/pl/mecz/hokej/chaux-de-fonds-4tP2N2HQ/visp-zLco0Lf7/?mid=SEqkSovB",
+      "qualifies": true,
+      "h2h": {
+        "home": 3,
+        "draw": 0,
+        "away": 2,
+        "total": 5,
+        "winRate": 60
+      },
+      "homeForm": [
+        "L",
+        "W",
+        "L",
+        "W",
+        "W"
+      ],
+      "awayForm": [
+        "W",
+        "L",
+        "W",
+        "L",
+        "D"
+      ],
+      "homeFormHome": [
+        "W",
+        "W",
+        "L",
+        "W",
+        "W"
+      ],
+      "awayFormAway": [
+        "L",
+        "L",
+        "L",
+        "L",
+        "W"
+      ],
+      "formAdvantage": true,
+      "odds": {
+        "home": 2.05,
+        "draw": 4.0,
+        "away": 2.65,
+        "bookmaker": "Pinnacle"
+      },
+      "forebet": null,
+      "sofascore": {
+        "home": 58,
+        "draw": null,
+        "away": 42,
+        "votes": 52
+      },
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "1",
+        "prob": 57.1,
+        "ev": 0.17,
+        "edge": 8.3,
+        "kelly": 16.2,
+        "confidence": 65.0,
+        "dataQuality": 0.7
+      },
+      "tennis": null,
+      "confidence": 65.0,
+      "value_bet": true
+    },
+    {
+      "id": -6241278114302496646,
+      "homeTeam": "Kalmar",
+      "awayTeam": "Sodertalje",
+      "time": "27.03.2026 18:00",
+      "date": "2026-03-27",
+      "league": null,
+      "country": "",
+      "sport": "hockey",
+      "matchUrl": "https://www.livesport.com/pl/mecz/hokej/kalmar-8pkKODjH/sodertalje-EDbN0x98/?mid=hCNP2XnQ",
+      "qualifies": true,
+      "h2h": {
+        "home": 3,
+        "draw": 0,
+        "away": 2,
+        "total": 5,
+        "winRate": 60
+      },
+      "homeForm": [
+        "L",
+        "W",
+        "L",
+        "W",
+        "W"
+      ],
+      "awayForm": [
+        "W",
+        "D",
+        "W",
+        "L",
+        "L"
+      ],
+      "homeFormHome": [
+        "W",
+        "W",
+        "L",
+        "D",
+        "W"
+      ],
+      "awayFormAway": [
+        "L",
+        "L",
+        "L",
+        "W",
+        "L"
+      ],
+      "formAdvantage": true,
+      "odds": {
+        "home": 1.9,
+        "draw": 4.1,
+        "away": 3.0,
+        "bookmaker": "Pinnacle"
+      },
+      "forebet": {
+        "prediction": "X",
+        "probability": null,
+        "exactScore": null,
+        "overUnder": null,
+        "btts": null,
+        "homeProb": null,
+        "drawProb": null,
+        "awayProb": null
+      },
+      "sofascore": {
+        "home": 62,
+        "draw": null,
+        "away": 38,
+        "votes": 99
+      },
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "1",
+        "prob": 58.4,
+        "ev": 0.109,
+        "edge": 5.7,
+        "kelly": 12.1,
+        "confidence": 62.0,
+        "dataQuality": 0.7
+      },
+      "tennis": null,
+      "confidence": 62.0,
+      "value_bet": true
+    },
+    {
+      "id": -5066871401036271721,
+      "homeTeam": "Boden",
+      "awayTeam": "Lindloven",
+      "time": "27.03.2026 18:00",
+      "date": "2026-03-27",
+      "league": null,
+      "country": "",
+      "sport": "hockey",
+      "matchUrl": "https://www.livesport.com/pl/mecz/hokej/boden-AVwMmOAp/lindloven-bVbyNwgk/?mid=r5M5Wrm3",
+      "qualifies": true,
+      "h2h": {
+        "home": 3,
+        "draw": 0,
+        "away": 2,
+        "total": 5,
+        "winRate": 60
+      },
+      "homeForm": [
+        "W",
+        "W",
+        "W",
+        "W",
+        "W"
+      ],
+      "awayForm": [
+        "L",
+        "W",
+        "W",
+        "D",
+        "W"
+      ],
+      "homeFormHome": [
+        "W",
+        "W",
+        "W",
+        "W",
+        "W"
+      ],
+      "awayFormAway": [
+        "L",
+        "W",
+        "W",
+        "W",
+        "L"
+      ],
+      "formAdvantage": true,
+      "odds": {
+        "home": 1.78,
+        "draw": 4.0,
+        "away": 3.2,
+        "bookmaker": "Pinnacle"
+      },
+      "forebet": null,
+      "sofascore": {
+        "home": 91,
+        "draw": null,
+        "away": 9,
+        "votes": 90
+      },
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "1",
+        "prob": 71.1,
+        "ev": 0.265,
+        "edge": 14.9,
+        "kelly": 34.0,
+        "confidence": 79.0,
+        "dataQuality": 0.7
+      },
+      "tennis": null,
+      "confidence": 79.0,
+      "value_bet": true
+    },
+    {
+      "id": -5965331232319896660,
+      "homeTeam": "Hudiksvalls",
+      "awayTeam": "Sundsvall",
+      "time": "27.03.2026 18:00",
+      "date": "2026-03-27",
+      "league": null,
+      "country": "",
+      "sport": "hockey",
+      "matchUrl": "https://www.livesport.com/pl/mecz/hokej/hudiksvall-4tscC2WF/sundsvall-M5T57ozk/?mid=be9vT9tB",
+      "qualifies": true,
+      "h2h": {
+        "home": 4,
+        "draw": 0,
+        "away": 1,
+        "total": 5,
+        "winRate": 80
+      },
+      "homeForm": [
+        "W",
+        "W",
+        "W",
+        "W",
+        "W"
+      ],
+      "awayForm": [
+        "L",
+        "W",
+        "W",
+        "W",
+        "W"
+      ],
+      "homeFormHome": [
+        "W",
+        "W",
+        "W",
+        "W",
+        "W"
+      ],
+      "awayFormAway": [
+        "L",
+        "W",
+        "L",
+        "L",
+        "W"
+      ],
+      "formAdvantage": true,
+      "odds": {
+        "home": 1.53,
+        "draw": 4.4,
+        "away": 4.0,
+        "bookmaker": "Pinnacle"
+      },
+      "forebet": null,
+      "sofascore": {
+        "home": 91,
+        "draw": null,
+        "away": 9,
+        "votes": 126
+      },
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "1",
+        "prob": 80.4,
+        "ev": 0.23,
+        "edge": 15.0,
+        "kelly": 43.4,
+        "confidence": 83.0,
+        "dataQuality": 0.7
+      },
+      "tennis": null,
+      "confidence": 83.0,
+      "value_bet": true
+    },
+    {
+      "id": -2991831284713594825,
+      "homeTeam": "Karlskoga U20",
+      "awayTeam": "Grums U20",
+      "time": "27.03.2026 18:00",
+      "date": "2026-03-27",
+      "league": null,
+      "country": "",
+      "sport": "hockey",
+      "matchUrl": "https://www.livesport.com/pl/mecz/hokej/grums-2P4ZwLKr/karlskoga-I5hZZMqm/?mid=8GZbmhxq",
+      "qualifies": false,
+      "h2h": {
+        "home": 0,
+        "draw": 0,
+        "away": 0,
+        "total": 0,
+        "winRate": 0
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null,
+      "confidence": 0,
+      "value_bet": false
+    },
+    {
+      "id": 7145180019505949022,
+      "homeTeam": "Oskarshamn U20",
+      "awayTeam": "Tingsryd U20",
+      "time": "27.03.2026 18:00",
+      "date": "2026-03-27",
+      "league": null,
+      "country": "",
+      "sport": "hockey",
+      "matchUrl": "https://www.livesport.com/pl/mecz/hokej/oskarshamn-4fQ0pS7D/tingsryd-2i2hMBnO/?mid=Gtw7oW6e",
+      "qualifies": false,
+      "h2h": {
+        "home": 0,
+        "draw": 0,
+        "away": 0,
+        "total": 0,
+        "winRate": 0
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null,
+      "confidence": 0,
+      "value_bet": false
+    },
+    {
+      "id": 3268635523339780631,
+      "homeTeam": "Brynas K",
+      "awayTeam": "Frolunda K",
+      "time": "27.03.2026 17:00",
+      "date": "2026-03-27",
+      "league": null,
+      "country": "",
+      "sport": "hockey",
+      "matchUrl": "https://www.livesport.com/pl/mecz/hokej/brynas-OIWm2Yxt/frolunda-6izO5QfD/?mid=OKJOqv5T",
+      "qualifies": true,
+      "h2h": {
+        "home": 3,
+        "draw": 0,
+        "away": 2,
+        "total": 5,
+        "winRate": 60
+      },
+      "homeForm": [
+        "W",
+        "W",
+        "W",
+        "W",
+        "W"
+      ],
+      "awayForm": [
+        "L",
+        "L",
+        "W",
+        "L",
+        "W"
+      ],
+      "homeFormHome": [
+        "W",
+        "W",
+        "W",
+        "W",
+        "L"
+      ],
+      "awayFormAway": [
+        "W",
+        "W",
+        "W",
+        "L",
+        "L"
+      ],
+      "formAdvantage": true,
+      "odds": {
+        "home": 2.0,
+        "draw": 3.55,
+        "away": 2.95,
+        "bookmaker": "Pinnacle"
+      },
+      "forebet": null,
+      "sofascore": {
+        "home": 45,
+        "draw": null,
+        "away": 55,
+        "votes": 38
+      },
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "1",
+        "prob": 61.9,
+        "ev": 0.238,
+        "edge": 11.9,
+        "kelly": 23.8,
+        "confidence": 72.0,
+        "dataQuality": 0.7
+      },
+      "tennis": null,
+      "confidence": 72.0,
+      "value_bet": true
+    },
+    {
+      "id": -7075696297578304977,
+      "homeTeam": "Buzadam",
+      "awayTeam": "Zeytinburnu Istanbul",
+      "time": "27.03.2026 16:45",
+      "date": "2026-03-27",
+      "league": null,
+      "country": "",
+      "sport": "hockey",
+      "matchUrl": "https://www.livesport.com/pl/mecz/hokej/buzadam-MgjWqS3B/zeytinburnu-istanbul-fDLysx5c/?mid=AetN4lDO",
+      "qualifies": true,
+      "h2h": {
+        "home": 5,
+        "draw": 0,
+        "away": 0,
+        "total": 5,
+        "winRate": 100
+      },
+      "homeForm": [
+        "W",
+        "W",
+        "L",
+        "L",
+        "L"
+      ],
+      "awayForm": [
+        "W",
+        "W",
+        "W",
+        "L",
+        "W"
+      ],
+      "homeFormHome": [
+        "W",
+        "W",
+        "W",
+        "W",
+        "W"
+      ],
+      "awayFormAway": [
+        "L",
+        "L",
+        "L",
+        "W",
+        "L"
+      ],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": {
+        "prediction": "1",
+        "probability": 58.0,
+        "exactScore": "3-2",
+        "overUnder": "Under 5.5",
+        "btts": "Yes",
+        "homeProb": null,
+        "drawProb": null,
+        "awayProb": null
+      },
+      "sofascore": {
+        "home": 74,
+        "draw": null,
+        "away": 26,
+        "votes": 1798
+      },
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "1",
+        "prob": 72.6,
+        "ev": -999.0,
+        "edge": 0.0,
+        "kelly": 0.0,
+        "confidence": 50.0,
+        "dataQuality": 0.7
+      },
+      "tennis": null,
+      "confidence": 50.0,
+      "value_bet": false
+    },
+    {
+      "id": 6891724004500160421,
+      "homeTeam": "Cleveland Monsters",
+      "awayTeam": "Grand Rapids Griffins",
+      "time": "26.03.2026 23:00",
+      "date": "2026-03-27",
+      "league": null,
+      "country": "",
+      "sport": "hockey",
+      "matchUrl": "https://www.livesport.com/pl/mecz/hokej/cleveland-monsters-QquTgZqs/grand-rapids-griffins-UDgcaeMJ/?mid=GjD1cm5C",
+      "qualifies": false,
+      "h2h": {
+        "home": 2,
+        "draw": 0,
+        "away": 3,
+        "total": 5,
+        "winRate": 40
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null,
+      "confidence": 0,
+      "value_bet": false
+    },
+    {
+      "id": -7365971767512497763,
+      "homeTeam": "Calgary Wranglers",
+      "awayTeam": "Colorado Eagles",
+      "time": "27.03.2026 19:00",
+      "date": "2026-03-27",
+      "league": null,
+      "country": "",
+      "sport": "hockey",
+      "matchUrl": "https://www.livesport.com/pl/mecz/hokej/calgary-wranglers-dCOHqzQr/colorado-eagles-tI34khC9/?mid=4xLIIxKN",
+      "qualifies": false,
+      "h2h": {
+        "home": 1,
+        "draw": 0,
+        "away": 4,
+        "total": 5,
+        "winRate": 20
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null,
+      "confidence": 0,
+      "value_bet": false
+    },
+    {
+      "id": -6146784752687985668,
+      "homeTeam": "Belleville Senators",
+      "awayTeam": "Manitoba Moose",
+      "time": "27.03.2026 23:00",
+      "date": "2026-03-27",
+      "league": null,
+      "country": "",
+      "sport": "hockey",
+      "matchUrl": "https://www.livesport.com/pl/mecz/hokej/belleville-senators-AcnxuzVm/manitoba-moose-vmqXhgam/?mid=UgLmmqhR",
+      "qualifies": true,
+      "h2h": {
+        "home": 3,
+        "draw": 0,
+        "away": 2,
+        "total": 5,
+        "winRate": 60
+      },
+      "homeForm": [
+        "L",
+        "D",
+        "L",
+        "W",
+        "W"
+      ],
+      "awayForm": [
+        "L",
+        "L",
+        "L",
+        "W",
+        "L"
+      ],
+      "homeFormHome": [
+        "L",
+        "D",
+        "L",
+        "W",
+        "L"
+      ],
+      "awayFormAway": [
+        "L",
+        "W",
+        "W",
+        "L",
+        "W"
+      ],
+      "formAdvantage": true,
+      "odds": {
+        "home": 2.3,
+        "draw": 4.0,
+        "away": 2.35,
+        "bookmaker": "Pinnacle"
+      },
+      "forebet": {
+        "prediction": "1",
+        "probability": 64.0,
+        "exactScore": "4-3",
+        "overUnder": "Over 5.5",
+        "btts": "Yes",
+        "homeProb": null,
+        "drawProb": null,
+        "awayProb": null
+      },
+      "sofascore": {
+        "home": 85,
+        "draw": null,
+        "away": 15,
+        "votes": 20
+      },
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "1",
+        "prob": 61.2,
+        "ev": 0.409,
+        "edge": 17.8,
+        "kelly": 31.4,
+        "confidence": 78.0,
+        "dataQuality": 0.8
+      },
+      "tennis": null,
+      "confidence": 78.0,
+      "value_bet": true
+    },
+    {
+      "id": -1075592213418033058,
+      "homeTeam": "Bridgeport Islanders",
+      "awayTeam": "Laval Rocket",
+      "time": "27.03.2026 23:00",
+      "date": "2026-03-27",
+      "league": null,
+      "country": "",
+      "sport": "hockey",
+      "matchUrl": "https://www.livesport.com/pl/mecz/hokej/bridgeport-islanders-h69lvfpf/laval-rocket-84h1bFyQ/?mid=MTHuk5NE",
+      "qualifies": false,
+      "h2h": {
+        "home": 2,
+        "draw": 0,
+        "away": 3,
+        "total": 5,
+        "winRate": 40
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null,
+      "confidence": 0,
+      "value_bet": false
+    },
+    {
+      "id": -3759643582857119150,
+      "homeTeam": "Syracuse Crunch",
+      "awayTeam": "Hershey Bears",
+      "time": "27.03.2026 23:00",
+      "date": "2026-03-27",
+      "league": null,
+      "country": "",
+      "sport": "hockey",
+      "matchUrl": "https://www.livesport.com/pl/mecz/hokej/hershey-bears-zVbgwEa0/syracuse-crunch-4KeliXTa/?mid=MkuZvuko",
+      "qualifies": true,
+      "h2h": {
+        "home": 4,
+        "draw": 0,
+        "away": 1,
+        "total": 5,
+        "winRate": 80
+      },
+      "homeForm": [
+        "W",
+        "W",
+        "W",
+        "D",
+        "L"
+      ],
+      "awayForm": [
+        "L",
+        "D",
+        "L",
+        "L",
+        "W"
+      ],
+      "homeFormHome": [
+        "W",
+        "W",
+        "D",
+        "L",
+        "L"
+      ],
+      "awayFormAway": [
+        "W",
+        "L",
+        "W",
+        "W",
+        "W"
+      ],
+      "formAdvantage": true,
+      "odds": {
+        "home": 1.78,
+        "draw": 4.3,
+        "away": 3.3,
+        "bookmaker": "Pinnacle"
+      },
+      "forebet": null,
+      "sofascore": {
+        "home": 79,
+        "draw": null,
+        "away": 21,
+        "votes": 29
+      },
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "1",
+        "prob": 71.9,
+        "ev": 0.28,
+        "edge": 15.7,
+        "kelly": 35.9,
+        "confidence": 80.0,
+        "dataQuality": 0.7
+      },
+      "tennis": null,
+      "confidence": 80.0,
+      "value_bet": true
+    },
+    {
+      "id": -228880923850506423,
+      "homeTeam": "Lehigh Valley Phantoms",
+      "awayTeam": "Springfield Thunderbirds",
+      "time": "27.03.2026 23:05",
+      "date": "2026-03-27",
+      "league": null,
+      "country": "",
+      "sport": "hockey",
+      "matchUrl": "https://www.livesport.com/pl/mecz/hokej/lehigh-valley-phantoms-QJ17yE8N/springfield-thunderbirds-l0eoMYaD/?mid=zVML2rsh",
+      "qualifies": false,
+      "h2h": {
+        "home": 2,
+        "draw": 0,
+        "away": 3,
+        "total": 5,
+        "winRate": 40
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null,
+      "confidence": 0,
+      "value_bet": false
+    },
+    {
+      "id": -2103460101871701411,
+      "homeTeam": "Rochester Americans",
+      "awayTeam": "Toronto Marlies",
+      "time": "27.03.2026 23:05",
+      "date": "2026-03-27",
+      "league": null,
+      "country": "",
+      "sport": "hockey",
+      "matchUrl": "https://www.livesport.com/pl/mecz/hokej/rochester-americans-MBYyhDEg/toronto-marlies-CleEiiq6/?mid=ERdKsNFl",
+      "qualifies": false,
+      "h2h": {
+        "home": 2,
+        "draw": 0,
+        "away": 3,
+        "total": 5,
+        "winRate": 40
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null,
+      "confidence": 0,
+      "value_bet": false
+    },
+    {
+      "id": 1353692956548506833,
+      "homeTeam": "Atlanta Gladiators",
+      "awayTeam": "Orlando Solar Bears",
+      "time": "26.03.2026 23:10",
+      "date": "2026-03-27",
+      "league": null,
+      "country": "",
+      "sport": "hockey",
+      "matchUrl": "https://www.livesport.com/pl/mecz/hokej/atlanta-gladiators-ERg1TAkj/orlando-solar-bears-hAtFzgcG/?mid=r9wXUvIs",
+      "qualifies": true,
+      "h2h": {
+        "home": 4,
+        "draw": 0,
+        "away": 1,
+        "total": 5,
+        "winRate": 80
+      },
+      "homeForm": [
+        "W",
+        "W",
+        "W",
+        "L",
+        "L"
+      ],
+      "awayForm": [
+        "L",
+        "L",
+        "L",
+        "W",
+        "L"
+      ],
+      "homeFormHome": [
+        "W",
+        "W",
+        "L",
+        "W",
+        "L"
+      ],
+      "awayFormAway": [
+        "L",
+        "L",
+        "W",
+        "L",
+        "W"
+      ],
+      "formAdvantage": true,
+      "odds": {
+        "home": 1.75,
+        "draw": 4.3,
+        "away": 3.3,
+        "bookmaker": "Pinnacle"
+      },
+      "forebet": {
+        "prediction": "1",
+        "probability": 52.0,
+        "exactScore": "5-3",
+        "overUnder": "Over 5.5",
+        "btts": "Yes",
+        "homeProb": null,
+        "drawProb": null,
+        "awayProb": null
+      },
+      "sofascore": {
+        "home": 78,
+        "draw": null,
+        "away": 22,
+        "votes": 50
+      },
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "1",
+        "prob": 69.2,
+        "ev": -999.0,
+        "edge": 0.0,
+        "kelly": 0.0,
+        "confidence": 49.0,
+        "dataQuality": 0.7
+      },
+      "tennis": null,
+      "confidence": 49.0,
+      "value_bet": false
+    },
+    {
+      "id": 8536778338235674128,
+      "homeTeam": "Adirondack Thunder",
+      "awayTeam": "Kalamazoo Wings",
+      "time": "27.03.2026 23:00",
+      "date": "2026-03-27",
+      "league": null,
+      "country": "",
+      "sport": "hockey",
+      "matchUrl": "https://www.livesport.com/pl/mecz/hokej/adirondack-thunder-0C7aXFk0/kalamazoo-wings-res7FiLj/?mid=ClVmRdH6",
+      "qualifies": false,
+      "h2h": {
+        "home": 2,
+        "draw": 0,
+        "away": 3,
+        "total": 5,
+        "winRate": 40
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null,
+      "confidence": 0,
+      "value_bet": false
+    },
+    {
+      "id": 2874615859512452717,
+      "homeTeam": "Reading Royals",
+      "awayTeam": "Norfolk Admirals",
+      "time": "27.03.2026 23:00",
+      "date": "2026-03-27",
+      "league": null,
+      "country": "",
+      "sport": "hockey",
+      "matchUrl": "https://www.livesport.com/pl/mecz/hokej/norfolk-admirals-vJYstUJk/reading-royals-C8KZXayI/?mid=GMyuTInf",
+      "qualifies": true,
+      "h2h": {
+        "home": 3,
+        "draw": 0,
+        "away": 2,
+        "total": 5,
+        "winRate": 60
+      },
+      "homeForm": [
+        "W",
+        "L",
+        "D",
+        "D",
+        "W"
+      ],
+      "awayForm": [
+        "L",
+        "W",
+        "L",
+        "W",
+        "D"
+      ],
+      "homeFormHome": [
+        "W",
+        "D",
+        "W",
+        "L",
+        "D"
+      ],
+      "awayFormAway": [
+        "L",
+        "L",
+        "W",
+        "L",
+        "L"
+      ],
+      "formAdvantage": true,
+      "odds": null,
+      "forebet": {
+        "prediction": "2",
+        "probability": 53.0,
+        "exactScore": "1-3",
+        "overUnder": "Under 5.5",
+        "btts": "Yes",
+        "homeProb": null,
+        "drawProb": null,
+        "awayProb": null
+      },
+      "sofascore": {
+        "home": 78,
+        "draw": null,
+        "away": 22,
+        "votes": 9
+      },
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "1",
+        "prob": 53.7,
+        "ev": -999.0,
+        "edge": 0.0,
+        "kelly": 0.0,
+        "confidence": 42.0,
+        "dataQuality": 0.7
+      },
+      "tennis": null,
+      "confidence": 42.0,
+      "value_bet": false
+    },
+    {
+      "id": -6808417503013565845,
+      "homeTeam": "Atlanta Gladiators",
+      "awayTeam": "Orlando Solar Bears",
+      "time": "27.03.2026 23:10",
+      "date": "2026-03-27",
+      "league": null,
+      "country": "",
+      "sport": "hockey",
+      "matchUrl": "https://www.livesport.com/pl/mecz/hokej/atlanta-gladiators-ERg1TAkj/orlando-solar-bears-hAtFzgcG/?mid=0ABrmvvQ",
+      "qualifies": true,
+      "h2h": {
+        "home": 4,
+        "draw": 0,
+        "away": 1,
+        "total": 5,
+        "winRate": 80
+      },
+      "homeForm": [
+        "W",
+        "W",
+        "W",
+        "L",
+        "L"
+      ],
+      "awayForm": [
+        "L",
+        "L",
+        "L",
+        "W",
+        "L"
+      ],
+      "homeFormHome": [
+        "W",
+        "W",
+        "L",
+        "W",
+        "L"
+      ],
+      "awayFormAway": [
+        "L",
+        "L",
+        "W",
+        "L",
+        "W"
+      ],
+      "formAdvantage": true,
+      "odds": null,
+      "forebet": {
+        "prediction": "1",
+        "probability": 52.0,
+        "exactScore": "5-3",
+        "overUnder": "Over 5.5",
+        "btts": "Yes",
+        "homeProb": null,
+        "drawProb": null,
+        "awayProb": null
+      },
+      "sofascore": {
+        "home": 78,
+        "draw": null,
+        "away": 22,
+        "votes": 50
+      },
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "1",
+        "prob": 69.2,
+        "ev": -999.0,
+        "edge": 0.0,
+        "kelly": 0.0,
+        "confidence": 49.0,
+        "dataQuality": 0.7
+      },
+      "tennis": null,
+      "confidence": 49.0,
+      "value_bet": false
+    },
+    {
+      "id": 2499747804151075867,
+      "homeTeam": "Wheeling Nailers",
+      "awayTeam": "Worcester Railers",
+      "time": "27.03.2026 23:10",
+      "date": "2026-03-27",
+      "league": null,
+      "country": "",
+      "sport": "hockey",
+      "matchUrl": "https://www.livesport.com/pl/mecz/hokej/wheeling-nailers-44r3GX5p/worcester-railers-I9B9dNl9/?mid=KEYePznJ",
+      "qualifies": false,
+      "h2h": {
+        "home": 1,
+        "draw": 0,
+        "away": 4,
+        "total": 5,
+        "winRate": 20
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null,
+      "confidence": 0,
+      "value_bet": false
+    },
+    {
+      "id": -2832206485545022234,
+      "homeTeam": "Toledo Walleye",
+      "awayTeam": "Indy Fuel",
+      "time": "27.03.2026 23:15",
+      "date": "2026-03-27",
+      "league": null,
+      "country": "",
+      "sport": "hockey",
+      "matchUrl": "https://www.livesport.com/pl/mecz/hokej/indy-fuel-KnJ7UWHf/toledo-walleye-drm6xFS3/?mid=AqcEsI1m",
+      "qualifies": true,
+      "h2h": {
+        "home": 4,
+        "draw": 0,
+        "away": 1,
+        "total": 5,
+        "winRate": 80
+      },
+      "homeForm": [
+        "D",
+        "L",
+        "W",
+        "W",
+        "W"
+      ],
+      "awayForm": [
+        "L",
+        "W",
+        "W",
+        "L",
+        "W"
+      ],
+      "homeFormHome": [
+        "D",
+        "L",
+        "W",
+        "W",
+        "W"
+      ],
+      "awayFormAway": [
+        "W",
+        "L",
+        "L",
+        "L",
+        "W"
+      ],
+      "formAdvantage": true,
+      "odds": null,
+      "forebet": null,
+      "sofascore": {
+        "home": 91,
+        "draw": null,
+        "away": 9,
+        "votes": 11
+      },
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "1",
+        "prob": 67.8,
+        "ev": -999.0,
+        "edge": 0.0,
+        "kelly": 0.0,
+        "confidence": 45.0,
+        "dataQuality": 0.6
+      },
+      "tennis": null,
+      "confidence": 45.0,
+      "value_bet": false
+    },
+    {
+      "id": 2717302655569245247,
+      "homeTeam": "Florida Everblades",
+      "awayTeam": "Savannah Ghost Pirates",
+      "time": "27.03.2026 23:30",
+      "date": "2026-03-27",
+      "league": null,
+      "country": "",
+      "sport": "hockey",
+      "matchUrl": "https://www.livesport.com/pl/mecz/hokej/florida-everblades-WAjlSKlf/savannah-ghost-pirates-bmdn8F8S/?mid=6BjNudWa",
+      "qualifies": true,
+      "h2h": {
+        "home": 4,
+        "draw": 0,
+        "away": 1,
+        "total": 5,
+        "winRate": 80
+      },
+      "homeForm": [
+        "W",
+        "W",
+        "W",
+        "L",
+        "W"
+      ],
+      "awayForm": [
+        "L",
+        "L",
+        "L",
+        "W",
+        "L"
+      ],
+      "homeFormHome": [
+        "W",
+        "W",
+        "W",
+        "W",
+        "W"
+      ],
+      "awayFormAway": [
+        "L",
+        "W",
+        "W",
+        "L",
+        "W"
+      ],
+      "formAdvantage": true,
+      "odds": null,
+      "forebet": {
+        "prediction": "1",
+        "probability": 54.0,
+        "exactScore": "6-3",
+        "overUnder": "Over 5.5",
+        "btts": "Yes",
+        "homeProb": null,
+        "drawProb": null,
+        "awayProb": null
+      },
+      "sofascore": {
+        "home": 91,
+        "draw": null,
+        "away": 9,
+        "votes": 11
+      },
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "1",
+        "prob": 73.8,
+        "ev": -999.0,
+        "edge": 0.0,
+        "kelly": 0.0,
+        "confidence": 51.0,
+        "dataQuality": 0.7
+      },
+      "tennis": null,
+      "confidence": 51.0,
+      "value_bet": false
+    },
+    {
+      "id": 5491339625858911727,
+      "homeTeam": "Fort Wayne Komets",
+      "awayTeam": "Bloomington Bison",
+      "time": "27.03.2026 23:35",
+      "date": "2026-03-27",
+      "league": null,
+      "country": "",
+      "sport": "hockey",
+      "matchUrl": "https://www.livesport.com/pl/mecz/hokej/bloomington-bison-KxBL7TEi/fort-wayne-komets-QXkhRv40/?mid=vPlVwz1C",
+      "qualifies": false,
+      "h2h": {
+        "home": 2,
+        "draw": 0,
+        "away": 3,
+        "total": 5,
+        "winRate": 40
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null,
+      "confidence": 0,
+      "value_bet": false
+    },
+    {
+      "id": -5232781323080193822,
+      "homeTeam": "Binghamton Black Bears",
+      "awayTeam": "Danbury Hat Tricks",
+      "time": "27.03.2026 23:00",
+      "date": "2026-03-27",
+      "league": null,
+      "country": "",
+      "sport": "hockey",
+      "matchUrl": "https://www.livesport.com/pl/mecz/hokej/binghamton-black-bears-EgsXwtxq/danbury-hat-tricks-CQiIQpwI/?mid=IFH2eEh5",
+      "qualifies": true,
+      "h2h": {
+        "home": 4,
+        "draw": 0,
+        "away": 1,
+        "total": 5,
+        "winRate": 80
+      },
+      "homeForm": [
+        "W",
+        "W",
+        "W",
+        "W",
+        "W"
+      ],
+      "awayForm": [
+        "W",
+        "W",
+        "L",
+        "W",
+        "L"
+      ],
+      "homeFormHome": [
+        "W",
+        "D",
+        "W",
+        "W",
+        "L"
+      ],
+      "awayFormAway": [
+        "W",
+        "W",
+        "W",
+        "W",
+        "W"
+      ],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": {
+        "prediction": "1",
+        "probability": 64.0,
+        "exactScore": "4-3",
+        "overUnder": "Over 5.5",
+        "btts": "Yes",
+        "homeProb": null,
+        "drawProb": null,
+        "awayProb": null
+      },
+      "sofascore": {
+        "home": 88,
+        "draw": null,
+        "away": 12,
+        "votes": 8
+      },
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "1",
+        "prob": 69.4,
+        "ev": -999.0,
+        "edge": 0.0,
+        "kelly": 0.0,
+        "confidence": 49.0,
+        "dataQuality": 0.7
+      },
+      "tennis": null,
+      "confidence": 49.0,
+      "value_bet": false
+    },
+    {
+      "id": -9050911612983819062,
+      "homeTeam": "Port Huron Prowlers",
+      "awayTeam": "Watertown Wolves",
+      "time": "27.03.2026 23:05",
+      "date": "2026-03-27",
+      "league": null,
+      "country": "",
+      "sport": "hockey",
+      "matchUrl": "https://www.livesport.com/pl/mecz/hokej/port-huron-prowlers-MoQBUX8R/watertown-wolves-bNBlJwil/?mid=vV5BghNH",
+      "qualifies": true,
+      "h2h": {
+        "home": 5,
+        "draw": 0,
+        "away": 0,
+        "total": 5,
+        "winRate": 100
+      },
+      "homeForm": [
+        "W",
+        "W",
+        "L",
+        "W",
+        "W"
+      ],
+      "awayForm": [
+        "L",
+        "L",
+        "L",
+        "D",
+        "L"
+      ],
+      "homeFormHome": [
+        "W",
+        "W",
+        "W",
+        "W",
+        "D"
+      ],
+      "awayFormAway": [
+        "W",
+        "W",
+        "W",
+        "W",
+        "W"
+      ],
+      "formAdvantage": true,
+      "odds": null,
+      "forebet": {
+        "prediction": "2",
+        "probability": 62.0,
+        "exactScore": "2-4",
+        "overUnder": "Over 5.5",
+        "btts": "Yes",
+        "homeProb": null,
+        "drawProb": null,
+        "awayProb": null
+      },
+      "sofascore": {
+        "home": 100,
+        "draw": null,
+        "away": 0,
+        "votes": 6
+      },
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "1",
+        "prob": 72.4,
+        "ev": -999.0,
+        "edge": 0.0,
+        "kelly": 0.0,
+        "confidence": 50.0,
+        "dataQuality": 0.7
+      },
+      "tennis": null,
+      "confidence": 50.0,
+      "value_bet": false
+    },
+    {
+      "id": -8983659261500823766,
+      "homeTeam": "Blue Ridge Bobcats",
+      "awayTeam": "Pee Dee IceCats",
+      "time": "27.03.2026 23:30",
+      "date": "2026-03-27",
+      "league": null,
+      "country": "",
+      "sport": "hockey",
+      "matchUrl": "https://www.livesport.com/pl/mecz/hokej/blue-ridge-bobcats-W0SLyVnj/pee-dee-icecats-Q1IWIAFb/?mid=0xGVbmac",
+      "qualifies": false,
+      "h2h": {
+        "home": 0,
+        "draw": 0,
+        "away": 5,
+        "total": 5,
+        "winRate": 0
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null,
+      "confidence": 0,
+      "value_bet": false
+    },
+    {
+      "id": -1365923182132317379,
+      "homeTeam": "Columbus River Dragons",
+      "awayTeam": "Monroe Moccasins",
+      "time": "27.03.2026 23:35",
+      "date": "2026-03-27",
+      "league": null,
+      "country": "",
+      "sport": "hockey",
+      "matchUrl": "https://www.livesport.com/pl/mecz/hokej/columbus-river-dragons-lWpup8wt/monroe-moccasins-h6kNmCDr/?mid=hhUve5bM",
+      "qualifies": false,
+      "h2h": {
+        "home": 2,
+        "draw": 0,
+        "away": 3,
+        "total": 5,
+        "winRate": 40
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null,
+      "confidence": 0,
+      "value_bet": false
+    },
+    {
+      "id": 2661366520752767836,
+      "homeTeam": "Twin City Thunderbirds",
+      "awayTeam": "Athens Rock Lobsters",
+      "time": "27.03.2026 23:35",
+      "date": "2026-03-27",
+      "league": null,
+      "country": "",
+      "sport": "hockey",
+      "matchUrl": "https://www.livesport.com/pl/mecz/hokej/athens-rock-lobsters-YL8jgYkL/twin-city-thunderbirds-vkFmfl8l/?mid=YkEwcRT9",
+      "qualifies": false,
+      "h2h": {
+        "home": 0,
+        "draw": 0,
+        "away": 5,
+        "total": 5,
+        "winRate": 0
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null,
+      "confidence": 0,
+      "value_bet": false
+    },
+    {
+      "id": -3470231300413686464,
+      "homeTeam": "Macon Mayhem",
+      "awayTeam": "Knoxville Ice Bears",
+      "time": "27.03.2026 23:00",
+      "date": "2026-03-27",
+      "league": null,
+      "country": "",
+      "sport": "hockey",
+      "matchUrl": "https://www.livesport.com/pl/mecz/hokej/knoxville-ice-bears-ddYKD2UE/macon-mayhem-Y38ujVNF/?mid=ADOyvSM8",
+      "qualifies": false,
+      "h2h": {
+        "home": 2,
+        "draw": 0,
+        "away": 3,
+        "total": 5,
+        "winRate": 40
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null,
+      "confidence": 0,
+      "value_bet": false
+    },
+    {
+      "id": 3704100545593775564,
+      "homeTeam": "Roanoke Dawgs",
+      "awayTeam": "Fayetteville Marksmen",
+      "time": "27.03.2026 23:05",
+      "date": "2026-03-27",
+      "league": null,
+      "country": "",
+      "sport": "hockey",
+      "matchUrl": "https://www.livesport.com/pl/mecz/hokej/fayetteville-marksmen-4lGDFOa2/roanoke-dawgs-dp8WPtB4/?mid=rRMqx6iL",
+      "qualifies": true,
+      "h2h": {
+        "home": 3,
+        "draw": 0,
+        "away": 2,
+        "total": 5,
+        "winRate": 60
+      },
+      "homeForm": [
+        "W",
+        "L",
+        "D",
+        "W",
+        "W"
+      ],
+      "awayForm": [
+        "L",
+        "W",
+        "L",
+        "D",
+        "D"
+      ],
+      "homeFormHome": [
+        "D",
+        "W",
+        "W",
+        "L",
+        "W"
+      ],
+      "awayFormAway": [
+        "W",
+        "L",
+        "L",
+        "W",
+        "W"
+      ],
+      "formAdvantage": true,
+      "odds": null,
+      "forebet": null,
+      "sofascore": {
+        "home": 100,
+        "draw": null,
+        "away": 0,
+        "votes": 7
+      },
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "1",
+        "prob": 67.4,
+        "ev": -999.0,
+        "edge": 0.0,
+        "kelly": 0.0,
+        "confidence": 45.0,
+        "dataQuality": 0.6
+      },
+      "tennis": null,
+      "confidence": 45.0,
+      "value_bet": false
+    },
+    {
+      "id": 2131350755233604871,
+      "homeTeam": "Omaha Lancers",
+      "awayTeam": "Sioux Falls Stampede",
+      "time": "27.03.2026 00:05",
+      "date": "2026-03-27",
+      "league": null,
+      "country": "",
+      "sport": "hockey",
+      "matchUrl": "https://www.livesport.com/pl/mecz/hokej/omaha-lancers-zs2ixQ20/sioux-falls-stampede-KvPQa6Mo/?mid=fuoovknm",
+      "qualifies": false,
+      "h2h": {
+        "home": 1,
+        "draw": 0,
+        "away": 4,
+        "total": 5,
+        "winRate": 20
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null,
+      "confidence": 0,
+      "value_bet": false
+    },
+    {
+      "id": 872930719070171044,
+      "homeTeam": "USA U18",
+      "awayTeam": "Youngstown Phantoms",
+      "time": "27.03.2026 23:00",
+      "date": "2026-03-27",
+      "league": null,
+      "country": "",
+      "sport": "hockey",
+      "matchUrl": "https://www.livesport.com/pl/mecz/hokej/usa-j1NQyHkH/youngstown-phantoms-6PMt915G/?mid=lvvfxTGa",
+      "qualifies": false,
+      "h2h": {
+        "home": 1,
+        "draw": 0,
+        "away": 4,
+        "total": 5,
+        "winRate": 20
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null,
+      "confidence": 0,
+      "value_bet": false
+    },
+    {
+      "id": 8685263389677637714,
+      "homeTeam": "Muskegon Lumberjacks",
+      "awayTeam": "USA U18",
+      "time": "27.03.2026 23:10",
+      "date": "2026-03-27",
+      "league": null,
+      "country": "",
+      "sport": "hockey",
+      "matchUrl": "https://www.livesport.com/pl/mecz/hokej/muskegon-lumberjacks-xpVPCq6i/usa-j1NQyHkH/?mid=Mix2z7oC",
+      "qualifies": true,
+      "h2h": {
+        "home": 4,
+        "draw": 0,
+        "away": 1,
+        "total": 5,
+        "winRate": 80
+      },
+      "homeForm": [
+        "W",
+        "W",
+        "L",
+        "W",
+        "W"
+      ],
+      "awayForm": [
+        "L",
+        "L",
+        "W",
+        "L",
+        "L"
+      ],
+      "homeFormHome": [
+        "W",
+        "L",
+        "W",
+        "L",
+        "L"
+      ],
+      "awayFormAway": [
+        "W",
+        "L",
+        "L",
+        "L",
+        "W"
+      ],
+      "formAdvantage": true,
+      "odds": null,
+      "forebet": null,
+      "sofascore": {
+        "home": 15,
+        "draw": null,
+        "away": 85,
+        "votes": 54
+      },
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "1",
+        "prob": 59.9,
+        "ev": -999.0,
+        "edge": 0.0,
+        "kelly": 0.0,
+        "confidence": 42.0,
+        "dataQuality": 0.6
+      },
+      "tennis": null,
+      "confidence": 42.0,
+      "value_bet": false
+    },
+    {
+      "id": 6515760823401409699,
+      "homeTeam": "Waterloo Black Hawks",
+      "awayTeam": "Omaha Lancers",
+      "time": "27.03.2026 23:35",
+      "date": "2026-03-27",
+      "league": null,
+      "country": "",
+      "sport": "hockey",
+      "matchUrl": "https://www.livesport.com/pl/mecz/hokej/omaha-lancers-zs2ixQ20/waterloo-black-hawks-zsKnLVwd/?mid=GhfzIbVp",
+      "qualifies": true,
+      "h2h": {
+        "home": 3,
+        "draw": 0,
+        "away": 2,
+        "total": 5,
+        "winRate": 60
+      },
+      "homeForm": [
+        "L",
+        "W",
+        "L",
+        "L",
+        "W"
+      ],
+      "awayForm": [
+        "W",
+        "W",
+        "D",
+        "W",
+        "W"
+      ],
+      "homeFormHome": [
+        "L",
+        "W",
+        "L",
+        "D",
+        "L"
+      ],
+      "awayFormAway": [
+        "L",
+        "L",
+        "W",
+        "W",
+        "W"
+      ],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": {
+        "prediction": "2",
+        "probability": 55.0,
+        "exactScore": "2-3",
+        "overUnder": "Under 5.5",
+        "btts": "Yes",
+        "homeProb": null,
+        "drawProb": null,
+        "awayProb": null
+      },
+      "sofascore": {
+        "home": 88,
+        "draw": null,
+        "away": 12,
+        "votes": 8
+      },
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "1",
+        "prob": 47.6,
+        "ev": -999.0,
+        "edge": 0.0,
+        "kelly": 0.0,
+        "confidence": 40.0,
+        "dataQuality": 0.7
+      },
+      "tennis": null,
+      "confidence": 40.0,
+      "value_bet": false
+    },
+    {
+      "id": 3548721871336425753,
+      "homeTeam": "North Dakota Fighting Hawks",
+      "awayTeam": "Merrimack Warriors",
+      "time": "27.03.2026 00:30",
+      "date": "2026-03-27",
+      "league": null,
+      "country": "",
+      "sport": "hockey",
+      "matchUrl": "https://www.livesport.com/pl/mecz/hokej/merrimack-warriors-U5jsYd84/north-dakota-fighting-hawks-Cjg0pgH7/?mid=r3FlqUw0",
+      "qualifies": false,
+      "h2h": {
+        "home": 0,
+        "draw": 0,
+        "away": 0,
+        "total": 0,
+        "winRate": 0
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null,
+      "confidence": 0,
+      "value_bet": false
+    },
+    {
+      "id": 6507917711503810787,
+      "homeTeam": "Western Michigan Broncos",
+      "awayTeam": "Minnesota State Mavericks",
+      "time": "27.03.2026 18:30",
+      "date": "2026-03-27",
+      "league": null,
+      "country": "",
+      "sport": "hockey",
+      "matchUrl": "https://www.livesport.com/pl/mecz/hokej/minnesota-state-mavericks-Gzj7GOjl/western-michigan-broncos-6RqsCIRa/?mid=hWy9Wjff",
+      "qualifies": true,
+      "h2h": {
+        "home": 1,
+        "draw": 0,
+        "away": 0,
+        "total": 1,
+        "winRate": 100
+      },
+      "homeForm": [
+        "D",
+        "W",
+        "W",
+        "W",
+        "W"
+      ],
+      "awayForm": [
+        "W",
+        "W",
+        "D",
+        "W",
+        "W"
+      ],
+      "homeFormHome": [
+        "W",
+        "W",
+        "W",
+        "W",
+        "L"
+      ],
+      "awayFormAway": [
+        "L",
+        "L",
+        "W",
+        "L",
+        "L"
+      ],
+      "formAdvantage": false,
+      "odds": {
+        "home": 1.5,
+        "draw": 4.6,
+        "away": 4.6,
+        "bookmaker": "Pinnacle"
+      },
+      "forebet": {
+        "prediction": "2",
+        "probability": 62.0,
+        "exactScore": "2-4",
+        "overUnder": "Over 5.5",
+        "btts": "Yes",
+        "homeProb": null,
+        "drawProb": null,
+        "awayProb": null
+      },
+      "sofascore": {
+        "home": 100,
+        "draw": null,
+        "away": 0,
+        "votes": 21
+      },
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "1",
+        "prob": 70.7,
+        "ev": 0.061,
+        "edge": 4.0,
+        "kelly": 12.1,
+        "confidence": 68.0,
+        "dataQuality": 0.8
+      },
+      "tennis": null,
+      "confidence": 68.0,
+      "value_bet": true
+    },
+    {
+      "id": 3585533681288718048,
+      "homeTeam": "Michigan Wolverines",
+      "awayTeam": "Bentley Falcons",
+      "time": "27.03.2026 21:30",
+      "date": "2026-03-27",
+      "league": null,
+      "country": "",
+      "sport": "hockey",
+      "matchUrl": "https://www.livesport.com/pl/mecz/hokej/bentley-falcons-lhOcb21i/michigan-K0tcP1yo/?mid=ENsVwZ1K",
+      "qualifies": false,
+      "h2h": {
+        "home": 0,
+        "draw": 0,
+        "away": 0,
+        "total": 0,
+        "winRate": 0
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null,
+      "confidence": 0,
+      "value_bet": false
+    },
+    {
+      "id": 3520833740092481801,
+      "homeTeam": "Denver Pioneers",
+      "awayTeam": "Cornell Big Red",
+      "time": "27.03.2026 22:00",
+      "date": "2026-03-27",
+      "league": null,
+      "country": "",
+      "sport": "hockey",
+      "matchUrl": "https://www.livesport.com/pl/mecz/hokej/cornell-big-red-hnCi6CqC/denver-pioneers-Sx861gEj/?mid=QqzHUUO6",
+      "qualifies": false,
+      "h2h": {
+        "home": 1,
+        "draw": 0,
+        "away": 1,
+        "total": 2,
+        "winRate": 50
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null,
+      "confidence": 0,
+      "value_bet": false
+    },
+    {
+      "id": -6267453699013034086,
+      "homeTeam": "Toronto Sceptres K",
+      "awayTeam": "Boston Fleet K",
+      "time": "27.03.2026 23:00",
+      "date": "2026-03-27",
+      "league": null,
+      "country": "",
+      "sport": "hockey",
+      "matchUrl": "https://www.livesport.com/pl/mecz/hokej/boston-fleet-hQ15UVyi/toronto-sceptres-04lDi2wm/?mid=CdF7UdAM",
+      "qualifies": false,
+      "h2h": {
+        "home": 2,
+        "draw": 0,
+        "away": 3,
+        "total": 5,
+        "winRate": 40
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null,
+      "confidence": 0,
+      "value_bet": false
+    },
+    {
+      "id": 1393744691514078155,
+      "homeTeam": "Belfast",
+      "awayTeam": "Nottingham",
+      "time": "27.03.2026 19:00",
+      "date": "2026-03-27",
+      "league": null,
+      "country": "",
+      "sport": "hockey",
+      "matchUrl": "https://www.livesport.com/pl/mecz/hokej/belfast-lAbhrnPs/nottingham-fNGaenH9/?mid=6BhyInXo",
+      "qualifies": true,
+      "h2h": {
+        "home": 4,
+        "draw": 0,
+        "away": 1,
+        "total": 5,
+        "winRate": 80
+      },
+      "homeForm": [
+        "W",
+        "L",
+        "W",
+        "W",
+        "W"
+      ],
+      "awayForm": [
+        "L",
+        "W",
+        "W",
+        "L",
+        "W"
+      ],
+      "homeFormHome": [
+        "L",
+        "W",
+        "L",
+        "L",
+        "W"
+      ],
+      "awayFormAway": [
+        "W",
+        "W",
+        "W",
+        "L",
+        "L"
+      ],
+      "formAdvantage": false,
+      "odds": {
+        "home": 1.63,
+        "draw": 4.3,
+        "away": 3.8,
+        "bookmaker": "Pinnacle"
+      },
+      "forebet": null,
+      "sofascore": {
+        "home": 77,
+        "draw": null,
+        "away": 23,
+        "votes": 43
+      },
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "1",
+        "prob": 69.4,
+        "ev": 0.132,
+        "edge": 8.1,
+        "kelly": 20.9,
+        "confidence": 70.0,
+        "dataQuality": 0.7
+      },
+      "tennis": null,
+      "confidence": 70.0,
+      "value_bet": true
+    },
+    {
+      "id": -8257108541805294853,
+      "homeTeam": "Dundee",
+      "awayTeam": "Sheffield",
+      "time": "27.03.2026 19:30",
+      "date": "2026-03-27",
+      "league": null,
+      "country": "",
+      "sport": "hockey",
+      "matchUrl": "https://www.livesport.com/pl/mecz/hokej/dundee-WWepxbGl/sheffield-z3GHVHgH/?mid=vPjqGQ1b",
+      "qualifies": false,
+      "h2h": {
+        "home": 0,
+        "draw": 0,
+        "away": 5,
+        "total": 5,
+        "winRate": 0
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null,
+      "confidence": 0,
+      "value_bet": false
+    },
+    {
+      "id": 7485871701768018130,
+      "homeTeam": "Glasgow",
+      "awayTeam": "Fife",
+      "time": "27.03.2026 19:30",
+      "date": "2026-03-27",
+      "league": null,
+      "country": "",
+      "sport": "hockey",
+      "matchUrl": "https://www.livesport.com/pl/mecz/hokej/fife-OvEizxo1/glasgow-lOYXxv1r/?mid=ziphE4WA",
+      "qualifies": true,
+      "h2h": {
+        "home": 4,
+        "draw": 0,
+        "away": 1,
+        "total": 5,
+        "winRate": 80
+      },
+      "homeForm": [
+        "L",
+        "W",
+        "L",
+        "W",
+        "D"
+      ],
+      "awayForm": [
+        "L",
+        "L",
+        "L",
+        "L",
+        "L"
+      ],
+      "homeFormHome": [
+        "L",
+        "W",
+        "D",
+        "W",
+        "W"
+      ],
+      "awayFormAway": [
+        "W",
+        "L",
+        "W",
+        "L",
+        "W"
+      ],
+      "formAdvantage": true,
+      "odds": {
+        "home": 1.2,
+        "draw": 6.5,
+        "away": 8.0,
+        "bookmaker": "Pinnacle"
+      },
+      "forebet": null,
+      "sofascore": {
+        "home": 92,
+        "draw": null,
+        "away": 8,
+        "votes": 40
+      },
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "1",
+        "prob": 81.7,
+        "ev": -0.02,
+        "edge": -1.6,
+        "kelly": 0.0,
+        "confidence": 51.0,
+        "dataQuality": 0.7
+      },
+      "tennis": null,
+      "confidence": 51.0,
+      "value_bet": false
+    },
+    {
+      "id": -2650948802598714298,
+      "homeTeam": "Manchester",
+      "awayTeam": "Guildford",
+      "time": "27.03.2026 19:30",
+      "date": "2026-03-27",
+      "league": null,
+      "country": "",
+      "sport": "hockey",
+      "matchUrl": "https://www.livesport.com/pl/mecz/hokej/guildford-vswN818g/manchester-dlE1z2BF/?mid=tp9p9R7c",
+      "qualifies": false,
+      "h2h": {
+        "home": 2,
+        "draw": 0,
+        "away": 3,
+        "total": 5,
+        "winRate": 40
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null,
+      "confidence": 0,
+      "value_bet": false
+    }
+  ]
+}
