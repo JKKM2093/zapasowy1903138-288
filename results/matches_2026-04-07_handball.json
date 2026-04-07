@@ -1,0 +1,707 @@
+{
+  "date": "2026-04-07",
+  "sport": "handball",
+  "generatedAt": "2026-04-07T01:37:16.688040",
+  "stats": {
+    "total": 14,
+    "qualifying": 6,
+    "formAdvantage": 4
+  },
+  "matches": [
+    {
+      "id": -5892316028698276558,
+      "homeTeam": "Lovcen",
+      "awayTeam": "Budvanska",
+      "time": "07.04.2026 17:00",
+      "date": "2026-04-07",
+      "league": null,
+      "country": "",
+      "sport": "handball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/pilka-reczna/budvanska-pMqrdXcO/lovcen-YPG9tfEI/?mid=lruPyZ8d",
+      "qualifies": true,
+      "h2h": {
+        "home": 3,
+        "draw": 0,
+        "away": 1,
+        "total": 5,
+        "winRate": 60
+      },
+      "homeForm": [
+        "W",
+        "W",
+        "W",
+        "W",
+        "D"
+      ],
+      "awayForm": [
+        "W",
+        "W",
+        "W",
+        "W",
+        "L"
+      ],
+      "homeFormHome": [
+        "W",
+        "W",
+        "W",
+        "W",
+        "W"
+      ],
+      "awayFormAway": [
+        "L",
+        "L",
+        "W",
+        "L",
+        "L"
+      ],
+      "formAdvantage": true,
+      "odds": null,
+      "forebet": null,
+      "sofascore": {
+        "home": 50,
+        "draw": null,
+        "away": 50,
+        "votes": 2
+      },
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "1",
+        "prob": 60.6,
+        "ev": -999.0,
+        "edge": 0.0,
+        "kelly": 0.0,
+        "confidence": 42.0,
+        "dataQuality": 0.6
+      },
+      "tennis": null,
+      "confidence": 42.0,
+      "value_bet": false
+    },
+    {
+      "id": 601273453313655918,
+      "homeTeam": "Sønderjyske",
+      "awayTeam": "Nordsjælland",
+      "time": "07.04.2026 17:00",
+      "date": "2026-04-07",
+      "league": null,
+      "country": "",
+      "sport": "handball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/pilka-reczna/nordsjaelland-lKsGZM9B/s-nderjyske-jgPRQQu4/?mid=rFkurod4",
+      "qualifies": false,
+      "h2h": {
+        "home": 2,
+        "draw": 0,
+        "away": 3,
+        "total": 5,
+        "winRate": 40
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null,
+      "confidence": 0,
+      "value_bet": false
+    },
+    {
+      "id": 8578679484743186756,
+      "homeTeam": "Elverum",
+      "awayTeam": "Montpellier",
+      "time": "07.04.2026 16:45",
+      "date": "2026-04-07",
+      "league": null,
+      "country": "",
+      "sport": "handball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/pilka-reczna/elverum-pEyYeHGH/montpellier-Qopo6dYu/?mid=GA2LNQlI",
+      "qualifies": false,
+      "h2h": {
+        "home": 0,
+        "draw": 0,
+        "away": 5,
+        "total": 5,
+        "winRate": 0
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null,
+      "confidence": 0,
+      "value_bet": false
+    },
+    {
+      "id": -8424586699797212176,
+      "homeTeam": "Flensburg-H.",
+      "awayTeam": "Skanderborg AGF",
+      "time": "07.04.2026 16:45",
+      "date": "2026-04-07",
+      "league": null,
+      "country": "",
+      "sport": "handball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/pilka-reczna/flensburg-h-G6mqiEzL/skanderborg-agf-6wqhjtvB/?mid=KQsgxQ3B",
+      "qualifies": true,
+      "h2h": {
+        "home": 1,
+        "draw": 0,
+        "away": 0,
+        "total": 1,
+        "winRate": 100
+      },
+      "homeForm": [
+        "W",
+        "W",
+        "W",
+        "L",
+        "L"
+      ],
+      "awayForm": [
+        "W",
+        "L",
+        "D",
+        "D",
+        "D"
+      ],
+      "homeFormHome": [
+        "W",
+        "W",
+        "W",
+        "W",
+        "L"
+      ],
+      "awayFormAway": [
+        "W",
+        "W",
+        "D",
+        "D",
+        "D"
+      ],
+      "formAdvantage": true,
+      "odds": {
+        "home": 1.2,
+        "draw": 11.0,
+        "away": 5.5,
+        "bookmaker": "Pinnacle"
+      },
+      "forebet": null,
+      "sofascore": {
+        "home": 93,
+        "draw": 2,
+        "away": 5,
+        "votes": 295
+      },
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "1",
+        "prob": 85.2,
+        "ev": 0.022,
+        "edge": 1.8,
+        "kelly": 11.1,
+        "confidence": 68.0,
+        "dataQuality": 0.7
+      },
+      "tennis": null,
+      "confidence": 68.0,
+      "value_bet": true
+    },
+    {
+      "id": -4748289123809821045,
+      "homeTeam": "MT Melsungen",
+      "awayTeam": "Fredericia",
+      "time": "07.04.2026 18:45",
+      "date": "2026-04-07",
+      "league": null,
+      "country": "",
+      "sport": "handball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/pilka-reczna/fredericia-EVvlYKgU/melsungen-zVrlX9c7/?mid=Gxs6R8kg",
+      "qualifies": false,
+      "h2h": {
+        "home": 0,
+        "draw": 0,
+        "away": 1,
+        "total": 1,
+        "winRate": 0
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null,
+      "confidence": 0,
+      "value_bet": false
+    },
+    {
+      "id": 4813207889881077834,
+      "homeTeam": "Nexe",
+      "awayTeam": "Kristianstad",
+      "time": "07.04.2026 18:45",
+      "date": "2026-04-07",
+      "league": null,
+      "country": "",
+      "sport": "handball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/pilka-reczna/kristianstad-bkXM6N5O/nexe-0lleY8B7/?mid=vmtwt84n",
+      "qualifies": true,
+      "h2h": {
+        "home": 1,
+        "draw": 0,
+        "away": 0,
+        "total": 1,
+        "winRate": 100
+      },
+      "homeForm": [
+        "W",
+        "W",
+        "L",
+        "W",
+        "W"
+      ],
+      "awayForm": [
+        "W",
+        "L",
+        "W",
+        "W",
+        "W"
+      ],
+      "homeFormHome": [
+        "W",
+        "L",
+        "W",
+        "L",
+        "W"
+      ],
+      "awayFormAway": [
+        "L",
+        "W",
+        "L",
+        "W",
+        "W"
+      ],
+      "formAdvantage": false,
+      "odds": {
+        "home": 1.38,
+        "draw": 9.0,
+        "away": 3.55,
+        "bookmaker": "Pinnacle"
+      },
+      "forebet": null,
+      "sofascore": {
+        "home": 86,
+        "draw": 3,
+        "away": 11,
+        "votes": 293
+      },
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "1",
+        "prob": 77.8,
+        "ev": 0.073,
+        "edge": 5.3,
+        "kelly": 19.2,
+        "confidence": 69.0,
+        "dataQuality": 0.7
+      },
+      "tennis": null,
+      "confidence": 69.0,
+      "value_bet": true
+    },
+    {
+      "id": -6582516545742998878,
+      "homeTeam": "BK-46",
+      "awayTeam": "GrIFK",
+      "time": "07.04.2026 15:30",
+      "date": "2026-04-07",
+      "league": null,
+      "country": "",
+      "sport": "handball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/pilka-reczna/bk-46-karis-z7OfBrHl/grifk-WMrMXKeU/?mid=OpaJX1hU",
+      "qualifies": true,
+      "h2h": {
+        "home": 5,
+        "draw": 0,
+        "away": 0,
+        "total": 5,
+        "winRate": 100
+      },
+      "homeForm": [
+        "L",
+        "W",
+        "W",
+        "W",
+        "W"
+      ],
+      "awayForm": [
+        "W",
+        "W",
+        "L",
+        "L",
+        "W"
+      ],
+      "homeFormHome": [
+        "W",
+        "L",
+        "W",
+        "W",
+        "W"
+      ],
+      "awayFormAway": [
+        "L",
+        "W",
+        "W",
+        "L",
+        "L"
+      ],
+      "formAdvantage": true,
+      "odds": {
+        "home": 1.02,
+        "draw": 19.0,
+        "away": 13.0,
+        "bookmaker": "Pinnacle"
+      },
+      "forebet": null,
+      "sofascore": {
+        "home": 100,
+        "draw": null,
+        "away": 0,
+        "votes": 21
+      },
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "1",
+        "prob": 91.3,
+        "ev": -0.069,
+        "edge": -6.7,
+        "kelly": 0.0,
+        "confidence": 49.0,
+        "dataQuality": 0.7
+      },
+      "tennis": null,
+      "confidence": 49.0,
+      "value_bet": false
+    },
+    {
+      "id": 2847744652434108089,
+      "homeTeam": "Cherbourg",
+      "awayTeam": "Saran",
+      "time": "07.04.2026 18:00",
+      "date": "2026-04-07",
+      "league": null,
+      "country": "",
+      "sport": "handball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/pilka-reczna/cherbourg-xA2rgdYk/saran-nXkUoIFb/?mid=pjJyQJt3",
+      "qualifies": true,
+      "h2h": {
+        "home": 3,
+        "draw": 0,
+        "away": 2,
+        "total": 5,
+        "winRate": 60
+      },
+      "homeForm": [
+        "W",
+        "W",
+        "L",
+        "L",
+        "W"
+      ],
+      "awayForm": [
+        "W",
+        "L",
+        "W",
+        "W",
+        "W"
+      ],
+      "homeFormHome": [
+        "W",
+        "W",
+        "W",
+        "L",
+        "W"
+      ],
+      "awayFormAway": [
+        "L",
+        "L",
+        "L",
+        "W",
+        "L"
+      ],
+      "formAdvantage": false,
+      "odds": {
+        "home": 2.25,
+        "draw": 8.0,
+        "away": 1.83,
+        "bookmaker": "Pinnacle"
+      },
+      "forebet": null,
+      "sofascore": {
+        "home": 13,
+        "draw": null,
+        "away": 87,
+        "votes": 38
+      },
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "1",
+        "prob": 47.6,
+        "ev": 0.071,
+        "edge": 3.1,
+        "kelly": 5.7,
+        "confidence": 54.0,
+        "dataQuality": 0.7
+      },
+      "tennis": null,
+      "confidence": 54.0,
+      "value_bet": true
+    },
+    {
+      "id": -7576697266937027671,
+      "homeTeam": "FH Hafnarfjordur",
+      "awayTeam": "Haukar",
+      "time": "07.04.2026 19:30",
+      "date": "2026-04-07",
+      "league": null,
+      "country": "",
+      "sport": "handball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/pilka-reczna/fh-hafnarfjordur-nBrAWGP6/haukar-KtVpvTJF/?mid=ddUWeWJD",
+      "qualifies": true,
+      "h2h": {
+        "home": 4,
+        "draw": 0,
+        "away": 1,
+        "total": 5,
+        "winRate": 80
+      },
+      "homeForm": [
+        "W",
+        "W",
+        "W",
+        "W",
+        "W"
+      ],
+      "awayForm": [
+        "W",
+        "L",
+        "W",
+        "L",
+        "W"
+      ],
+      "homeFormHome": [
+        "W",
+        "W",
+        "W",
+        "W",
+        "W"
+      ],
+      "awayFormAway": [
+        "L",
+        "L",
+        "L",
+        "L",
+        "L"
+      ],
+      "formAdvantage": true,
+      "odds": {
+        "home": 1.8,
+        "draw": 7.5,
+        "away": 2.3,
+        "bookmaker": "Pinnacle"
+      },
+      "forebet": null,
+      "sofascore": {
+        "home": 88,
+        "draw": 4,
+        "away": 8,
+        "votes": 26
+      },
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "1",
+        "prob": 80.1,
+        "ev": 0.441,
+        "edge": 24.5,
+        "kelly": 55.2,
+        "confidence": 83.0,
+        "dataQuality": 0.7
+      },
+      "tennis": null,
+      "confidence": 83.0,
+      "value_bet": true
+    },
+    {
+      "id": 208576009403823308,
+      "homeTeam": "Alingsås",
+      "awayTeam": "Skövde",
+      "time": "07.04.2026 17:00",
+      "date": "2026-04-07",
+      "league": null,
+      "country": "",
+      "sport": "handball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/pilka-reczna/alingsas-fmVvREv5/skovde-4bxSTGfn/?mid=AkyE6z5b",
+      "qualifies": false,
+      "h2h": {
+        "home": 2,
+        "draw": 0,
+        "away": 3,
+        "total": 5,
+        "winRate": 40
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null,
+      "confidence": 0,
+      "value_bet": false
+    },
+    {
+      "id": 5493068485129694554,
+      "homeTeam": "Savehof",
+      "awayTeam": "Hammarby",
+      "time": "07.04.2026 17:00",
+      "date": "2026-04-07",
+      "league": null,
+      "country": "",
+      "sport": "handball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/pilka-reczna/hammarby-6utQOWwU/savehof-A161rl2s/?mid=SAuReJjt",
+      "qualifies": false,
+      "h2h": {
+        "home": 2,
+        "draw": 0,
+        "away": 1,
+        "total": 5,
+        "winRate": 40
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null,
+      "confidence": 0,
+      "value_bet": false
+    },
+    {
+      "id": -2225973236050800899,
+      "homeTeam": "Ystads IF",
+      "awayTeam": "Malmo",
+      "time": "07.04.2026 17:00",
+      "date": "2026-04-07",
+      "league": null,
+      "country": "",
+      "sport": "handball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/pilka-reczna/malmo-xtWQ5sLU/ystads-if-4nEsfPV5/?mid=f5ukjFKH",
+      "qualifies": false,
+      "h2h": {
+        "home": 2,
+        "draw": 0,
+        "away": 2,
+        "total": 5,
+        "winRate": 40
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null,
+      "confidence": 0,
+      "value_bet": false
+    },
+    {
+      "id": -3398955363210506812,
+      "homeTeam": "Vasteras Irsta HF",
+      "awayTeam": "Lugi",
+      "time": "07.04.2026 17:00",
+      "date": "2026-04-07",
+      "league": null,
+      "country": "",
+      "sport": "handball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/pilka-reczna/lugi-nNRWSzAh/vasteras-irsta-tvhTQxdt/?mid=EVgZTYMj",
+      "qualifies": false,
+      "h2h": {
+        "home": 1,
+        "draw": 0,
+        "away": 3,
+        "total": 5,
+        "winRate": 20
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null,
+      "confidence": 0,
+      "value_bet": false
+    },
+    {
+      "id": 81759872631223278,
+      "homeTeam": "Lagan",
+      "awayTeam": "Drott",
+      "time": "07.04.2026 17:00",
+      "date": "2026-04-07",
+      "league": null,
+      "country": "",
+      "sport": "handball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/pilka-reczna/drott-8hKZnUgQ/lagan-02RO79cR/?mid=tlUScs46",
+      "qualifies": false,
+      "h2h": {
+        "home": 1,
+        "draw": 0,
+        "away": 1,
+        "total": 2,
+        "winRate": 50
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null,
+      "confidence": 0,
+      "value_bet": false
+    }
+  ]
+}
