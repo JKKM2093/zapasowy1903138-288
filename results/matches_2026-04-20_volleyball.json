@@ -1,0 +1,847 @@
+{
+  "date": "2026-04-20",
+  "sport": "volleyball",
+  "generatedAt": "2026-04-20T02:04:18.146876",
+  "stats": {
+    "total": 13,
+    "qualifying": 10,
+    "formAdvantage": 4
+  },
+  "matches": [
+    {
+      "id": 4841156792617319031,
+      "homeTeam": "Indykpol AZS Olsztyn",
+      "awayTeam": "Skra Bełchatów",
+      "time": "20.04.2026 15:30",
+      "date": "2026-04-20",
+      "league": null,
+      "country": "",
+      "sport": "volleyball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/siatkowka/belchatow-SMCDQxuK/indykpol-azs-olsztyn-pAof6Hml/?mid=fDPUGYvJ",
+      "qualifies": true,
+      "h2h": {
+        "home": 3,
+        "draw": 0,
+        "away": 2,
+        "total": 5,
+        "winRate": 60
+      },
+      "homeForm": [
+        "L",
+        "W",
+        "L",
+        "L",
+        "L"
+      ],
+      "awayForm": [
+        "W",
+        "L",
+        "L",
+        "L",
+        "W"
+      ],
+      "homeFormHome": [
+        "W",
+        "L",
+        "W",
+        "W",
+        "L"
+      ],
+      "awayFormAway": [
+        "L",
+        "L",
+        "W",
+        "L",
+        "L"
+      ],
+      "formAdvantage": false,
+      "odds": {
+        "home": 1.73,
+        "draw": null,
+        "away": 1.95,
+        "bookmaker": "Pinnacle"
+      },
+      "forebet": null,
+      "sofascore": {
+        "home": 81,
+        "draw": null,
+        "away": 19,
+        "votes": 191
+      },
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "1",
+        "prob": 59.8,
+        "ev": 0.034,
+        "edge": 2.0,
+        "kelly": 4.7,
+        "confidence": 58.0,
+        "dataQuality": 0.7
+      },
+      "tennis": null,
+      "confidence": 58.0,
+      "value_bet": true
+    },
+    {
+      "id": 4748813958506698951,
+      "homeTeam": "Haasrode Leuven",
+      "awayTeam": "Achel",
+      "time": "20.04.2026 18:30",
+      "date": "2026-04-20",
+      "league": null,
+      "country": "",
+      "sport": "volleyball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/siatkowka/achel-6qoPxMTP/haasrode-leuven-hESei7a0/?mid=K6LDSCs4",
+      "qualifies": true,
+      "h2h": {
+        "home": 4,
+        "draw": 0,
+        "away": 1,
+        "total": 5,
+        "winRate": 80
+      },
+      "homeForm": [
+        "W",
+        "L",
+        "W",
+        "L",
+        "L"
+      ],
+      "awayForm": [
+        "L",
+        "W",
+        "W",
+        "W",
+        "W"
+      ],
+      "homeFormHome": [
+        "L",
+        "W",
+        "L",
+        "L",
+        "W"
+      ],
+      "awayFormAway": [
+        "W",
+        "W",
+        "W",
+        "L",
+        "L"
+      ],
+      "formAdvantage": false,
+      "odds": {
+        "home": 1.18,
+        "draw": null,
+        "away": 4.1,
+        "bookmaker": "Pinnacle"
+      },
+      "forebet": null,
+      "sofascore": {
+        "home": 93,
+        "draw": null,
+        "away": 7,
+        "votes": 27
+      },
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "1",
+        "prob": 72.2,
+        "ev": -0.147,
+        "edge": -12.5,
+        "kelly": 0.0,
+        "confidence": 33.0,
+        "dataQuality": 0.7
+      },
+      "tennis": null,
+      "confidence": 33.0,
+      "value_bet": false
+    },
+    {
+      "id": -5310749570409142865,
+      "homeTeam": "CPVC Volley K",
+      "awayTeam": "CSKA Sofia K",
+      "time": "20.04.2026 15:00",
+      "date": "2026-04-20",
+      "league": null,
+      "country": "",
+      "sport": "volleyball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/siatkowka/cpvc-volley-0lvvLjcT/cska-sofia-zN2IIsWi/?mid=z9I9MTIP",
+      "qualifies": false,
+      "h2h": {
+        "home": 1,
+        "draw": 0,
+        "away": 4,
+        "total": 5,
+        "winRate": 20
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null,
+      "confidence": 0,
+      "value_bet": false
+    },
+    {
+      "id": 3522265796255860384,
+      "homeTeam": "Oulu",
+      "awayTeam": "Akaa",
+      "time": "20.04.2026 15:00",
+      "date": "2026-04-20",
+      "league": null,
+      "country": "",
+      "sport": "volleyball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/siatkowka/ac-oulu-GShfFW35/akaa-vZAScEO5/?mid=ETfD44pd",
+      "qualifies": true,
+      "h2h": {
+        "home": 3,
+        "draw": 0,
+        "away": 2,
+        "total": 5,
+        "winRate": 60
+      },
+      "homeForm": [
+        "L",
+        "W",
+        "L",
+        "W",
+        "W"
+      ],
+      "awayForm": [
+        "W",
+        "L",
+        "W",
+        "L",
+        "L"
+      ],
+      "homeFormHome": [
+        "L",
+        "W",
+        "W",
+        "W",
+        "W"
+      ],
+      "awayFormAway": [
+        "L",
+        "W",
+        "W",
+        "L",
+        "W"
+      ],
+      "formAdvantage": true,
+      "odds": {
+        "home": 1.95,
+        "draw": null,
+        "away": 1.7,
+        "bookmaker": "Pinnacle"
+      },
+      "forebet": null,
+      "sofascore": {
+        "home": 27,
+        "draw": null,
+        "away": 73,
+        "votes": 33
+      },
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "1",
+        "prob": 45.9,
+        "ev": -0.105,
+        "edge": -5.4,
+        "kelly": 0.0,
+        "confidence": 32.0,
+        "dataQuality": 0.7
+      },
+      "tennis": null,
+      "confidence": 32.0,
+      "value_bet": false
+    },
+    {
+      "id": 6906469164815174553,
+      "homeTeam": "Hisamitsu Springs K",
+      "awayTeam": "PFU Blue Cats K",
+      "time": "20.04.2026 10:05",
+      "date": "2026-04-20",
+      "league": null,
+      "country": "",
+      "sport": "volleyball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/siatkowka/hisamitsu-springs-vF51GozA/pfu-blue-cats-vwyfnoG3/?mid=6VwIc6eS",
+      "qualifies": true,
+      "h2h": {
+        "home": 3,
+        "draw": 0,
+        "away": 2,
+        "total": 5,
+        "winRate": 60
+      },
+      "homeForm": [
+        "W",
+        "L",
+        "W",
+        "W",
+        "W"
+      ],
+      "awayForm": [
+        "L",
+        "W",
+        "W",
+        "W",
+        "W"
+      ],
+      "homeFormHome": [
+        "W",
+        "L",
+        "W",
+        "W",
+        "W"
+      ],
+      "awayFormAway": [
+        "L",
+        "W",
+        "L",
+        "L",
+        "W"
+      ],
+      "formAdvantage": false,
+      "odds": {
+        "home": 1.78,
+        "draw": null,
+        "away": 1.88,
+        "bookmaker": "Pinnacle"
+      },
+      "forebet": {
+        "prediction": "2",
+        "probability": 54.0,
+        "exactScore": "1-3",
+        "overUnder": null,
+        "btts": null,
+        "homeProb": null,
+        "drawProb": null,
+        "awayProb": null
+      },
+      "sofascore": {
+        "home": 73,
+        "draw": null,
+        "away": 27,
+        "votes": 45
+      },
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "1",
+        "prob": 53.3,
+        "ev": -0.051,
+        "edge": -2.9,
+        "kelly": 0.0,
+        "confidence": 41.0,
+        "dataQuality": 0.8
+      },
+      "tennis": null,
+      "confidence": 41.0,
+      "value_bet": false
+    },
+    {
+      "id": -3321839595462649645,
+      "homeTeam": "Zenit St. Petersburg",
+      "awayTeam": "Novosibirsk",
+      "time": "20.04.2026 16:00",
+      "date": "2026-04-20",
+      "league": null,
+      "country": "",
+      "sport": "volleyball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/siatkowka/novosibirsk-tOoNOmgh/zenit-st-petersburg-S0nUsKBh/?mid=pONMb4u2",
+      "qualifies": true,
+      "h2h": {
+        "home": 5,
+        "draw": 0,
+        "away": 0,
+        "total": 5,
+        "winRate": 100
+      },
+      "homeForm": [
+        "L",
+        "L",
+        "W",
+        "L",
+        "W"
+      ],
+      "awayForm": [
+        "L",
+        "W",
+        "L",
+        "L",
+        "W"
+      ],
+      "homeFormHome": [
+        "W",
+        "L",
+        "W",
+        "W",
+        "W"
+      ],
+      "awayFormAway": [
+        "L",
+        "L",
+        "W",
+        "L",
+        "W"
+      ],
+      "formAdvantage": false,
+      "odds": {
+        "home": 1.7,
+        "draw": null,
+        "away": 2.0,
+        "bookmaker": "Pinnacle"
+      },
+      "forebet": null,
+      "sofascore": {
+        "home": 79,
+        "draw": null,
+        "away": 21,
+        "votes": 119
+      },
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "1",
+        "prob": 75.5,
+        "ev": 0.283,
+        "edge": 16.7,
+        "kelly": 40.5,
+        "confidence": 81.0,
+        "dataQuality": 0.7
+      },
+      "tennis": null,
+      "confidence": 81.0,
+      "value_bet": true
+    },
+    {
+      "id": 4998552127806488516,
+      "homeTeam": "Krasnoyarsk",
+      "awayTeam": "Novokuybyshevsk",
+      "time": "20.04.2026 12:00",
+      "date": "2026-04-20",
+      "league": null,
+      "country": "",
+      "sport": "volleyball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/siatkowka/enisey-krasnoyarsk-nibTuLpg/nova-novokuybyshevsk-hC0jKP7N/?mid=feC1AHas",
+      "qualifies": true,
+      "h2h": {
+        "home": 5,
+        "draw": 0,
+        "away": 0,
+        "total": 5,
+        "winRate": 100
+      },
+      "homeForm": [
+        "W",
+        "W",
+        "W",
+        "L",
+        "L"
+      ],
+      "awayForm": [
+        "L",
+        "W",
+        "L",
+        "W",
+        "L"
+      ],
+      "homeFormHome": [
+        "W",
+        "W",
+        "W",
+        "L",
+        "W"
+      ],
+      "awayFormAway": [
+        "L",
+        "W",
+        "L",
+        "W",
+        "W"
+      ],
+      "formAdvantage": true,
+      "odds": null,
+      "forebet": null,
+      "sofascore": {
+        "home": 50,
+        "draw": null,
+        "away": 50,
+        "votes": 2
+      },
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "1",
+        "prob": 71.5,
+        "ev": -999.0,
+        "edge": 0.0,
+        "kelly": 0.0,
+        "confidence": 47.0,
+        "dataQuality": 0.6
+      },
+      "tennis": null,
+      "confidence": 47.0,
+      "value_bet": false
+    },
+    {
+      "id": 2072991165201078297,
+      "homeTeam": "Brasov",
+      "awayTeam": "Stiinta Bucuresti",
+      "time": "20.04.2026 16:00",
+      "date": "2026-04-20",
+      "league": null,
+      "country": "",
+      "sport": "volleyball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/siatkowka/brasov-bHwNIoOA/stiinta-bucuresti-fLVZRDmT/?mid=8MfNY7Sr",
+      "qualifies": true,
+      "h2h": {
+        "home": 3,
+        "draw": 0,
+        "away": 2,
+        "total": 5,
+        "winRate": 60
+      },
+      "homeForm": [
+        "L",
+        "W",
+        "L",
+        "L",
+        "W"
+      ],
+      "awayForm": [
+        "L",
+        "L",
+        "L",
+        "L",
+        "L"
+      ],
+      "homeFormHome": [
+        "W",
+        "L",
+        "W",
+        "W",
+        "W"
+      ],
+      "awayFormAway": [
+        "W",
+        "L",
+        "L",
+        "W",
+        "L"
+      ],
+      "formAdvantage": true,
+      "odds": {
+        "home": 1.08,
+        "draw": null,
+        "away": 6.0,
+        "bookmaker": "Pinnacle"
+      },
+      "forebet": null,
+      "sofascore": {
+        "home": 100,
+        "draw": null,
+        "away": 0,
+        "votes": 21
+      },
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "1",
+        "prob": 77.8,
+        "ev": -0.159,
+        "edge": -14.7,
+        "kelly": 0.0,
+        "confidence": 32.0,
+        "dataQuality": 0.7
+      },
+      "tennis": null,
+      "confidence": 32.0,
+      "value_bet": false
+    },
+    {
+      "id": 3518956222528630589,
+      "homeTeam": "Alba Blaj K",
+      "awayTeam": "Voluntari K",
+      "time": "20.04.2026 15:00",
+      "date": "2026-04-20",
+      "league": null,
+      "country": "",
+      "sport": "volleyball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/siatkowka/alba-blaj-rwtHfH6N/voluntari-ze3EVija/?mid=WIUePn3M",
+      "qualifies": false,
+      "h2h": {
+        "home": 2,
+        "draw": 0,
+        "away": 3,
+        "total": 5,
+        "winRate": 40
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null,
+      "confidence": 0,
+      "value_bet": false
+    },
+    {
+      "id": -2869963743848440858,
+      "homeTeam": "Tent K",
+      "awayTeam": "Ub K",
+      "time": "20.04.2026 16:00",
+      "date": "2026-04-20",
+      "league": null,
+      "country": "",
+      "sport": "volleyball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/siatkowka/tent-8EJJqPE5/zok-ub-GbI3Qupo/?mid=hKNjDatn",
+      "qualifies": true,
+      "h2h": {
+        "home": 3,
+        "draw": 0,
+        "away": 2,
+        "total": 5,
+        "winRate": 60
+      },
+      "homeForm": [
+        "W",
+        "L",
+        "W",
+        "W",
+        "W"
+      ],
+      "awayForm": [
+        "W",
+        "W",
+        "W",
+        "W",
+        "L"
+      ],
+      "homeFormHome": [
+        "W",
+        "W",
+        "W",
+        "L",
+        "W"
+      ],
+      "awayFormAway": [
+        "L",
+        "W",
+        "W",
+        "L",
+        "W"
+      ],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": {
+        "home": 100,
+        "draw": null,
+        "away": 0,
+        "votes": 8
+      },
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "1",
+        "prob": 61.6,
+        "ev": -999.0,
+        "edge": 0.0,
+        "kelly": 0.0,
+        "confidence": 43.0,
+        "dataQuality": 0.6
+      },
+      "tennis": null,
+      "confidence": 43.0,
+      "value_bet": false
+    },
+    {
+      "id": -6471737476098425925,
+      "homeTeam": "Galatasaray K",
+      "awayTeam": "Aras Kargo K",
+      "time": "20.04.2026 11:00",
+      "date": "2026-04-20",
+      "league": null,
+      "country": "",
+      "sport": "volleyball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/siatkowka/aras-kargo-UeZMj6g6/galatasaray-UgJO4lj3/?mid=fNWj34pd",
+      "qualifies": true,
+      "h2h": {
+        "home": 5,
+        "draw": 0,
+        "away": 0,
+        "total": 5,
+        "winRate": 100
+      },
+      "homeForm": [
+        "W",
+        "W",
+        "W",
+        "W",
+        "W"
+      ],
+      "awayForm": [
+        "L",
+        "W",
+        "W",
+        "W",
+        "L"
+      ],
+      "homeFormHome": [
+        "W",
+        "W",
+        "L",
+        "W",
+        "L"
+      ],
+      "awayFormAway": [
+        "W",
+        "W",
+        "L",
+        "L",
+        "L"
+      ],
+      "formAdvantage": true,
+      "odds": {
+        "home": 1.18,
+        "draw": null,
+        "away": 3.85,
+        "bookmaker": "Pinnacle"
+      },
+      "forebet": null,
+      "sofascore": {
+        "home": 94,
+        "draw": null,
+        "away": 6,
+        "votes": 232
+      },
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "1",
+        "prob": 85.8,
+        "ev": 0.013,
+        "edge": 1.1,
+        "kelly": 7.2,
+        "confidence": 67.0,
+        "dataQuality": 0.7
+      },
+      "tennis": null,
+      "confidence": 67.0,
+      "value_bet": true
+    },
+    {
+      "id": 8725220676546196607,
+      "homeTeam": "Nilufer Bld. K",
+      "awayTeam": "THY K",
+      "time": "20.04.2026 13:00",
+      "date": "2026-04-20",
+      "league": null,
+      "country": "",
+      "sport": "volleyball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/siatkowka/nilufer-bld-Kz88uobd/thy-C6ROGLdk/?mid=WWNDAnhM",
+      "qualifies": false,
+      "h2h": {
+        "home": 2,
+        "draw": 0,
+        "away": 3,
+        "total": 5,
+        "winRate": 40
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null,
+      "confidence": 0,
+      "value_bet": false
+    },
+    {
+      "id": -8467585880962135266,
+      "homeTeam": "Brescia K",
+      "awayTeam": "Padova K",
+      "time": "20.04.2026 18:00",
+      "date": "2026-04-20",
+      "league": null,
+      "country": "",
+      "sport": "volleyball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/siatkowka/brescia-x4Hsk56K/padova-4Mr7dEid/?mid=OxqjQjLF",
+      "qualifies": true,
+      "h2h": {
+        "home": 3,
+        "draw": 0,
+        "away": 2,
+        "total": 5,
+        "winRate": 60
+      },
+      "homeForm": [
+        "W",
+        "W",
+        "L",
+        "W",
+        "W"
+      ],
+      "awayForm": [
+        "W",
+        "W",
+        "W",
+        "W",
+        "W"
+      ],
+      "homeFormHome": [
+        "W",
+        "L",
+        "W",
+        "W",
+        "W"
+      ],
+      "awayFormAway": [
+        "W",
+        "L",
+        "L",
+        "W",
+        "L"
+      ],
+      "formAdvantage": false,
+      "odds": {
+        "home": 1.3,
+        "draw": null,
+        "away": 3.05,
+        "bookmaker": "Pinnacle"
+      },
+      "forebet": null,
+      "sofascore": {
+        "home": 95,
+        "draw": null,
+        "away": 5,
+        "votes": 56
+      },
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "1",
+        "prob": 68.3,
+        "ev": -0.112,
+        "edge": -8.6,
+        "kelly": 0.0,
+        "confidence": 37.0,
+        "dataQuality": 0.7
+      },
+      "tennis": null,
+      "confidence": 37.0,
+      "value_bet": false
+    }
+  ]
+}
