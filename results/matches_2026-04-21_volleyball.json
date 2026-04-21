@@ -1,0 +1,1077 @@
+{
+  "date": "2026-04-21",
+  "sport": "volleyball",
+  "generatedAt": "2026-04-21T02:00:19.844418",
+  "stats": {
+    "total": 19,
+    "qualifying": 11,
+    "formAdvantage": 7
+  },
+  "matches": [
+    {
+      "id": -6285970826229355918,
+      "homeTeam": "TSV Hartberg",
+      "awayTeam": "Ried",
+      "time": "21.04.2026 18:20",
+      "date": "2026-04-21",
+      "league": null,
+      "country": "",
+      "sport": "volleyball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/siatkowka/ried-0vxjdf60/tsv-hartberg-IB5uIsLk/?mid=nyWhVDth",
+      "qualifies": true,
+      "h2h": {
+        "home": 4,
+        "draw": 0,
+        "away": 1,
+        "total": 5,
+        "winRate": 80
+      },
+      "homeForm": [
+        "W",
+        "L",
+        "W",
+        "W",
+        "W"
+      ],
+      "awayForm": [
+        "L",
+        "W",
+        "W",
+        "W",
+        "W"
+      ],
+      "homeFormHome": [
+        "L",
+        "W",
+        "W",
+        "W",
+        "W"
+      ],
+      "awayFormAway": [
+        "W",
+        "W",
+        "L",
+        "W",
+        "L"
+      ],
+      "formAdvantage": false,
+      "odds": {
+        "home": 1.18,
+        "draw": null,
+        "away": 4.0,
+        "bookmaker": "Pinnacle"
+      },
+      "forebet": null,
+      "sofascore": {
+        "home": 94,
+        "draw": null,
+        "away": 6,
+        "votes": 65
+      },
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "1",
+        "prob": 75.8,
+        "ev": -0.105,
+        "edge": -8.9,
+        "kelly": 0.0,
+        "confidence": 39.0,
+        "dataQuality": 0.7
+      },
+      "tennis": null,
+      "confidence": 39.0,
+      "value_bet": false
+    },
+    {
+      "id": 7092198163397791548,
+      "homeTeam": "Maritsa Plovdiv K",
+      "awayTeam": "Levski Sofia K",
+      "time": "21.04.2026 14:30",
+      "date": "2026-04-21",
+      "league": null,
+      "country": "",
+      "sport": "volleyball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/siatkowka/levski-sofia-IohNH1ob/maritsa-plovdiv-8KIsFaVG/?mid=0O3TdrlD",
+      "qualifies": true,
+      "h2h": {
+        "home": 5,
+        "draw": 0,
+        "away": 0,
+        "total": 5,
+        "winRate": 100
+      },
+      "homeForm": [
+        "W",
+        "W",
+        "W",
+        "W",
+        "W"
+      ],
+      "awayForm": [
+        "W",
+        "W",
+        "W",
+        "L",
+        "W"
+      ],
+      "homeFormHome": [
+        "W",
+        "W",
+        "W",
+        "W",
+        "W"
+      ],
+      "awayFormAway": [
+        "W",
+        "L",
+        "W",
+        "W",
+        "W"
+      ],
+      "formAdvantage": true,
+      "odds": {
+        "home": 1.04,
+        "draw": null,
+        "away": 8.0,
+        "bookmaker": "Pinnacle"
+      },
+      "forebet": null,
+      "sofascore": {
+        "home": 92,
+        "draw": null,
+        "away": 8,
+        "votes": 92
+      },
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "1",
+        "prob": 86.5,
+        "ev": -0.1,
+        "edge": -9.6,
+        "kelly": 0.0,
+        "confidence": 43.0,
+        "dataQuality": 0.7
+      },
+      "tennis": null,
+      "confidence": 43.0,
+      "value_bet": false
+    },
+    {
+      "id": -8913028732048449132,
+      "homeTeam": "Kiili",
+      "awayTeam": "Tallin University",
+      "time": "21.04.2026 17:00",
+      "date": "2026-04-21",
+      "league": null,
+      "country": "",
+      "sport": "volleyball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/siatkowka/kiili-Aqv3THfk/tallin-university-YBIoaF5R/?mid=jZqMaAM6",
+      "qualifies": false,
+      "h2h": {
+        "home": 0,
+        "draw": 0,
+        "away": 5,
+        "total": 5,
+        "winRate": 0
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null,
+      "confidence": 0,
+      "value_bet": false
+    },
+    {
+      "id": -7037305459085206092,
+      "homeTeam": "Viljandi Metal K",
+      "awayTeam": "TTU K",
+      "time": "21.04.2026 16:30",
+      "date": "2026-04-21",
+      "league": null,
+      "country": "",
+      "sport": "volleyball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/siatkowka/ttu-CIqkfpaQ/viljandi-metal-O6Uk0yPe/?mid=d4AqLxGd",
+      "qualifies": false,
+      "h2h": {
+        "home": 2,
+        "draw": 0,
+        "away": 3,
+        "total": 5,
+        "winRate": 40
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null,
+      "confidence": 0,
+      "value_bet": false
+    },
+    {
+      "id": -4091396101977353579,
+      "homeTeam": "Puijo K",
+      "awayTeam": "Polkky Kuusamo K",
+      "time": "21.04.2026 15:00",
+      "date": "2026-04-21",
+      "league": null,
+      "country": "",
+      "sport": "volleyball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/siatkowka/polkky-kuusamo-4Op4iqSb/puijo-dpOzm1sd/?mid=pCDsHNt9",
+      "qualifies": false,
+      "h2h": {
+        "home": 2,
+        "draw": 0,
+        "away": 3,
+        "total": 5,
+        "winRate": 40
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null,
+      "confidence": 0,
+      "value_bet": false
+    },
+    {
+      "id": -5001019002635488843,
+      "homeTeam": "Surabaya Samator",
+      "awayTeam": "Putra Jakarta Garuda",
+      "time": "21.04.2026 09:00",
+      "date": "2026-04-21",
+      "league": null,
+      "country": "",
+      "sport": "volleyball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/siatkowka/putra-jakarta-garuda-nqdirRx8/surabaya-samator-vB4GK4Ph/?mid=CADM5HSE",
+      "qualifies": true,
+      "h2h": {
+        "home": 5,
+        "draw": 0,
+        "away": 0,
+        "total": 5,
+        "winRate": 100
+      },
+      "homeForm": [
+        "W",
+        "L",
+        "L",
+        "W",
+        "L"
+      ],
+      "awayForm": [
+        "L",
+        "L",
+        "L",
+        "L",
+        "L"
+      ],
+      "homeFormHome": [
+        "W",
+        "W",
+        "W",
+        "L",
+        "W"
+      ],
+      "awayFormAway": [
+        "L",
+        "W",
+        "L",
+        "L",
+        "W"
+      ],
+      "formAdvantage": true,
+      "odds": {
+        "home": 1.4,
+        "draw": null,
+        "away": 2.6,
+        "bookmaker": "Pinnacle"
+      },
+      "forebet": null,
+      "sofascore": {
+        "home": 100,
+        "draw": null,
+        "away": 0,
+        "votes": 39
+      },
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "1",
+        "prob": 85.5,
+        "ev": 0.197,
+        "edge": 14.1,
+        "kelly": 49.3,
+        "confidence": 84.0,
+        "dataQuality": 0.7
+      },
+      "tennis": null,
+      "confidence": 84.0,
+      "value_bet": true
+    },
+    {
+      "id": -6525593342879679214,
+      "homeTeam": "Jakarta Popsivo K",
+      "awayTeam": "Jakarta Elektrik K",
+      "time": "21.04.2026 12:00",
+      "date": "2026-04-21",
+      "league": null,
+      "country": "",
+      "sport": "volleyball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/siatkowka/jakarta-elektrik-44r9afgp/jakarta-popsivo-MiyTPZX0/?mid=KzqVds1s",
+      "qualifies": true,
+      "h2h": {
+        "home": 3,
+        "draw": 0,
+        "away": 2,
+        "total": 5,
+        "winRate": 60
+      },
+      "homeForm": [
+        "W",
+        "L",
+        "L",
+        "W",
+        "L"
+      ],
+      "awayForm": [
+        "L",
+        "L",
+        "L",
+        "L",
+        "L"
+      ],
+      "homeFormHome": [
+        "L",
+        "L",
+        "W",
+        "W",
+        "W"
+      ],
+      "awayFormAway": [
+        "W",
+        "L",
+        "L",
+        "W",
+        "L"
+      ],
+      "formAdvantage": true,
+      "odds": {
+        "home": 1.75,
+        "draw": null,
+        "away": 1.9,
+        "bookmaker": "Pinnacle"
+      },
+      "forebet": null,
+      "sofascore": {
+        "home": 88,
+        "draw": null,
+        "away": 12,
+        "votes": 24
+      },
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "1",
+        "prob": 67.1,
+        "ev": 0.173,
+        "edge": 9.9,
+        "kelly": 23.1,
+        "confidence": 71.0,
+        "dataQuality": 0.7
+      },
+      "tennis": null,
+      "confidence": 71.0,
+      "value_bet": true
+    },
+    {
+      "id": 7595797910769608539,
+      "homeTeam": "Atyrau",
+      "awayTeam": "Zhayik Uralsk",
+      "time": "21.04.2026 10:30",
+      "date": "2026-04-21",
+      "league": null,
+      "country": "",
+      "sport": "volleyball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/siatkowka/atyrau-U7sCU8Zi/zhayik-uralsk-vPkStePF/?mid=WftiFgb4",
+      "qualifies": false,
+      "h2h": {
+        "home": 1,
+        "draw": 0,
+        "away": 4,
+        "total": 5,
+        "winRate": 20
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null,
+      "confidence": 0,
+      "value_bet": false
+    },
+    {
+      "id": 4693989934755384039,
+      "homeTeam": "Zhetyssu Zhastar",
+      "awayTeam": "Aktobe",
+      "time": "21.04.2026 13:30",
+      "date": "2026-04-21",
+      "league": null,
+      "country": "",
+      "sport": "volleyball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/siatkowka/aktobe-2uzZaRCC/zhetyssu-zhastar-jwJCiuUi/?mid=OUxqHFTi",
+      "qualifies": false,
+      "h2h": {
+        "home": 2,
+        "draw": 0,
+        "away": 3,
+        "total": 5,
+        "winRate": 40
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null,
+      "confidence": 0,
+      "value_bet": false
+    },
+    {
+      "id": 1814734642865188064,
+      "homeTeam": "Burevestnik Almaty",
+      "awayTeam": "Esil Petropavlovsk",
+      "time": "21.04.2026 11:30",
+      "date": "2026-04-21",
+      "league": null,
+      "country": "",
+      "sport": "volleyball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/siatkowka/burevestnik-almaty-tv90iC4K/esil-petropavlovsk-j9jfMfyG/?mid=nazyjhq9",
+      "qualifies": true,
+      "h2h": {
+        "home": 4,
+        "draw": 0,
+        "away": 1,
+        "total": 5,
+        "winRate": 80
+      },
+      "homeForm": [
+        "L",
+        "W",
+        "L",
+        "W",
+        "L"
+      ],
+      "awayForm": [
+        "W",
+        "W",
+        "W",
+        "L",
+        "W"
+      ],
+      "homeFormHome": [
+        "W",
+        "L",
+        "W",
+        "L",
+        "L"
+      ],
+      "awayFormAway": [
+        "W",
+        "L",
+        "W",
+        "W",
+        "L"
+      ],
+      "formAdvantage": false,
+      "odds": {
+        "home": 1.7,
+        "draw": null,
+        "away": 1.95,
+        "bookmaker": "Pinnacle"
+      },
+      "forebet": null,
+      "sofascore": {
+        "home": 73,
+        "draw": null,
+        "away": 27,
+        "votes": 37
+      },
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "1",
+        "prob": 59.3,
+        "ev": 0.009,
+        "edge": 0.5,
+        "kelly": 1.2,
+        "confidence": 55.0,
+        "dataQuality": 0.7
+      },
+      "tennis": null,
+      "confidence": 55.0,
+      "value_bet": true
+    },
+    {
+      "id": 7619340210164893852,
+      "homeTeam": "Ushkyn Kokshetau",
+      "awayTeam": "Taraz Jambil",
+      "time": "21.04.2026 14:00",
+      "date": "2026-04-21",
+      "league": null,
+      "country": "",
+      "sport": "volleyball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/siatkowka/taraz-jambil-tzsnxjZp/ushkyn-kokshetau-INypiwT2/?mid=v7hrlWDL",
+      "qualifies": false,
+      "h2h": {
+        "home": 2,
+        "draw": 0,
+        "away": 3,
+        "total": 5,
+        "winRate": 40
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null,
+      "confidence": 0,
+      "value_bet": false
+    },
+    {
+      "id": -1055434081303989220,
+      "homeTeam": "Uni Opole K",
+      "awayTeam": "Bielsko-Biała K",
+      "time": "21.04.2026 15:30",
+      "date": "2026-04-21",
+      "league": null,
+      "country": "",
+      "sport": "volleyball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/siatkowka/bielsko-biala-OObfSDh5/uni-opole-QP9eDOvs/?mid=SOziArzn",
+      "qualifies": true,
+      "h2h": {
+        "home": 4,
+        "draw": 0,
+        "away": 1,
+        "total": 5,
+        "winRate": 80
+      },
+      "homeForm": [
+        "W",
+        "W",
+        "L",
+        "L",
+        "W"
+      ],
+      "awayForm": [
+        "L",
+        "L",
+        "L",
+        "W",
+        "L"
+      ],
+      "homeFormHome": [
+        "W",
+        "L",
+        "W",
+        "L",
+        "W"
+      ],
+      "awayFormAway": [
+        "W",
+        "L",
+        "L",
+        "L",
+        "L"
+      ],
+      "formAdvantage": true,
+      "odds": {
+        "home": 1.35,
+        "draw": null,
+        "away": 2.75,
+        "bookmaker": "Pinnacle"
+      },
+      "forebet": null,
+      "sofascore": {
+        "home": 86,
+        "draw": null,
+        "away": 14,
+        "votes": 152
+      },
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "1",
+        "prob": 78.4,
+        "ev": 0.058,
+        "edge": 4.3,
+        "kelly": 16.7,
+        "confidence": 68.0,
+        "dataQuality": 0.7
+      },
+      "tennis": null,
+      "confidence": 68.0,
+      "value_bet": true
+    },
+    {
+      "id": 1850769391635183866,
+      "homeTeam": "Academica de Espinho",
+      "awayTeam": "Gondomar",
+      "time": "21.04.2026 19:30",
+      "date": "2026-04-21",
+      "league": null,
+      "country": "",
+      "sport": "volleyball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/siatkowka/academica-de-espinho-SCoBbwqq/gondomar-nH7SYtOH/?mid=2NnXj7lR",
+      "qualifies": true,
+      "h2h": {
+        "home": 4,
+        "draw": 0,
+        "away": 1,
+        "total": 5,
+        "winRate": 80
+      },
+      "homeForm": [
+        "W",
+        "L",
+        "L",
+        "W",
+        "L"
+      ],
+      "awayForm": [
+        "L",
+        "W",
+        "L",
+        "L",
+        "W"
+      ],
+      "homeFormHome": [
+        "L",
+        "L",
+        "L",
+        "W",
+        "W"
+      ],
+      "awayFormAway": [
+        "W",
+        "W",
+        "W",
+        "L",
+        "W"
+      ],
+      "formAdvantage": false,
+      "odds": {
+        "home": 1.23,
+        "draw": null,
+        "away": 3.5,
+        "bookmaker": "Pinnacle"
+      },
+      "forebet": null,
+      "sofascore": {
+        "home": 87,
+        "draw": null,
+        "away": 13,
+        "votes": 62
+      },
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "1",
+        "prob": 71.7,
+        "ev": -0.118,
+        "edge": -9.6,
+        "kelly": 0.0,
+        "confidence": 37.0,
+        "dataQuality": 0.7
+      },
+      "tennis": null,
+      "confidence": 37.0,
+      "value_bet": false
+    },
+    {
+      "id": 3864889271132292704,
+      "homeTeam": "Zenit Kazań",
+      "awayTeam": "Dyn. Moskwa",
+      "time": "21.04.2026 16:00",
+      "date": "2026-04-21",
+      "league": null,
+      "country": "",
+      "sport": "volleyball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/siatkowka/din-moscow-ba4VIY16/zenit-kazan-j7MxHCWI/?mid=tSEoFPPr",
+      "qualifies": true,
+      "h2h": {
+        "home": 4,
+        "draw": 0,
+        "away": 1,
+        "total": 5,
+        "winRate": 80
+      },
+      "homeForm": [
+        "W",
+        "L",
+        "W",
+        "W",
+        "L"
+      ],
+      "awayForm": [
+        "W",
+        "W",
+        "L",
+        "W",
+        "W"
+      ],
+      "homeFormHome": [
+        "W",
+        "W",
+        "L",
+        "W",
+        "W"
+      ],
+      "awayFormAway": [
+        "L",
+        "L",
+        "L",
+        "W",
+        "W"
+      ],
+      "formAdvantage": false,
+      "odds": {
+        "home": 1.28,
+        "draw": null,
+        "away": 3.2,
+        "bookmaker": "Pinnacle"
+      },
+      "forebet": null,
+      "sofascore": {
+        "home": 91,
+        "draw": null,
+        "away": 9,
+        "votes": 207
+      },
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "1",
+        "prob": 76.5,
+        "ev": -0.021,
+        "edge": -1.7,
+        "kelly": 0.0,
+        "confidence": 49.0,
+        "dataQuality": 0.7
+      },
+      "tennis": null,
+      "confidence": 49.0,
+      "value_bet": false
+    },
+    {
+      "id": -4218309182622072341,
+      "homeTeam": "Alba Blaj K",
+      "awayTeam": "Voluntari K",
+      "time": "21.04.2026 15:00",
+      "date": "2026-04-21",
+      "league": null,
+      "country": "",
+      "sport": "volleyball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/siatkowka/alba-blaj-rwtHfH6N/voluntari-ze3EVija/?mid=thGRJQQq",
+      "qualifies": false,
+      "h2h": {
+        "home": 2,
+        "draw": 0,
+        "away": 3,
+        "total": 5,
+        "winRate": 40
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null,
+      "confidence": 0,
+      "value_bet": false
+    },
+    {
+      "id": -1406667625615273393,
+      "homeTeam": "Spartak Subotica K",
+      "awayTeam": "Omladinac K",
+      "time": "21.04.2026 17:00",
+      "date": "2026-04-21",
+      "league": null,
+      "country": "",
+      "sport": "volleyball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/siatkowka/omladinac-lf1EH8Ep/spartak-subotica-OKjB2Qqt/?mid=IJlaNZkI",
+      "qualifies": true,
+      "h2h": {
+        "home": 4,
+        "draw": 0,
+        "away": 1,
+        "total": 5,
+        "winRate": 80
+      },
+      "homeForm": [
+        "L",
+        "W",
+        "W",
+        "L",
+        "L"
+      ],
+      "awayForm": [
+        "W",
+        "L",
+        "L",
+        "L",
+        "L"
+      ],
+      "homeFormHome": [
+        "W",
+        "W",
+        "L",
+        "W",
+        "L"
+      ],
+      "awayFormAway": [
+        "L",
+        "L",
+        "W",
+        "L",
+        "L"
+      ],
+      "formAdvantage": true,
+      "odds": null,
+      "forebet": null,
+      "sofascore": {
+        "home": 75,
+        "draw": null,
+        "away": 25,
+        "votes": 12
+      },
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "1",
+        "prob": 66.8,
+        "ev": -999.0,
+        "edge": 0.0,
+        "kelly": 0.0,
+        "confidence": 45.0,
+        "dataQuality": 0.6
+      },
+      "tennis": null,
+      "confidence": 45.0,
+      "value_bet": false
+    },
+    {
+      "id": -7770152530193936796,
+      "homeTeam": "Nitra",
+      "awayTeam": "Komarno",
+      "time": "21.04.2026 17:00",
+      "date": "2026-04-21",
+      "league": null,
+      "country": "",
+      "sport": "volleyball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/siatkowka/komarno-EyJyofCa/nitra-SE4zwRxb/?mid=UFJBQMP8",
+      "qualifies": false,
+      "h2h": {
+        "home": 1,
+        "draw": 0,
+        "away": 4,
+        "total": 5,
+        "winRate": 20
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null,
+      "confidence": 0,
+      "value_bet": false
+    },
+    {
+      "id": -823739686747815175,
+      "homeTeam": "OTP Banka Branik K",
+      "awayTeam": "Calcit Kamnik K",
+      "time": "21.04.2026 16:00",
+      "date": "2026-04-21",
+      "league": null,
+      "country": "",
+      "sport": "volleyball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/siatkowka/calcit-kamnik-QLbRvUMh/nova-kbm-branik-8plWwlxa/?mid=WrKsz7nT",
+      "qualifies": true,
+      "h2h": {
+        "home": 5,
+        "draw": 0,
+        "away": 0,
+        "total": 5,
+        "winRate": 100
+      },
+      "homeForm": [
+        "W",
+        "W",
+        "W",
+        "W",
+        "W"
+      ],
+      "awayForm": [
+        "L",
+        "L",
+        "W",
+        "W",
+        "W"
+      ],
+      "homeFormHome": [
+        "W",
+        "W",
+        "W",
+        "L",
+        "W"
+      ],
+      "awayFormAway": [
+        "W",
+        "L",
+        "L",
+        "W",
+        "W"
+      ],
+      "formAdvantage": true,
+      "odds": {
+        "home": 1.2,
+        "draw": null,
+        "away": 3.9,
+        "bookmaker": "Pinnacle"
+      },
+      "forebet": null,
+      "sofascore": {
+        "home": 92,
+        "draw": null,
+        "away": 8,
+        "votes": 38
+      },
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "1",
+        "prob": 86.6,
+        "ev": 0.039,
+        "edge": 3.2,
+        "kelly": 19.3,
+        "confidence": 70.0,
+        "dataQuality": 0.7
+      },
+      "tennis": null,
+      "confidence": 70.0,
+      "value_bet": true
+    },
+    {
+      "id": 7739548800481644797,
+      "homeTeam": "Ziraat Bankasi",
+      "awayTeam": "Galatasaray",
+      "time": "21.04.2026 16:00",
+      "date": "2026-04-21",
+      "league": null,
+      "country": "",
+      "sport": "volleyball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/siatkowka/galatasaray-nLrfnIpa/ziraat-bankasi-j7Id0yFb/?mid=EZew8Zb6",
+      "qualifies": true,
+      "h2h": {
+        "home": 5,
+        "draw": 0,
+        "away": 0,
+        "total": 5,
+        "winRate": 100
+      },
+      "homeForm": [
+        "W",
+        "W",
+        "W",
+        "W",
+        "W"
+      ],
+      "awayForm": [
+        "W",
+        "W",
+        "L",
+        "W",
+        "W"
+      ],
+      "homeFormHome": [
+        "W",
+        "W",
+        "W",
+        "W",
+        "W"
+      ],
+      "awayFormAway": [
+        "L",
+        "W",
+        "L",
+        "L",
+        "L"
+      ],
+      "formAdvantage": true,
+      "odds": {
+        "home": 1.2,
+        "draw": null,
+        "away": 3.9,
+        "bookmaker": "Pinnacle"
+      },
+      "forebet": null,
+      "sofascore": {
+        "home": 83,
+        "draw": null,
+        "away": 17,
+        "votes": 294
+      },
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "1",
+        "prob": 85.2,
+        "ev": 0.022,
+        "edge": 1.9,
+        "kelly": 11.1,
+        "confidence": 68.0,
+        "dataQuality": 0.7
+      },
+      "tennis": null,
+      "confidence": 68.0,
+      "value_bet": true
+    }
+  ]
+}

@@ -1,0 +1,527 @@
+{
+  "date": "2026-04-21",
+  "sport": "handball",
+  "generatedAt": "2026-04-21T01:57:30.892749",
+  "stats": {
+    "total": 10,
+    "qualifying": 5,
+    "formAdvantage": 4
+  },
+  "matches": [
+    {
+      "id": 573098236468178331,
+      "homeTeam": "Izvidac",
+      "awayTeam": "Zrinjski Mostar",
+      "time": "21.04.2026 17:00",
+      "date": "2026-04-21",
+      "league": null,
+      "country": "",
+      "sport": "handball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/pilka-reczna/izvidac-4fUhaeqg/zrinjski-mostar-6Xb3vOAD/?mid=h8ocVGPh",
+      "qualifies": true,
+      "h2h": {
+        "home": 3,
+        "draw": 0,
+        "away": 2,
+        "total": 5,
+        "winRate": 60
+      },
+      "homeForm": [
+        "W",
+        "W",
+        "W",
+        "L",
+        "W"
+      ],
+      "awayForm": [
+        "L",
+        "W",
+        "D",
+        "L",
+        "L"
+      ],
+      "homeFormHome": [
+        "W",
+        "W",
+        "W",
+        "W",
+        "W"
+      ],
+      "awayFormAway": [
+        "L",
+        "L",
+        "D",
+        "L",
+        "L"
+      ],
+      "formAdvantage": true,
+      "odds": null,
+      "forebet": null,
+      "sofascore": {
+        "home": 85,
+        "draw": 1,
+        "away": 14,
+        "votes": 84
+      },
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "1",
+        "prob": 70.2,
+        "ev": -999.0,
+        "edge": 0.0,
+        "kelly": 0.0,
+        "confidence": 46.0,
+        "dataQuality": 0.6
+      },
+      "tennis": null,
+      "confidence": 46.0,
+      "value_bet": false
+    },
+    {
+      "id": -3585629956000986083,
+      "homeTeam": "NFH K",
+      "awayTeam": "Sønderjyske K",
+      "time": "21.04.2026 16:30",
+      "date": "2026-04-21",
+      "league": null,
+      "country": "",
+      "sport": "handball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/pilka-reczna/nfh-nyk-hl2yHC9e/s-nderjyske-Mc9KFSMp/?mid=dC08kVvm",
+      "qualifies": true,
+      "h2h": {
+        "home": 3,
+        "draw": 0,
+        "away": 2,
+        "total": 5,
+        "winRate": 60
+      },
+      "homeForm": [
+        "W",
+        "W",
+        "W",
+        "W",
+        "L"
+      ],
+      "awayForm": [
+        "L",
+        "W",
+        "L",
+        "L",
+        "L"
+      ],
+      "homeFormHome": [
+        "W",
+        "L",
+        "W",
+        "W",
+        "W"
+      ],
+      "awayFormAway": [
+        "W",
+        "L",
+        "L",
+        "W",
+        "W"
+      ],
+      "formAdvantage": true,
+      "odds": {
+        "home": 1.04,
+        "draw": 18.0,
+        "away": 12.0,
+        "bookmaker": "Pinnacle"
+      },
+      "forebet": null,
+      "sofascore": {
+        "home": 95,
+        "draw": 1,
+        "away": 4,
+        "votes": 74
+      },
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "X",
+        "prob": 7.2,
+        "ev": 0.298,
+        "edge": 1.7,
+        "kelly": 1.8,
+        "confidence": 36.0,
+        "dataQuality": 0.7
+      },
+      "tennis": null,
+      "confidence": 36.0,
+      "value_bet": true
+    },
+    {
+      "id": -6084110538527621130,
+      "homeTeam": "Esbjerg K",
+      "awayTeam": "Copenhagen K",
+      "time": "21.04.2026 18:30",
+      "date": "2026-04-21",
+      "league": null,
+      "country": "",
+      "sport": "handball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/pilka-reczna/copenhagen-ClxplExl/esbjerg-zRCPFAxi/?mid=6Prl28Oh",
+      "qualifies": true,
+      "h2h": {
+        "home": 5,
+        "draw": 0,
+        "away": 0,
+        "total": 5,
+        "winRate": 100
+      },
+      "homeForm": [
+        "W",
+        "W",
+        "W",
+        "W",
+        "W"
+      ],
+      "awayForm": [
+        "L",
+        "L",
+        "L",
+        "W",
+        "L"
+      ],
+      "homeFormHome": [
+        "W",
+        "W",
+        "W",
+        "W",
+        "W"
+      ],
+      "awayFormAway": [
+        "W",
+        "W",
+        "L",
+        "L",
+        "L"
+      ],
+      "formAdvantage": true,
+      "odds": {
+        "home": 1.01,
+        "draw": 25.0,
+        "away": 15.0,
+        "bookmaker": "Pinnacle"
+      },
+      "forebet": null,
+      "sofascore": {
+        "home": 95,
+        "draw": 1,
+        "away": 4,
+        "votes": 84
+      },
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "1",
+        "prob": 95.6,
+        "ev": -0.035,
+        "edge": -3.4,
+        "kelly": 0.0,
+        "confidence": 55.0,
+        "dataQuality": 0.7
+      },
+      "tennis": null,
+      "confidence": 55.0,
+      "value_bet": false
+    },
+    {
+      "id": -8500957614893826223,
+      "homeTeam": "Polva Serviti",
+      "awayTeam": "Kehra",
+      "time": "21.04.2026 16:00",
+      "date": "2026-04-21",
+      "league": null,
+      "country": "",
+      "sport": "handball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/pilka-reczna/kehra-4tTzrdUa/polva-serviti-EDkkVOt2/?mid=AXPVYr6T",
+      "qualifies": true,
+      "h2h": {
+        "home": 5,
+        "draw": 0,
+        "away": 0,
+        "total": 5,
+        "winRate": 100
+      },
+      "homeForm": [
+        "W",
+        "W",
+        "W",
+        "W",
+        "W"
+      ],
+      "awayForm": [
+        "L",
+        "L",
+        "W",
+        "W",
+        "W"
+      ],
+      "homeFormHome": [
+        "W",
+        "W",
+        "W",
+        "W",
+        "W"
+      ],
+      "awayFormAway": [
+        "W",
+        "L",
+        "L",
+        "W",
+        "L"
+      ],
+      "formAdvantage": true,
+      "odds": null,
+      "forebet": null,
+      "sofascore": {
+        "home": 95,
+        "draw": 2,
+        "away": 3,
+        "votes": 62
+      },
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "1",
+        "prob": 82.1,
+        "ev": -999.0,
+        "edge": 0.0,
+        "kelly": 0.0,
+        "confidence": 51.0,
+        "dataQuality": 0.6
+      },
+      "tennis": null,
+      "confidence": 51.0,
+      "value_bet": false
+    },
+    {
+      "id": 4271571640698176090,
+      "homeTeam": "Ionikos",
+      "awayTeam": "Olympiacos SFP",
+      "time": "21.04.2026 14:00",
+      "date": "2026-04-21",
+      "league": null,
+      "country": "",
+      "sport": "handball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/pilka-reczna/ionikos-vXSZ7s56/olympiacos-sfp-SEipOkPD/?mid=ln9iTl7m",
+      "qualifies": false,
+      "h2h": {
+        "home": 0,
+        "draw": 0,
+        "away": 5,
+        "total": 5,
+        "winRate": 0
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null,
+      "confidence": 0,
+      "value_bet": false
+    },
+    {
+      "id": -3151522772523189771,
+      "homeTeam": "Hagen",
+      "awayTeam": "Ferndorf",
+      "time": "21.04.2026 17:30",
+      "date": "2026-04-21",
+      "league": null,
+      "country": "",
+      "sport": "handball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/pilka-reczna/ferndorf-WOWrszdc/hagen-6oLDtEQ9/?mid=zaU1fVIt",
+      "qualifies": false,
+      "h2h": {
+        "home": 2,
+        "draw": 0,
+        "away": 2,
+        "total": 5,
+        "winRate": 40
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null,
+      "confidence": 0,
+      "value_bet": false
+    },
+    {
+      "id": 2093637952413451530,
+      "homeTeam": "Sandefjord TIF",
+      "awayTeam": "Bergen",
+      "time": "21.04.2026 16:00",
+      "date": "2026-04-21",
+      "league": null,
+      "country": "",
+      "sport": "handball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/pilka-reczna/bergen-bJM2ubnI/sandefjord-tif-ra22dwn5/?mid=xv037R1E",
+      "qualifies": false,
+      "h2h": {
+        "home": 1,
+        "draw": 0,
+        "away": 4,
+        "total": 5,
+        "winRate": 20
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null,
+      "confidence": 0,
+      "value_bet": false
+    },
+    {
+      "id": 4283187096617038285,
+      "homeTeam": "SMS ZPRP Płock II",
+      "awayTeam": "SMS ZPRP Płock",
+      "time": "21.04.2026 14:00",
+      "date": "2026-04-21",
+      "league": null,
+      "country": "",
+      "sport": "handball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/pilka-reczna/sms-zprp-plock-Aq9K97Cj/sms-zprp-plock-pIZY7KxF/?mid=jsPzqjg3",
+      "qualifies": true,
+      "h2h": {
+        "home": 1,
+        "draw": 0,
+        "away": 0,
+        "total": 1,
+        "winRate": 100
+      },
+      "homeForm": [
+        "L",
+        "L",
+        "L",
+        "L",
+        "W"
+      ],
+      "awayForm": [
+        "L",
+        "W",
+        "W",
+        "W",
+        "L"
+      ],
+      "homeFormHome": [
+        "L",
+        "L",
+        "L",
+        "L",
+        "L"
+      ],
+      "awayFormAway": [
+        "L",
+        "W",
+        "L",
+        "W",
+        "W"
+      ],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": {
+        "home": 94,
+        "draw": null,
+        "away": 6,
+        "votes": 69
+      },
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "1",
+        "prob": 63.2,
+        "ev": -999.0,
+        "edge": 0.0,
+        "kelly": 0.0,
+        "confidence": 43.0,
+        "dataQuality": 0.6
+      },
+      "tennis": null,
+      "confidence": 43.0,
+      "value_bet": false
+    },
+    {
+      "id": 5775180116917147384,
+      "homeTeam": "Radom II K",
+      "awayTeam": "Agrykola Warszawa K",
+      "time": "21.04.2026 17:00",
+      "date": "2026-04-21",
+      "league": null,
+      "country": "",
+      "sport": "handball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/pilka-reczna/agrykola-warszawa-6HidAFhd/apr-radom-IXIL1Vvq/?mid=bDRdo1Rs",
+      "qualifies": false,
+      "h2h": {
+        "home": 0,
+        "draw": 0,
+        "away": 1,
+        "total": 1,
+        "winRate": 0
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null,
+      "confidence": 0,
+      "value_bet": false
+    },
+    {
+      "id": -4045315366393456723,
+      "homeTeam": "Helsingborg K",
+      "awayTeam": "Aranas K",
+      "time": "21.04.2026 17:00",
+      "date": "2026-04-21",
+      "league": null,
+      "country": "",
+      "sport": "handball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/pilka-reczna/aranas-QZfcuZRn/helsingborg-ANu2Pzta/?mid=ltGq1kx8",
+      "qualifies": false,
+      "h2h": {
+        "home": 1,
+        "draw": 0,
+        "away": 4,
+        "total": 5,
+        "winRate": 20
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null,
+      "confidence": 0,
+      "value_bet": false
+    }
+  ]
+}
