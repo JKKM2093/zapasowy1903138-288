@@ -1,0 +1,1718 @@
+{
+  "date": "2026-05-03",
+  "sport": "hockey",
+  "generatedAt": "2026-05-03T02:15:43.848982",
+  "stats": {
+    "total": 32,
+    "qualifying": 17,
+    "formAdvantage": 12
+  },
+  "matches": [
+    {
+      "id": -5086081734886792895,
+      "homeTeam": "Mannheim",
+      "awayTeam": "Eisbaren Berlin",
+      "time": "03.05.2026 14:30",
+      "date": "2026-05-03",
+      "league": null,
+      "country": "",
+      "sport": "hockey",
+      "matchUrl": "https://www.livesport.com/pl/mecz/hokej/eisbaren-vwLXr6U8/mannheim-0jhpSN72/?mid=rZ5p1cgT",
+      "qualifies": false,
+      "h2h": {
+        "home": 1,
+        "draw": 0,
+        "away": 4,
+        "total": 5,
+        "winRate": 20
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null,
+      "confidence": 0,
+      "value_bet": false
+    },
+    {
+      "id": 2194335790031119940,
+      "homeTeam": "Carolina Hurricanes",
+      "awayTeam": "Philadelphia Flyers",
+      "time": "03.05.2026 00:00",
+      "date": "2026-05-03",
+      "league": null,
+      "country": "",
+      "sport": "hockey",
+      "matchUrl": "https://www.livesport.com/pl/mecz/hokej/carolina-hurricanes-Sx0gl0tm/philadelphia-flyers-QySGG7oT/?mid=KpfJ3pqg",
+      "qualifies": true,
+      "h2h": {
+        "home": 4,
+        "draw": 0,
+        "away": 1,
+        "total": 5,
+        "winRate": 80
+      },
+      "homeForm": [
+        "W",
+        "W",
+        "W",
+        "W",
+        "W"
+      ],
+      "awayForm": [
+        "W",
+        "L",
+        "L",
+        "W",
+        "W"
+      ],
+      "homeFormHome": [
+        "W",
+        "W",
+        "W",
+        "W",
+        "W"
+      ],
+      "awayFormAway": [
+        "L",
+        "L",
+        "W",
+        "L",
+        "W"
+      ],
+      "formAdvantage": true,
+      "odds": {
+        "home": 1.73,
+        "draw": 4.4,
+        "away": 4.0,
+        "bookmaker": "Pinnacle"
+      },
+      "forebet": {
+        "prediction": "1",
+        "probability": 64.0,
+        "exactScore": "5-3",
+        "overUnder": "Over 5.5",
+        "btts": "Yes",
+        "homeProb": null,
+        "drawProb": null,
+        "awayProb": null
+      },
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "1",
+        "prob": 69.5,
+        "ev": 0.203,
+        "edge": 11.7,
+        "kelly": 27.8,
+        "confidence": 74.0,
+        "dataQuality": 0.7
+      },
+      "tennis": null,
+      "confidence": 74.0,
+      "value_bet": true
+    },
+    {
+      "id": 2098524982215954899,
+      "homeTeam": "Tampa Bay Lightning",
+      "awayTeam": "Montreal Canadiens",
+      "time": "03.05.2026 22:00",
+      "date": "2026-05-03",
+      "league": null,
+      "country": "",
+      "sport": "hockey",
+      "matchUrl": "https://www.livesport.com/pl/mecz/hokej/montreal-canadiens-nu2G7VWc/tampa-bay-lightning-YVE3zk1c/?mid=2Dc8POw9",
+      "qualifies": true,
+      "h2h": {
+        "home": 3,
+        "draw": 0,
+        "away": 2,
+        "total": 5,
+        "winRate": 60
+      },
+      "homeForm": [
+        "W",
+        "L",
+        "W",
+        "D",
+        "W"
+      ],
+      "awayForm": [
+        "D",
+        "W",
+        "L",
+        "W",
+        "D"
+      ],
+      "homeFormHome": [
+        "L",
+        "W",
+        "D",
+        "L",
+        "W"
+      ],
+      "awayFormAway": [
+        "W",
+        "W",
+        "W",
+        "L",
+        "L"
+      ],
+      "formAdvantage": false,
+      "odds": {
+        "home": 2.1,
+        "draw": 3.9,
+        "away": 3.15,
+        "bookmaker": "Pinnacle"
+      },
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "1",
+        "prob": 51.2,
+        "ev": 0.074,
+        "edge": 3.5,
+        "kelly": 6.8,
+        "confidence": 53.0,
+        "dataQuality": 0.6
+      },
+      "tennis": null,
+      "confidence": 53.0,
+      "value_bet": true
+    },
+    {
+      "id": -3509082634841293654,
+      "homeTeam": "Melbourne Mustangs",
+      "awayTeam": "CBR Brave",
+      "time": "03.05.2026 04:00",
+      "date": "2026-05-03",
+      "league": null,
+      "country": "",
+      "sport": "hockey",
+      "matchUrl": "https://www.livesport.com/pl/mecz/hokej/cbr-brave-2Xg829G0/melbourne-mustangs-W2AkAUj0/?mid=tW7QABH6",
+      "qualifies": false,
+      "h2h": {
+        "home": 2,
+        "draw": 0,
+        "away": 3,
+        "total": 5,
+        "winRate": 40
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null,
+      "confidence": 0,
+      "value_bet": false
+    },
+    {
+      "id": 8911136637050633529,
+      "homeTeam": "Adelaide",
+      "awayTeam": "Sydney Bears",
+      "time": "03.05.2026 06:45",
+      "date": "2026-05-03",
+      "league": null,
+      "country": "",
+      "sport": "hockey",
+      "matchUrl": "https://www.livesport.com/pl/mecz/hokej/adelaide-adrenaline-xtBoBAyf/sydney-bears-jRmFVbxF/?mid=UilLWhvQ",
+      "qualifies": false,
+      "h2h": {
+        "home": 1,
+        "draw": 0,
+        "away": 4,
+        "total": 5,
+        "winRate": 20
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null,
+      "confidence": 0,
+      "value_bet": false
+    },
+    {
+      "id": 293691541978435686,
+      "homeTeam": "Sydney Ice Dogs",
+      "awayTeam": "Central Coast Rhinos",
+      "time": "03.05.2026 07:00",
+      "date": "2026-05-03",
+      "league": null,
+      "country": "",
+      "sport": "hockey",
+      "matchUrl": "https://www.livesport.com/pl/mecz/hokej/central-coast-rhinos-EXX9uS4s/sydney-ice-dogs-MiqBWvN8/?mid=ldBY8knJ",
+      "qualifies": true,
+      "h2h": {
+        "home": 5,
+        "draw": 0,
+        "away": 0,
+        "total": 5,
+        "winRate": 100
+      },
+      "homeForm": [
+        "W",
+        "W",
+        "W",
+        "W",
+        "L"
+      ],
+      "awayForm": [
+        "W",
+        "W",
+        "W",
+        "L",
+        "L"
+      ],
+      "homeFormHome": [
+        "W",
+        "W",
+        "W",
+        "W",
+        "L"
+      ],
+      "awayFormAway": [
+        "L",
+        "L",
+        "L",
+        "L",
+        "W"
+      ],
+      "formAdvantage": true,
+      "odds": {
+        "home": 1.65,
+        "draw": 5.0,
+        "away": 3.2,
+        "bookmaker": "Pinnacle"
+      },
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "1",
+        "prob": 74.5,
+        "ev": 0.229,
+        "edge": 13.9,
+        "kelly": 35.3,
+        "confidence": 76.0,
+        "dataQuality": 0.6
+      },
+      "tennis": null,
+      "confidence": 76.0,
+      "value_bet": true
+    },
+    {
+      "id": -4240690945858764753,
+      "homeTeam": "Perth",
+      "awayTeam": "Brisbane Lightning",
+      "time": "03.05.2026 08:00",
+      "date": "2026-05-03",
+      "league": null,
+      "country": "",
+      "sport": "hockey",
+      "matchUrl": "https://www.livesport.com/pl/mecz/hokej/brisbane-lightning-xCtrp8dQ/perth-thunder-SU3b88LC/?mid=vRZjRW1m",
+      "qualifies": true,
+      "h2h": {
+        "home": 4,
+        "draw": 0,
+        "away": 1,
+        "total": 5,
+        "winRate": 80
+      },
+      "homeForm": [
+        "W",
+        "W",
+        "L",
+        "D",
+        "W"
+      ],
+      "awayForm": [
+        "L",
+        "W",
+        "W",
+        "L",
+        "L"
+      ],
+      "homeFormHome": [
+        "W",
+        "D",
+        "W",
+        "W",
+        "W"
+      ],
+      "awayFormAway": [
+        "L",
+        "L",
+        "L",
+        "L",
+        "L"
+      ],
+      "formAdvantage": true,
+      "odds": {
+        "home": 1.2,
+        "draw": 8.0,
+        "away": 6.5,
+        "bookmaker": "Pinnacle"
+      },
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "1",
+        "prob": 77.7,
+        "ev": -0.068,
+        "edge": -5.7,
+        "kelly": 0.0,
+        "confidence": 42.0,
+        "dataQuality": 0.6
+      },
+      "tennis": null,
+      "confidence": 42.0,
+      "value_bet": false
+    },
+    {
+      "id": -8709056785696670934,
+      "homeTeam": "Szwecja",
+      "awayTeam": "Finlandia",
+      "time": "03.05.2026 10:00",
+      "date": "2026-05-03",
+      "league": null,
+      "country": "",
+      "sport": "hockey",
+      "matchUrl": "https://www.livesport.com/pl/mecz/hokej/finlandia-rRWMzYQu/szwecja-vBLjQRXp/?mid=rHqEhnNk",
+      "qualifies": true,
+      "h2h": {
+        "home": 4,
+        "draw": 0,
+        "away": 1,
+        "total": 5,
+        "winRate": 80
+      },
+      "homeForm": [
+        "W",
+        "W",
+        "D",
+        "W",
+        "W"
+      ],
+      "awayForm": [
+        "W",
+        "L",
+        "W",
+        "D",
+        "W"
+      ],
+      "homeFormHome": [
+        "W",
+        "W",
+        "W",
+        "W",
+        "W"
+      ],
+      "awayFormAway": [
+        "W",
+        "W",
+        "L",
+        "W",
+        "W"
+      ],
+      "formAdvantage": true,
+      "odds": {
+        "home": 2.15,
+        "draw": 4.0,
+        "away": 2.8,
+        "bookmaker": "Pinnacle"
+      },
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "1",
+        "prob": 59.3,
+        "ev": 0.274,
+        "edge": 12.7,
+        "kelly": 23.8,
+        "confidence": 69.0,
+        "dataQuality": 0.6
+      },
+      "tennis": null,
+      "confidence": 69.0,
+      "value_bet": true
+    },
+    {
+      "id": 1795310805175782708,
+      "homeTeam": "Czechy",
+      "awayTeam": "Szwajcaria",
+      "time": "03.05.2026 14:00",
+      "date": "2026-05-03",
+      "league": null,
+      "country": "",
+      "sport": "hockey",
+      "matchUrl": "https://www.livesport.com/pl/mecz/hokej/czechy-OdY4GUuO/szwajcaria-buO3jBAo/?mid=vqwNjQi2",
+      "qualifies": true,
+      "h2h": {
+        "home": 3,
+        "draw": 0,
+        "away": 2,
+        "total": 5,
+        "winRate": 60
+      },
+      "homeForm": [
+        "L",
+        "W",
+        "W",
+        "W",
+        "W"
+      ],
+      "awayForm": [
+        "L",
+        "L",
+        "W",
+        "W",
+        "W"
+      ],
+      "homeFormHome": [
+        "L",
+        "W",
+        "W",
+        "W",
+        "W"
+      ],
+      "awayFormAway": [
+        "W",
+        "L",
+        "L",
+        "L",
+        "W"
+      ],
+      "formAdvantage": true,
+      "odds": {
+        "home": 1.8,
+        "draw": 4.2,
+        "away": 3.6,
+        "bookmaker": "Pinnacle"
+      },
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "1",
+        "prob": 57.3,
+        "ev": 0.031,
+        "edge": 1.7,
+        "kelly": 3.9,
+        "confidence": 53.0,
+        "dataQuality": 0.6
+      },
+      "tennis": null,
+      "confidence": 53.0,
+      "value_bet": true
+    },
+    {
+      "id": -1454269702573565313,
+      "homeTeam": "Barrie Colts",
+      "awayTeam": "Brantford Bulldogs",
+      "time": "02.05.2026 23:30",
+      "date": "2026-05-03",
+      "league": null,
+      "country": "",
+      "sport": "hockey",
+      "matchUrl": "https://www.livesport.com/pl/mecz/hokej/barrie-colts-fDwzT2DQ/brantford-bulldogs-lWYW6Lj7/?mid=4vJxunl2",
+      "qualifies": false,
+      "h2h": {
+        "home": 2,
+        "draw": 0,
+        "away": 3,
+        "total": 5,
+        "winRate": 40
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null,
+      "confidence": 0,
+      "value_bet": false
+    },
+    {
+      "id": -6295072935455230164,
+      "homeTeam": "Blainville-Boisbriand Armada",
+      "awayTeam": "Moncton Wildcats",
+      "time": "03.05.2026 19:00",
+      "date": "2026-05-03",
+      "league": null,
+      "country": "",
+      "sport": "hockey",
+      "matchUrl": "https://www.livesport.com/pl/mecz/hokej/blainville-boisbriand-armada-d2mJcpvr/moncton-wildcats-jiadl71R/?mid=Q32FgkXj",
+      "qualifies": false,
+      "h2h": {
+        "home": 2,
+        "draw": 0,
+        "away": 3,
+        "total": 5,
+        "winRate": 40
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null,
+      "confidence": 0,
+      "value_bet": false
+    },
+    {
+      "id": -3481185932739931316,
+      "homeTeam": "Rouyn-Noranda Huskies",
+      "awayTeam": "Chicoutimi Sagueneens",
+      "time": "03.05.2026 20:00",
+      "date": "2026-05-03",
+      "league": null,
+      "country": "",
+      "sport": "hockey",
+      "matchUrl": "https://www.livesport.com/pl/mecz/hokej/chicoutimi-sagueneens-Qc1mtq97/rouyn-noranda-huskies-vBAVd4gl/?mid=ppsCB0iM",
+      "qualifies": false,
+      "h2h": {
+        "home": 2,
+        "draw": 0,
+        "away": 3,
+        "total": 5,
+        "winRate": 40
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null,
+      "confidence": 0,
+      "value_bet": false
+    },
+    {
+      "id": -5930157939284482608,
+      "homeTeam": "Magnitogorsk",
+      "awayTeam": "Kazań",
+      "time": "03.05.2026 11:00",
+      "date": "2026-05-03",
+      "league": null,
+      "country": "",
+      "sport": "hockey",
+      "matchUrl": "https://www.livesport.com/pl/mecz/hokej/kazan-v320kOMr/magnitogorsk-QcJ1rpaL/?mid=MyJbXhv9",
+      "qualifies": false,
+      "h2h": {
+        "home": 1,
+        "draw": 0,
+        "away": 4,
+        "total": 5,
+        "winRate": 20
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null,
+      "confidence": 0,
+      "value_bet": false
+    },
+    {
+      "id": 4879689778778572415,
+      "homeTeam": "Almetyevsk",
+      "awayTeam": "Jugra",
+      "time": "03.05.2026 14:00",
+      "date": "2026-05-03",
+      "league": null,
+      "country": "",
+      "sport": "hockey",
+      "matchUrl": "https://www.livesport.com/pl/mecz/hokej/almetyevsk-OjLH0pat/yugra-CpX7KoQr/?mid=8hwPQOvf",
+      "qualifies": false,
+      "h2h": {
+        "home": 1,
+        "draw": 0,
+        "away": 4,
+        "total": 5,
+        "winRate": 20
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null,
+      "confidence": 0,
+      "value_bet": false
+    },
+    {
+      "id": -8799181131186099896,
+      "homeTeam": "Loko",
+      "awayTeam": "Chaika",
+      "time": "03.05.2026 10:00",
+      "date": "2026-05-03",
+      "league": null,
+      "country": "",
+      "sport": "hockey",
+      "matchUrl": "https://www.livesport.com/pl/mecz/hokej/chaika-mhl-dvJhFEND/loko-mhl-pzzY0zxH/?mid=YZSVSH66",
+      "qualifies": true,
+      "h2h": {
+        "home": 4,
+        "draw": 0,
+        "away": 1,
+        "total": 5,
+        "winRate": 80
+      },
+      "homeForm": [
+        "D",
+        "W",
+        "W",
+        "W",
+        "W"
+      ],
+      "awayForm": [
+        "W",
+        "D",
+        "L",
+        "L",
+        "W"
+      ],
+      "homeFormHome": [
+        "W",
+        "W",
+        "W",
+        "W",
+        "W"
+      ],
+      "awayFormAway": [
+        "L",
+        "W",
+        "L",
+        "L",
+        "L"
+      ],
+      "formAdvantage": true,
+      "odds": {
+        "home": 1.53,
+        "draw": 4.4,
+        "away": 4.4,
+        "bookmaker": "Pinnacle"
+      },
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "1",
+        "prob": 69.5,
+        "ev": 0.063,
+        "edge": 4.1,
+        "kelly": 11.9,
+        "confidence": 61.0,
+        "dataQuality": 0.6
+      },
+      "tennis": null,
+      "confidence": 61.0,
+      "value_bet": true
+    },
+    {
+      "id": -9044067441314608145,
+      "homeTeam": "Słowacja",
+      "awayTeam": "Łotwa",
+      "time": "03.05.2026 15:00",
+      "date": "2026-05-03",
+      "league": null,
+      "country": "",
+      "sport": "hockey",
+      "matchUrl": "https://www.livesport.com/pl/mecz/hokej/lotwa-44JaYkQ4/slowacja-ruzLVmAN/?mid=rquZgpmo",
+      "qualifies": true,
+      "h2h": {
+        "home": 3,
+        "draw": 0,
+        "away": 2,
+        "total": 5,
+        "winRate": 60
+      },
+      "homeForm": [
+        "L",
+        "L",
+        "L",
+        "L",
+        "W"
+      ],
+      "awayForm": [
+        "W",
+        "W",
+        "W",
+        "W",
+        "L"
+      ],
+      "homeFormHome": [
+        "L",
+        "L",
+        "W",
+        "L",
+        "W"
+      ],
+      "awayFormAway": [
+        "W",
+        "L",
+        "W",
+        "L",
+        "W"
+      ],
+      "formAdvantage": false,
+      "odds": {
+        "home": 1.73,
+        "draw": 4.2,
+        "away": 3.35,
+        "bookmaker": "Pinnacle"
+      },
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "2",
+        "prob": 34.0,
+        "ev": 0.138,
+        "edge": 4.1,
+        "kelly": 5.9,
+        "confidence": 47.0,
+        "dataQuality": 0.6
+      },
+      "tennis": null,
+      "confidence": 47.0,
+      "value_bet": true
+    },
+    {
+      "id": -2585027439722454379,
+      "homeTeam": "Kazachstan",
+      "awayTeam": "Japonia",
+      "time": "03.05.2026 10:30",
+      "date": "2026-05-03",
+      "league": null,
+      "country": "",
+      "sport": "hockey",
+      "matchUrl": "https://www.livesport.com/pl/mecz/hokej/japonia-4tqUpvOr/kazachstan-2uidn7vN/?mid=z3ILIrsp",
+      "qualifies": true,
+      "h2h": {
+        "home": 5,
+        "draw": 0,
+        "away": 0,
+        "total": 5,
+        "winRate": 100
+      },
+      "homeForm": [
+        "W",
+        "L",
+        "L",
+        "W",
+        "W"
+      ],
+      "awayForm": [
+        "L",
+        "W",
+        "W",
+        "W",
+        "W"
+      ],
+      "homeFormHome": [
+        "W",
+        "W",
+        "L",
+        "L",
+        "L"
+      ],
+      "awayFormAway": [
+        "W",
+        "W",
+        "W",
+        "L",
+        "L"
+      ],
+      "formAdvantage": false,
+      "odds": {
+        "home": 1.2,
+        "draw": 5.75,
+        "away": 8.0,
+        "bookmaker": "Pinnacle"
+      },
+      "forebet": {
+        "prediction": "1",
+        "probability": 62.0,
+        "exactScore": "3-2",
+        "overUnder": "Over 5.5",
+        "btts": "Yes",
+        "homeProb": null,
+        "drawProb": null,
+        "awayProb": null
+      },
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "2",
+        "prob": 14.1,
+        "ev": 0.129,
+        "edge": 1.6,
+        "kelly": 1.8,
+        "confidence": 39.0,
+        "dataQuality": 0.7
+      },
+      "tennis": null,
+      "confidence": 39.0,
+      "value_bet": true
+    },
+    {
+      "id": -8077365095093936044,
+      "homeTeam": "Ukraina",
+      "awayTeam": "Litwa",
+      "time": "03.05.2026 14:00",
+      "date": "2026-05-03",
+      "league": null,
+      "country": "",
+      "sport": "hockey",
+      "matchUrl": "https://www.livesport.com/pl/mecz/hokej/litwa-tWk0oRgT/ukraina-IyqN4lfi/?mid=dI6UGMBd",
+      "qualifies": true,
+      "h2h": {
+        "home": 3,
+        "draw": 0,
+        "away": 2,
+        "total": 5,
+        "winRate": 60
+      },
+      "homeForm": [
+        "L",
+        "W",
+        "W",
+        "D",
+        "W"
+      ],
+      "awayForm": [
+        "L",
+        "W",
+        "W",
+        "L",
+        "L"
+      ],
+      "homeFormHome": [
+        "W",
+        "W",
+        "D",
+        "W",
+        "L"
+      ],
+      "awayFormAway": [
+        "W",
+        "L",
+        "L",
+        "W",
+        "W"
+      ],
+      "formAdvantage": true,
+      "odds": {
+        "home": 1.16,
+        "draw": 6.5,
+        "away": 10.0,
+        "bookmaker": "Pinnacle"
+      },
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "2",
+        "prob": 17.6,
+        "ev": 0.76,
+        "edge": 7.6,
+        "kelly": 8.4,
+        "confidence": 45.0,
+        "dataQuality": 0.6
+      },
+      "tennis": null,
+      "confidence": 45.0,
+      "value_bet": true
+    },
+    {
+      "id": 1149828606968941751,
+      "homeTeam": "Francja",
+      "awayTeam": "Polska",
+      "time": "03.05.2026 17:30",
+      "date": "2026-05-03",
+      "league": null,
+      "country": "",
+      "sport": "hockey",
+      "matchUrl": "https://www.livesport.com/pl/mecz/hokej/francja-dUzRZitn/polska-0GWWu5Hj/?mid=OObGvQ33",
+      "qualifies": false,
+      "h2h": {
+        "home": 2,
+        "draw": 0,
+        "away": 3,
+        "total": 5,
+        "winRate": 40
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null,
+      "confidence": 0,
+      "value_bet": false
+    },
+    {
+      "id": -9126858863631043268,
+      "homeTeam": "Estonia",
+      "awayTeam": "Rumunia",
+      "time": "03.05.2026 04:30",
+      "date": "2026-05-03",
+      "league": null,
+      "country": "",
+      "sport": "hockey",
+      "matchUrl": "https://www.livesport.com/pl/mecz/hokej/estonia-UwuFm9f4/rumunia-YXbA5C3K/?mid=jJfrFqH8",
+      "qualifies": false,
+      "h2h": {
+        "home": 2,
+        "draw": 0,
+        "away": 3,
+        "total": 5,
+        "winRate": 40
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null,
+      "confidence": 0,
+      "value_bet": false
+    },
+    {
+      "id": -3587745003855405580,
+      "homeTeam": "Korea Południowa",
+      "awayTeam": "Holandia",
+      "time": "03.05.2026 08:00",
+      "date": "2026-05-03",
+      "league": null,
+      "country": "",
+      "sport": "hockey",
+      "matchUrl": "https://www.livesport.com/pl/mecz/hokej/holandia-nDSSto2p/korea-poludniowa-lnhh26gG/?mid=bqbjDNoL",
+      "qualifies": true,
+      "h2h": {
+        "home": 3,
+        "draw": 0,
+        "away": 0,
+        "total": 3,
+        "winRate": 100
+      },
+      "homeForm": [
+        "L",
+        "W",
+        "W",
+        "D",
+        "L"
+      ],
+      "awayForm": [
+        "L",
+        "L",
+        "L",
+        "L",
+        "L"
+      ],
+      "homeFormHome": [
+        "L",
+        "W",
+        "D",
+        "L",
+        "L"
+      ],
+      "awayFormAway": [
+        "W",
+        "L",
+        "W",
+        "W",
+        "L"
+      ],
+      "formAdvantage": true,
+      "odds": {
+        "home": 1.03,
+        "draw": 11.0,
+        "away": 19.0,
+        "bookmaker": "Pinnacle"
+      },
+      "forebet": {
+        "prediction": "1",
+        "probability": 62.0,
+        "exactScore": "3-2",
+        "overUnder": "Over 5.5",
+        "btts": "Yes",
+        "homeProb": null,
+        "drawProb": null,
+        "awayProb": null
+      },
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "2",
+        "prob": 9.6,
+        "ev": 0.818,
+        "edge": 4.3,
+        "kelly": 4.5,
+        "confidence": 41.0,
+        "dataQuality": 0.7
+      },
+      "tennis": null,
+      "confidence": 41.0,
+      "value_bet": true
+    },
+    {
+      "id": 7227102019251198417,
+      "homeTeam": "Chiny",
+      "awayTeam": "Hiszpania",
+      "time": "03.05.2026 11:30",
+      "date": "2026-05-03",
+      "league": null,
+      "country": "",
+      "sport": "hockey",
+      "matchUrl": "https://www.livesport.com/pl/mecz/hokej/chiny-AVwdzNpb/hiszpania-EckXJCta/?mid=ITvN719r",
+      "qualifies": true,
+      "h2h": {
+        "home": 3,
+        "draw": 0,
+        "away": 2,
+        "total": 5,
+        "winRate": 60
+      },
+      "homeForm": [
+        "W",
+        "W",
+        "L",
+        "L",
+        "L"
+      ],
+      "awayForm": [
+        "L",
+        "L",
+        "L",
+        "L",
+        "W"
+      ],
+      "homeFormHome": [
+        "L",
+        "L",
+        "W",
+        "L",
+        "W"
+      ],
+      "awayFormAway": [
+        "L",
+        "L",
+        "W",
+        "L",
+        "W"
+      ],
+      "formAdvantage": false,
+      "odds": {
+        "home": 1.28,
+        "draw": 5.25,
+        "away": 6.25,
+        "bookmaker": "Pinnacle"
+      },
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "2",
+        "prob": 17.5,
+        "ev": 0.092,
+        "edge": 1.5,
+        "kelly": 1.8,
+        "confidence": 37.0,
+        "dataQuality": 0.6
+      },
+      "tennis": null,
+      "confidence": 37.0,
+      "value_bet": true
+    },
+    {
+      "id": 4456353705450839942,
+      "homeTeam": "Chicago Wolves",
+      "awayTeam": "Texas Stars",
+      "time": "03.05.2026 00:00",
+      "date": "2026-05-03",
+      "league": null,
+      "country": "",
+      "sport": "hockey",
+      "matchUrl": "https://www.livesport.com/pl/mecz/hokej/chicago-wolves-jufIjBbC/texas-stars-nT23xfgH/?mid=E7HoaqDj",
+      "qualifies": false,
+      "h2h": {
+        "home": 1,
+        "draw": 0,
+        "away": 4,
+        "total": 5,
+        "winRate": 20
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null,
+      "confidence": 0,
+      "value_bet": false
+    },
+    {
+      "id": 3243967445937896370,
+      "homeTeam": "Manitoba Moose",
+      "awayTeam": "Grand Rapids Griffins",
+      "time": "03.05.2026 19:00",
+      "date": "2026-05-03",
+      "league": null,
+      "country": "",
+      "sport": "hockey",
+      "matchUrl": "https://www.livesport.com/pl/mecz/hokej/grand-rapids-griffins-UDgcaeMJ/manitoba-moose-vmqXhgam/?mid=ttWZoKyo",
+      "qualifies": true,
+      "h2h": {
+        "home": 3,
+        "draw": 0,
+        "away": 2,
+        "total": 5,
+        "winRate": 60
+      },
+      "homeForm": [
+        "W",
+        "W",
+        "W",
+        "L",
+        "W"
+      ],
+      "awayForm": [
+        "L",
+        "L",
+        "W",
+        "W",
+        "L"
+      ],
+      "homeFormHome": [
+        "W",
+        "W",
+        "W",
+        "L",
+        "W"
+      ],
+      "awayFormAway": [
+        "L",
+        "L",
+        "W",
+        "W",
+        "W"
+      ],
+      "formAdvantage": true,
+      "odds": {
+        "home": 3.4,
+        "draw": 4.1,
+        "away": 1.8,
+        "bookmaker": "Pinnacle"
+      },
+      "forebet": {
+        "prediction": "1",
+        "probability": 64.0,
+        "exactScore": "5-3",
+        "overUnder": "Over 5.5",
+        "btts": "Yes",
+        "homeProb": null,
+        "drawProb": null,
+        "awayProb": null
+      },
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "1",
+        "prob": 54.1,
+        "ev": 0.838,
+        "edge": 24.6,
+        "kelly": 34.9,
+        "confidence": 73.0,
+        "dataQuality": 0.7
+      },
+      "tennis": null,
+      "confidence": 73.0,
+      "value_bet": true
+    },
+    {
+      "id": -1322187663423198195,
+      "homeTeam": "Syracuse Crunch",
+      "awayTeam": "Cleveland Monsters",
+      "time": "03.05.2026 19:00",
+      "date": "2026-05-03",
+      "league": null,
+      "country": "",
+      "sport": "hockey",
+      "matchUrl": "https://www.livesport.com/pl/mecz/hokej/cleveland-monsters-QquTgZqs/syracuse-crunch-4KeliXTa/?mid=EXY31pJs",
+      "qualifies": true,
+      "h2h": {
+        "home": 3,
+        "draw": 0,
+        "away": 2,
+        "total": 5,
+        "winRate": 60
+      },
+      "homeForm": [
+        "D",
+        "W",
+        "L",
+        "W",
+        "L"
+      ],
+      "awayForm": [
+        "W",
+        "L",
+        "W",
+        "W",
+        "W"
+      ],
+      "homeFormHome": [
+        "D",
+        "W",
+        "L",
+        "W",
+        "L"
+      ],
+      "awayFormAway": [
+        "W",
+        "W",
+        "L",
+        "L",
+        "W"
+      ],
+      "formAdvantage": false,
+      "odds": {
+        "home": 2.2,
+        "draw": 4.0,
+        "away": 2.5,
+        "bookmaker": "Pinnacle"
+      },
+      "forebet": {
+        "prediction": "2",
+        "probability": 59.0,
+        "exactScore": "3-4",
+        "overUnder": "Over 5.5",
+        "btts": "Yes",
+        "homeProb": null,
+        "drawProb": null,
+        "awayProb": null
+      },
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "2",
+        "prob": 39.3,
+        "ev": -0.018,
+        "edge": -0.7,
+        "kelly": 0.0,
+        "confidence": 36.0,
+        "dataQuality": 0.7
+      },
+      "tennis": null,
+      "confidence": 36.0,
+      "value_bet": false
+    },
+    {
+      "id": -4350632207158542592,
+      "homeTeam": "Chicago Wolves",
+      "awayTeam": "Texas Stars",
+      "time": "03.05.2026 20:00",
+      "date": "2026-05-03",
+      "league": null,
+      "country": "",
+      "sport": "hockey",
+      "matchUrl": "https://www.livesport.com/pl/mecz/hokej/chicago-wolves-jufIjBbC/texas-stars-nT23xfgH/?mid=0Mhg6q4b",
+      "qualifies": false,
+      "h2h": {
+        "home": 1,
+        "draw": 0,
+        "away": 4,
+        "total": 5,
+        "winRate": 20
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null,
+      "confidence": 0,
+      "value_bet": false
+    },
+    {
+      "id": -8662547952472361333,
+      "homeTeam": "Toronto Marlies",
+      "awayTeam": "Laval Rocket",
+      "time": "03.05.2026 20:00",
+      "date": "2026-05-03",
+      "league": null,
+      "country": "",
+      "sport": "hockey",
+      "matchUrl": "https://www.livesport.com/pl/mecz/hokej/laval-rocket-84h1bFyQ/toronto-marlies-CleEiiq6/?mid=xpsdg2qB",
+      "qualifies": true,
+      "h2h": {
+        "home": 4,
+        "draw": 0,
+        "away": 1,
+        "total": 5,
+        "winRate": 80
+      },
+      "homeForm": [
+        "W",
+        "L",
+        "W",
+        "L",
+        "W"
+      ],
+      "awayForm": [
+        "L",
+        "W",
+        "L",
+        "L",
+        "W"
+      ],
+      "homeFormHome": [
+        "W",
+        "W",
+        "W",
+        "W",
+        "W"
+      ],
+      "awayFormAway": [
+        "W",
+        "L",
+        "L",
+        "L",
+        "L"
+      ],
+      "formAdvantage": true,
+      "odds": {
+        "home": 2.5,
+        "draw": 4.0,
+        "away": 2.2,
+        "bookmaker": "Pinnacle"
+      },
+      "forebet": {
+        "prediction": "2",
+        "probability": 55.0,
+        "exactScore": "3-4",
+        "overUnder": "Over 5.5",
+        "btts": "Yes",
+        "homeProb": null,
+        "drawProb": null,
+        "awayProb": null
+      },
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "1",
+        "prob": 54.2,
+        "ev": 0.356,
+        "edge": 14.2,
+        "kelly": 23.7,
+        "confidence": 72.0,
+        "dataQuality": 0.7
+      },
+      "tennis": null,
+      "confidence": 72.0,
+      "value_bet": true
+    },
+    {
+      "id": -8980146309672927774,
+      "homeTeam": "Providence Bruins",
+      "awayTeam": "Springfield Thunderbirds",
+      "time": "03.05.2026 23:05",
+      "date": "2026-05-03",
+      "league": null,
+      "country": "",
+      "sport": "hockey",
+      "matchUrl": "https://www.livesport.com/pl/mecz/hokej/providence-bruins-6L7yoIxE/springfield-thunderbirds-l0eoMYaD/?mid=vsqHJGsA",
+      "qualifies": false,
+      "h2h": {
+        "home": 2,
+        "draw": 0,
+        "away": 3,
+        "total": 5,
+        "winRate": 40
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null,
+      "confidence": 0,
+      "value_bet": false
+    },
+    {
+      "id": -180586513048020309,
+      "homeTeam": "Reading Royals",
+      "awayTeam": "Wheeling Nailers",
+      "time": "02.05.2026 23:00",
+      "date": "2026-05-03",
+      "league": null,
+      "country": "",
+      "sport": "hockey",
+      "matchUrl": "https://www.livesport.com/pl/mecz/hokej/reading-royals-C8KZXayI/wheeling-nailers-44r3GX5p/?mid=YwHr93gS",
+      "qualifies": false,
+      "h2h": {
+        "home": 1,
+        "draw": 0,
+        "away": 4,
+        "total": 5,
+        "winRate": 20
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null,
+      "confidence": 0,
+      "value_bet": false
+    },
+    {
+      "id": 6839809487032375236,
+      "homeTeam": "Fort Wayne Komets",
+      "awayTeam": "Indy Fuel",
+      "time": "03.05.2026 21:05",
+      "date": "2026-05-03",
+      "league": null,
+      "country": "",
+      "sport": "hockey",
+      "matchUrl": "https://www.livesport.com/pl/mecz/hokej/fort-wayne-komets-QXkhRv40/indy-fuel-KnJ7UWHf/?mid=hAf1HhPc",
+      "qualifies": true,
+      "h2h": {
+        "home": 4,
+        "draw": 0,
+        "away": 1,
+        "total": 5,
+        "winRate": 80
+      },
+      "homeForm": [
+        "W",
+        "L",
+        "W",
+        "W",
+        "W"
+      ],
+      "awayForm": [
+        "L",
+        "W",
+        "L",
+        "L",
+        "W"
+      ],
+      "homeFormHome": [
+        "W",
+        "W",
+        "W",
+        "L",
+        "W"
+      ],
+      "awayFormAway": [
+        "W",
+        "L",
+        "L",
+        "L",
+        "W"
+      ],
+      "formAdvantage": true,
+      "odds": null,
+      "forebet": {
+        "prediction": "2",
+        "probability": 55.0,
+        "exactScore": "3-5",
+        "overUnder": "Over 5.5",
+        "btts": "Yes",
+        "homeProb": null,
+        "drawProb": null,
+        "awayProb": null
+      },
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "1",
+        "prob": 55.5,
+        "ev": -999.0,
+        "edge": 0.0,
+        "kelly": 0.0,
+        "confidence": 40.0,
+        "dataQuality": 0.6
+      },
+      "tennis": null,
+      "confidence": 40.0,
+      "value_bet": false
+    },
+    {
+      "id": 2684367627871647999,
+      "homeTeam": "Toledo Walleye",
+      "awayTeam": "Bloomington Bison",
+      "time": "03.05.2026 21:15",
+      "date": "2026-05-03",
+      "league": null,
+      "country": "",
+      "sport": "hockey",
+      "matchUrl": "https://www.livesport.com/pl/mecz/hokej/bloomington-bison-KxBL7TEi/toledo-walleye-drm6xFS3/?mid=vD1BD6fR",
+      "qualifies": true,
+      "h2h": {
+        "home": 3,
+        "draw": 0,
+        "away": 2,
+        "total": 5,
+        "winRate": 60
+      },
+      "homeForm": [
+        "L",
+        "L",
+        "W",
+        "W",
+        "W"
+      ],
+      "awayForm": [
+        "W",
+        "W",
+        "L",
+        "L",
+        "L"
+      ],
+      "homeFormHome": [
+        "W",
+        "W",
+        "W",
+        "D",
+        "L"
+      ],
+      "awayFormAway": [
+        "L",
+        "L",
+        "W",
+        "L",
+        "L"
+      ],
+      "formAdvantage": true,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "1",
+        "prob": 49.5,
+        "ev": -999.0,
+        "edge": 0.0,
+        "kelly": 0.0,
+        "confidence": 35.0,
+        "dataQuality": 0.5
+      },
+      "tennis": null,
+      "confidence": 35.0,
+      "value_bet": false
+    },
+    {
+      "id": 5805903488162455912,
+      "homeTeam": "Sioux Falls Stampede",
+      "awayTeam": "Fargo Force",
+      "time": "02.05.2026 23:05",
+      "date": "2026-05-03",
+      "league": null,
+      "country": "",
+      "sport": "hockey",
+      "matchUrl": "https://www.livesport.com/pl/mecz/hokej/fargo-force-0zd4r5iB/sioux-falls-stampede-KvPQa6Mo/?mid=OEQ4BuFc",
+      "qualifies": false,
+      "h2h": {
+        "home": 2,
+        "draw": 0,
+        "away": 3,
+        "total": 5,
+        "winRate": 40
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null,
+      "confidence": 0,
+      "value_bet": false
+    }
+  ]
+}
