@@ -1,0 +1,315 @@
+{
+  "date": "2026-05-04",
+  "sport": "volleyball",
+  "generatedAt": "2026-05-04T02:11:18.154673",
+  "stats": {
+    "total": 6,
+    "qualifying": 3,
+    "formAdvantage": 2
+  },
+  "matches": [
+    {
+      "id": -7877119302576712828,
+      "homeTeam": "Panathinaikos",
+      "awayTeam": "PAOK",
+      "time": "04.05.2026 16:00",
+      "date": "2026-05-04",
+      "league": null,
+      "country": "",
+      "sport": "volleyball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/siatkowka/panathinaikos-d0FeiWQ6/paok-vP40jjtD/?mid=OAdxKPG6",
+      "qualifies": false,
+      "h2h": {
+        "home": 2,
+        "draw": 0,
+        "away": 3,
+        "total": 5,
+        "winRate": 40
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null,
+      "confidence": 0,
+      "value_bet": false
+    },
+    {
+      "id": 1484598976191988829,
+      "homeTeam": "Akademiya Kazan",
+      "awayTeam": "Nizhnevartovsk",
+      "time": "04.05.2026 14:00",
+      "date": "2026-05-04",
+      "league": null,
+      "country": "",
+      "sport": "volleyball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/siatkowka/akademiya-kazan-jJqaVCk0/yugra-nizhnevartovsk-Kb2rMowB/?mid=jXojFk84",
+      "qualifies": false,
+      "h2h": {
+        "home": 1,
+        "draw": 0,
+        "away": 4,
+        "total": 5,
+        "winRate": 20
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null,
+      "confidence": 0,
+      "value_bet": false
+    },
+    {
+      "id": -367996291670426478,
+      "homeTeam": "Dinamo Bukareszt",
+      "awayTeam": "Arcada Galati",
+      "time": "04.05.2026 15:00",
+      "date": "2026-05-04",
+      "league": null,
+      "country": "",
+      "sport": "volleyball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/siatkowka/arcada-galati-nLLqbs85/dinamo-bukareszt-O6ac1n9H/?mid=tzmj77tC",
+      "qualifies": true,
+      "h2h": {
+        "home": 3,
+        "draw": 0,
+        "away": 2,
+        "total": 5,
+        "winRate": 60
+      },
+      "homeForm": [
+        "W",
+        "W",
+        "W",
+        "L",
+        "W"
+      ],
+      "awayForm": [
+        "W",
+        "W",
+        "W",
+        "W",
+        "W"
+      ],
+      "homeFormHome": [
+        "W",
+        "W",
+        "W",
+        "W",
+        "W"
+      ],
+      "awayFormAway": [
+        "W",
+        "L",
+        "W",
+        "L",
+        "L"
+      ],
+      "formAdvantage": false,
+      "odds": {
+        "home": 2.05,
+        "draw": null,
+        "away": 1.6,
+        "bookmaker": "Pinnacle"
+      },
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "1",
+        "prob": 48.5,
+        "ev": -0.006,
+        "edge": -0.3,
+        "kelly": 0.0,
+        "confidence": 37.0,
+        "dataQuality": 0.6
+      },
+      "tennis": null,
+      "confidence": 37.0,
+      "value_bet": false
+    },
+    {
+      "id": -5604416253049330120,
+      "homeTeam": "Brasov",
+      "awayTeam": "Rapid Bukareszt",
+      "time": "04.05.2026 16:00",
+      "date": "2026-05-04",
+      "league": null,
+      "country": "",
+      "sport": "volleyball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/siatkowka/brasov-bHwNIoOA/rapid-bucuresti-EPZhVfMh/?mid=U94NLqmA",
+      "qualifies": true,
+      "h2h": {
+        "home": 5,
+        "draw": 0,
+        "away": 0,
+        "total": 5,
+        "winRate": 100
+      },
+      "homeForm": [
+        "W",
+        "W",
+        "W",
+        "L",
+        "L"
+      ],
+      "awayForm": [
+        "L",
+        "W",
+        "W",
+        "L",
+        "L"
+      ],
+      "homeFormHome": [
+        "W",
+        "W",
+        "L",
+        "W",
+        "L"
+      ],
+      "awayFormAway": [
+        "L",
+        "W",
+        "L",
+        "W",
+        "L"
+      ],
+      "formAdvantage": true,
+      "odds": {
+        "home": 1.2,
+        "draw": null,
+        "away": 3.6,
+        "bookmaker": "Pinnacle"
+      },
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "1",
+        "prob": 75.6,
+        "ev": -0.093,
+        "edge": -7.8,
+        "kelly": 0.0,
+        "confidence": 38.0,
+        "dataQuality": 0.6
+      },
+      "tennis": null,
+      "confidence": 38.0,
+      "value_bet": false
+    },
+    {
+      "id": -4232700469524615440,
+      "homeTeam": "Radnicki",
+      "awayTeam": "Vojvodina",
+      "time": "04.05.2026 16:00",
+      "date": "2026-05-04",
+      "league": null,
+      "country": "",
+      "sport": "volleyball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/siatkowka/radnicki-UVC4zpPD/vojvodina-S6huUs2s/?mid=MJHEqJJM",
+      "qualifies": true,
+      "h2h": {
+        "home": 4,
+        "draw": 0,
+        "away": 1,
+        "total": 5,
+        "winRate": 80
+      },
+      "homeForm": [
+        "W",
+        "W",
+        "W",
+        "W",
+        "W"
+      ],
+      "awayForm": [
+        "L",
+        "L",
+        "W",
+        "L",
+        "W"
+      ],
+      "homeFormHome": [
+        "W",
+        "W",
+        "W",
+        "W",
+        "L"
+      ],
+      "awayFormAway": [
+        "W",
+        "L",
+        "W",
+        "W",
+        "W"
+      ],
+      "formAdvantage": true,
+      "odds": {
+        "home": 1.15,
+        "draw": null,
+        "away": 4.3,
+        "bookmaker": "Pinnacle"
+      },
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "1",
+        "prob": 72.6,
+        "ev": -0.165,
+        "edge": -14.4,
+        "kelly": 0.0,
+        "confidence": 28.0,
+        "dataQuality": 0.6
+      },
+      "tennis": null,
+      "confidence": 28.0,
+      "value_bet": false
+    },
+    {
+      "id": 7888998847585137897,
+      "homeTeam": "Fino Kaposvar SE",
+      "awayTeam": "MAV Elore SC",
+      "time": "04.05.2026 16:00",
+      "date": "2026-05-04",
+      "league": null,
+      "country": "",
+      "sport": "volleyball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/siatkowka/fino-kaposvar-se-IF9ioWqP/mav-elore-sc-xdHW77yF/?mid=AoNjOlF7",
+      "qualifies": false,
+      "h2h": {
+        "home": 2,
+        "draw": 0,
+        "away": 3,
+        "total": 5,
+        "winRate": 40
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null,
+      "confidence": 0,
+      "value_bet": false
+    }
+  ]
+}
