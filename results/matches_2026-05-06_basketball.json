@@ -1,0 +1,4950 @@
+{
+  "date": "2026-05-06",
+  "sport": "basketball",
+  "generatedAt": "2026-05-06T02:30:23.435622",
+  "stats": {
+    "total": 93,
+    "qualifying": 50,
+    "formAdvantage": 22
+  },
+  "matches": [
+    {
+      "id": -7143897659454641701,
+      "homeTeam": "Żalgiris Kowno",
+      "awayTeam": "Fenerbahce",
+      "time": "06.05.2026 17:00",
+      "date": "2026-05-06",
+      "league": null,
+      "country": "",
+      "sport": "basketball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/koszykowka/fenerbahce-rDhoZR1l/zalgiris-kowno-6JbDYvUs/?mid=UwAgpx96",
+      "qualifies": false,
+      "h2h": {
+        "home": 2,
+        "draw": 0,
+        "away": 3,
+        "total": 5,
+        "winRate": 40
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null,
+      "confidence": 0,
+      "value_bet": false
+    },
+    {
+      "id": 8632573175770303094,
+      "homeTeam": "Panathinaikos",
+      "awayTeam": "Valencia",
+      "time": "06.05.2026 18:15",
+      "date": "2026-05-06",
+      "league": null,
+      "country": "",
+      "sport": "basketball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/koszykowka/panathinaikos-bqRyXX9C/valencia-6w8lqYGE/?mid=b1tQPPsm",
+      "qualifies": true,
+      "h2h": {
+        "home": 3,
+        "draw": 0,
+        "away": 2,
+        "total": 5,
+        "winRate": 60
+      },
+      "homeForm": [
+        "W",
+        "W",
+        "W",
+        "W",
+        "W"
+      ],
+      "awayForm": [
+        "L",
+        "D",
+        "L",
+        "L",
+        "W"
+      ],
+      "homeFormHome": [
+        "W",
+        "W",
+        "W",
+        "L",
+        "W"
+      ],
+      "awayFormAway": [
+        "L",
+        "W",
+        "W",
+        "W",
+        "W"
+      ],
+      "formAdvantage": true,
+      "odds": {
+        "home": 1.45,
+        "draw": null,
+        "away": 3.1,
+        "bookmaker": "Pinnacle"
+      },
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "1",
+        "prob": 63.8,
+        "ev": -0.075,
+        "edge": -5.1,
+        "kelly": 0.0,
+        "confidence": 37.0,
+        "dataQuality": 0.6
+      },
+      "tennis": null,
+      "confidence": 37.0,
+      "value_bet": false
+    },
+    {
+      "id": -6300143790850827725,
+      "homeTeam": "Anwil Włocławek",
+      "awayTeam": "Trefl Sopot",
+      "time": "06.05.2026 17:00",
+      "date": "2026-05-06",
+      "league": null,
+      "country": "",
+      "sport": "basketball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/koszykowka/anwil-wloclawek-2k0rXWkg/trefl-sopot-rHiLc4WE/?mid=AH0WLSnJ",
+      "qualifies": false,
+      "h2h": {
+        "home": 2,
+        "draw": 0,
+        "away": 3,
+        "total": 5,
+        "winRate": 40
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null,
+      "confidence": 0,
+      "value_bet": false
+    },
+    {
+      "id": -2688715623270488078,
+      "homeTeam": "Czarni Słupsk",
+      "awayTeam": "GTK Gliwice",
+      "time": "06.05.2026 17:00",
+      "date": "2026-05-06",
+      "league": null,
+      "country": "",
+      "sport": "basketball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/koszykowka/energa-czarni-ziCPVUZB/gtk-gliwice-vmtBN9Oh/?mid=d8ZlvA2m",
+      "qualifies": true,
+      "h2h": {
+        "home": 3,
+        "draw": 0,
+        "away": 2,
+        "total": 5,
+        "winRate": 60
+      },
+      "homeForm": [
+        "W",
+        "L",
+        "L",
+        "L",
+        "L"
+      ],
+      "awayForm": [
+        "W",
+        "L",
+        "L",
+        "L",
+        "L"
+      ],
+      "homeFormHome": [
+        "L",
+        "L",
+        "L",
+        "W",
+        "W"
+      ],
+      "awayFormAway": [
+        "L",
+        "L",
+        "L",
+        "W",
+        "W"
+      ],
+      "formAdvantage": false,
+      "odds": {
+        "home": 1.3,
+        "draw": null,
+        "away": 3.45,
+        "bookmaker": "Pinnacle"
+      },
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "2",
+        "prob": 22.7,
+        "ev": -0.217,
+        "edge": -6.3,
+        "kelly": 0.0,
+        "confidence": 19.0,
+        "dataQuality": 0.6
+      },
+      "tennis": null,
+      "confidence": 19.0,
+      "value_bet": false
+    },
+    {
+      "id": -5451116994166893687,
+      "homeTeam": "Legia Warszawa",
+      "awayTeam": "King Szczecin",
+      "time": "06.05.2026 17:00",
+      "date": "2026-05-06",
+      "league": null,
+      "country": "",
+      "sport": "basketball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/koszykowka/king-szczecin-0z2ezyQN/legia-warszawa-zkhjVsDQ/?mid=dli6Y5WO",
+      "qualifies": true,
+      "h2h": {
+        "home": 3,
+        "draw": 0,
+        "away": 2,
+        "total": 5,
+        "winRate": 60
+      },
+      "homeForm": [
+        "W",
+        "W",
+        "W",
+        "W",
+        "W"
+      ],
+      "awayForm": [
+        "W",
+        "W",
+        "W",
+        "W",
+        "L"
+      ],
+      "homeFormHome": [
+        "W",
+        "W",
+        "W",
+        "D",
+        "W"
+      ],
+      "awayFormAway": [
+        "L",
+        "L",
+        "W",
+        "W",
+        "L"
+      ],
+      "formAdvantage": true,
+      "odds": {
+        "home": 1.38,
+        "draw": null,
+        "away": 3.0,
+        "bookmaker": "Pinnacle"
+      },
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "1",
+        "prob": 58.2,
+        "ev": -0.197,
+        "edge": -14.2,
+        "kelly": 0.0,
+        "confidence": 22.0,
+        "dataQuality": 0.6
+      },
+      "tennis": null,
+      "confidence": 22.0,
+      "value_bet": false
+    },
+    {
+      "id": -5810795820033083258,
+      "homeTeam": "Miasto Szkła Krosno",
+      "awayTeam": "Śląsk Wrocław",
+      "time": "06.05.2026 17:00",
+      "date": "2026-05-06",
+      "league": null,
+      "country": "",
+      "sport": "basketball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/koszykowka/krosno-WOTk3dLH/slask-wroclaw-AJa8Xj5a/?mid=r59FPAmf",
+      "qualifies": false,
+      "h2h": {
+        "home": 0,
+        "draw": 0,
+        "away": 1,
+        "total": 1,
+        "winRate": 0
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null,
+      "confidence": 0,
+      "value_bet": false
+    },
+    {
+      "id": -5211602717359139831,
+      "homeTeam": "MKS Dąbrowa Górnicza",
+      "awayTeam": "Start Lublin",
+      "time": "06.05.2026 17:00",
+      "date": "2026-05-06",
+      "league": null,
+      "country": "",
+      "sport": "basketball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/koszykowka/mks-dabrowa-gornicza-Qy6k31iJ/start-lublin-G8PsLckJ/?mid=lOmbzS1C",
+      "qualifies": false,
+      "h2h": {
+        "home": 1,
+        "draw": 0,
+        "away": 4,
+        "total": 5,
+        "winRate": 20
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null,
+      "confidence": 0,
+      "value_bet": false
+    },
+    {
+      "id": 8522678416119267378,
+      "homeTeam": "Stal Ostrów Wlkp.",
+      "awayTeam": "Górnik Wałbrzych",
+      "time": "06.05.2026 17:00",
+      "date": "2026-05-06",
+      "league": null,
+      "country": "",
+      "sport": "basketball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/koszykowka/gornik-walbrzych-YyVSUlkI/ostrow-wielkopolski-4CuFLhhc/?mid=xOhIqWvQ",
+      "qualifies": true,
+      "h2h": {
+        "home": 4,
+        "draw": 0,
+        "away": 1,
+        "total": 5,
+        "winRate": 80
+      },
+      "homeForm": [
+        "L",
+        "L",
+        "W",
+        "L",
+        "L"
+      ],
+      "awayForm": [
+        "L",
+        "W",
+        "L",
+        "L",
+        "W"
+      ],
+      "homeFormHome": [
+        "L",
+        "L",
+        "W",
+        "W",
+        "W"
+      ],
+      "awayFormAway": [
+        "W",
+        "W",
+        "W",
+        "L",
+        "L"
+      ],
+      "formAdvantage": false,
+      "odds": {
+        "home": 1.48,
+        "draw": null,
+        "away": 2.75,
+        "bookmaker": "Pinnacle"
+      },
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "1",
+        "prob": 57.4,
+        "ev": -0.151,
+        "edge": -10.2,
+        "kelly": 0.0,
+        "confidence": 27.0,
+        "dataQuality": 0.6
+      },
+      "tennis": null,
+      "confidence": 27.0,
+      "value_bet": false
+    },
+    {
+      "id": -1798524438999760189,
+      "homeTeam": "Twarde Pierniki Toruń",
+      "awayTeam": "Arka Gdynia",
+      "time": "06.05.2026 17:00",
+      "date": "2026-05-06",
+      "league": null,
+      "country": "",
+      "sport": "basketball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/koszykowka/asseco-gdynia-OUk4IU6S/polski-cukier-torun-v3KjOOa7/?mid=ULXdxlXa",
+      "qualifies": true,
+      "h2h": {
+        "home": 3,
+        "draw": 0,
+        "away": 2,
+        "total": 5,
+        "winRate": 60
+      },
+      "homeForm": [
+        "L",
+        "W",
+        "L",
+        "L",
+        "L"
+      ],
+      "awayForm": [
+        "W",
+        "L",
+        "W",
+        "L",
+        "W"
+      ],
+      "homeFormHome": [
+        "W",
+        "L",
+        "L",
+        "W",
+        "W"
+      ],
+      "awayFormAway": [
+        "W",
+        "L",
+        "L",
+        "W",
+        "W"
+      ],
+      "formAdvantage": false,
+      "odds": {
+        "home": 2.55,
+        "draw": null,
+        "away": 1.53,
+        "bookmaker": "Pinnacle"
+      },
+      "forebet": {
+        "prediction": "2",
+        "probability": null,
+        "exactScore": null,
+        "overUnder": null,
+        "btts": null,
+        "homeProb": null,
+        "drawProb": null,
+        "awayProb": null
+      },
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "1",
+        "prob": 39.5,
+        "ev": 0.007,
+        "edge": 0.3,
+        "kelly": 0.5,
+        "confidence": 44.0,
+        "dataQuality": 0.6
+      },
+      "tennis": null,
+      "confidence": 44.0,
+      "value_bet": true
+    },
+    {
+      "id": -8637045106639072780,
+      "homeTeam": "Zastal Zielona Góra",
+      "awayTeam": "Dziki Warszawa",
+      "time": "06.05.2026 17:00",
+      "date": "2026-05-06",
+      "league": null,
+      "country": "",
+      "sport": "basketball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/koszykowka/dziki-warszawa-nX7BqmD7/zielona-gora-r1BJiCyi/?mid=l2CNNlI6",
+      "qualifies": true,
+      "h2h": {
+        "home": 3,
+        "draw": 0,
+        "away": 2,
+        "total": 5,
+        "winRate": 60
+      },
+      "homeForm": [
+        "L",
+        "W",
+        "L",
+        "W",
+        "W"
+      ],
+      "awayForm": [
+        "W",
+        "W",
+        "W",
+        "W",
+        "W"
+      ],
+      "homeFormHome": [
+        "L",
+        "W",
+        "L",
+        "W",
+        "L"
+      ],
+      "awayFormAway": [
+        "L",
+        "W",
+        "W",
+        "W",
+        "L"
+      ],
+      "formAdvantage": false,
+      "odds": {
+        "home": 1.68,
+        "draw": null,
+        "away": 2.2,
+        "bookmaker": "Pinnacle"
+      },
+      "forebet": {
+        "prediction": "2",
+        "probability": null,
+        "exactScore": null,
+        "overUnder": null,
+        "btts": null,
+        "homeProb": null,
+        "drawProb": null,
+        "awayProb": null
+      },
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "1",
+        "prob": 46.3,
+        "ev": -0.222,
+        "edge": -13.2,
+        "kelly": 0.0,
+        "confidence": 19.0,
+        "dataQuality": 0.6
+      },
+      "tennis": null,
+      "confidence": 19.0,
+      "value_bet": false
+    },
+    {
+      "id": 8311376850760784330,
+      "homeTeam": "Oklahoma City Thunder",
+      "awayTeam": "Los Angeles Lakers",
+      "time": "06.05.2026 00:30",
+      "date": "2026-05-06",
+      "league": null,
+      "country": "",
+      "sport": "basketball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/koszykowka/los-angeles-lakers-ngegZ8bg/oklahoma-city-thunder-0fHFHEWD/?mid=nungPz1N",
+      "qualifies": true,
+      "h2h": {
+        "home": 5,
+        "draw": 0,
+        "away": 0,
+        "total": 5,
+        "winRate": 100
+      },
+      "homeForm": [
+        "W",
+        "W",
+        "W",
+        "W",
+        "L"
+      ],
+      "awayForm": [
+        "W",
+        "L",
+        "L",
+        "W",
+        "W"
+      ],
+      "homeFormHome": [
+        "W",
+        "W",
+        "L",
+        "W",
+        "W"
+      ],
+      "awayFormAway": [
+        "W",
+        "W",
+        "L",
+        "W",
+        "L"
+      ],
+      "formAdvantage": true,
+      "odds": {
+        "home": 1.12,
+        "draw": null,
+        "away": 6.0,
+        "bookmaker": "Pinnacle"
+      },
+      "forebet": {
+        "prediction": "1",
+        "probability": 60.0,
+        "exactScore": "125-112",
+        "overUnder": null,
+        "btts": null,
+        "homeProb": null,
+        "drawProb": null,
+        "awayProb": null
+      },
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "1",
+        "prob": 76.2,
+        "ev": -0.146,
+        "edge": -13.1,
+        "kelly": 0.0,
+        "confidence": 34.0,
+        "dataQuality": 0.7
+      },
+      "tennis": null,
+      "confidence": 34.0,
+      "value_bet": false
+    },
+    {
+      "id": -8706747192783169667,
+      "homeTeam": "New York Knicks",
+      "awayTeam": "Philadelphia 76ers",
+      "time": "06.05.2026 23:00",
+      "date": "2026-05-06",
+      "league": null,
+      "country": "",
+      "sport": "basketball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/koszykowka/new-york-knicks-WCNO4nbt/philadelphia-76ers-vwRW2QSh/?mid=OxuYoJH6",
+      "qualifies": true,
+      "h2h": {
+        "home": 3,
+        "draw": 0,
+        "away": 2,
+        "total": 5,
+        "winRate": 60
+      },
+      "homeForm": [
+        "W",
+        "W",
+        "W",
+        "W",
+        "L"
+      ],
+      "awayForm": [
+        "L",
+        "W",
+        "W",
+        "W",
+        "L"
+      ],
+      "homeFormHome": [
+        "W",
+        "W",
+        "L",
+        "W",
+        "L"
+      ],
+      "awayFormAway": [
+        "L",
+        "W",
+        "L",
+        "W",
+        "W"
+      ],
+      "formAdvantage": false,
+      "odds": {
+        "home": 1.38,
+        "draw": null,
+        "away": 3.25,
+        "bookmaker": "Pinnacle"
+      },
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "1",
+        "prob": 60.9,
+        "ev": -0.159,
+        "edge": -11.5,
+        "kelly": 0.0,
+        "confidence": 27.0,
+        "dataQuality": 0.6
+      },
+      "tennis": null,
+      "confidence": 27.0,
+      "value_bet": false
+    },
+    {
+      "id": 6754299037609262427,
+      "homeTeam": "Obras",
+      "awayTeam": "Instituto de Cordoba",
+      "time": "06.05.2026 00:00",
+      "date": "2026-05-06",
+      "league": null,
+      "country": "",
+      "sport": "basketball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/koszykowka/instituto-de-cordoba-rJPlbMMq/obras-nLruKIQK/?mid=82ftvC7F",
+      "qualifies": false,
+      "h2h": {
+        "home": 2,
+        "draw": 0,
+        "away": 3,
+        "total": 5,
+        "winRate": 40
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null,
+      "confidence": 0,
+      "value_bet": false
+    },
+    {
+      "id": 5828927679272825383,
+      "homeTeam": "Grodno",
+      "awayTeam": "Rubon",
+      "time": "06.05.2026 14:00",
+      "date": "2026-05-06",
+      "league": null,
+      "country": "",
+      "sport": "basketball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/koszykowka/grodno-MXrXQwaf/rubon-AkHGSaUs/?mid=dIPOsPXH",
+      "qualifies": true,
+      "h2h": {
+        "home": 4,
+        "draw": 0,
+        "away": 1,
+        "total": 5,
+        "winRate": 80
+      },
+      "homeForm": [
+        "W",
+        "W",
+        "W",
+        "L",
+        "W"
+      ],
+      "awayForm": [
+        "W",
+        "W",
+        "L",
+        "W",
+        "D"
+      ],
+      "homeFormHome": [
+        "W",
+        "W",
+        "W",
+        "W",
+        "W"
+      ],
+      "awayFormAway": [
+        "W",
+        "L",
+        "W",
+        "L",
+        "L"
+      ],
+      "formAdvantage": true,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "1",
+        "prob": 59.0,
+        "ev": -999.0,
+        "edge": 0.0,
+        "kelly": 0.0,
+        "confidence": 39.0,
+        "dataQuality": 0.5
+      },
+      "tennis": null,
+      "confidence": 39.0,
+      "value_bet": false
+    },
+    {
+      "id": -2999740904624951465,
+      "homeTeam": "Sao Jose K",
+      "awayTeam": "Sodie Mesquita K",
+      "time": "06.05.2026 22:30",
+      "date": "2026-05-06",
+      "league": null,
+      "country": "",
+      "sport": "basketball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/koszykowka/sao-jose-4tEBCtVb/sodie-mesquita-8GsSriO5/?mid=O03lVo2b",
+      "qualifies": true,
+      "h2h": {
+        "home": 3,
+        "draw": 0,
+        "away": 2,
+        "total": 5,
+        "winRate": 60
+      },
+      "homeForm": [
+        "W",
+        "W",
+        "L",
+        "W",
+        "W"
+      ],
+      "awayForm": [
+        "L",
+        "W",
+        "L",
+        "L",
+        "L"
+      ],
+      "homeFormHome": [
+        "W",
+        "W",
+        "W",
+        "L",
+        "L"
+      ],
+      "awayFormAway": [
+        "L",
+        "L",
+        "W",
+        "W",
+        "L"
+      ],
+      "formAdvantage": true,
+      "odds": {
+        "home": 1.68,
+        "draw": null,
+        "away": 2.2,
+        "bookmaker": "Pinnacle"
+      },
+      "forebet": {
+        "prediction": "1",
+        "probability": 54.0,
+        "exactScore": "85-83",
+        "overUnder": null,
+        "btts": null,
+        "homeProb": null,
+        "drawProb": null,
+        "awayProb": null
+      },
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "1",
+        "prob": 61.2,
+        "ev": 0.028,
+        "edge": 1.7,
+        "kelly": 4.2,
+        "confidence": 58.0,
+        "dataQuality": 0.7
+      },
+      "tennis": null,
+      "confidence": 58.0,
+      "value_bet": true
+    },
+    {
+      "id": -466570653321336032,
+      "homeTeam": "Maringa K",
+      "awayTeam": "Campinas K",
+      "time": "06.05.2026 23:00",
+      "date": "2026-05-06",
+      "league": null,
+      "country": "",
+      "sport": "basketball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/koszykowka/campinas-p43ZC1nH/maringa-4MvZgtP0/?mid=jm5tX7Xo",
+      "qualifies": false,
+      "h2h": {
+        "home": 0,
+        "draw": 0,
+        "away": 3,
+        "total": 3,
+        "winRate": 0
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null,
+      "confidence": 0,
+      "value_bet": false
+    },
+    {
+      "id": -5106802891105016548,
+      "homeTeam": "Beijing",
+      "awayTeam": "Guangdong",
+      "time": "06.05.2026 11:35",
+      "date": "2026-05-06",
+      "league": null,
+      "country": "",
+      "sport": "basketball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/koszykowka/beijing-ducks-SAw2AC7g/guangdong-AJ0E9WMa/?mid=YkTpATRp",
+      "qualifies": true,
+      "h2h": {
+        "home": 3,
+        "draw": 0,
+        "away": 2,
+        "total": 5,
+        "winRate": 60
+      },
+      "homeForm": [
+        "W",
+        "W",
+        "W",
+        "W",
+        "L"
+      ],
+      "awayForm": [
+        "W",
+        "W",
+        "L",
+        "L",
+        "L"
+      ],
+      "homeFormHome": [
+        "W",
+        "W",
+        "L",
+        "W",
+        "W"
+      ],
+      "awayFormAway": [
+        "L",
+        "W",
+        "W",
+        "L",
+        "L"
+      ],
+      "formAdvantage": true,
+      "odds": {
+        "home": 1.3,
+        "draw": null,
+        "away": 3.6,
+        "bookmaker": "Pinnacle"
+      },
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "1",
+        "prob": 63.5,
+        "ev": -0.174,
+        "edge": -13.4,
+        "kelly": 0.0,
+        "confidence": 26.0,
+        "dataQuality": 0.6
+      },
+      "tennis": null,
+      "confidence": 26.0,
+      "value_bet": false
+    },
+    {
+      "id": -4218643023079374376,
+      "homeTeam": "Shanghai",
+      "awayTeam": "Shandong",
+      "time": "06.05.2026 11:35",
+      "date": "2026-05-06",
+      "league": null,
+      "country": "",
+      "sport": "basketball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/koszykowka/shandong-Iq4M7AiC/shanghai-bRoFHR5U/?mid=MTzaJX4b",
+      "qualifies": true,
+      "h2h": {
+        "home": 4,
+        "draw": 0,
+        "away": 1,
+        "total": 5,
+        "winRate": 80
+      },
+      "homeForm": [
+        "W",
+        "W",
+        "W",
+        "W",
+        "W"
+      ],
+      "awayForm": [
+        "W",
+        "W",
+        "L",
+        "L",
+        "W"
+      ],
+      "homeFormHome": [
+        "W",
+        "W",
+        "W",
+        "W",
+        "W"
+      ],
+      "awayFormAway": [
+        "L",
+        "W",
+        "W",
+        "W",
+        "W"
+      ],
+      "formAdvantage": true,
+      "odds": {
+        "home": 1.11,
+        "draw": null,
+        "away": 6.75,
+        "bookmaker": "Pinnacle"
+      },
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "2",
+        "prob": 12.4,
+        "ev": -0.166,
+        "edge": -2.5,
+        "kelly": 0.0,
+        "confidence": 20.0,
+        "dataQuality": 0.6
+      },
+      "tennis": null,
+      "confidence": 20.0,
+      "value_bet": false
+    },
+    {
+      "id": 4403215764440698280,
+      "homeTeam": "Kastela",
+      "awayTeam": "Skrljevo",
+      "time": "06.05.2026 16:00",
+      "date": "2026-05-06",
+      "league": null,
+      "country": "",
+      "sport": "basketball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/koszykowka/kastela-zRhc51y3/skrljevo-Eas0UPNt/?mid=GdscXmuf",
+      "qualifies": false,
+      "h2h": {
+        "home": 1,
+        "draw": 0,
+        "away": 4,
+        "total": 5,
+        "winRate": 20
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null,
+      "confidence": 0,
+      "value_bet": false
+    },
+    {
+      "id": 3141178514974602701,
+      "homeTeam": "Studio Zagreb K",
+      "awayTeam": "Sibenik K",
+      "time": "06.05.2026 15:00",
+      "date": "2026-05-06",
+      "league": null,
+      "country": "",
+      "sport": "basketball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/koszykowka/sibenik-bujNFH8T/studio-zagreb-vmhLQWH9/?mid=I1sZhZVs",
+      "qualifies": false,
+      "h2h": {
+        "home": 1,
+        "draw": 0,
+        "away": 4,
+        "total": 5,
+        "winRate": 20
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null,
+      "confidence": 0,
+      "value_bet": false
+    },
+    {
+      "id": -5399059082289167496,
+      "homeTeam": "Usti n. Labem",
+      "awayTeam": "Opawa",
+      "time": "06.05.2026 17:00",
+      "date": "2026-05-06",
+      "league": null,
+      "country": "",
+      "sport": "basketball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/koszykowka/opava-CEfXf6Mb/usti-nad-labem-2cjn4a8A/?mid=f74BDcJG",
+      "qualifies": false,
+      "h2h": {
+        "home": 2,
+        "draw": 0,
+        "away": 3,
+        "total": 5,
+        "winRate": 40
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null,
+      "confidence": 0,
+      "value_bet": false
+    },
+    {
+      "id": -523384758813041362,
+      "homeTeam": "Marineros",
+      "awayTeam": "Leones",
+      "time": "06.05.2026 00:00",
+      "date": "2026-05-06",
+      "league": null,
+      "country": "",
+      "sport": "basketball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/koszykowka/leones-s-d-S4ELQ9Xa/marineros-2onu5hMs/?mid=8QhlzicJ",
+      "qualifies": true,
+      "h2h": {
+        "home": 4,
+        "draw": 0,
+        "away": 1,
+        "total": 5,
+        "winRate": 80
+      },
+      "homeForm": [
+        "L",
+        "W",
+        "D",
+        "L",
+        "L"
+      ],
+      "awayForm": [
+        "L",
+        "W",
+        "L",
+        "L",
+        "D"
+      ],
+      "homeFormHome": [
+        "W",
+        "L",
+        "W",
+        "W",
+        "L"
+      ],
+      "awayFormAway": [
+        "W",
+        "W",
+        "L",
+        "W",
+        "L"
+      ],
+      "formAdvantage": false,
+      "odds": {
+        "home": 1.28,
+        "draw": null,
+        "away": 3.6,
+        "bookmaker": "Pinnacle"
+      },
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "1",
+        "prob": 63.2,
+        "ev": -0.191,
+        "edge": -14.9,
+        "kelly": 0.0,
+        "confidence": 23.0,
+        "dataQuality": 0.6
+      },
+      "tennis": null,
+      "confidence": 23.0,
+      "value_bet": false
+    },
+    {
+      "id": -4086661498183535333,
+      "homeTeam": "Soles",
+      "awayTeam": "Heroes de Moca",
+      "time": "06.05.2026 00:30",
+      "date": "2026-05-06",
+      "league": null,
+      "country": "",
+      "sport": "basketball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/koszykowka/heroes-de-moca-xfeHvvde/soles-s-d-nVAu0bbt/?mid=0KuzbfkQ",
+      "qualifies": false,
+      "h2h": {
+        "home": 0,
+        "draw": 0,
+        "away": 0,
+        "total": 0,
+        "winRate": 0
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null,
+      "confidence": 0,
+      "value_bet": false
+    },
+    {
+      "id": -3602243283008758571,
+      "homeTeam": "Dubai",
+      "awayTeam": "Spartak Subotica",
+      "time": "06.05.2026 17:00",
+      "date": "2026-05-06",
+      "league": null,
+      "country": "",
+      "sport": "basketball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/koszykowka/dubai-b7EUA43e/spartak-subotica-f3MFiPKg/?mid=U3uJUqo1",
+      "qualifies": true,
+      "h2h": {
+        "home": 2,
+        "draw": 0,
+        "away": 0,
+        "total": 2,
+        "winRate": 100
+      },
+      "homeForm": [
+        "W",
+        "L",
+        "W",
+        "L",
+        "W"
+      ],
+      "awayForm": [
+        "W",
+        "W",
+        "L",
+        "W",
+        "L"
+      ],
+      "homeFormHome": [
+        "L",
+        "W",
+        "L",
+        "W",
+        "W"
+      ],
+      "awayFormAway": [
+        "W",
+        "L",
+        "L",
+        "L",
+        "L"
+      ],
+      "formAdvantage": false,
+      "odds": {
+        "home": 1.13,
+        "draw": null,
+        "away": 5.75,
+        "bookmaker": "Pinnacle"
+      },
+      "forebet": {
+        "prediction": "1",
+        "probability": 71.0,
+        "exactScore": "79-70",
+        "overUnder": null,
+        "btts": null,
+        "homeProb": null,
+        "drawProb": null,
+        "awayProb": null
+      },
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "1",
+        "prob": 74.4,
+        "ev": -0.16,
+        "edge": -14.1,
+        "kelly": 0.0,
+        "confidence": 32.0,
+        "dataQuality": 0.7
+      },
+      "tennis": null,
+      "confidence": 32.0,
+      "value_bet": false
+    },
+    {
+      "id": -3723761128543273275,
+      "homeTeam": "Partizan",
+      "awayTeam": "KK Bosna",
+      "time": "06.05.2026 19:00",
+      "date": "2026-05-06",
+      "league": null,
+      "country": "",
+      "sport": "basketball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/koszykowka/kk-bosna-fDSNcFi7/partizan-GAiz1YL6/?mid=2ZWFgjzq",
+      "qualifies": true,
+      "h2h": {
+        "home": 5,
+        "draw": 0,
+        "away": 0,
+        "total": 5,
+        "winRate": 100
+      },
+      "homeForm": [
+        "W",
+        "W",
+        "W",
+        "W",
+        "W"
+      ],
+      "awayForm": [
+        "W",
+        "L",
+        "D",
+        "W",
+        "L"
+      ],
+      "homeFormHome": [
+        "W",
+        "W",
+        "W",
+        "L",
+        "W"
+      ],
+      "awayFormAway": [
+        "L",
+        "W",
+        "W",
+        "W",
+        "L"
+      ],
+      "formAdvantage": true,
+      "odds": {
+        "home": 1.04,
+        "draw": null,
+        "away": 10.0,
+        "bookmaker": "Pinnacle"
+      },
+      "forebet": {
+        "prediction": "1",
+        "probability": 71.0,
+        "exactScore": "79-70",
+        "overUnder": null,
+        "btts": null,
+        "homeProb": null,
+        "drawProb": null,
+        "awayProb": null
+      },
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "1",
+        "prob": 81.7,
+        "ev": -0.15,
+        "edge": -14.5,
+        "kelly": 0.0,
+        "confidence": 34.0,
+        "dataQuality": 0.7
+      },
+      "tennis": null,
+      "confidence": 34.0,
+      "value_bet": false
+    },
+    {
+      "id": 5151329970738425118,
+      "homeTeam": "Den Helder",
+      "awayTeam": "Den Bosch",
+      "time": "06.05.2026 17:30",
+      "date": "2026-05-06",
+      "league": null,
+      "country": "",
+      "sport": "basketball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/koszykowka/den-bosch-4W1bkk62/den-helder-C65m3JCD/?mid=4bYcme4n",
+      "qualifies": false,
+      "h2h": {
+        "home": 0,
+        "draw": 0,
+        "away": 5,
+        "total": 5,
+        "winRate": 0
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null,
+      "confidence": 0,
+      "value_bet": false
+    },
+    {
+      "id": -6486588277351433066,
+      "homeTeam": "Antwerp Giants",
+      "awayTeam": "BAL Weert",
+      "time": "06.05.2026 18:00",
+      "date": "2026-05-06",
+      "league": null,
+      "country": "",
+      "sport": "basketball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/koszykowka/antwerp-giants-E9uuQfaG/bal-weert-nPN6XyJd/?mid=CUKEqD3B",
+      "qualifies": true,
+      "h2h": {
+        "home": 5,
+        "draw": 0,
+        "away": 0,
+        "total": 5,
+        "winRate": 100
+      },
+      "homeForm": [
+        "W",
+        "W",
+        "W",
+        "W",
+        "W"
+      ],
+      "awayForm": [
+        "L",
+        "L",
+        "W",
+        "L",
+        "D"
+      ],
+      "homeFormHome": [
+        "W",
+        "W",
+        "W",
+        "L",
+        "W"
+      ],
+      "awayFormAway": [
+        "L",
+        "W",
+        "L",
+        "L",
+        "W"
+      ],
+      "formAdvantage": true,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "1",
+        "prob": 73.9,
+        "ev": -999.0,
+        "edge": 0.0,
+        "kelly": 0.0,
+        "confidence": 45.0,
+        "dataQuality": 0.5
+      },
+      "tennis": null,
+      "confidence": 45.0,
+      "value_bet": false
+    },
+    {
+      "id": -1339052500033094226,
+      "homeTeam": "LWD Basket",
+      "awayTeam": "Leiden",
+      "time": "06.05.2026 18:00",
+      "date": "2026-05-06",
+      "league": null,
+      "country": "",
+      "sport": "basketball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/koszykowka/leiden-Ch1QroKQ/lwd-basket-4O10rR4K/?mid=QDM6oZYb",
+      "qualifies": false,
+      "h2h": {
+        "home": 2,
+        "draw": 0,
+        "away": 3,
+        "total": 5,
+        "winRate": 40
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null,
+      "confidence": 0,
+      "value_bet": false
+    },
+    {
+      "id": 8525137080514468265,
+      "homeTeam": "Rotterdam",
+      "awayTeam": "Groningen",
+      "time": "06.05.2026 18:00",
+      "date": "2026-05-06",
+      "league": null,
+      "country": "",
+      "sport": "basketball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/koszykowka/donar-groningen-QX2dq7kE/feyenoord-dQxcwPsl/?mid=EZhlTiJU",
+      "qualifies": true,
+      "h2h": {
+        "home": 3,
+        "draw": 0,
+        "away": 2,
+        "total": 5,
+        "winRate": 60
+      },
+      "homeForm": [
+        "L",
+        "L",
+        "L",
+        "L",
+        "W"
+      ],
+      "awayForm": [
+        "W",
+        "L",
+        "W",
+        "L",
+        "W"
+      ],
+      "homeFormHome": [
+        "L",
+        "L",
+        "W",
+        "L",
+        "L"
+      ],
+      "awayFormAway": [
+        "L",
+        "W",
+        "L",
+        "L",
+        "W"
+      ],
+      "formAdvantage": false,
+      "odds": {
+        "home": 3.4,
+        "draw": null,
+        "away": 1.28,
+        "bookmaker": "Pinnacle"
+      },
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "1",
+        "prob": 34.9,
+        "ev": 0.186,
+        "edge": 5.5,
+        "kelly": 7.7,
+        "confidence": 49.0,
+        "dataQuality": 0.6
+      },
+      "tennis": null,
+      "confidence": 49.0,
+      "value_bet": true
+    },
+    {
+      "id": 6493103115249735853,
+      "homeTeam": "Belfius Mons",
+      "awayTeam": "Spirou Charleroi",
+      "time": "06.05.2026 18:30",
+      "date": "2026-05-06",
+      "league": null,
+      "country": "",
+      "sport": "basketball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/koszykowka/belfius-mons-fau3zUF9/spirou-charleroi-6qzYltcE/?mid=6VxmR4mp",
+      "qualifies": false,
+      "h2h": {
+        "home": 1,
+        "draw": 0,
+        "away": 4,
+        "total": 5,
+        "winRate": 20
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null,
+      "confidence": 0,
+      "value_bet": false
+    },
+    {
+      "id": 3549738839590442729,
+      "homeTeam": "Brussels Basketball",
+      "awayTeam": "Mechelen",
+      "time": "06.05.2026 18:30",
+      "date": "2026-05-06",
+      "league": null,
+      "country": "",
+      "sport": "basketball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/koszykowka/circus-brussels-6RL7j9dc/mechelen-StAGlmR9/?mid=jNGiPQX2",
+      "qualifies": false,
+      "h2h": {
+        "home": 2,
+        "draw": 0,
+        "away": 3,
+        "total": 5,
+        "winRate": 40
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null,
+      "confidence": 0,
+      "value_bet": false
+    },
+    {
+      "id": -1369270730213994945,
+      "homeTeam": "Kortrijk",
+      "awayTeam": "Oostende",
+      "time": "06.05.2026 18:30",
+      "date": "2026-05-06",
+      "league": null,
+      "country": "",
+      "sport": "basketball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/koszykowka/kortrijk-d4speO1r/oostende-4QEDHaUf/?mid=4pN7LrXR",
+      "qualifies": false,
+      "h2h": {
+        "home": 2,
+        "draw": 0,
+        "away": 3,
+        "total": 5,
+        "winRate": 40
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null,
+      "confidence": 0,
+      "value_bet": false
+    },
+    {
+      "id": 7055587978807233184,
+      "homeTeam": "Limburg",
+      "awayTeam": "Okapi Aalst",
+      "time": "06.05.2026 18:30",
+      "date": "2026-05-06",
+      "league": null,
+      "country": "",
+      "sport": "basketball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/koszykowka/limburg-0fEMgMc1/okapi-aalst-dI2iPEEM/?mid=vqyePrId",
+      "qualifies": true,
+      "h2h": {
+        "home": 4,
+        "draw": 0,
+        "away": 1,
+        "total": 5,
+        "winRate": 80
+      },
+      "homeForm": [
+        "W",
+        "W",
+        "W",
+        "W",
+        "W"
+      ],
+      "awayForm": [
+        "W",
+        "W",
+        "W",
+        "W",
+        "W"
+      ],
+      "homeFormHome": [
+        "W",
+        "W",
+        "W",
+        "W",
+        "W"
+      ],
+      "awayFormAway": [
+        "L",
+        "W",
+        "L",
+        "W",
+        "L"
+      ],
+      "formAdvantage": false,
+      "odds": {
+        "home": 1.65,
+        "draw": null,
+        "away": 2.15,
+        "bookmaker": "Pinnacle"
+      },
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "1",
+        "prob": 60.3,
+        "ev": -0.005,
+        "edge": -0.3,
+        "kelly": 0.0,
+        "confidence": 42.0,
+        "dataQuality": 0.6
+      },
+      "tennis": null,
+      "confidence": 42.0,
+      "value_bet": false
+    },
+    {
+      "id": 3234942539500972040,
+      "homeTeam": "Spotter Leuven",
+      "awayTeam": "Zwolle",
+      "time": "06.05.2026 18:30",
+      "date": "2026-05-06",
+      "league": null,
+      "country": "",
+      "sport": "basketball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/koszykowka/spotter-leuven-Cr8MJhxp/zwolle-W2Xaz3C0/?mid=rVYbN42F",
+      "qualifies": true,
+      "h2h": {
+        "home": 4,
+        "draw": 0,
+        "away": 1,
+        "total": 5,
+        "winRate": 80
+      },
+      "homeForm": [
+        "L",
+        "L",
+        "L",
+        "W",
+        "L"
+      ],
+      "awayForm": [
+        "W",
+        "W",
+        "L",
+        "W",
+        "W"
+      ],
+      "homeFormHome": [
+        "L",
+        "W",
+        "W",
+        "L",
+        "D"
+      ],
+      "awayFormAway": [
+        "L",
+        "W",
+        "W",
+        "W",
+        "W"
+      ],
+      "formAdvantage": false,
+      "odds": {
+        "home": 1.58,
+        "draw": null,
+        "away": 2.25,
+        "bookmaker": "Pinnacle"
+      },
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "1",
+        "prob": 52.6,
+        "ev": -0.169,
+        "edge": -10.7,
+        "kelly": 0.0,
+        "confidence": 25.0,
+        "dataQuality": 0.6
+      },
+      "tennis": null,
+      "confidence": 25.0,
+      "value_bet": false
+    },
+    {
+      "id": -1437491792755037689,
+      "homeTeam": "Macau Black Bears",
+      "awayTeam": "Phoenix Fuelmasters",
+      "time": "06.05.2026 09:15",
+      "date": "2026-05-06",
+      "league": null,
+      "country": "",
+      "sport": "basketball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/koszykowka/macau-black-knights-CSvLom7L/phoenix-fuelmasters-jm3F6d0I/?mid=fcJO0zJG",
+      "qualifies": false,
+      "h2h": {
+        "home": 0,
+        "draw": 0,
+        "away": 0,
+        "total": 0,
+        "winRate": 0
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null,
+      "confidence": 0,
+      "value_bet": false
+    },
+    {
+      "id": -8396603330484308855,
+      "homeTeam": "San Miguel Beermen",
+      "awayTeam": "Terrafirma Dyip",
+      "time": "06.05.2026 11:30",
+      "date": "2026-05-06",
+      "league": null,
+      "country": "",
+      "sport": "basketball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/koszykowka/san-miguel-beermen-Gx2SUJf8/terrafirma-dyip-GKFFbyCm/?mid=nXFG2dl4",
+      "qualifies": true,
+      "h2h": {
+        "home": 4,
+        "draw": 0,
+        "away": 1,
+        "total": 5,
+        "winRate": 80
+      },
+      "homeForm": [
+        "W",
+        "L",
+        "W",
+        "L",
+        "L"
+      ],
+      "awayForm": [
+        "W",
+        "L",
+        "L",
+        "L",
+        "L"
+      ],
+      "homeFormHome": [
+        "L",
+        "L",
+        "L",
+        "W",
+        "W"
+      ],
+      "awayFormAway": [
+        "L",
+        "W",
+        "L",
+        "W",
+        "L"
+      ],
+      "formAdvantage": false,
+      "odds": {
+        "home": 1.16,
+        "draw": null,
+        "away": 5.25,
+        "bookmaker": "Pinnacle"
+      },
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "2",
+        "prob": 15.5,
+        "ev": -0.185,
+        "edge": -3.5,
+        "kelly": 0.0,
+        "confidence": 20.0,
+        "dataQuality": 0.6
+      },
+      "tennis": null,
+      "confidence": 20.0,
+      "value_bet": false
+    },
+    {
+      "id": 6305345170181704862,
+      "homeTeam": "Binan Tatak Gel",
+      "awayTeam": "Batangas City",
+      "time": "06.05.2026 08:00",
+      "date": "2026-05-06",
+      "league": null,
+      "country": "",
+      "sport": "basketball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/koszykowka/batangas-city-8MjGg7eH/binan-tatak-gel-bVtgR65K/?mid=hMGGKeee",
+      "qualifies": false,
+      "h2h": {
+        "home": 2,
+        "draw": 0,
+        "away": 2,
+        "total": 4,
+        "winRate": 50
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null,
+      "confidence": 0,
+      "value_bet": false
+    },
+    {
+      "id": 7238424497887084415,
+      "homeTeam": "Meycauayan",
+      "awayTeam": "Negros Hacienderos",
+      "time": "06.05.2026 10:00",
+      "date": "2026-05-06",
+      "league": null,
+      "country": "",
+      "sport": "basketball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/koszykowka/meycauayan-I9Wl6QBd/negros-hacienderos-zwXutix0/?mid=0nKOIZP7",
+      "qualifies": false,
+      "h2h": {
+        "home": 0,
+        "draw": 0,
+        "away": 0,
+        "total": 0,
+        "winRate": 0
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null,
+      "confidence": 0,
+      "value_bet": false
+    },
+    {
+      "id": 1044449637586736847,
+      "homeTeam": "Rizal Golden Coolers",
+      "awayTeam": "Mindoro Tamaraws",
+      "time": "06.05.2026 12:00",
+      "date": "2026-05-06",
+      "league": null,
+      "country": "",
+      "sport": "basketball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/koszykowka/mindoro-tamaraws-UXe6YNCm/rizal-golden-coolers-8EbCCb4U/?mid=ShCAtwIE",
+      "qualifies": true,
+      "h2h": {
+        "home": 1,
+        "draw": 0,
+        "away": 0,
+        "total": 1,
+        "winRate": 100
+      },
+      "homeForm": [
+        "W",
+        "W",
+        "L",
+        "L",
+        "L"
+      ],
+      "awayForm": [
+        "W",
+        "L",
+        "L",
+        "W",
+        "D"
+      ],
+      "homeFormHome": [
+        "L",
+        "L",
+        "W",
+        "L",
+        "W"
+      ],
+      "awayFormAway": [
+        "L",
+        "L",
+        "W",
+        "L",
+        "L"
+      ],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": {
+        "prediction": "1",
+        "probability": 54.0,
+        "exactScore": "89-88",
+        "overUnder": null,
+        "btts": null,
+        "homeProb": null,
+        "drawProb": null,
+        "awayProb": null
+      },
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "1",
+        "prob": 58.4,
+        "ev": -999.0,
+        "edge": 0.0,
+        "kelly": 0.0,
+        "confidence": 41.0,
+        "dataQuality": 0.6
+      },
+      "tennis": null,
+      "confidence": 41.0,
+      "value_bet": false
+    },
+    {
+      "id": 1087469284045779951,
+      "homeTeam": "Lyon K",
+      "awayTeam": "La Roche K",
+      "time": "06.05.2026 18:00",
+      "date": "2026-05-06",
+      "league": null,
+      "country": "",
+      "sport": "basketball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/koszykowka/la-roche-EBBxr5Xc/lyon-fHqEMt1U/?mid=zFLpRBNp",
+      "qualifies": true,
+      "h2h": {
+        "home": 3,
+        "draw": 0,
+        "away": 2,
+        "total": 5,
+        "winRate": 60
+      },
+      "homeForm": [
+        "W",
+        "W",
+        "W",
+        "W",
+        "L"
+      ],
+      "awayForm": [
+        "L",
+        "L",
+        "L",
+        "L",
+        "L"
+      ],
+      "homeFormHome": [
+        "W",
+        "W",
+        "L",
+        "W",
+        "L"
+      ],
+      "awayFormAway": [
+        "W",
+        "W",
+        "W",
+        "L",
+        "W"
+      ],
+      "formAdvantage": true,
+      "odds": {
+        "home": 1.06,
+        "draw": null,
+        "away": 8.0,
+        "bookmaker": "Pinnacle"
+      },
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "2",
+        "prob": 14.4,
+        "ev": 0.148,
+        "edge": 1.9,
+        "kelly": 2.1,
+        "confidence": 36.0,
+        "dataQuality": 0.6
+      },
+      "tennis": null,
+      "confidence": 36.0,
+      "value_bet": true
+    },
+    {
+      "id": 3636869636628786906,
+      "homeTeam": "Toulouse K",
+      "awayTeam": "Angers K",
+      "time": "06.05.2026 18:00",
+      "date": "2026-05-06",
+      "league": null,
+      "country": "",
+      "sport": "basketball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/koszykowka/angers-COQ23h4A/toulouse-pxLQOw0O/?mid=vqzFWXaN",
+      "qualifies": true,
+      "h2h": {
+        "home": 3,
+        "draw": 0,
+        "away": 2,
+        "total": 5,
+        "winRate": 60
+      },
+      "homeForm": [
+        "W",
+        "L",
+        "W",
+        "W",
+        "L"
+      ],
+      "awayForm": [
+        "L",
+        "W",
+        "L",
+        "L",
+        "L"
+      ],
+      "homeFormHome": [
+        "W",
+        "L",
+        "L",
+        "W",
+        "L"
+      ],
+      "awayFormAway": [
+        "W",
+        "W",
+        "W",
+        "L",
+        "W"
+      ],
+      "formAdvantage": true,
+      "odds": {
+        "home": 1.85,
+        "draw": null,
+        "away": 1.95,
+        "bookmaker": "Pinnacle"
+      },
+      "forebet": {
+        "prediction": "2",
+        "probability": null,
+        "exactScore": null,
+        "overUnder": null,
+        "btts": null,
+        "homeProb": null,
+        "drawProb": null,
+        "awayProb": null
+      },
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "1",
+        "prob": 53.2,
+        "ev": -0.015,
+        "edge": -0.8,
+        "kelly": 0.0,
+        "confidence": 38.0,
+        "dataQuality": 0.6
+      },
+      "tennis": null,
+      "confidence": 38.0,
+      "value_bet": false
+    },
+    {
+      "id": 5987500380278285325,
+      "homeTeam": "Peristeri",
+      "awayTeam": "PAOK",
+      "time": "06.05.2026 16:00",
+      "date": "2026-05-06",
+      "league": null,
+      "country": "",
+      "sport": "basketball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/koszykowka/paok-4UTqgXPe/peristeri-Q96Izpwc/?mid=hMGAwq3n",
+      "qualifies": false,
+      "h2h": {
+        "home": 2,
+        "draw": 0,
+        "away": 3,
+        "total": 5,
+        "winRate": 40
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null,
+      "confidence": 0,
+      "value_bet": false
+    },
+    {
+      "id": 8522450529783319648,
+      "homeTeam": "Dewa United",
+      "awayTeam": "Tangerang Hawks",
+      "time": "06.05.2026 11:30",
+      "date": "2026-05-06",
+      "league": null,
+      "country": "",
+      "sport": "basketball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/koszykowka/dewa-united-banten-zkBtwnA1/tangerang-hawks-KG99pUHR/?mid=p6JVxTse",
+      "qualifies": true,
+      "h2h": {
+        "home": 5,
+        "draw": 0,
+        "away": 0,
+        "total": 5,
+        "winRate": 100
+      },
+      "homeForm": [
+        "W",
+        "W",
+        "L",
+        "W",
+        "W"
+      ],
+      "awayForm": [
+        "L",
+        "L",
+        "W",
+        "W",
+        "W"
+      ],
+      "homeFormHome": [
+        "W",
+        "W",
+        "W",
+        "L",
+        "L"
+      ],
+      "awayFormAway": [
+        "W",
+        "W",
+        "W",
+        "W",
+        "L"
+      ],
+      "formAdvantage": false,
+      "odds": {
+        "home": 1.3,
+        "draw": null,
+        "away": 3.45,
+        "bookmaker": "Pinnacle"
+      },
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "1",
+        "prob": 73.1,
+        "ev": -0.05,
+        "edge": -3.8,
+        "kelly": 0.0,
+        "confidence": 42.0,
+        "dataQuality": 0.6
+      },
+      "tennis": null,
+      "confidence": 42.0,
+      "value_bet": false
+    },
+    {
+      "id": -6698625118475614617,
+      "homeTeam": "Rajawali Medan",
+      "awayTeam": "Kesatria Bengawan Solo",
+      "time": "06.05.2026 12:00",
+      "date": "2026-05-06",
+      "league": null,
+      "country": "",
+      "sport": "basketball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/koszykowka/kesatria-bengawan-solo-xhAwruTm/rajawali-medan-tSBxvSfe/?mid=6L7vy7C7",
+      "qualifies": false,
+      "h2h": {
+        "home": 2,
+        "draw": 0,
+        "away": 3,
+        "total": 5,
+        "winRate": 40
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null,
+      "confidence": 0,
+      "value_bet": false
+    },
+    {
+      "id": 3665010498760011903,
+      "homeTeam": "Tindastoll",
+      "awayTeam": "Stjarnan",
+      "time": "06.05.2026 18:15",
+      "date": "2026-05-06",
+      "league": null,
+      "country": "",
+      "sport": "basketball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/koszykowka/stjarnan-fuvSxOLa/tindastoll-j7Xzy2jC/?mid=fZbj3YR6",
+      "qualifies": false,
+      "h2h": {
+        "home": 2,
+        "draw": 0,
+        "away": 3,
+        "total": 5,
+        "winRate": 40
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null,
+      "confidence": 0,
+      "value_bet": false
+    },
+    {
+      "id": -7095935870393640465,
+      "homeTeam": "Grindavik",
+      "awayTeam": "Valur",
+      "time": "06.05.2026 20:15",
+      "date": "2026-05-06",
+      "league": null,
+      "country": "",
+      "sport": "basketball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/koszykowka/grindavik-f74sRpxf/valur-nTBzLllq/?mid=Ofjd7ih2",
+      "qualifies": true,
+      "h2h": {
+        "home": 3,
+        "draw": 0,
+        "away": 2,
+        "total": 5,
+        "winRate": 60
+      },
+      "homeForm": [
+        "L",
+        "W",
+        "L",
+        "W",
+        "W"
+      ],
+      "awayForm": [
+        "W",
+        "L",
+        "W",
+        "L",
+        "W"
+      ],
+      "homeFormHome": [
+        "W",
+        "W",
+        "W",
+        "L",
+        "W"
+      ],
+      "awayFormAway": [
+        "L",
+        "L",
+        "L",
+        "L",
+        "L"
+      ],
+      "formAdvantage": false,
+      "odds": {
+        "home": 1.4,
+        "draw": null,
+        "away": 2.9,
+        "bookmaker": "Pinnacle"
+      },
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "1",
+        "prob": 56.9,
+        "ev": -0.203,
+        "edge": -14.5,
+        "kelly": 0.0,
+        "confidence": 21.0,
+        "dataQuality": 0.6
+      },
+      "tennis": null,
+      "confidence": 21.0,
+      "value_bet": false
+    },
+    {
+      "id": 2788643158133214591,
+      "homeTeam": "Maccabi Tel Aviv",
+      "awayTeam": "Hapoel Beer Sheva",
+      "time": "06.05.2026 16:00",
+      "date": "2026-05-06",
+      "league": null,
+      "country": "",
+      "sport": "basketball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/koszykowka/hapoel-beer-sheva-hbjbfv4A/maccabi-tel-aviv-nLuro05B/?mid=GhzqYqBN",
+      "qualifies": true,
+      "h2h": {
+        "home": 5,
+        "draw": 0,
+        "away": 0,
+        "total": 5,
+        "winRate": 100
+      },
+      "homeForm": [
+        "W",
+        "W",
+        "W",
+        "L",
+        "L"
+      ],
+      "awayForm": [
+        "L",
+        "L",
+        "W",
+        "L",
+        "W"
+      ],
+      "homeFormHome": [
+        "W",
+        "L",
+        "L",
+        "W",
+        "W"
+      ],
+      "awayFormAway": [
+        "W",
+        "L",
+        "W",
+        "W",
+        "W"
+      ],
+      "formAdvantage": true,
+      "odds": {
+        "home": 1.1,
+        "draw": null,
+        "away": 7.25,
+        "bookmaker": "Pinnacle"
+      },
+      "forebet": {
+        "prediction": "2",
+        "probability": null,
+        "exactScore": null,
+        "overUnder": null,
+        "btts": null,
+        "homeProb": null,
+        "drawProb": null,
+        "awayProb": null
+      },
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "1",
+        "prob": 77.3,
+        "ev": -0.15,
+        "edge": -13.6,
+        "kelly": 0.0,
+        "confidence": 31.0,
+        "dataQuality": 0.6
+      },
+      "tennis": null,
+      "confidence": 31.0,
+      "value_bet": false
+    },
+    {
+      "id": -3639845575844445609,
+      "homeTeam": "Maccabi Rishon",
+      "awayTeam": "Hapoel HaEmek",
+      "time": "06.05.2026 16:10",
+      "date": "2026-05-06",
+      "league": null,
+      "country": "",
+      "sport": "basketball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/koszykowka/hapoel-haemek-hvv4HfX8/maccabi-rishon-rXIo3Fdc/?mid=xnmHJpdU",
+      "qualifies": false,
+      "h2h": {
+        "home": 0,
+        "draw": 0,
+        "away": 5,
+        "total": 5,
+        "winRate": 0
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null,
+      "confidence": 0,
+      "value_bet": false
+    },
+    {
+      "id": 9014324040653942753,
+      "homeTeam": "Ramat Hasharon",
+      "awayTeam": "Ironi Nahariya",
+      "time": "06.05.2026 16:00",
+      "date": "2026-05-06",
+      "league": null,
+      "country": "",
+      "sport": "basketball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/koszykowka/ironi-nahariya-vitIptj5/ramat-hasharon-MkMgsJWg/?mid=jywqGBbC",
+      "qualifies": false,
+      "h2h": {
+        "home": 2,
+        "draw": 0,
+        "away": 3,
+        "total": 5,
+        "winRate": 40
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null,
+      "confidence": 0,
+      "value_bet": false
+    },
+    {
+      "id": 5054951310531395017,
+      "homeTeam": "Pavlodar",
+      "awayTeam": "AiRom",
+      "time": "06.05.2026 05:00",
+      "date": "2026-05-06",
+      "league": null,
+      "country": "",
+      "sport": "basketball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/koszykowka/airom-ULFG9geL/pavlodar-SQTyEPAQ/?mid=U7o9QOff",
+      "qualifies": false,
+      "h2h": {
+        "home": 0,
+        "draw": 0,
+        "away": 2,
+        "total": 2,
+        "winRate": 0
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null,
+      "confidence": 0,
+      "value_bet": false
+    },
+    {
+      "id": -2733265374148982455,
+      "homeTeam": "Karaganda",
+      "awayTeam": "Tobol Kostanay 2",
+      "time": "06.05.2026 07:00",
+      "date": "2026-05-06",
+      "league": null,
+      "country": "",
+      "sport": "basketball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/koszykowka/karaganda-O6FOL82o/tobol-kostanay-QuYch23D/?mid=xYlHO2P6",
+      "qualifies": false,
+      "h2h": {
+        "home": 1,
+        "draw": 0,
+        "away": 1,
+        "total": 2,
+        "winRate": 50
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null,
+      "confidence": 0,
+      "value_bet": false
+    },
+    {
+      "id": 2160671404929277372,
+      "homeTeam": "Tigers-KazATU",
+      "awayTeam": "Arlans",
+      "time": "06.05.2026 09:00",
+      "date": "2026-05-06",
+      "league": null,
+      "country": "",
+      "sport": "basketball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/koszykowka/bqo-arlans-hEb8wkgt/tigers-kazatu-IaH3PzKf/?mid=pbhPMtfJ",
+      "qualifies": false,
+      "h2h": {
+        "home": 1,
+        "draw": 0,
+        "away": 1,
+        "total": 2,
+        "winRate": 50
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null,
+      "confidence": 0,
+      "value_bet": false
+    },
+    {
+      "id": -204641466365965436,
+      "homeTeam": "Okzhetpes K",
+      "awayTeam": "Pavlodar K",
+      "time": "06.05.2026 12:00",
+      "date": "2026-05-06",
+      "league": null,
+      "country": "",
+      "sport": "basketball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/koszykowka/okzhetpes-kokshetay-4E1OSAmg/pavlodar-tI3hFkR1/?mid=n7GFxxdT",
+      "qualifies": true,
+      "h2h": {
+        "home": 3,
+        "draw": 0,
+        "away": 2,
+        "total": 5,
+        "winRate": 60
+      },
+      "homeForm": [
+        "W",
+        "W",
+        "W",
+        "L",
+        "W"
+      ],
+      "awayForm": [
+        "D",
+        "W",
+        "L",
+        "W",
+        "W"
+      ],
+      "homeFormHome": [
+        "W",
+        "L",
+        "W",
+        "L",
+        "W"
+      ],
+      "awayFormAway": [
+        "L",
+        "W",
+        "L",
+        "L",
+        "L"
+      ],
+      "formAdvantage": true,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "1",
+        "prob": 53.1,
+        "ev": -999.0,
+        "edge": 0.0,
+        "kelly": 0.0,
+        "confidence": 36.0,
+        "dataQuality": 0.5
+      },
+      "tennis": null,
+      "confidence": 36.0,
+      "value_bet": false
+    },
+    {
+      "id": -1531229090352082736,
+      "homeTeam": "Paisas",
+      "awayTeam": "Piratas de Bogota",
+      "time": "06.05.2026 01:00",
+      "date": "2026-05-06",
+      "league": null,
+      "country": "",
+      "sport": "basketball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/koszykowka/paisas-W8EElfdk/piratas-de-bogota-4OULOkda/?mid=Wd3dCAJ7",
+      "qualifies": true,
+      "h2h": {
+        "home": 4,
+        "draw": 0,
+        "away": 1,
+        "total": 5,
+        "winRate": 80
+      },
+      "homeForm": [
+        "D",
+        "L",
+        "W",
+        "W",
+        "W"
+      ],
+      "awayForm": [
+        "W",
+        "W",
+        "W",
+        "W",
+        "W"
+      ],
+      "homeFormHome": [
+        "D",
+        "W",
+        "W",
+        "L",
+        "L"
+      ],
+      "awayFormAway": [
+        "W",
+        "L",
+        "L",
+        "L",
+        "L"
+      ],
+      "formAdvantage": false,
+      "odds": {
+        "home": 1.48,
+        "draw": null,
+        "away": 2.75,
+        "bookmaker": "Pinnacle"
+      },
+      "forebet": {
+        "prediction": "1",
+        "probability": 71.0,
+        "exactScore": "79-70",
+        "overUnder": null,
+        "btts": null,
+        "homeProb": null,
+        "drawProb": null,
+        "awayProb": null
+      },
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "1",
+        "prob": 62.6,
+        "ev": -0.074,
+        "edge": -5.0,
+        "kelly": 0.0,
+        "confidence": 39.0,
+        "dataQuality": 0.7
+      },
+      "tennis": null,
+      "confidence": 39.0,
+      "value_bet": false
+    },
+    {
+      "id": 5134726216797654312,
+      "homeTeam": "Motilones del Norte",
+      "awayTeam": "Caribbean Storm Islands",
+      "time": "06.05.2026 22:00",
+      "date": "2026-05-06",
+      "league": null,
+      "country": "",
+      "sport": "basketball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/koszykowka/caribbean-storm-islands-8hO139VO/motilones-del-norte-Sb8YL6n1/?mid=UkIFH5em",
+      "qualifies": false,
+      "h2h": {
+        "home": 2,
+        "draw": 0,
+        "away": 3,
+        "total": 5,
+        "winRate": 40
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null,
+      "confidence": 0,
+      "value_bet": false
+    },
+    {
+      "id": 5449684792026368868,
+      "homeTeam": "Bashkimi",
+      "awayTeam": "Bora",
+      "time": "06.05.2026 17:30",
+      "date": "2026-05-06",
+      "league": null,
+      "country": "",
+      "sport": "basketball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/koszykowka/bashkimi-2wcCMeIg/bora-0UJ9L2oA/?mid=KULIDwVq",
+      "qualifies": true,
+      "h2h": {
+        "home": 3,
+        "draw": 0,
+        "away": 2,
+        "total": 5,
+        "winRate": 60
+      },
+      "homeForm": [
+        "D",
+        "W",
+        "L",
+        "W",
+        "W"
+      ],
+      "awayForm": [
+        "W",
+        "L",
+        "W",
+        "L",
+        "W"
+      ],
+      "homeFormHome": [
+        "W",
+        "W",
+        "W",
+        "W",
+        "L"
+      ],
+      "awayFormAway": [
+        "L",
+        "L",
+        "L",
+        "L",
+        "W"
+      ],
+      "formAdvantage": true,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "1",
+        "prob": 51.4,
+        "ev": -999.0,
+        "edge": 0.0,
+        "kelly": 0.0,
+        "confidence": 36.0,
+        "dataQuality": 0.5
+      },
+      "tennis": null,
+      "confidence": 36.0,
+      "value_bet": false
+    },
+    {
+      "id": -9094049779894242305,
+      "homeTeam": "Lietkabelis",
+      "awayTeam": "Gargzdai",
+      "time": "06.05.2026 15:15",
+      "date": "2026-05-06",
+      "league": null,
+      "country": "",
+      "sport": "basketball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/koszykowka/gargzdai-425jx2pg/lietkabelis-vVYAjqNq/?mid=hAy0tR0T",
+      "qualifies": true,
+      "h2h": {
+        "home": 4,
+        "draw": 0,
+        "away": 1,
+        "total": 5,
+        "winRate": 80
+      },
+      "homeForm": [
+        "W",
+        "L",
+        "W",
+        "W",
+        "W"
+      ],
+      "awayForm": [
+        "D",
+        "W",
+        "L",
+        "W",
+        "L"
+      ],
+      "homeFormHome": [
+        "W",
+        "W",
+        "W",
+        "W",
+        "L"
+      ],
+      "awayFormAway": [
+        "W",
+        "W",
+        "L",
+        "W",
+        "W"
+      ],
+      "formAdvantage": false,
+      "odds": {
+        "home": 1.2,
+        "draw": null,
+        "away": 4.4,
+        "bookmaker": "Pinnacle"
+      },
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "1",
+        "prob": 67.7,
+        "ev": -0.187,
+        "edge": -15.6,
+        "kelly": 0.0,
+        "confidence": 24.0,
+        "dataQuality": 0.6
+      },
+      "tennis": null,
+      "confidence": 24.0,
+      "value_bet": false
+    },
+    {
+      "id": -2816452170298909310,
+      "homeTeam": "Juventus",
+      "awayTeam": "Siauliai",
+      "time": "06.05.2026 15:50",
+      "date": "2026-05-06",
+      "league": null,
+      "country": "",
+      "sport": "basketball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/koszykowka/juventus-UylfCwh5/siauliai-xG6QEcED/?mid=2eXhZimn",
+      "qualifies": true,
+      "h2h": {
+        "home": 3,
+        "draw": 0,
+        "away": 2,
+        "total": 5,
+        "winRate": 60
+      },
+      "homeForm": [
+        "W",
+        "L",
+        "L",
+        "D",
+        "L"
+      ],
+      "awayForm": [
+        "W",
+        "L",
+        "L",
+        "L",
+        "W"
+      ],
+      "homeFormHome": [
+        "W",
+        "D",
+        "L",
+        "L",
+        "L"
+      ],
+      "awayFormAway": [
+        "L",
+        "L",
+        "W",
+        "L",
+        "W"
+      ],
+      "formAdvantage": false,
+      "odds": {
+        "home": 1.8,
+        "draw": null,
+        "away": 2.05,
+        "bookmaker": "Pinnacle"
+      },
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "1",
+        "prob": 47.6,
+        "ev": -0.143,
+        "edge": -7.9,
+        "kelly": 0.0,
+        "confidence": 26.0,
+        "dataQuality": 0.6
+      },
+      "tennis": null,
+      "confidence": 26.0,
+      "value_bet": false
+    },
+    {
+      "id": 2076046835924021135,
+      "homeTeam": "Racing Luxembourg",
+      "awayTeam": "Contern",
+      "time": "06.05.2026 18:00",
+      "date": "2026-05-06",
+      "league": null,
+      "country": "",
+      "sport": "basketball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/koszykowka/contern-b1GSTfQN/racing-luxembourg-Gb3pCkw8/?mid=OdgH3NGM",
+      "qualifies": true,
+      "h2h": {
+        "home": 4,
+        "draw": 0,
+        "away": 1,
+        "total": 5,
+        "winRate": 80
+      },
+      "homeForm": [
+        "W",
+        "W",
+        "W",
+        "W",
+        "W"
+      ],
+      "awayForm": [
+        "L",
+        "L",
+        "L",
+        "L",
+        "L"
+      ],
+      "homeFormHome": [
+        "W",
+        "W",
+        "W",
+        "L",
+        "L"
+      ],
+      "awayFormAway": [
+        "W",
+        "W",
+        "W",
+        "L",
+        "L"
+      ],
+      "formAdvantage": true,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "1",
+        "prob": 68.0,
+        "ev": -999.0,
+        "edge": 0.0,
+        "kelly": 0.0,
+        "confidence": 42.0,
+        "dataQuality": 0.5
+      },
+      "tennis": null,
+      "confidence": 42.0,
+      "value_bet": false
+    },
+    {
+      "id": 5840863966019947408,
+      "homeTeam": "Musel Pikes",
+      "awayTeam": "Mambra Mamer",
+      "time": "06.05.2026 18:15",
+      "date": "2026-05-06",
+      "league": null,
+      "country": "",
+      "sport": "basketball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/koszykowka/mambra-mamer-CApvF6uQ/musel-pikes-O4C9CJll/?mid=KSvmb1vp",
+      "qualifies": false,
+      "h2h": {
+        "home": 2,
+        "draw": 0,
+        "away": 3,
+        "total": 5,
+        "winRate": 40
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null,
+      "confidence": 0,
+      "value_bet": false
+    },
+    {
+      "id": 5527623662524798866,
+      "homeTeam": "MZT Skopje",
+      "awayTeam": "Pelister",
+      "time": "06.05.2026 17:00",
+      "date": "2026-05-06",
+      "league": null,
+      "country": "",
+      "sport": "basketball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/koszykowka/mzt-skopje-aerodrom-4KKwjCjD/pelister-KtnmhKJj/?mid=Mw4ikxBG",
+      "qualifies": true,
+      "h2h": {
+        "home": 4,
+        "draw": 0,
+        "away": 1,
+        "total": 5,
+        "winRate": 80
+      },
+      "homeForm": [
+        "W",
+        "L",
+        "W",
+        "L",
+        "W"
+      ],
+      "awayForm": [
+        "W",
+        "W",
+        "W",
+        "W",
+        "W"
+      ],
+      "homeFormHome": [
+        "L",
+        "W",
+        "W",
+        "W",
+        "W"
+      ],
+      "awayFormAway": [
+        "L",
+        "W",
+        "L",
+        "W",
+        "L"
+      ],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "1",
+        "prob": 53.7,
+        "ev": -999.0,
+        "edge": 0.0,
+        "kelly": 0.0,
+        "confidence": 36.0,
+        "dataQuality": 0.5
+      },
+      "tennis": null,
+      "confidence": 36.0,
+      "value_bet": false
+    },
+    {
+      "id": -4784999350263498219,
+      "homeTeam": "Badel 1862 Skopje K",
+      "awayTeam": "Kriva Palanka K",
+      "time": "06.05.2026 18:45",
+      "date": "2026-05-06",
+      "league": null,
+      "country": "",
+      "sport": "basketball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/koszykowka/badel-1862-skopje-pKqjFT96/kriva-palanka-6oJ999Cl/?mid=8Kwz4kAL",
+      "qualifies": false,
+      "h2h": {
+        "home": 1,
+        "draw": 0,
+        "away": 4,
+        "total": 5,
+        "winRate": 20
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null,
+      "confidence": 0,
+      "value_bet": false
+    },
+    {
+      "id": -2007167652204400072,
+      "homeTeam": "Angeles CDMX",
+      "awayTeam": "Toros Laguna",
+      "time": "06.05.2026 02:15",
+      "date": "2026-05-06",
+      "league": null,
+      "country": "",
+      "sport": "basketball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/koszykowka/angeles-cdmx-8pvK0jqi/toros-laguna-AHfdXdCT/?mid=txOPtRSq",
+      "qualifies": true,
+      "h2h": {
+        "home": 2,
+        "draw": 0,
+        "away": 0,
+        "total": 2,
+        "winRate": 100
+      },
+      "homeForm": [
+        "L",
+        "L",
+        "W",
+        "L",
+        "W"
+      ],
+      "awayForm": [
+        "L",
+        "L",
+        "W",
+        "L",
+        "L"
+      ],
+      "homeFormHome": [
+        "W",
+        "W",
+        "W",
+        "W",
+        "W"
+      ],
+      "awayFormAway": [
+        "L",
+        "L",
+        "L",
+        "W",
+        "W"
+      ],
+      "formAdvantage": true,
+      "odds": {
+        "home": 1.53,
+        "draw": null,
+        "away": 2.5,
+        "bookmaker": "Pinnacle"
+      },
+      "forebet": {
+        "prediction": "1",
+        "probability": 62.0,
+        "exactScore": "94-90",
+        "overUnder": null,
+        "btts": null,
+        "homeProb": null,
+        "drawProb": null,
+        "awayProb": null
+      },
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "1",
+        "prob": 70.4,
+        "ev": 0.078,
+        "edge": 5.1,
+        "kelly": 14.6,
+        "confidence": 66.0,
+        "dataQuality": 0.7
+      },
+      "tennis": null,
+      "confidence": 66.0,
+      "value_bet": true
+    },
+    {
+      "id": -3471540044342928058,
+      "homeTeam": "Caballeros de Culiacan",
+      "awayTeam": "Pioneros de Los Mochis",
+      "time": "06.05.2026 02:30",
+      "date": "2026-05-06",
+      "league": null,
+      "country": "",
+      "sport": "basketball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/koszykowka/caballeros-de-culiacan-nmvJ3raM/pioneros-de-los-mochis-EFZFUHVH/?mid=fNYxM597",
+      "qualifies": false,
+      "h2h": {
+        "home": 2,
+        "draw": 0,
+        "away": 3,
+        "total": 5,
+        "winRate": 40
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null,
+      "confidence": 0,
+      "value_bet": false
+    },
+    {
+      "id": 5809234817448334016,
+      "homeTeam": "Zonkeys de Tijuana",
+      "awayTeam": "Rayos de Hermosillo",
+      "time": "06.05.2026 02:30",
+      "date": "2026-05-06",
+      "league": null,
+      "country": "",
+      "sport": "basketball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/koszykowka/rayos-de-hermosillo-d6VmLqUd/zonkeys-de-tijuana-4AyvPRIb/?mid=xlio8Sx3",
+      "qualifies": true,
+      "h2h": {
+        "home": 3,
+        "draw": 0,
+        "away": 2,
+        "total": 5,
+        "winRate": 60
+      },
+      "homeForm": [
+        "L",
+        "L",
+        "L",
+        "L",
+        "L"
+      ],
+      "awayForm": [
+        "W",
+        "L",
+        "L",
+        "W",
+        "W"
+      ],
+      "homeFormHome": [
+        "L",
+        "L",
+        "L",
+        "W",
+        "L"
+      ],
+      "awayFormAway": [
+        "L",
+        "W",
+        "W",
+        "L",
+        "W"
+      ],
+      "formAdvantage": false,
+      "odds": {
+        "home": 1.58,
+        "draw": null,
+        "away": 2.4,
+        "bookmaker": "Pinnacle"
+      },
+      "forebet": {
+        "prediction": "1",
+        "probability": 52.0,
+        "exactScore": "99-92",
+        "overUnder": null,
+        "btts": null,
+        "homeProb": null,
+        "drawProb": null,
+        "awayProb": null
+      },
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "2",
+        "prob": 32.5,
+        "ev": -0.22,
+        "edge": -9.2,
+        "kelly": 0.0,
+        "confidence": 22.0,
+        "dataQuality": 0.7
+      },
+      "tennis": null,
+      "confidence": 22.0,
+      "value_bet": false
+    },
+    {
+      "id": -2053728218001899090,
+      "homeTeam": "Venados de Mazatlan",
+      "awayTeam": "Astros",
+      "time": "06.05.2026 03:15",
+      "date": "2026-05-06",
+      "league": null,
+      "country": "",
+      "sport": "basketball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/koszykowka/astros-de-jalisco-pfhA3VcA/venados-de-mazatlan-MXIp9cCF/?mid=GfvrjZaK",
+      "qualifies": false,
+      "h2h": {
+        "home": 1,
+        "draw": 0,
+        "away": 4,
+        "total": 5,
+        "winRate": 20
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null,
+      "confidence": 0,
+      "value_bet": false
+    },
+    {
+      "id": 7635130202344298928,
+      "homeTeam": "Bremerhaven",
+      "awayTeam": "Artland",
+      "time": "06.05.2026 17:00",
+      "date": "2026-05-06",
+      "league": null,
+      "country": "",
+      "sport": "basketball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/koszykowka/artland-EkSjlHm3/bremerhaven-vadYibtl/?mid=4fHWxJ1l",
+      "qualifies": true,
+      "h2h": {
+        "home": 5,
+        "draw": 0,
+        "away": 0,
+        "total": 5,
+        "winRate": 100
+      },
+      "homeForm": [
+        "W",
+        "W",
+        "L",
+        "W",
+        "L"
+      ],
+      "awayForm": [
+        "L",
+        "L",
+        "W",
+        "W",
+        "W"
+      ],
+      "homeFormHome": [
+        "W",
+        "W",
+        "L",
+        "W",
+        "W"
+      ],
+      "awayFormAway": [
+        "W",
+        "L",
+        "W",
+        "L",
+        "W"
+      ],
+      "formAdvantage": false,
+      "odds": {
+        "home": 1.5,
+        "draw": null,
+        "away": 2.75,
+        "bookmaker": "Pinnacle"
+      },
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "1",
+        "prob": 71.0,
+        "ev": 0.066,
+        "edge": 4.4,
+        "kelly": 13.1,
+        "confidence": 62.0,
+        "dataQuality": 0.6
+      },
+      "tennis": null,
+      "confidence": 62.0,
+      "value_bet": true
+    },
+    {
+      "id": -317204322132400807,
+      "homeTeam": "Gottingen",
+      "awayTeam": "Kirchheim",
+      "time": "06.05.2026 17:30",
+      "date": "2026-05-06",
+      "league": null,
+      "country": "",
+      "sport": "basketball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/koszykowka/gottingen-dz7ThvRs/kirchheim-MZefbRJM/?mid=xOgJBt3k",
+      "qualifies": true,
+      "h2h": {
+        "home": 4,
+        "draw": 0,
+        "away": 1,
+        "total": 5,
+        "winRate": 80
+      },
+      "homeForm": [
+        "L",
+        "W",
+        "L",
+        "W",
+        "W"
+      ],
+      "awayForm": [
+        "W",
+        "W",
+        "L",
+        "L",
+        "L"
+      ],
+      "homeFormHome": [
+        "W",
+        "W",
+        "W",
+        "L",
+        "L"
+      ],
+      "awayFormAway": [
+        "L",
+        "W",
+        "W",
+        "L",
+        "W"
+      ],
+      "formAdvantage": true,
+      "odds": {
+        "home": 1.4,
+        "draw": null,
+        "away": 3.1,
+        "bookmaker": "Pinnacle"
+      },
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "1",
+        "prob": 61.7,
+        "ev": -0.136,
+        "edge": -9.7,
+        "kelly": 0.0,
+        "confidence": 30.0,
+        "dataQuality": 0.6
+      },
+      "tennis": null,
+      "confidence": 30.0,
+      "value_bet": false
+    },
+    {
+      "id": -1417031724251327186,
+      "homeTeam": "Phoenix Hagen",
+      "awayTeam": "PS Karlsruhe",
+      "time": "06.05.2026 17:30",
+      "date": "2026-05-06",
+      "league": null,
+      "country": "",
+      "sport": "basketball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/koszykowka/phoenix-hagen-j51PxKiN/ps-karlsruhe-vBjlFEo7/?mid=f1u7McH7",
+      "qualifies": false,
+      "h2h": {
+        "home": 2,
+        "draw": 0,
+        "away": 3,
+        "total": 5,
+        "winRate": 40
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null,
+      "confidence": 0,
+      "value_bet": false
+    },
+    {
+      "id": 3635326977211014576,
+      "homeTeam": "Deportivo Amambay",
+      "awayTeam": "Colonias Gold",
+      "time": "06.05.2026 22:30",
+      "date": "2026-05-06",
+      "league": null,
+      "country": "",
+      "sport": "basketball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/koszykowka/colonias-gold-I16tipa3/deportivo-amambay-AoYq4poR/?mid=xGwBfJle",
+      "qualifies": false,
+      "h2h": {
+        "home": 1,
+        "draw": 0,
+        "away": 4,
+        "total": 5,
+        "winRate": 20
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null,
+      "confidence": 0,
+      "value_bet": false
+    },
+    {
+      "id": -6635800828878248379,
+      "homeTeam": "Criollos de Caguas",
+      "awayTeam": "Vaqueros de Bayamon",
+      "time": "06.05.2026 00:00",
+      "date": "2026-05-06",
+      "league": null,
+      "country": "",
+      "sport": "basketball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/koszykowka/criollos-de-caguas-jDuRPrg3/vaqueros-de-bayamon-GxiT54i9/?mid=E1jPT27c",
+      "qualifies": true,
+      "h2h": {
+        "home": 3,
+        "draw": 0,
+        "away": 2,
+        "total": 5,
+        "winRate": 60
+      },
+      "homeForm": [
+        "W",
+        "W",
+        "L",
+        "L",
+        "L"
+      ],
+      "awayForm": [
+        "W",
+        "W",
+        "L",
+        "W",
+        "L"
+      ],
+      "homeFormHome": [
+        "W",
+        "L",
+        "W",
+        "W",
+        "W"
+      ],
+      "awayFormAway": [
+        "L",
+        "L",
+        "L",
+        "L",
+        "L"
+      ],
+      "formAdvantage": false,
+      "odds": {
+        "home": 1.7,
+        "draw": null,
+        "away": 2.2,
+        "bookmaker": "Pinnacle"
+      },
+      "forebet": {
+        "prediction": "1",
+        "probability": 64.0,
+        "exactScore": "93-88",
+        "overUnder": null,
+        "btts": null,
+        "homeProb": null,
+        "drawProb": null,
+        "awayProb": null
+      },
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "1",
+        "prob": 58.4,
+        "ev": -0.006,
+        "edge": -0.4,
+        "kelly": 0.0,
+        "confidence": 44.0,
+        "dataQuality": 0.7
+      },
+      "tennis": null,
+      "confidence": 44.0,
+      "value_bet": false
+    },
+    {
+      "id": -1605129178869526529,
+      "homeTeam": "Dinamo Bukareszt",
+      "awayTeam": "Rapid Bucharest",
+      "time": "06.05.2026 15:00",
+      "date": "2026-05-06",
+      "league": null,
+      "country": "",
+      "sport": "basketball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/koszykowka/dinamo-bukareszt-rZKxoOCf/rapid-bucuresti-86QJobrG/?mid=tAyEugJ0",
+      "qualifies": true,
+      "h2h": {
+        "home": 3,
+        "draw": 0,
+        "away": 2,
+        "total": 5,
+        "winRate": 60
+      },
+      "homeForm": [
+        "W",
+        "L",
+        "W",
+        "L",
+        "W"
+      ],
+      "awayForm": [
+        "L",
+        "W",
+        "L",
+        "W",
+        "W"
+      ],
+      "homeFormHome": [
+        "W",
+        "L",
+        "L",
+        "W",
+        "W"
+      ],
+      "awayFormAway": [
+        "W",
+        "L",
+        "L",
+        "W",
+        "L"
+      ],
+      "formAdvantage": false,
+      "odds": {
+        "home": 1.6,
+        "draw": null,
+        "away": 2.35,
+        "bookmaker": "Pinnacle"
+      },
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "1",
+        "prob": 53.4,
+        "ev": -0.146,
+        "edge": -9.1,
+        "kelly": 0.0,
+        "confidence": 27.0,
+        "dataQuality": 0.6
+      },
+      "tennis": null,
+      "confidence": 27.0,
+      "value_bet": false
+    },
+    {
+      "id": -3850535458558734219,
+      "homeTeam": "Prievidza",
+      "awayTeam": "Levice",
+      "time": "06.05.2026 17:00",
+      "date": "2026-05-06",
+      "league": null,
+      "country": "",
+      "sport": "basketball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/koszykowka/levice-Ua8Kmbej/prievidza-0Awz50IM/?mid=S0Q3hnEE",
+      "qualifies": false,
+      "h2h": {
+        "home": 1,
+        "draw": 0,
+        "away": 4,
+        "total": 5,
+        "winRate": 20
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null,
+      "confidence": 0,
+      "value_bet": false
+    },
+    {
+      "id": 4257989495416876069,
+      "homeTeam": "Geneva Lions",
+      "awayTeam": "Regio Basel",
+      "time": "06.05.2026 17:30",
+      "date": "2026-05-06",
+      "league": null,
+      "country": "",
+      "sport": "basketball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/koszykowka/geneva-lions-ML34PI1F/regio-basel-vcEaQbn9/?mid=YRA0nUV0",
+      "qualifies": true,
+      "h2h": {
+        "home": 4,
+        "draw": 0,
+        "away": 1,
+        "total": 5,
+        "winRate": 80
+      },
+      "homeForm": [
+        "L",
+        "W",
+        "L",
+        "W",
+        "W"
+      ],
+      "awayForm": [
+        "W",
+        "W",
+        "W",
+        "W",
+        "W"
+      ],
+      "homeFormHome": [
+        "L",
+        "W",
+        "W",
+        "W",
+        "W"
+      ],
+      "awayFormAway": [
+        "W",
+        "W",
+        "L",
+        "L",
+        "W"
+      ],
+      "formAdvantage": false,
+      "odds": {
+        "home": 1.14,
+        "draw": null,
+        "away": 5.75,
+        "bookmaker": "Pinnacle"
+      },
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "2",
+        "prob": 20.9,
+        "ev": 0.2,
+        "edge": 3.5,
+        "kelly": 4.2,
+        "confidence": 41.0,
+        "dataQuality": 0.6
+      },
+      "tennis": null,
+      "confidence": 41.0,
+      "value_bet": true
+    },
+    {
+      "id": 5630706382465403161,
+      "homeTeam": "Alvik",
+      "awayTeam": "Eskilstuna",
+      "time": "06.05.2026 17:00",
+      "date": "2026-05-06",
+      "league": null,
+      "country": "",
+      "sport": "basketball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/koszykowka/alvik-x2ll3Tzo/eskilstuna-zLwiyXCE/?mid=IDc009s3",
+      "qualifies": true,
+      "h2h": {
+        "home": 2,
+        "draw": 0,
+        "away": 1,
+        "total": 3,
+        "winRate": 66
+      },
+      "homeForm": [
+        "L",
+        "W",
+        "L",
+        "L",
+        "W"
+      ],
+      "awayForm": [
+        "W",
+        "L",
+        "W",
+        "W",
+        "W"
+      ],
+      "homeFormHome": [
+        "W",
+        "W",
+        "W",
+        "W",
+        "L"
+      ],
+      "awayFormAway": [
+        "L",
+        "L",
+        "L",
+        "W",
+        "L"
+      ],
+      "formAdvantage": false,
+      "odds": {
+        "home": 1.5,
+        "draw": null,
+        "away": 2.7,
+        "bookmaker": "Pinnacle"
+      },
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "1",
+        "prob": 55.4,
+        "ev": -0.169,
+        "edge": -11.3,
+        "kelly": 0.0,
+        "confidence": 25.0,
+        "dataQuality": 0.6
+      },
+      "tennis": null,
+      "confidence": 25.0,
+      "value_bet": false
+    },
+    {
+      "id": 5763097052677220552,
+      "homeTeam": "New Taipei CTBC DEA",
+      "awayTeam": "New Taipei Kings",
+      "time": "06.05.2026 11:00",
+      "date": "2026-05-06",
+      "league": null,
+      "country": "",
+      "sport": "basketball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/koszykowka/new-taipei-ctbc-dea-ITv2xlO2/new-taipei-kings-pp8kTqok/?mid=xxazcCNN",
+      "qualifies": true,
+      "h2h": {
+        "home": 3,
+        "draw": 0,
+        "away": 2,
+        "total": 5,
+        "winRate": 60
+      },
+      "homeForm": [
+        "L",
+        "W",
+        "W",
+        "W",
+        "W"
+      ],
+      "awayForm": [
+        "W",
+        "L",
+        "W",
+        "L",
+        "L"
+      ],
+      "homeFormHome": [
+        "W",
+        "W",
+        "W",
+        "W",
+        "L"
+      ],
+      "awayFormAway": [
+        "L",
+        "W",
+        "L",
+        "L",
+        "W"
+      ],
+      "formAdvantage": true,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "1",
+        "prob": 54.0,
+        "ev": -999.0,
+        "edge": 0.0,
+        "kelly": 0.0,
+        "confidence": 37.0,
+        "dataQuality": 0.5
+      },
+      "tennis": null,
+      "confidence": 37.0,
+      "value_bet": false
+    },
+    {
+      "id": 1613654621727820707,
+      "homeTeam": "Konya BBSK",
+      "awayTeam": "Fenerbahce 2",
+      "time": "06.05.2026 14:00",
+      "date": "2026-05-06",
+      "league": null,
+      "country": "",
+      "sport": "basketball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/koszykowka/fenerbahce-M3hxpK2p/konya-bbsk-8Qw3rrCk/?mid=WCZIPc34",
+      "qualifies": true,
+      "h2h": {
+        "home": 3,
+        "draw": 0,
+        "away": 2,
+        "total": 5,
+        "winRate": 60
+      },
+      "homeForm": [
+        "D",
+        "W",
+        "L",
+        "W",
+        "W"
+      ],
+      "awayForm": [
+        "W",
+        "L",
+        "L",
+        "W",
+        "W"
+      ],
+      "homeFormHome": [
+        "W",
+        "L",
+        "W",
+        "L",
+        "W"
+      ],
+      "awayFormAway": [
+        "L",
+        "L",
+        "L",
+        "L",
+        "W"
+      ],
+      "formAdvantage": true,
+      "odds": {
+        "home": 1.35,
+        "draw": null,
+        "away": 3.35,
+        "bookmaker": "Pinnacle"
+      },
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "1",
+        "prob": 58.4,
+        "ev": -0.211,
+        "edge": -15.7,
+        "kelly": 0.0,
+        "confidence": 20.0,
+        "dataQuality": 0.6
+      },
+      "tennis": null,
+      "confidence": 20.0,
+      "value_bet": false
+    },
+    {
+      "id": -8896122003833740404,
+      "homeTeam": "Gaziantep",
+      "awayTeam": "Kipas Istiklal",
+      "time": "06.05.2026 17:00",
+      "date": "2026-05-06",
+      "league": null,
+      "country": "",
+      "sport": "basketball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/koszykowka/gaziantep-bb-dKOmw95e/kipas-istiklal-4hhMI75D/?mid=dYkYLF2T",
+      "qualifies": false,
+      "h2h": {
+        "home": 2,
+        "draw": 0,
+        "away": 2,
+        "total": 4,
+        "winRate": 50
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null,
+      "confidence": 0,
+      "value_bet": false
+    },
+    {
+      "id": -1171638295876816401,
+      "homeTeam": "Kirklareli K",
+      "awayTeam": "Istanbul GSK K",
+      "time": "06.05.2026 15:00",
+      "date": "2026-05-06",
+      "league": null,
+      "country": "",
+      "sport": "basketball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/koszykowka/istanbul-gsk-td9wiQMs/kirklareli-6FMsUuei/?mid=nRE5jG9b",
+      "qualifies": false,
+      "h2h": {
+        "home": 2,
+        "draw": 0,
+        "away": 2,
+        "total": 4,
+        "winRate": 50
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null,
+      "confidence": 0,
+      "value_bet": false
+    },
+    {
+      "id": 8418849174756005891,
+      "homeTeam": "Penarol",
+      "awayTeam": "Urunday",
+      "time": "06.05.2026 00:45",
+      "date": "2026-05-06",
+      "league": null,
+      "country": "",
+      "sport": "basketball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/koszykowka/penarol-MXYlyhRi/urunday-universitario-MkEWYgbb/?mid=2ZdMP1cR",
+      "qualifies": true,
+      "h2h": {
+        "home": 5,
+        "draw": 0,
+        "away": 0,
+        "total": 5,
+        "winRate": 100
+      },
+      "homeForm": [
+        "W",
+        "W",
+        "W",
+        "W",
+        "W"
+      ],
+      "awayForm": [
+        "L",
+        "W",
+        "W",
+        "W",
+        "W"
+      ],
+      "homeFormHome": [
+        "W",
+        "W",
+        "W",
+        "W",
+        "L"
+      ],
+      "awayFormAway": [
+        "L",
+        "L",
+        "W",
+        "L",
+        "L"
+      ],
+      "formAdvantage": true,
+      "odds": {
+        "home": 1.06,
+        "draw": null,
+        "away": 8.0,
+        "bookmaker": "Pinnacle"
+      },
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "1",
+        "prob": 80.8,
+        "ev": -0.144,
+        "edge": -13.6,
+        "kelly": 0.0,
+        "confidence": 32.0,
+        "dataQuality": 0.6
+      },
+      "tennis": null,
+      "confidence": 32.0,
+      "value_bet": false
+    },
+    {
+      "id": -1051148839969569391,
+      "homeTeam": "Malvin",
+      "awayTeam": "Defensor Sporting",
+      "time": "06.05.2026 22:15",
+      "date": "2026-05-06",
+      "league": null,
+      "country": "",
+      "sport": "basketball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/koszykowka/defensor-sporting-YXvQgSRC/malvin-SCoizIuE/?mid=YHmhKuLl",
+      "qualifies": true,
+      "h2h": {
+        "home": 5,
+        "draw": 0,
+        "away": 0,
+        "total": 5,
+        "winRate": 100
+      },
+      "homeForm": [
+        "D",
+        "L",
+        "W",
+        "L",
+        "L"
+      ],
+      "awayForm": [
+        "L",
+        "W",
+        "D",
+        "W",
+        "W"
+      ],
+      "homeFormHome": [
+        "D",
+        "L",
+        "L",
+        "W",
+        "W"
+      ],
+      "awayFormAway": [
+        "L",
+        "L",
+        "W",
+        "L",
+        "W"
+      ],
+      "formAdvantage": false,
+      "odds": {
+        "home": 1.85,
+        "draw": null,
+        "away": 2.0,
+        "bookmaker": "Pinnacle"
+      },
+      "forebet": {
+        "prediction": "1",
+        "probability": 71.0,
+        "exactScore": "79-70",
+        "overUnder": null,
+        "btts": null,
+        "homeProb": null,
+        "drawProb": null,
+        "awayProb": null
+      },
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "1",
+        "prob": 66.5,
+        "ev": 0.231,
+        "edge": 12.5,
+        "kelly": 27.2,
+        "confidence": 74.0,
+        "dataQuality": 0.7
+      },
+      "tennis": null,
+      "confidence": 74.0,
+      "value_bet": true
+    },
+    {
+      "id": -6218105162305582543,
+      "homeTeam": "Centauros",
+      "awayTeam": "Heroes de Falcon",
+      "time": "06.05.2026 23:00",
+      "date": "2026-05-06",
+      "league": null,
+      "country": "",
+      "sport": "basketball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/koszykowka/centauros-YPkUFtes/heroes-de-falcon-2Xr2Ltu3/?mid=fTF2OYLN",
+      "qualifies": false,
+      "h2h": {
+        "home": 0,
+        "draw": 0,
+        "away": 5,
+        "total": 5,
+        "winRate": 0
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null,
+      "confidence": 0,
+      "value_bet": false
+    },
+    {
+      "id": 6974705749865667633,
+      "homeTeam": "Gaiteros del Zulia",
+      "awayTeam": "Brillantes",
+      "time": "06.05.2026 23:00",
+      "date": "2026-05-06",
+      "league": null,
+      "country": "",
+      "sport": "basketball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/koszykowka/brillantes-8QRGBFVf/gaiteros-del-zulia-GvTVncqF/?mid=W4Zhmmn9",
+      "qualifies": true,
+      "h2h": {
+        "home": 5,
+        "draw": 0,
+        "away": 0,
+        "total": 5,
+        "winRate": 100
+      },
+      "homeForm": [
+        "L",
+        "W",
+        "W",
+        "W",
+        "W"
+      ],
+      "awayForm": [
+        "L",
+        "W",
+        "W",
+        "W",
+        "L"
+      ],
+      "homeFormHome": [
+        "W",
+        "W",
+        "W",
+        "W",
+        "W"
+      ],
+      "awayFormAway": [
+        "L",
+        "W",
+        "L",
+        "L",
+        "L"
+      ],
+      "formAdvantage": true,
+      "odds": null,
+      "forebet": {
+        "prediction": "2",
+        "probability": null,
+        "exactScore": null,
+        "overUnder": null,
+        "btts": null,
+        "homeProb": null,
+        "drawProb": null,
+        "awayProb": null
+      },
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "1",
+        "prob": 69.6,
+        "ev": -999.0,
+        "edge": 0.0,
+        "kelly": 0.0,
+        "confidence": 43.0,
+        "dataQuality": 0.5
+      },
+      "tennis": null,
+      "confidence": 43.0,
+      "value_bet": false
+    },
+    {
+      "id": -2905164865640605780,
+      "homeTeam": "Guaiqueries",
+      "awayTeam": "Panteras",
+      "time": "06.05.2026 23:00",
+      "date": "2026-05-06",
+      "league": null,
+      "country": "",
+      "sport": "basketball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/koszykowka/guaiqueries-0v4NSkIg/panteras-vBAydIom/?mid=MoGPUvWs",
+      "qualifies": false,
+      "h2h": {
+        "home": 2,
+        "draw": 0,
+        "away": 3,
+        "total": 5,
+        "winRate": 40
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null,
+      "confidence": 0,
+      "value_bet": false
+    },
+    {
+      "id": 4869137640031263511,
+      "homeTeam": "Marinos",
+      "awayTeam": "Gaiteros del Zulia",
+      "time": "06.05.2026 23:00",
+      "date": "2026-05-06",
+      "league": null,
+      "country": "",
+      "sport": "basketball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/koszykowka/gaiteros-del-zulia-GvTVncqF/marinos-de-oriente-CvF6vHGC/?mid=ja1YICqo",
+      "qualifies": true,
+      "h2h": {
+        "home": 3,
+        "draw": 0,
+        "away": 2,
+        "total": 5,
+        "winRate": 60
+      },
+      "homeForm": [
+        "W",
+        "W",
+        "W",
+        "W",
+        "W"
+      ],
+      "awayForm": [
+        "L",
+        "W",
+        "W",
+        "W",
+        "W"
+      ],
+      "homeFormHome": [
+        "W",
+        "W",
+        "W",
+        "W",
+        "L"
+      ],
+      "awayFormAway": [
+        "L",
+        "L",
+        "L",
+        "W",
+        "L"
+      ],
+      "formAdvantage": true,
+      "odds": null,
+      "forebet": {
+        "prediction": "1",
+        "probability": 71.0,
+        "exactScore": "79-70",
+        "overUnder": null,
+        "btts": null,
+        "homeProb": null,
+        "drawProb": null,
+        "awayProb": null
+      },
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "1",
+        "prob": 58.6,
+        "ev": -999.0,
+        "edge": 0.0,
+        "kelly": 0.0,
+        "confidence": 41.0,
+        "dataQuality": 0.6
+      },
+      "tennis": null,
+      "confidence": 41.0,
+      "value_bet": false
+    },
+    {
+      "id": -3482707791708133475,
+      "homeTeam": "Pioneros",
+      "awayTeam": "Guaiqueries",
+      "time": "06.05.2026 23:00",
+      "date": "2026-05-06",
+      "league": null,
+      "country": "",
+      "sport": "basketball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/koszykowka/guaiqueries-0v4NSkIg/pioneros-0xtmPM6E/?mid=r73JtGyh",
+      "qualifies": true,
+      "h2h": {
+        "home": 3,
+        "draw": 0,
+        "away": 2,
+        "total": 5,
+        "winRate": 60
+      },
+      "homeForm": [
+        "L",
+        "W",
+        "W",
+        "W",
+        "W"
+      ],
+      "awayForm": [
+        "L",
+        "W",
+        "W",
+        "W",
+        "L"
+      ],
+      "homeFormHome": [
+        "L",
+        "W",
+        "W",
+        "L",
+        "W"
+      ],
+      "awayFormAway": [
+        "W",
+        "W",
+        "W",
+        "L",
+        "W"
+      ],
+      "formAdvantage": false,
+      "odds": {
+        "home": 2.4,
+        "draw": null,
+        "away": 1.63,
+        "bookmaker": "Pinnacle"
+      },
+      "forebet": {
+        "prediction": "2",
+        "probability": 63.0,
+        "exactScore": "66-79",
+        "overUnder": null,
+        "btts": null,
+        "homeProb": null,
+        "drawProb": null,
+        "awayProb": null
+      },
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "1",
+        "prob": 39.3,
+        "ev": -0.056,
+        "edge": -2.3,
+        "kelly": 0.0,
+        "confidence": 34.0,
+        "dataQuality": 0.7
+      },
+      "tennis": null,
+      "confidence": 34.0,
+      "value_bet": false
+    },
+    {
+      "id": 4779377330391817400,
+      "homeTeam": "Piratas de La Guaira",
+      "awayTeam": "Cocodrilos",
+      "time": "06.05.2026 23:00",
+      "date": "2026-05-06",
+      "league": null,
+      "country": "",
+      "sport": "basketball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/koszykowka/cocodrilos-z5NoWCMn/piratas-de-la-guaira-UyL12K8J/?mid=jX6Rvf64",
+      "qualifies": false,
+      "h2h": {
+        "home": 1,
+        "draw": 0,
+        "away": 4,
+        "total": 5,
+        "winRate": 20
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null,
+      "confidence": 0,
+      "value_bet": false
+    },
+    {
+      "id": 1634002970217236538,
+      "homeTeam": "Spartans",
+      "awayTeam": "Panteras",
+      "time": "06.05.2026 23:00",
+      "date": "2026-05-06",
+      "league": null,
+      "country": "",
+      "sport": "basketball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/koszykowka/panteras-vBAydIom/spartans-SSsI9g07/?mid=d88XNWIc",
+      "qualifies": true,
+      "h2h": {
+        "home": 4,
+        "draw": 0,
+        "away": 1,
+        "total": 5,
+        "winRate": 80
+      },
+      "homeForm": [
+        "L",
+        "L",
+        "L",
+        "W",
+        "W"
+      ],
+      "awayForm": [
+        "L",
+        "L",
+        "L",
+        "L",
+        "L"
+      ],
+      "homeFormHome": [
+        "L",
+        "W",
+        "W",
+        "W",
+        "L"
+      ],
+      "awayFormAway": [
+        "W",
+        "L",
+        "W",
+        "W",
+        "L"
+      ],
+      "formAdvantage": false,
+      "odds": {
+        "home": 1.09,
+        "draw": null,
+        "away": 7.5,
+        "bookmaker": "Pinnacle"
+      },
+      "forebet": {
+        "prediction": "1",
+        "probability": 71.0,
+        "exactScore": "79-70",
+        "overUnder": null,
+        "btts": null,
+        "homeProb": null,
+        "drawProb": null,
+        "awayProb": null
+      },
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "2",
+        "prob": 14.2,
+        "ev": 0.065,
+        "edge": 0.9,
+        "kelly": 1.0,
+        "confidence": 38.0,
+        "dataQuality": 0.7
+      },
+      "tennis": null,
+      "confidence": 38.0,
+      "value_bet": true
+    },
+    {
+      "id": 8357282361057875402,
+      "homeTeam": "Trotamundos",
+      "awayTeam": "Cocodrilos",
+      "time": "06.05.2026 23:00",
+      "date": "2026-05-06",
+      "league": null,
+      "country": "",
+      "sport": "basketball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/koszykowka/cocodrilos-z5NoWCMn/trotamundos-8SJ51vOP/?mid=faEXSI0f",
+      "qualifies": false,
+      "h2h": {
+        "home": 2,
+        "draw": 0,
+        "away": 3,
+        "total": 5,
+        "winRate": 40
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null,
+      "confidence": 0,
+      "value_bet": false
+    },
+    {
+      "id": 4378251808319997349,
+      "homeTeam": "Budapesti Honved Se",
+      "awayTeam": "DEAC",
+      "time": "06.05.2026 17:00",
+      "date": "2026-05-06",
+      "league": null,
+      "country": "",
+      "sport": "basketball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/koszykowka/budapesti-honved-se-MkCH5pB4/debreceni-egyetem-zLeWNVnf/?mid=rZoYohi2",
+      "qualifies": true,
+      "h2h": {
+        "home": 4,
+        "draw": 0,
+        "away": 1,
+        "total": 5,
+        "winRate": 80
+      },
+      "homeForm": [
+        "W",
+        "L",
+        "L",
+        "L",
+        "W"
+      ],
+      "awayForm": [
+        "L",
+        "L",
+        "W",
+        "L",
+        "W"
+      ],
+      "homeFormHome": [
+        "L",
+        "W",
+        "W",
+        "W",
+        "L"
+      ],
+      "awayFormAway": [
+        "W",
+        "L",
+        "L",
+        "L",
+        "L"
+      ],
+      "formAdvantage": false,
+      "odds": {
+        "home": 1.45,
+        "draw": null,
+        "away": 2.9,
+        "bookmaker": "Pinnacle"
+      },
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "1",
+        "prob": 65.6,
+        "ev": -0.048,
+        "edge": -3.3,
+        "kelly": 0.0,
+        "confidence": 40.0,
+        "dataQuality": 0.6
+      },
+      "tennis": null,
+      "confidence": 40.0,
+      "value_bet": false
+    },
+    {
+      "id": 8089672156525360329,
+      "homeTeam": "TFSE K",
+      "awayTeam": "Sopron K",
+      "time": "06.05.2026 16:00",
+      "date": "2026-05-06",
+      "league": null,
+      "country": "",
+      "sport": "basketball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/koszykowka/sopron-WUZNDf3g/tfse-l4pSotJH/?mid=EDIctJxQ",
+      "qualifies": false,
+      "h2h": {
+        "home": 1,
+        "draw": 0,
+        "away": 4,
+        "total": 5,
+        "winRate": 20
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null,
+      "confidence": 0,
+      "value_bet": false
+    },
+    {
+      "id": 527668945568326391,
+      "homeTeam": "Ujbuda BEAC K",
+      "awayTeam": "Csata TKK K",
+      "time": "06.05.2026 17:00",
+      "date": "2026-05-06",
+      "league": null,
+      "country": "",
+      "sport": "basketball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/koszykowka/csata-tkk-U5mC8Xm4/ujbuda-beac-QRqWNv3S/?mid=QHTO2Cl4",
+      "qualifies": false,
+      "h2h": {
+        "home": 1,
+        "draw": 0,
+        "away": 2,
+        "total": 3,
+        "winRate": 33
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null,
+      "confidence": 0,
+      "value_bet": false
+    },
+    {
+      "id": -2131072521292235735,
+      "homeTeam": "Giussano K",
+      "awayTeam": "Milano Basket Stars K",
+      "time": "06.05.2026 19:00",
+      "date": "2026-05-06",
+      "league": null,
+      "country": "",
+      "sport": "basketball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/koszykowka/giussano-lAKUs510/milano-basket-stars-Cf0DXnWr/?mid=vX14pIbm",
+      "qualifies": false,
+      "h2h": {
+        "home": 1,
+        "draw": 0,
+        "away": 2,
+        "total": 3,
+        "winRate": 33
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null,
+      "confidence": 0,
+      "value_bet": false
+    }
+  ]
+}
