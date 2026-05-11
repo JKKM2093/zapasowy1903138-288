@@ -1,0 +1,219 @@
+{
+  "date": "2026-05-11",
+  "sport": "handball",
+  "generatedAt": "2026-05-11T02:30:52.028915",
+  "stats": {
+    "total": 3,
+    "qualifying": 3,
+    "formAdvantage": 2
+  },
+  "matches": [
+    {
+      "id": 9046019845340617166,
+      "homeTeam": "Piotrkowianin",
+      "awayTeam": "Puławy",
+      "time": "11.05.2026 16:00",
+      "date": "2026-05-11",
+      "league": null,
+      "country": "",
+      "sport": "handball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/pilka-reczna/piotrkow-tryb-bL9VZK46/pulawy-AsvftdRu/?mid=dhjzER2t",
+      "qualifies": true,
+      "h2h": {
+        "home": 3,
+        "draw": 0,
+        "away": 2,
+        "total": 5,
+        "winRate": 60
+      },
+      "homeForm": [
+        "L",
+        "L",
+        "L",
+        "L",
+        "L"
+      ],
+      "awayForm": [
+        "W",
+        "L",
+        "L",
+        "L",
+        "L"
+      ],
+      "homeFormHome": [
+        "L",
+        "L",
+        "L",
+        "W",
+        "L"
+      ],
+      "awayFormAway": [
+        "L",
+        "L",
+        "L",
+        "L",
+        "W"
+      ],
+      "formAdvantage": false,
+      "odds": {
+        "home": 1.63,
+        "draw": 7.5,
+        "away": 2.75,
+        "bookmaker": "Pinnacle"
+      },
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "X",
+        "prob": 18.1,
+        "ev": 0.361,
+        "edge": 4.8,
+        "kelly": 5.6,
+        "confidence": 42.0,
+        "dataQuality": 0.6
+      },
+      "tennis": null,
+      "confidence": 42.0,
+      "value_bet": true
+    },
+    {
+      "id": 1482854610801194274,
+      "homeTeam": "Sola K",
+      "awayTeam": "Molde K",
+      "time": "11.05.2026 16:15",
+      "date": "2026-05-11",
+      "league": null,
+      "country": "",
+      "sport": "handball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/pilka-reczna/molde-Q1LVq6kT/sola-p0hXyclm/?mid=WSBsMMx1",
+      "qualifies": true,
+      "h2h": {
+        "home": 3,
+        "draw": 0,
+        "away": 1,
+        "total": 5,
+        "winRate": 60
+      },
+      "homeForm": [
+        "W",
+        "W",
+        "W",
+        "W",
+        "W"
+      ],
+      "awayForm": [
+        "W",
+        "W",
+        "L",
+        "D",
+        "W"
+      ],
+      "homeFormHome": [
+        "W",
+        "W",
+        "W",
+        "W",
+        "W"
+      ],
+      "awayFormAway": [
+        "L",
+        "W",
+        "W",
+        "D",
+        "L"
+      ],
+      "formAdvantage": true,
+      "odds": {
+        "home": 1.3,
+        "draw": 10.0,
+        "away": 4.0,
+        "bookmaker": "Pinnacle"
+      },
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "X",
+        "prob": 14.0,
+        "ev": 0.396,
+        "edge": 4.0,
+        "kelly": 4.4,
+        "confidence": 39.0,
+        "dataQuality": 0.6
+      },
+      "tennis": null,
+      "confidence": 39.0,
+      "value_bet": true
+    },
+    {
+      "id": -1601565656264539577,
+      "homeTeam": "Crvena zvezda K",
+      "awayTeam": "Mladost NP K",
+      "time": "11.05.2026 15:30",
+      "date": "2026-05-11",
+      "league": null,
+      "country": "",
+      "sport": "handball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/pilka-reczna/crvena-zvezda-00PKENkO/mladost-np-0UbR8P78/?mid=AeSeEiBM",
+      "qualifies": true,
+      "h2h": {
+        "home": 5,
+        "draw": 0,
+        "away": 0,
+        "total": 5,
+        "winRate": 100
+      },
+      "homeForm": [
+        "W",
+        "W",
+        "W",
+        "W",
+        "W"
+      ],
+      "awayForm": [
+        "L",
+        "W",
+        "W",
+        "L",
+        "W"
+      ],
+      "homeFormHome": [
+        "W",
+        "W",
+        "W",
+        "W",
+        "W"
+      ],
+      "awayFormAway": [
+        "W",
+        "W",
+        "L",
+        "L",
+        "L"
+      ],
+      "formAdvantage": true,
+      "odds": {
+        "home": 1.01,
+        "draw": 25.0,
+        "away": 12.0,
+        "bookmaker": "Pinnacle"
+      },
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "X",
+        "prob": 7.0,
+        "ev": 0.749,
+        "edge": 3.0,
+        "kelly": 3.1,
+        "confidence": 35.0,
+        "dataQuality": 0.6
+      },
+      "tennis": null,
+      "confidence": 35.0,
+      "value_bet": true
+    }
+  ]
+}

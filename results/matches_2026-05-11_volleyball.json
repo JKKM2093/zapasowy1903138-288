@@ -1,0 +1,44 @@
+{
+  "date": "2026-05-11",
+  "sport": "volleyball",
+  "generatedAt": "2026-05-11T02:30:11.456713",
+  "stats": {
+    "total": 1,
+    "qualifying": 0,
+    "formAdvantage": 0
+  },
+  "matches": [
+    {
+      "id": -7243754709312437856,
+      "homeTeam": "Arcada Galati",
+      "awayTeam": "Dinamo Bukareszt",
+      "time": "11.05.2026 16:30",
+      "date": "2026-05-11",
+      "league": null,
+      "country": "",
+      "sport": "volleyball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/siatkowka/arcada-galati-nLLqbs85/dinamo-bukareszt-O6ac1n9H/?mid=4CQ7Pldt",
+      "qualifies": false,
+      "h2h": {
+        "home": 2,
+        "draw": 0,
+        "away": 3,
+        "total": 5,
+        "winRate": 40
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null,
+      "confidence": 0,
+      "value_bet": false
+    }
+  ]
+}

@@ -1,0 +1,434 @@
+{
+  "date": "2026-05-11",
+  "sport": "hockey",
+  "generatedAt": "2026-05-11T02:31:52.108674",
+  "stats": {
+    "total": 7,
+    "qualifying": 5,
+    "formAdvantage": 2
+  },
+  "matches": [
+    {
+      "id": 2794436144929266658,
+      "homeTeam": "KooKoo",
+      "awayTeam": "Tappara",
+      "time": "11.05.2026 15:30",
+      "date": "2026-05-11",
+      "league": null,
+      "country": "",
+      "sport": "hockey",
+      "matchUrl": "https://www.livesport.com/pl/mecz/hokej/kookoo-ljjApDE3/tappara-llrWVOwG/?mid=rg6opziA",
+      "qualifies": true,
+      "h2h": {
+        "home": 3,
+        "draw": 0,
+        "away": 2,
+        "total": 5,
+        "winRate": 60
+      },
+      "homeForm": [
+        "W",
+        "D",
+        "L",
+        "W",
+        "W"
+      ],
+      "awayForm": [
+        "L",
+        "W",
+        "W",
+        "L",
+        "L"
+      ],
+      "homeFormHome": [
+        "D",
+        "W",
+        "W",
+        "L",
+        "W"
+      ],
+      "awayFormAway": [
+        "W",
+        "W",
+        "L",
+        "L",
+        "W"
+      ],
+      "formAdvantage": true,
+      "odds": {
+        "home": 2.55,
+        "draw": 3.8,
+        "away": 2.4,
+        "bookmaker": "Pinnacle"
+      },
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "1",
+        "prob": 49.2,
+        "ev": 0.253,
+        "edge": 9.9,
+        "kelly": 16.3,
+        "confidence": 61.0,
+        "dataQuality": 0.6
+      },
+      "tennis": null,
+      "confidence": 61.0,
+      "value_bet": true
+    },
+    {
+      "id": -712745980994117214,
+      "homeTeam": "Anaheim Ducks",
+      "awayTeam": "Vegas Golden Knights",
+      "time": "11.05.2026 01:30",
+      "date": "2026-05-11",
+      "league": null,
+      "country": "",
+      "sport": "hockey",
+      "matchUrl": "https://www.livesport.com/pl/mecz/hokej/anaheim-ducks-4CM4ojpD/vegas-golden-knights-fTT0TsUg/?mid=rwGUGwHt",
+      "qualifies": true,
+      "h2h": {
+        "home": 3,
+        "draw": 0,
+        "away": 2,
+        "total": 5,
+        "winRate": 60
+      },
+      "homeForm": [
+        "L",
+        "W",
+        "L",
+        "W",
+        "L"
+      ],
+      "awayForm": [
+        "W",
+        "L",
+        "W",
+        "W",
+        "W"
+      ],
+      "homeFormHome": [
+        "L",
+        "W",
+        "W",
+        "W",
+        "D"
+      ],
+      "awayFormAway": [
+        "W",
+        "W",
+        "L",
+        "W",
+        "L"
+      ],
+      "formAdvantage": false,
+      "odds": {
+        "home": 2.3,
+        "draw": 4.1,
+        "away": 2.6,
+        "bookmaker": "Pinnacle"
+      },
+      "forebet": {
+        "prediction": "2",
+        "probability": 55.0,
+        "exactScore": "3-5",
+        "overUnder": "Over 5.5",
+        "btts": "Yes",
+        "homeProb": null,
+        "drawProb": null,
+        "awayProb": null
+      },
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "2",
+        "prob": 38.5,
+        "ev": 0.001,
+        "edge": 0.0,
+        "kelly": 0.1,
+        "confidence": 46.0,
+        "dataQuality": 0.7
+      },
+      "tennis": null,
+      "confidence": 46.0,
+      "value_bet": true
+    },
+    {
+      "id": 8137247331516373137,
+      "homeTeam": "Jarosław",
+      "awayTeam": "Kazań",
+      "time": "11.05.2026 11:30",
+      "date": "2026-05-11",
+      "league": null,
+      "country": "",
+      "sport": "hockey",
+      "matchUrl": "https://www.livesport.com/pl/mecz/hokej/kazan-v320kOMr/yaroslavl-MNZan6lB/?mid=nDRZhIlL",
+      "qualifies": true,
+      "h2h": {
+        "home": 4,
+        "draw": 0,
+        "away": 1,
+        "total": 5,
+        "winRate": 80
+      },
+      "homeForm": [
+        "W",
+        "W",
+        "W",
+        "L",
+        "W"
+      ],
+      "awayForm": [
+        "W",
+        "W",
+        "W",
+        "L",
+        "W"
+      ],
+      "homeFormHome": [
+        "W",
+        "W",
+        "L",
+        "L",
+        "W"
+      ],
+      "awayFormAway": [
+        "W",
+        "L",
+        "L",
+        "L",
+        "W"
+      ],
+      "formAdvantage": false,
+      "odds": {
+        "home": 2.2,
+        "draw": 3.8,
+        "away": 2.9,
+        "bookmaker": "Pinnacle"
+      },
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "1",
+        "prob": 58.0,
+        "ev": 0.277,
+        "edge": 12.6,
+        "kelly": 23.1,
+        "confidence": 68.0,
+        "dataQuality": 0.6
+      },
+      "tennis": null,
+      "confidence": 68.0,
+      "value_bet": true
+    },
+    {
+      "id": 2254299593352803590,
+      "homeTeam": "Almetyevsk",
+      "awayTeam": "Jugra",
+      "time": "11.05.2026 14:00",
+      "date": "2026-05-11",
+      "league": null,
+      "country": "",
+      "sport": "hockey",
+      "matchUrl": "https://www.livesport.com/pl/mecz/hokej/almetyevsk-OjLH0pat/yugra-CpX7KoQr/?mid=zoEGoqYi",
+      "qualifies": false,
+      "h2h": {
+        "home": 2,
+        "draw": 0,
+        "away": 3,
+        "total": 5,
+        "winRate": 40
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null,
+      "confidence": 0,
+      "value_bet": false
+    },
+    {
+      "id": 6092150899177641923,
+      "homeTeam": "Maine Mariners",
+      "awayTeam": "Wheeling Nailers",
+      "time": "11.05.2026 23:00",
+      "date": "2026-05-11",
+      "league": null,
+      "country": "",
+      "sport": "hockey",
+      "matchUrl": "https://www.livesport.com/pl/mecz/hokej/maine-mariners-4CYwevGQ/wheeling-nailers-44r3GX5p/?mid=UNZDnvGk",
+      "qualifies": false,
+      "h2h": {
+        "home": 1,
+        "draw": 0,
+        "away": 4,
+        "total": 5,
+        "winRate": 20
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null,
+      "confidence": 0,
+      "value_bet": false
+    },
+    {
+      "id": -1960167237120055600,
+      "homeTeam": "Muskegon Lumberjacks",
+      "awayTeam": "Madison Capitols",
+      "time": "11.05.2026 23:10",
+      "date": "2026-05-11",
+      "league": null,
+      "country": "",
+      "sport": "hockey",
+      "matchUrl": "https://www.livesport.com/pl/mecz/hokej/madison-capitols-GzUTB3Lc/muskegon-lumberjacks-xpVPCq6i/?mid=reFs4RS6",
+      "qualifies": true,
+      "h2h": {
+        "home": 3,
+        "draw": 0,
+        "away": 2,
+        "total": 5,
+        "winRate": 60
+      },
+      "homeForm": [
+        "W",
+        "L",
+        "W",
+        "L",
+        "W"
+      ],
+      "awayForm": [
+        "L",
+        "W",
+        "L",
+        "W",
+        "W"
+      ],
+      "homeFormHome": [
+        "W",
+        "L",
+        "W",
+        "L",
+        "D"
+      ],
+      "awayFormAway": [
+        "W",
+        "L",
+        "L",
+        "W",
+        "L"
+      ],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "1",
+        "prob": 50.0,
+        "ev": -999.0,
+        "edge": 0.0,
+        "kelly": 0.0,
+        "confidence": 35.0,
+        "dataQuality": 0.5
+      },
+      "tennis": null,
+      "confidence": 35.0,
+      "value_bet": false
+    },
+    {
+      "id": 6993910571696161364,
+      "homeTeam": "Montreal Victoire K",
+      "awayTeam": "Minnesota Frost K",
+      "time": "11.05.2026 23:00",
+      "date": "2026-05-11",
+      "league": null,
+      "country": "",
+      "sport": "hockey",
+      "matchUrl": "https://www.livesport.com/pl/mecz/hokej/minnesota-frost-EZ21VBMp/montreal-victoire-UqtUmKxC/?mid=hQt9fxSq",
+      "qualifies": true,
+      "h2h": {
+        "home": 3,
+        "draw": 0,
+        "away": 2,
+        "total": 5,
+        "winRate": 60
+      },
+      "homeForm": [
+        "L",
+        "W",
+        "W",
+        "D",
+        "W"
+      ],
+      "awayForm": [
+        "W",
+        "L",
+        "D",
+        "W",
+        "D"
+      ],
+      "homeFormHome": [
+        "W",
+        "D",
+        "W",
+        "W",
+        "W"
+      ],
+      "awayFormAway": [
+        "L",
+        "W",
+        "L",
+        "W",
+        "L"
+      ],
+      "formAdvantage": true,
+      "odds": {
+        "home": 2.1,
+        "draw": 3.7,
+        "away": 2.75,
+        "bookmaker": "Pinnacle"
+      },
+      "forebet": {
+        "prediction": "2",
+        "probability": null,
+        "exactScore": null,
+        "overUnder": null,
+        "btts": null,
+        "homeProb": null,
+        "drawProb": null,
+        "awayProb": null
+      },
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "1",
+        "prob": 52.3,
+        "ev": 0.098,
+        "edge": 4.7,
+        "kelly": 8.9,
+        "confidence": 55.0,
+        "dataQuality": 0.6
+      },
+      "tennis": null,
+      "confidence": 55.0,
+      "value_bet": true
+    }
+  ]
+}
