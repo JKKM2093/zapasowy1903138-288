@@ -1,0 +1,246 @@
+{
+  "date": "2026-05-13",
+  "sport": "volleyball",
+  "generatedAt": "2026-05-13T02:39:27.769342",
+  "stats": {
+    "total": 5,
+    "qualifying": 2,
+    "formAdvantage": 0
+  },
+  "matches": [
+    {
+      "id": -7996246103966331869,
+      "homeTeam": "Jakarta Bhayangkara (Ina)",
+      "awayTeam": "Zhayik Uralsk (Kaz)",
+      "time": "13.05.2026 08:00",
+      "date": "2026-05-13",
+      "league": null,
+      "country": "",
+      "sport": "volleyball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/siatkowka/jakarta-bhayangkara-8KSv52Po/zhayik-uralsk-vPkStePF/?mid=0pc7mhuS",
+      "qualifies": false,
+      "h2h": {
+        "home": 0,
+        "draw": 0,
+        "away": 0,
+        "total": 0,
+        "winRate": 0
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null,
+      "confidence": 0,
+      "value_bet": false
+    },
+    {
+      "id": 7466035997367050886,
+      "homeTeam": "Al-Rayyan (Qat)",
+      "awayTeam": "Hyundai Skywalkers (Kor)",
+      "time": "13.05.2026 12:00",
+      "date": "2026-05-13",
+      "league": null,
+      "country": "",
+      "sport": "volleyball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/siatkowka/al-rayyan-AoB7qja3/hyundai-skywalkers-6s78fQii/?mid=fmfakEAF",
+      "qualifies": false,
+      "h2h": {
+        "home": 0,
+        "draw": 0,
+        "away": 0,
+        "total": 0,
+        "winRate": 0
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null,
+      "confidence": 0,
+      "value_bet": false
+    },
+    {
+      "id": -6399585666163015563,
+      "homeTeam": "Legion Obuhovo",
+      "awayTeam": "Energia Gomel",
+      "time": "13.05.2026 15:00",
+      "date": "2026-05-13",
+      "league": null,
+      "country": "",
+      "sport": "volleyball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/siatkowka/energia-nJfS9Pr9/legion-obuhovo-ni2UrGgh/?mid=b9xpUfrA",
+      "qualifies": false,
+      "h2h": {
+        "home": 1,
+        "draw": 0,
+        "away": 4,
+        "total": 5,
+        "winRate": 20
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null,
+      "confidence": 0,
+      "value_bet": false
+    },
+    {
+      "id": -639647684087727413,
+      "homeTeam": "Zenit St. Petersburg",
+      "awayTeam": "Belgorod",
+      "time": "13.05.2026 13:00",
+      "date": "2026-05-13",
+      "league": null,
+      "country": "",
+      "sport": "volleyball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/siatkowka/belgorod-f3mgP9Ou/zenit-st-petersburg-S0nUsKBh/?mid=d0Mayvem",
+      "qualifies": true,
+      "h2h": {
+        "home": 4,
+        "draw": 0,
+        "away": 1,
+        "total": 5,
+        "winRate": 80
+      },
+      "homeForm": [
+        "L",
+        "L",
+        "W",
+        "W",
+        "L"
+      ],
+      "awayForm": [
+        "L",
+        "W",
+        "W",
+        "W",
+        "W"
+      ],
+      "homeFormHome": [
+        "L",
+        "W",
+        "L",
+        "W",
+        "L"
+      ],
+      "awayFormAway": [
+        "W",
+        "L",
+        "W",
+        "L",
+        "W"
+      ],
+      "formAdvantage": false,
+      "odds": {
+        "home": 1.25,
+        "draw": null,
+        "away": 3.4,
+        "bookmaker": "Pinnacle"
+      },
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "2",
+        "prob": 23.7,
+        "ev": -0.195,
+        "edge": -5.7,
+        "kelly": 0.0,
+        "confidence": 20.0,
+        "dataQuality": 0.6
+      },
+      "tennis": null,
+      "confidence": 20.0,
+      "value_bet": false
+    },
+    {
+      "id": -4400259172070392715,
+      "homeTeam": "Zenit Kazań",
+      "awayTeam": "Novosibirsk",
+      "time": "13.05.2026 16:00",
+      "date": "2026-05-13",
+      "league": null,
+      "country": "",
+      "sport": "volleyball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/siatkowka/novosibirsk-tOoNOmgh/zenit-kazan-j7MxHCWI/?mid=OfMNVZOO",
+      "qualifies": true,
+      "h2h": {
+        "home": 3,
+        "draw": 0,
+        "away": 2,
+        "total": 5,
+        "winRate": 60
+      },
+      "homeForm": [
+        "L",
+        "L",
+        "L",
+        "W",
+        "L"
+      ],
+      "awayForm": [
+        "W",
+        "W",
+        "W",
+        "L",
+        "L"
+      ],
+      "homeFormHome": [
+        "L",
+        "L",
+        "W",
+        "W",
+        "L"
+      ],
+      "awayFormAway": [
+        "L",
+        "W",
+        "L",
+        "W",
+        "L"
+      ],
+      "formAdvantage": false,
+      "odds": {
+        "home": 1.48,
+        "draw": null,
+        "away": 2.4,
+        "bookmaker": "Pinnacle"
+      },
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "2",
+        "prob": 31.4,
+        "ev": -0.246,
+        "edge": -10.2,
+        "kelly": 0.0,
+        "confidence": 17.0,
+        "dataQuality": 0.6
+      },
+      "tennis": null,
+      "confidence": 17.0,
+      "value_bet": false
+    }
+  ]
+}

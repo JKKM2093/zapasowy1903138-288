@@ -1,0 +1,1053 @@
+{
+  "date": "2026-05-13",
+  "sport": "handball",
+  "generatedAt": "2026-05-13T02:40:20.332283",
+  "stats": {
+    "total": 19,
+    "qualifying": 12,
+    "formAdvantage": 2
+  },
+  "matches": [
+    {
+      "id": -3909823006786450926,
+      "homeTeam": "Austria",
+      "awayTeam": "Polska",
+      "time": "13.05.2026 16:00",
+      "date": "2026-05-13",
+      "league": null,
+      "country": "",
+      "sport": "handball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/pilka-reczna/austria-MFMpriop/polska-xtMA0TGa/?mid=M1hKvM0D",
+      "qualifies": false,
+      "h2h": {
+        "home": 0,
+        "draw": 0,
+        "away": 3,
+        "total": 3,
+        "winRate": 0
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null,
+      "confidence": 0,
+      "value_bet": false
+    },
+    {
+      "id": -3223192923428308066,
+      "homeTeam": "Norwegia",
+      "awayTeam": "Turcja",
+      "time": "13.05.2026 16:00",
+      "date": "2026-05-13",
+      "league": null,
+      "country": "",
+      "sport": "handball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/pilka-reczna/norwegia-KKgb191g/turcja-6DavHnoa/?mid=21mJhw1S",
+      "qualifies": true,
+      "h2h": {
+        "home": 4,
+        "draw": 0,
+        "away": 0,
+        "total": 4,
+        "winRate": 100
+      },
+      "homeForm": [
+        "W",
+        "W",
+        "L",
+        "L",
+        "D"
+      ],
+      "awayForm": [
+        "W",
+        "L",
+        "W",
+        "W",
+        "W"
+      ],
+      "homeFormHome": [
+        "W",
+        "L",
+        "L",
+        "W",
+        "L"
+      ],
+      "awayFormAway": [
+        "W",
+        "W",
+        "L",
+        "W",
+        "L"
+      ],
+      "formAdvantage": false,
+      "odds": {
+        "home": 1.0,
+        "draw": 20.0,
+        "away": 18.0,
+        "bookmaker": "Pinnacle"
+      },
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "2",
+        "prob": 21.9,
+        "ev": 2.94,
+        "edge": 16.3,
+        "kelly": 17.3,
+        "confidence": 54.0,
+        "dataQuality": 0.5
+      },
+      "tennis": null,
+      "confidence": 54.0,
+      "value_bet": true
+    },
+    {
+      "id": -5832283364838026086,
+      "homeTeam": "Grecja",
+      "awayTeam": "Holandia",
+      "time": "13.05.2026 16:30",
+      "date": "2026-05-13",
+      "league": null,
+      "country": "",
+      "sport": "handball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/pilka-reczna/grecja-lxRp4vYE/holandia-xd4g2knm/?mid=jF7NXs8N",
+      "qualifies": false,
+      "h2h": {
+        "home": 2,
+        "draw": 0,
+        "away": 3,
+        "total": 5,
+        "winRate": 40
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null,
+      "confidence": 0,
+      "value_bet": false
+    },
+    {
+      "id": -3066504512033604296,
+      "homeTeam": "Szwajcaria",
+      "awayTeam": "Włochy",
+      "time": "13.05.2026 17:00",
+      "date": "2026-05-13",
+      "league": null,
+      "country": "",
+      "sport": "handball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/pilka-reczna/szwajcaria-xUB5Il1t/wlochy-IcKfoAn0/?mid=dAslc9jS",
+      "qualifies": true,
+      "h2h": {
+        "home": 3,
+        "draw": 0,
+        "away": 1,
+        "total": 5,
+        "winRate": 60
+      },
+      "homeForm": [
+        "D",
+        "L",
+        "L",
+        "D",
+        "L"
+      ],
+      "awayForm": [
+        "L",
+        "W",
+        "L",
+        "L",
+        "L"
+      ],
+      "homeFormHome": [
+        "L",
+        "D",
+        "L",
+        "D",
+        "L"
+      ],
+      "awayFormAway": [
+        "L",
+        "W",
+        "W",
+        "L",
+        "L"
+      ],
+      "formAdvantage": false,
+      "odds": {
+        "home": 1.25,
+        "draw": 9.5,
+        "away": 4.4,
+        "bookmaker": "Pinnacle"
+      },
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "X",
+        "prob": 15.5,
+        "ev": 0.475,
+        "edge": 5.0,
+        "kelly": 5.6,
+        "confidence": 41.0,
+        "dataQuality": 0.6
+      },
+      "tennis": null,
+      "confidence": 41.0,
+      "value_bet": true
+    },
+    {
+      "id": 7234549036044956772,
+      "homeTeam": "Czechy",
+      "awayTeam": "Francja",
+      "time": "13.05.2026 18:00",
+      "date": "2026-05-13",
+      "league": null,
+      "country": "",
+      "sport": "handball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/pilka-reczna/czechy-MmOYmuJL/francja-SMxx6032/?mid=06WRkRr2",
+      "qualifies": false,
+      "h2h": {
+        "home": 0,
+        "draw": 0,
+        "away": 5,
+        "total": 5,
+        "winRate": 0
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null,
+      "confidence": 0,
+      "value_bet": false
+    },
+    {
+      "id": 4195284201731351999,
+      "homeTeam": "Lazne Kynzvart K",
+      "awayTeam": "Pisek K",
+      "time": "13.05.2026 15:00",
+      "date": "2026-05-13",
+      "league": null,
+      "country": "",
+      "sport": "handball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/pilka-reczna/lazne-kynzvart-AaBsK1Mn/pisek-xpOPVyBL/?mid=WAdMt8Rk",
+      "qualifies": true,
+      "h2h": {
+        "home": 4,
+        "draw": 0,
+        "away": 1,
+        "total": 5,
+        "winRate": 80
+      },
+      "homeForm": [
+        "L",
+        "W",
+        "L",
+        "L",
+        "L"
+      ],
+      "awayForm": [
+        "W",
+        "L",
+        "W",
+        "W",
+        "W"
+      ],
+      "homeFormHome": [
+        "W",
+        "L",
+        "D",
+        "W",
+        "L"
+      ],
+      "awayFormAway": [
+        "L",
+        "L",
+        "L",
+        "W",
+        "L"
+      ],
+      "formAdvantage": false,
+      "odds": {
+        "home": 1.2,
+        "draw": 11.0,
+        "away": 5.0,
+        "bookmaker": "Pinnacle"
+      },
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "X",
+        "prob": 13.4,
+        "ev": 0.469,
+        "edge": 4.3,
+        "kelly": 4.7,
+        "confidence": 39.0,
+        "dataQuality": 0.6
+      },
+      "tennis": null,
+      "confidence": 39.0,
+      "value_bet": true
+    },
+    {
+      "id": -1525237826123844412,
+      "homeTeam": "Most K",
+      "awayTeam": "Slavia Praga K",
+      "time": "13.05.2026 16:00",
+      "date": "2026-05-13",
+      "league": null,
+      "country": "",
+      "sport": "handball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/pilka-reczna/most-AslRPg3e/slavia-praga-jTLDYwR2/?mid=A3dMTv5E",
+      "qualifies": true,
+      "h2h": {
+        "home": 3,
+        "draw": 0,
+        "away": 2,
+        "total": 5,
+        "winRate": 60
+      },
+      "homeForm": [
+        "D",
+        "W",
+        "L",
+        "W",
+        "L"
+      ],
+      "awayForm": [
+        "W",
+        "L",
+        "L",
+        "W",
+        "W"
+      ],
+      "homeFormHome": [
+        "W",
+        "W",
+        "L",
+        "W",
+        "W"
+      ],
+      "awayFormAway": [
+        "L",
+        "L",
+        "W",
+        "W",
+        "L"
+      ],
+      "formAdvantage": false,
+      "odds": {
+        "home": 1.2,
+        "draw": 11.0,
+        "away": 5.25,
+        "bookmaker": "Pinnacle"
+      },
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "X",
+        "prob": 15.9,
+        "ev": 0.754,
+        "edge": 6.9,
+        "kelly": 7.5,
+        "confidence": 44.0,
+        "dataQuality": 0.6
+      },
+      "tennis": null,
+      "confidence": 44.0,
+      "value_bet": true
+    },
+    {
+      "id": 1475483255597442883,
+      "homeTeam": "Odense K",
+      "awayTeam": "NFH K",
+      "time": "13.05.2026 16:30",
+      "date": "2026-05-13",
+      "league": null,
+      "country": "",
+      "sport": "handball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/pilka-reczna/nfh-nyk-hl2yHC9e/odense-n9KVRHXd/?mid=bV3n7EYO",
+      "qualifies": true,
+      "h2h": {
+        "home": 4,
+        "draw": 0,
+        "away": 1,
+        "total": 5,
+        "winRate": 80
+      },
+      "homeForm": [
+        "W",
+        "W",
+        "W",
+        "L",
+        "L"
+      ],
+      "awayForm": [
+        "L",
+        "W",
+        "W",
+        "L",
+        "W"
+      ],
+      "homeFormHome": [
+        "W",
+        "W",
+        "W",
+        "L",
+        "W"
+      ],
+      "awayFormAway": [
+        "L",
+        "L",
+        "W",
+        "W",
+        "L"
+      ],
+      "formAdvantage": false,
+      "odds": {
+        "home": 1.07,
+        "draw": 14.0,
+        "away": 8.5,
+        "bookmaker": "Pinnacle"
+      },
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "X",
+        "prob": 11.4,
+        "ev": 0.59,
+        "edge": 4.2,
+        "kelly": 4.5,
+        "confidence": 38.0,
+        "dataQuality": 0.6
+      },
+      "tennis": null,
+      "confidence": 38.0,
+      "value_bet": true
+    },
+    {
+      "id": -2318970384543281085,
+      "homeTeam": "Esbjerg K",
+      "awayTeam": "Ikast Handbold K",
+      "time": "13.05.2026 18:30",
+      "date": "2026-05-13",
+      "league": null,
+      "country": "",
+      "sport": "handball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/pilka-reczna/esbjerg-zRCPFAxi/ikast-handbold-I7JfPhVo/?mid=dKn4Pelg",
+      "qualifies": true,
+      "h2h": {
+        "home": 3,
+        "draw": 0,
+        "away": 1,
+        "total": 5,
+        "winRate": 60
+      },
+      "homeForm": [
+        "W",
+        "W",
+        "W",
+        "W",
+        "L"
+      ],
+      "awayForm": [
+        "L",
+        "W",
+        "W",
+        "W",
+        "W"
+      ],
+      "homeFormHome": [
+        "W",
+        "W",
+        "W",
+        "W",
+        "W"
+      ],
+      "awayFormAway": [
+        "L",
+        "L",
+        "W",
+        "L",
+        "L"
+      ],
+      "formAdvantage": false,
+      "odds": {
+        "home": 1.12,
+        "draw": 14.0,
+        "away": 7.25,
+        "bookmaker": "Pinnacle"
+      },
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "X",
+        "prob": 12.1,
+        "ev": 0.699,
+        "edge": 5.0,
+        "kelly": 5.4,
+        "confidence": 40.0,
+        "dataQuality": 0.6
+      },
+      "tennis": null,
+      "confidence": 40.0,
+      "value_bet": true
+    },
+    {
+      "id": -8422898147949439282,
+      "homeTeam": "Ajax København K",
+      "awayTeam": "EH Aalborg K",
+      "time": "13.05.2026 16:30",
+      "date": "2026-05-13",
+      "league": null,
+      "country": "",
+      "sport": "handball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/pilka-reczna/ajax-k-benhavn-OvNam0p2/eh-aalborg-4pEanSdk/?mid=A1e1M6zi",
+      "qualifies": false,
+      "h2h": {
+        "home": 2,
+        "draw": 0,
+        "away": 3,
+        "total": 5,
+        "winRate": 40
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null,
+      "confidence": 0,
+      "value_bet": false
+    },
+    {
+      "id": -6440158014638930660,
+      "homeTeam": "Brave Kings Kariya",
+      "awayTeam": "Osaki Osol",
+      "time": "13.05.2026 09:30",
+      "date": "2026-05-13",
+      "league": null,
+      "country": "",
+      "sport": "handball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/pilka-reczna/brave-kings-kariya-Wt0TaFPt/osaki-osol-vk814eHP/?mid=zNAaH8Jk",
+      "qualifies": true,
+      "h2h": {
+        "home": 5,
+        "draw": 0,
+        "away": 0,
+        "total": 5,
+        "winRate": 100
+      },
+      "homeForm": [
+        "W",
+        "W",
+        "W",
+        "W",
+        "W"
+      ],
+      "awayForm": [
+        "D",
+        "W",
+        "W",
+        "L",
+        "W"
+      ],
+      "homeFormHome": [
+        "W",
+        "W",
+        "W",
+        "W",
+        "W"
+      ],
+      "awayFormAway": [
+        "D",
+        "L",
+        "L",
+        "L",
+        "L"
+      ],
+      "formAdvantage": true,
+      "odds": {
+        "home": 1.03,
+        "draw": 17.0,
+        "away": 13.0,
+        "bookmaker": "Pinnacle"
+      },
+      "forebet": {
+        "prediction": "2",
+        "probability": null,
+        "exactScore": null,
+        "overUnder": null,
+        "btts": null,
+        "homeProb": null,
+        "drawProb": null,
+        "awayProb": null
+      },
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "X",
+        "prob": 7.0,
+        "ev": 0.182,
+        "edge": 1.1,
+        "kelly": 1.1,
+        "confidence": 32.0,
+        "dataQuality": 0.6
+      },
+      "tennis": null,
+      "confidence": 32.0,
+      "value_bet": true
+    },
+    {
+      "id": -8699223821141155895,
+      "homeTeam": "Fyllingen K",
+      "awayTeam": "Kjelsås K",
+      "time": "13.05.2026 16:00",
+      "date": "2026-05-13",
+      "league": null,
+      "country": "",
+      "sport": "handball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/pilka-reczna/fyllingen-2FplbAZB/kjelsas-OfdUMiN2/?mid=nokGe5yQ",
+      "qualifies": true,
+      "h2h": {
+        "home": 2,
+        "draw": 0,
+        "away": 0,
+        "total": 2,
+        "winRate": 100
+      },
+      "homeForm": [
+        "L",
+        "L",
+        "L",
+        "L",
+        "L"
+      ],
+      "awayForm": [
+        "W",
+        "L",
+        "W",
+        "W",
+        "L"
+      ],
+      "homeFormHome": [
+        "L",
+        "L",
+        "L",
+        "W",
+        "L"
+      ],
+      "awayFormAway": [
+        "L",
+        "W",
+        "W",
+        "L",
+        "L"
+      ],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "1",
+        "prob": 54.4,
+        "ev": -999.0,
+        "edge": 0.0,
+        "kelly": 0.0,
+        "confidence": 37.0,
+        "dataQuality": 0.5
+      },
+      "tennis": null,
+      "confidence": 37.0,
+      "value_bet": false
+    },
+    {
+      "id": 1155704905560725243,
+      "homeTeam": "Trondheim K",
+      "awayTeam": "Byåsen K",
+      "time": "13.05.2026 19:00",
+      "date": "2026-05-13",
+      "league": null,
+      "country": "",
+      "sport": "handball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/pilka-reczna/byasen-O65tmd94/trondheim-YJP10Fxb/?mid=fi2UX1qJ",
+      "qualifies": false,
+      "h2h": {
+        "home": 0,
+        "draw": 0,
+        "away": 1,
+        "total": 1,
+        "winRate": 0
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null,
+      "confidence": 0,
+      "value_bet": false
+    },
+    {
+      "id": 5049527747740032759,
+      "homeTeam": "Piotrcovia K",
+      "awayTeam": "Zagłębie Lubin K",
+      "time": "13.05.2026 18:30",
+      "date": "2026-05-13",
+      "league": null,
+      "country": "",
+      "sport": "handball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/pilka-reczna/piotrcovia-boH6vAxJ/zaglebie-lubin-6waatW76/?mid=GIdLGsJP",
+      "qualifies": false,
+      "h2h": {
+        "home": 1,
+        "draw": 0,
+        "away": 4,
+        "total": 5,
+        "winRate": 20
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null,
+      "confidence": 0,
+      "value_bet": false
+    },
+    {
+      "id": -1486600093931998124,
+      "homeTeam": "Rostov K",
+      "awayTeam": "CSKA Moskwa K",
+      "time": "13.05.2026 16:00",
+      "date": "2026-05-13",
+      "league": null,
+      "country": "",
+      "sport": "handball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/pilka-reczna/cska-moscow-2FGs6WB0/rostov-O00C0vBL/?mid=hnU5PeT6",
+      "qualifies": true,
+      "h2h": {
+        "home": 3,
+        "draw": 0,
+        "away": 2,
+        "total": 5,
+        "winRate": 60
+      },
+      "homeForm": [
+        "W",
+        "W",
+        "W",
+        "L",
+        "L"
+      ],
+      "awayForm": [
+        "W",
+        "W",
+        "W",
+        "W",
+        "W"
+      ],
+      "homeFormHome": [
+        "W",
+        "L",
+        "L",
+        "W",
+        "W"
+      ],
+      "awayFormAway": [
+        "W",
+        "W",
+        "L",
+        "W",
+        "L"
+      ],
+      "formAdvantage": false,
+      "odds": {
+        "home": 1.65,
+        "draw": 7.5,
+        "away": 2.7,
+        "bookmaker": "Pinnacle"
+      },
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "X",
+        "prob": 17.9,
+        "ev": 0.345,
+        "edge": 4.6,
+        "kelly": 5.3,
+        "confidence": 41.0,
+        "dataQuality": 0.6
+      },
+      "tennis": null,
+      "confidence": 41.0,
+      "value_bet": true
+    },
+    {
+      "id": -1258908058403661504,
+      "homeTeam": "Dinamo-Sinara K",
+      "awayTeam": "Kubań Krasnodar K",
+      "time": "13.05.2026 15:30",
+      "date": "2026-05-13",
+      "league": null,
+      "country": "",
+      "sport": "handball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/pilka-reczna/dinamo-sinara-ITnrUXGp/krasnodar-hjgecVca/?mid=Mue8x3Oh",
+      "qualifies": true,
+      "h2h": {
+        "home": 3,
+        "draw": 0,
+        "away": 1,
+        "total": 5,
+        "winRate": 60
+      },
+      "homeForm": [
+        "W",
+        "W",
+        "L",
+        "L",
+        "L"
+      ],
+      "awayForm": [
+        "W",
+        "L",
+        "W",
+        "L",
+        "L"
+      ],
+      "homeFormHome": [
+        "W",
+        "L",
+        "L",
+        "W",
+        "W"
+      ],
+      "awayFormAway": [
+        "W",
+        "W",
+        "W",
+        "W",
+        "L"
+      ],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "1",
+        "prob": 51.5,
+        "ev": -999.0,
+        "edge": 0.0,
+        "kelly": 0.0,
+        "confidence": 36.0,
+        "dataQuality": 0.5
+      },
+      "tennis": null,
+      "confidence": 36.0,
+      "value_bet": false
+    },
+    {
+      "id": 4719728818088434929,
+      "homeTeam": "Vranje",
+      "awayTeam": "Jugovic",
+      "time": "13.05.2026 16:00",
+      "date": "2026-05-13",
+      "league": null,
+      "country": "",
+      "sport": "handball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/pilka-reczna/jugovic-8jZNGJeE/vranje-hpdHaBum/?mid=zZLrPzV9",
+      "qualifies": true,
+      "h2h": {
+        "home": 3,
+        "draw": 0,
+        "away": 1,
+        "total": 5,
+        "winRate": 60
+      },
+      "homeForm": [
+        "L",
+        "L",
+        "L",
+        "W",
+        "W"
+      ],
+      "awayForm": [
+        "L",
+        "L",
+        "W",
+        "L",
+        "W"
+      ],
+      "homeFormHome": [
+        "L",
+        "W",
+        "L",
+        "L",
+        "L"
+      ],
+      "awayFormAway": [
+        "W",
+        "L",
+        "L",
+        "L",
+        "L"
+      ],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "1",
+        "prob": 52.7,
+        "ev": -999.0,
+        "edge": 0.0,
+        "kelly": 0.0,
+        "confidence": 36.0,
+        "dataQuality": 0.5
+      },
+      "tennis": null,
+      "confidence": 36.0,
+      "value_bet": false
+    },
+    {
+      "id": 5894702285504169334,
+      "homeTeam": "Beykoz Bld.",
+      "awayTeam": "Guneysu",
+      "time": "13.05.2026 12:00",
+      "date": "2026-05-13",
+      "league": null,
+      "country": "",
+      "sport": "handball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/pilka-reczna/beykoz-bld-27E3wxfT/guneysu-nZr9L9Oa/?mid=A5J9LjO6",
+      "qualifies": true,
+      "h2h": {
+        "home": 3,
+        "draw": 0,
+        "away": 1,
+        "total": 5,
+        "winRate": 60
+      },
+      "homeForm": [
+        "W",
+        "D",
+        "W",
+        "D",
+        "W"
+      ],
+      "awayForm": [
+        "W",
+        "W",
+        "W",
+        "D",
+        "L"
+      ],
+      "homeFormHome": [
+        "W",
+        "W",
+        "W",
+        "W",
+        "L"
+      ],
+      "awayFormAway": [
+        "L",
+        "L",
+        "W",
+        "D",
+        "L"
+      ],
+      "formAdvantage": true,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "1",
+        "prob": 55.2,
+        "ev": -999.0,
+        "edge": 0.0,
+        "kelly": 0.0,
+        "confidence": 37.0,
+        "dataQuality": 0.5
+      },
+      "tennis": null,
+      "confidence": 37.0,
+      "value_bet": false
+    },
+    {
+      "id": 4678730431507093089,
+      "homeTeam": "Uskudar K",
+      "awayTeam": "Bursa BB K",
+      "time": "13.05.2026 13:00",
+      "date": "2026-05-13",
+      "league": null,
+      "country": "",
+      "sport": "handball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/pilka-reczna/bursa-bb-CrjeWOaH/uskudar-Ey6mwcl2/?mid=21ZZzfzh",
+      "qualifies": false,
+      "h2h": {
+        "home": 0,
+        "draw": 0,
+        "away": 4,
+        "total": 5,
+        "winRate": 0
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null,
+      "confidence": 0,
+      "value_bet": false
+    }
+  ]
+}
