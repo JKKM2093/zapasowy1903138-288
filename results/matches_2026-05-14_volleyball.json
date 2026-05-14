@@ -1,0 +1,241 @@
+{
+  "date": "2026-05-14",
+  "sport": "volleyball",
+  "generatedAt": "2026-05-14T02:37:52.681589",
+  "stats": {
+    "total": 5,
+    "qualifying": 2,
+    "formAdvantage": 2
+  },
+  "matches": [
+    {
+      "id": 781519551063589255,
+      "homeTeam": "JTEKT (Jpn)",
+      "awayTeam": "Nakhon Ratchasima (Tha)",
+      "time": "14.05.2026 08:00",
+      "date": "2026-05-14",
+      "league": null,
+      "country": "",
+      "sport": "volleyball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/siatkowka/jtekt-p6Uf7OoP/nakhon-ratchasima-UJcGhNQE/?mid=YabJ5WSh",
+      "qualifies": false,
+      "h2h": {
+        "home": 0,
+        "draw": 0,
+        "away": 0,
+        "total": 0,
+        "winRate": 0
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null,
+      "confidence": 0,
+      "value_bet": false
+    },
+    {
+      "id": -5214047510642839436,
+      "homeTeam": "Sirjan (Irn)",
+      "awayTeam": "Putra Jakarta Garuda (Ina)",
+      "time": "14.05.2026 12:00",
+      "date": "2026-05-14",
+      "league": null,
+      "country": "",
+      "sport": "volleyball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/siatkowka/putra-jakarta-garuda-nqdirRx8/sirjan-Mgp4x5JA/?mid=dGrwrW2k",
+      "qualifies": false,
+      "h2h": {
+        "home": 0,
+        "draw": 0,
+        "away": 0,
+        "total": 0,
+        "winRate": 0
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null,
+      "confidence": 0,
+      "value_bet": false
+    },
+    {
+      "id": -284386280107906531,
+      "homeTeam": "Dinamo-Lo",
+      "awayTeam": "Zenit Kazań",
+      "time": "14.05.2026 13:00",
+      "date": "2026-05-14",
+      "league": null,
+      "country": "",
+      "sport": "volleyball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/siatkowka/dinamo-lo-MB7pnxoH/zenit-kazan-j7MxHCWI/?mid=EJ1XkwAt",
+      "qualifies": false,
+      "h2h": {
+        "home": 0,
+        "draw": 0,
+        "away": 5,
+        "total": 5,
+        "winRate": 0
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null,
+      "confidence": 0,
+      "value_bet": false
+    },
+    {
+      "id": 3332898917945962757,
+      "homeTeam": "Dyn. Moskwa",
+      "awayTeam": "Zenit St. Petersburg",
+      "time": "14.05.2026 16:00",
+      "date": "2026-05-14",
+      "league": null,
+      "country": "",
+      "sport": "volleyball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/siatkowka/din-moscow-ba4VIY16/zenit-st-petersburg-S0nUsKBh/?mid=rHK7ZHPa",
+      "qualifies": true,
+      "h2h": {
+        "home": 3,
+        "draw": 0,
+        "away": 2,
+        "total": 5,
+        "winRate": 60
+      },
+      "homeForm": [
+        "W",
+        "W",
+        "W",
+        "W",
+        "W"
+      ],
+      "awayForm": [
+        "W",
+        "L",
+        "L",
+        "W",
+        "W"
+      ],
+      "homeFormHome": [
+        "W",
+        "W",
+        "W",
+        "W",
+        "L"
+      ],
+      "awayFormAway": [
+        "L",
+        "W",
+        "L",
+        "W",
+        "L"
+      ],
+      "formAdvantage": true,
+      "odds": {
+        "home": 1.48,
+        "draw": null,
+        "away": 2.45,
+        "bookmaker": "Pinnacle"
+      },
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "1",
+        "prob": 61.4,
+        "ev": -0.092,
+        "edge": -6.2,
+        "kelly": 0.0,
+        "confidence": 34.0,
+        "dataQuality": 0.6
+      },
+      "tennis": null,
+      "confidence": 34.0,
+      "value_bet": false
+    },
+    {
+      "id": 7680244245122174113,
+      "homeTeam": "Włochy K",
+      "awayTeam": "Francja K",
+      "time": "14.05.2026 19:00",
+      "date": "2026-05-14",
+      "league": null,
+      "country": "",
+      "sport": "volleyball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/siatkowka/francja-WSCmiNN9/wlochy-WOxNzHzR/?mid=A3UB5P9s",
+      "qualifies": true,
+      "h2h": {
+        "home": 5,
+        "draw": 0,
+        "away": 0,
+        "total": 5,
+        "winRate": 100
+      },
+      "homeForm": [
+        "W",
+        "W",
+        "W",
+        "W",
+        "W"
+      ],
+      "awayForm": [
+        "W",
+        "L",
+        "W",
+        "W",
+        "L"
+      ],
+      "homeFormHome": [
+        "W",
+        "W",
+        "W",
+        "W",
+        "W"
+      ],
+      "awayFormAway": [
+        "L",
+        "L",
+        "W",
+        "L",
+        "L"
+      ],
+      "formAdvantage": true,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "1",
+        "prob": 72.0,
+        "ev": -999.0,
+        "edge": 0.0,
+        "kelly": 0.0,
+        "confidence": 44.0,
+        "dataQuality": 0.5
+      },
+      "tennis": null,
+      "confidence": 44.0,
+      "value_bet": false
+    }
+  ]
+}
