@@ -1,0 +1,177 @@
+{
+  "date": "2026-05-21",
+  "sport": "volleyball",
+  "generatedAt": "2026-05-21T02:38:31.456702",
+  "stats": {
+    "total": 4,
+    "qualifying": 1,
+    "formAdvantage": 0
+  },
+  "matches": [
+    {
+      "id": 4135054791704199580,
+      "homeTeam": "Luksemburg",
+      "awayTeam": "Austria",
+      "time": "21.05.2026 14:30",
+      "date": "2026-05-21",
+      "league": null,
+      "country": "",
+      "sport": "volleyball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/siatkowka/austria-feag2ujI/luksemburg-2wWjNw0J/?mid=8MQubVld",
+      "qualifies": false,
+      "h2h": {
+        "home": 2,
+        "draw": 0,
+        "away": 3,
+        "total": 5,
+        "winRate": 40
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null,
+      "confidence": 0,
+      "value_bet": false
+    },
+    {
+      "id": 3116532548236975638,
+      "homeTeam": "Węgry",
+      "awayTeam": "Cypr",
+      "time": "21.05.2026 17:00",
+      "date": "2026-05-21",
+      "league": null,
+      "country": "",
+      "sport": "volleyball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/siatkowka/cypr-rwyDrewd/wegry-CYAtWV3J/?mid=zkE54nUI",
+      "qualifies": true,
+      "h2h": {
+        "home": 2,
+        "draw": 0,
+        "away": 1,
+        "total": 3,
+        "winRate": 66
+      },
+      "homeForm": [
+        "L",
+        "L",
+        "L",
+        "W",
+        "L"
+      ],
+      "awayForm": [
+        "W",
+        "L",
+        "W",
+        "W",
+        "W"
+      ],
+      "homeFormHome": [
+        "L",
+        "L",
+        "L",
+        "L",
+        "W"
+      ],
+      "awayFormAway": [
+        "W",
+        "W",
+        "L",
+        "L",
+        "L"
+      ],
+      "formAdvantage": false,
+      "odds": {
+        "home": 1.07,
+        "draw": null,
+        "away": 5.0,
+        "bookmaker": "Pinnacle"
+      },
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "2",
+        "prob": 25.5,
+        "ev": 0.276,
+        "edge": 5.5,
+        "kelly": 6.9,
+        "confidence": 46.0,
+        "dataQuality": 0.6
+      },
+      "tennis": null,
+      "confidence": 46.0,
+      "value_bet": true
+    },
+    {
+      "id": 2499773459877305687,
+      "homeTeam": "Luksemburg K",
+      "awayTeam": "Austria K",
+      "time": "21.05.2026 14:00",
+      "date": "2026-05-21",
+      "league": null,
+      "country": "",
+      "sport": "volleyball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/siatkowka/austria-IF1KbDS0/luksemburg-M70GPTtm/?mid=rZwankcD",
+      "qualifies": false,
+      "h2h": {
+        "home": 0,
+        "draw": 0,
+        "away": 2,
+        "total": 2,
+        "winRate": 0
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null,
+      "confidence": 0,
+      "value_bet": false
+    },
+    {
+      "id": 1003258254143614609,
+      "homeTeam": "Chorwacja K",
+      "awayTeam": "Cypr K",
+      "time": "21.05.2026 17:00",
+      "date": "2026-05-21",
+      "league": null,
+      "country": "",
+      "sport": "volleyball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/siatkowka/chorwacja-QmVQ5KML/cypr-xjXXqnqD/?mid=6BHG4WCs",
+      "qualifies": false,
+      "h2h": {
+        "home": 0,
+        "draw": 0,
+        "away": 0,
+        "total": 0,
+        "winRate": 0
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null,
+      "confidence": 0,
+      "value_bet": false
+    }
+  ]
+}
