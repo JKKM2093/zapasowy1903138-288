@@ -1,0 +1,296 @@
+{
+  "date": "2026-05-28",
+  "sport": "hockey",
+  "generatedAt": "2026-05-28T02:20:55.063278",
+  "stats": {
+    "total": 6,
+    "qualifying": 2,
+    "formAdvantage": 1
+  },
+  "matches": [
+    {
+      "id": -7528674205879789522,
+      "homeTeam": "Finlandia",
+      "awayTeam": "Czechy",
+      "time": "28.05.2026 14:20",
+      "date": "2026-05-28",
+      "league": null,
+      "country": "",
+      "sport": "hockey",
+      "matchUrl": "https://www.livesport.com/pl/mecz/hokej/czechy-OdY4GUuO/finlandia-rRWMzYQu/?mid=joMhQuwp",
+      "qualifies": false,
+      "h2h": {
+        "home": 2,
+        "draw": 0,
+        "away": 3,
+        "total": 5,
+        "winRate": 40
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null,
+      "confidence": 0,
+      "value_bet": false
+    },
+    {
+      "id": 363846063500340643,
+      "homeTeam": "Kanada",
+      "awayTeam": "USA",
+      "time": "28.05.2026 14:20",
+      "date": "2026-05-28",
+      "league": null,
+      "country": "",
+      "sport": "hockey",
+      "matchUrl": "https://www.livesport.com/pl/mecz/hokej/kanada-dSsR389c/usa-GYgp4SO3/?mid=dUeeCf2l",
+      "qualifies": false,
+      "h2h": {
+        "home": 2,
+        "draw": 0,
+        "away": 3,
+        "total": 5,
+        "winRate": 40
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null,
+      "confidence": 0,
+      "value_bet": false
+    },
+    {
+      "id": -7032231999489868677,
+      "homeTeam": "Norwegia",
+      "awayTeam": "Łotwa",
+      "time": "28.05.2026 18:20",
+      "date": "2026-05-28",
+      "league": null,
+      "country": "",
+      "sport": "hockey",
+      "matchUrl": "https://www.livesport.com/pl/mecz/hokej/lotwa-44JaYkQ4/norwegia-nDtCX9uB/?mid=x4qta3vo",
+      "qualifies": false,
+      "h2h": {
+        "home": 1,
+        "draw": 0,
+        "away": 4,
+        "total": 5,
+        "winRate": 20
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null,
+      "confidence": 0,
+      "value_bet": false
+    },
+    {
+      "id": -1496674037202675508,
+      "homeTeam": "Szwajcaria",
+      "awayTeam": "Szwecja",
+      "time": "28.05.2026 18:20",
+      "date": "2026-05-28",
+      "league": null,
+      "country": "",
+      "sport": "hockey",
+      "matchUrl": "https://www.livesport.com/pl/mecz/hokej/szwajcaria-buO3jBAo/szwecja-vBLjQRXp/?mid=ObK0OJ7d",
+      "qualifies": false,
+      "h2h": {
+        "home": 0,
+        "draw": 0,
+        "away": 5,
+        "total": 5,
+        "winRate": 0
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null,
+      "confidence": 0,
+      "value_bet": false
+    },
+    {
+      "id": -5422114501897738937,
+      "homeTeam": "Montreal Canadiens",
+      "awayTeam": "Carolina Hurricanes",
+      "time": "28.05.2026 00:00",
+      "date": "2026-05-28",
+      "league": null,
+      "country": "",
+      "sport": "hockey",
+      "matchUrl": "https://www.livesport.com/pl/mecz/hokej/carolina-hurricanes-Sx0gl0tm/montreal-canadiens-nu2G7VWc/?mid=CMLJLYVG",
+      "qualifies": true,
+      "h2h": {
+        "home": 3,
+        "draw": 0,
+        "away": 2,
+        "total": 5,
+        "winRate": 60
+      },
+      "homeForm": [
+        "D",
+        "D",
+        "W",
+        "W",
+        "L"
+      ],
+      "awayForm": [
+        "W",
+        "W",
+        "L",
+        "W",
+        "W"
+      ],
+      "homeFormHome": [
+        "D",
+        "L",
+        "L",
+        "W",
+        "D"
+      ],
+      "awayFormAway": [
+        "W",
+        "L",
+        "W",
+        "W",
+        "W"
+      ],
+      "formAdvantage": false,
+      "odds": {
+        "home": 2.95,
+        "draw": 4.1,
+        "away": 2.1,
+        "bookmaker": "Pinnacle"
+      },
+      "forebet": {
+        "prediction": "2",
+        "probability": 62.0,
+        "exactScore": "3-4",
+        "overUnder": "Over 5.5",
+        "btts": "Yes",
+        "homeProb": null,
+        "drawProb": null,
+        "awayProb": null
+      },
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "1",
+        "prob": 35.1,
+        "ev": 0.036,
+        "edge": 1.2,
+        "kelly": 1.8,
+        "confidence": 47.0,
+        "dataQuality": 0.7
+      },
+      "tennis": null,
+      "confidence": 47.0,
+      "value_bet": true
+    },
+    {
+      "id": -8101184468854970795,
+      "homeTeam": "Everett Silvertips",
+      "awayTeam": "Kelowna Rockets",
+      "time": "28.05.2026 01:00",
+      "date": "2026-05-28",
+      "league": null,
+      "country": "",
+      "sport": "hockey",
+      "matchUrl": "https://www.livesport.com/pl/mecz/hokej/everett-silvertips-hftUv62j/kelowna-rockets-OCPZmAu4/?mid=My9j9OnD",
+      "qualifies": true,
+      "h2h": {
+        "home": 4,
+        "draw": 0,
+        "away": 1,
+        "total": 5,
+        "winRate": 80
+      },
+      "homeForm": [
+        "L",
+        "W",
+        "W",
+        "W",
+        "W"
+      ],
+      "awayForm": [
+        "D",
+        "L",
+        "D",
+        "W",
+        "L"
+      ],
+      "homeFormHome": [
+        "W",
+        "L",
+        "W",
+        "W",
+        "W"
+      ],
+      "awayFormAway": [
+        "L",
+        "W",
+        "L",
+        "L",
+        "W"
+      ],
+      "formAdvantage": true,
+      "odds": {
+        "home": 1.48,
+        "draw": 4.6,
+        "away": 4.6,
+        "bookmaker": "Pinnacle"
+      },
+      "forebet": {
+        "prediction": "1",
+        "probability": 72.0,
+        "exactScore": "3-2",
+        "overUnder": "Over 5.5",
+        "btts": "Yes",
+        "homeProb": null,
+        "drawProb": null,
+        "awayProb": null
+      },
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "1",
+        "prob": 72.5,
+        "ev": 0.074,
+        "edge": 5.0,
+        "kelly": 15.3,
+        "confidence": 67.0,
+        "dataQuality": 0.7
+      },
+      "tennis": null,
+      "confidence": 67.0,
+      "value_bet": true
+    }
+  ]
+}
