@@ -1,0 +1,177 @@
+{
+  "date": "2026-05-29",
+  "sport": "hockey",
+  "generatedAt": "2026-05-29T02:34:46.326343",
+  "stats": {
+    "total": 4,
+    "qualifying": 1,
+    "formAdvantage": 0
+  },
+  "matches": [
+    {
+      "id": -4068255413705193508,
+      "homeTeam": "Melbourne Ice",
+      "awayTeam": "Melbourne Mustangs",
+      "time": "29.05.2026 09:30",
+      "date": "2026-05-29",
+      "league": null,
+      "country": "",
+      "sport": "hockey",
+      "matchUrl": "https://www.livesport.com/pl/mecz/hokej/melbourne-ice-AF0mDjMm/melbourne-mustangs-W2AkAUj0/?mid=bBxKwM87",
+      "qualifies": true,
+      "h2h": {
+        "home": 3,
+        "draw": 0,
+        "away": 2,
+        "total": 5,
+        "winRate": 60
+      },
+      "homeForm": [
+        "L",
+        "L",
+        "L",
+        "W",
+        "L"
+      ],
+      "awayForm": [
+        "W",
+        "L",
+        "L",
+        "W",
+        "L"
+      ],
+      "homeFormHome": [
+        "L",
+        "L",
+        "L",
+        "W",
+        "D"
+      ],
+      "awayFormAway": [
+        "L",
+        "W",
+        "L",
+        "W",
+        "W"
+      ],
+      "formAdvantage": false,
+      "odds": {
+        "home": 2.8,
+        "draw": 4.9,
+        "away": 1.8,
+        "bookmaker": "Pinnacle"
+      },
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "1",
+        "prob": 42.7,
+        "ev": 0.195,
+        "edge": 7.0,
+        "kelly": 10.8,
+        "confidence": 54.0,
+        "dataQuality": 0.6
+      },
+      "tennis": null,
+      "confidence": 54.0,
+      "value_bet": true
+    },
+    {
+      "id": -8162715170925794479,
+      "homeTeam": "Colorado Eagles",
+      "awayTeam": "Chicago Wolves",
+      "time": "29.05.2026 01:05",
+      "date": "2026-05-29",
+      "league": null,
+      "country": "",
+      "sport": "hockey",
+      "matchUrl": "https://www.livesport.com/pl/mecz/hokej/chicago-wolves-jufIjBbC/colorado-eagles-tI34khC9/?mid=hnhPzjKk",
+      "qualifies": false,
+      "h2h": {
+        "home": 2,
+        "draw": 0,
+        "away": 3,
+        "total": 5,
+        "winRate": 40
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null,
+      "confidence": 0,
+      "value_bet": false
+    },
+    {
+      "id": 6137749605096703599,
+      "homeTeam": "Wilkes-Barre/Scranton",
+      "awayTeam": "Toronto Marlies",
+      "time": "29.05.2026 23:05",
+      "date": "2026-05-29",
+      "league": null,
+      "country": "",
+      "sport": "hockey",
+      "matchUrl": "https://www.livesport.com/pl/mecz/hokej/toronto-marlies-CleEiiq6/wilkes-barre-scranton-Mo15zCqJ/?mid=UsxVSqc4",
+      "qualifies": false,
+      "h2h": {
+        "home": 2,
+        "draw": 0,
+        "away": 3,
+        "total": 5,
+        "winRate": 40
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null,
+      "confidence": 0,
+      "value_bet": false
+    },
+    {
+      "id": 3658236466081938548,
+      "homeTeam": "Wheeling Nailers",
+      "awayTeam": "Florida Everblades",
+      "time": "29.05.2026 23:10",
+      "date": "2026-05-29",
+      "league": null,
+      "country": "",
+      "sport": "hockey",
+      "matchUrl": "https://www.livesport.com/pl/mecz/hokej/florida-everblades-WAjlSKlf/wheeling-nailers-44r3GX5p/?mid=xAbLe0Up",
+      "qualifies": false,
+      "h2h": {
+        "home": 0,
+        "draw": 0,
+        "away": 5,
+        "total": 5,
+        "winRate": 0
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null,
+      "confidence": 0,
+      "value_bet": false
+    }
+  ]
+}
