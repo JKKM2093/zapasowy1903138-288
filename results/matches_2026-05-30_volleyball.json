@@ -1,0 +1,140 @@
+{
+  "date": "2026-05-30",
+  "sport": "volleyball",
+  "generatedAt": "2026-05-30T02:18:46.743841",
+  "stats": {
+    "total": 3,
+    "qualifying": 1,
+    "formAdvantage": 1
+  },
+  "matches": [
+    {
+      "id": -8112024671546274726,
+      "homeTeam": "Luksemburg K",
+      "awayTeam": "Litwa K",
+      "time": "30.05.2026 13:00",
+      "date": "2026-05-30",
+      "league": null,
+      "country": "",
+      "sport": "volleyball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/siatkowka/litwa-Y1c8c3yO/luksemburg-M70GPTtm/?mid=Q1XWuy6S",
+      "qualifies": false,
+      "h2h": {
+        "home": 0,
+        "draw": 0,
+        "away": 0,
+        "total": 0,
+        "winRate": 0
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null,
+      "confidence": 0,
+      "value_bet": false
+    },
+    {
+      "id": 6253342366070792451,
+      "homeTeam": "Dania K",
+      "awayTeam": "Albania K",
+      "time": "30.05.2026 16:00",
+      "date": "2026-05-30",
+      "league": null,
+      "country": "",
+      "sport": "volleyball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/siatkowka/albania-COm9aIak/dania-4WkLOmdg/?mid=zyJ2zFTk",
+      "qualifies": false,
+      "h2h": {
+        "home": 0,
+        "draw": 0,
+        "away": 0,
+        "total": 0,
+        "winRate": 0
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null,
+      "confidence": 0,
+      "value_bet": false
+    },
+    {
+      "id": 6979958634464639731,
+      "homeTeam": "Włochy",
+      "awayTeam": "Belgia",
+      "time": "30.05.2026 19:00",
+      "date": "2026-05-30",
+      "league": null,
+      "country": "",
+      "sport": "volleyball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/siatkowka/belgia-ClZpbtyP/wlochy-KYAO21L5/?mid=jwAQ3VMi",
+      "qualifies": true,
+      "h2h": {
+        "home": 4,
+        "draw": 0,
+        "away": 1,
+        "total": 5,
+        "winRate": 80
+      },
+      "homeForm": [
+        "W",
+        "W",
+        "W",
+        "W",
+        "W"
+      ],
+      "awayForm": [
+        "W",
+        "L",
+        "W",
+        "W",
+        "W"
+      ],
+      "homeFormHome": [
+        "W",
+        "W",
+        "W",
+        "L",
+        "W"
+      ],
+      "awayFormAway": [
+        "L",
+        "L",
+        "L",
+        "L",
+        "W"
+      ],
+      "formAdvantage": true,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "1",
+        "prob": 61.9,
+        "ev": -999.0,
+        "edge": 0.0,
+        "kelly": 0.0,
+        "confidence": 40.0,
+        "dataQuality": 0.5
+      },
+      "tennis": null,
+      "confidence": 40.0,
+      "value_bet": false
+    }
+  ]
+}
