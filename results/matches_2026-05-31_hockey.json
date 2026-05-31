@@ -1,0 +1,512 @@
+{
+  "date": "2026-05-31",
+  "sport": "hockey",
+  "generatedAt": "2026-05-31T02:46:28.069690",
+  "stats": {
+    "total": 9,
+    "qualifying": 5,
+    "formAdvantage": 2
+  },
+  "matches": [
+    {
+      "id": 2536302789992565786,
+      "homeTeam": "Kanada",
+      "awayTeam": "Norwegia",
+      "time": "31.05.2026 13:30",
+      "date": "2026-05-31",
+      "league": null,
+      "country": "",
+      "sport": "hockey",
+      "matchUrl": "https://www.livesport.com/pl/mecz/hokej/kanada-dSsR389c/norwegia-nDtCX9uB/?mid=YFOTwtdo",
+      "qualifies": true,
+      "h2h": {
+        "home": 4,
+        "draw": 0,
+        "away": 1,
+        "total": 5,
+        "winRate": 80
+      },
+      "homeForm": [
+        "L",
+        "W",
+        "W",
+        "W",
+        "W"
+      ],
+      "awayForm": [
+        "L",
+        "W",
+        "W",
+        "W",
+        "W"
+      ],
+      "homeFormHome": [
+        "L",
+        "W",
+        "W",
+        "W",
+        "W"
+      ],
+      "awayFormAway": [
+        "L",
+        "L",
+        "L",
+        "W",
+        "L"
+      ],
+      "formAdvantage": false,
+      "odds": {
+        "home": 1.16,
+        "draw": 8.5,
+        "away": 13.0,
+        "bookmaker": "Pinnacle"
+      },
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "2",
+        "prob": 12.6,
+        "ev": 0.637,
+        "edge": 4.9,
+        "kelly": 5.3,
+        "confidence": 40.0,
+        "dataQuality": 0.6
+      },
+      "tennis": null,
+      "confidence": 40.0,
+      "value_bet": true
+    },
+    {
+      "id": 7706774488395987607,
+      "homeTeam": "Szwajcaria",
+      "awayTeam": "Finlandia",
+      "time": "31.05.2026 18:20",
+      "date": "2026-05-31",
+      "league": null,
+      "country": "",
+      "sport": "hockey",
+      "matchUrl": "https://www.livesport.com/pl/mecz/hokej/finlandia-rRWMzYQu/szwajcaria-buO3jBAo/?mid=zq9PwOBi",
+      "qualifies": false,
+      "h2h": {
+        "home": 2,
+        "draw": 0,
+        "away": 3,
+        "total": 5,
+        "winRate": 40
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null,
+      "confidence": 0,
+      "value_bet": false
+    },
+    {
+      "id": -1199978622147726054,
+      "homeTeam": "CBR Brave",
+      "awayTeam": "Central Coast Rhinos",
+      "time": "31.05.2026 04:00",
+      "date": "2026-05-31",
+      "league": null,
+      "country": "",
+      "sport": "hockey",
+      "matchUrl": "https://www.livesport.com/pl/mecz/hokej/cbr-brave-2Xg829G0/central-coast-rhinos-EXX9uS4s/?mid=Qw6tE2pK",
+      "qualifies": true,
+      "h2h": {
+        "home": 5,
+        "draw": 0,
+        "away": 0,
+        "total": 5,
+        "winRate": 100
+      },
+      "homeForm": [
+        "W",
+        "L",
+        "L",
+        "L",
+        "W"
+      ],
+      "awayForm": [
+        "L",
+        "L",
+        "W",
+        "W",
+        "W"
+      ],
+      "homeFormHome": [
+        "L",
+        "L",
+        "W",
+        "W",
+        "W"
+      ],
+      "awayFormAway": [
+        "W",
+        "W",
+        "L",
+        "W",
+        "W"
+      ],
+      "formAdvantage": false,
+      "odds": {
+        "home": 1.23,
+        "draw": 7.25,
+        "away": 5.75,
+        "bookmaker": "Pinnacle"
+      },
+      "forebet": {
+        "prediction": "2",
+        "probability": 56.0,
+        "exactScore": "3-4",
+        "overUnder": "Over 5.5",
+        "btts": "Yes",
+        "homeProb": null,
+        "drawProb": null,
+        "awayProb": null
+      },
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "2",
+        "prob": 21.5,
+        "ev": 0.238,
+        "edge": 4.1,
+        "kelly": 5.0,
+        "confidence": 45.0,
+        "dataQuality": 0.7
+      },
+      "tennis": null,
+      "confidence": 45.0,
+      "value_bet": true
+    },
+    {
+      "id": 8193994034462159003,
+      "homeTeam": "Melbourne Ice",
+      "awayTeam": "Adelaide",
+      "time": "31.05.2026 04:00",
+      "date": "2026-05-31",
+      "league": null,
+      "country": "",
+      "sport": "hockey",
+      "matchUrl": "https://www.livesport.com/pl/mecz/hokej/adelaide-adrenaline-xtBoBAyf/melbourne-ice-AF0mDjMm/?mid=prTgjahD",
+      "qualifies": true,
+      "h2h": {
+        "home": 5,
+        "draw": 0,
+        "away": 0,
+        "total": 5,
+        "winRate": 100
+      },
+      "homeForm": [
+        "L",
+        "L",
+        "L",
+        "L",
+        "W"
+      ],
+      "awayForm": [
+        "L",
+        "L",
+        "L",
+        "L",
+        "W"
+      ],
+      "homeFormHome": [
+        "L",
+        "L",
+        "L",
+        "L",
+        "W"
+      ],
+      "awayFormAway": [
+        "L",
+        "L",
+        "L",
+        "W",
+        "L"
+      ],
+      "formAdvantage": false,
+      "odds": {
+        "home": 1.35,
+        "draw": 5.75,
+        "away": 4.6,
+        "bookmaker": "Pinnacle"
+      },
+      "forebet": {
+        "prediction": "1",
+        "probability": 65.0,
+        "exactScore": "7-3",
+        "overUnder": "Over 5.5",
+        "btts": "Yes",
+        "homeProb": null,
+        "drawProb": null,
+        "awayProb": null
+      },
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "1",
+        "prob": 73.6,
+        "ev": -0.006,
+        "edge": -0.4,
+        "kelly": 0.0,
+        "confidence": 50.0,
+        "dataQuality": 0.7
+      },
+      "tennis": null,
+      "confidence": 50.0,
+      "value_bet": false
+    },
+    {
+      "id": -4631400449912771504,
+      "homeTeam": "Sydney Ice Dogs",
+      "awayTeam": "Brisbane Lightning",
+      "time": "31.05.2026 07:00",
+      "date": "2026-05-31",
+      "league": null,
+      "country": "",
+      "sport": "hockey",
+      "matchUrl": "https://www.livesport.com/pl/mecz/hokej/brisbane-lightning-xCtrp8dQ/sydney-ice-dogs-MiqBWvN8/?mid=dMdC8t8s",
+      "qualifies": true,
+      "h2h": {
+        "home": 4,
+        "draw": 0,
+        "away": 1,
+        "total": 5,
+        "winRate": 80
+      },
+      "homeForm": [
+        "W",
+        "W",
+        "W",
+        "W",
+        "L"
+      ],
+      "awayForm": [
+        "W",
+        "L",
+        "L",
+        "L",
+        "D"
+      ],
+      "homeFormHome": [
+        "W",
+        "W",
+        "L",
+        "W",
+        "W"
+      ],
+      "awayFormAway": [
+        "W",
+        "W",
+        "W",
+        "W",
+        "W"
+      ],
+      "formAdvantage": true,
+      "odds": {
+        "home": 1.45,
+        "draw": 5.25,
+        "away": 3.9,
+        "bookmaker": "Pinnacle"
+      },
+      "forebet": {
+        "prediction": "1",
+        "probability": 65.0,
+        "exactScore": "7-3",
+        "overUnder": "Over 5.5",
+        "btts": "Yes",
+        "homeProb": null,
+        "drawProb": null,
+        "awayProb": null
+      },
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "1",
+        "prob": 71.4,
+        "ev": 0.035,
+        "edge": 2.4,
+        "kelly": 7.9,
+        "confidence": 63.0,
+        "dataQuality": 0.7
+      },
+      "tennis": null,
+      "confidence": 63.0,
+      "value_bet": true
+    },
+    {
+      "id": -7556787100707172719,
+      "homeTeam": "Kitchener Rangers",
+      "awayTeam": "Everett Silvertips",
+      "time": "31.05.2026 23:00",
+      "date": "2026-05-31",
+      "league": null,
+      "country": "",
+      "sport": "hockey",
+      "matchUrl": "https://www.livesport.com/pl/mecz/hokej/everett-silvertips-hftUv62j/kitchener-rangers-GtFZjLYN/?mid=zsG1k5cL",
+      "qualifies": true,
+      "h2h": {
+        "home": 1,
+        "draw": 0,
+        "away": 0,
+        "total": 1,
+        "winRate": 100
+      },
+      "homeForm": [
+        "W",
+        "W",
+        "W",
+        "W",
+        "W"
+      ],
+      "awayForm": [
+        "W",
+        "W",
+        "L",
+        "W",
+        "W"
+      ],
+      "homeFormHome": [
+        "W",
+        "W",
+        "W",
+        "W",
+        "W"
+      ],
+      "awayFormAway": [
+        "W",
+        "L",
+        "L",
+        "W",
+        "W"
+      ],
+      "formAdvantage": true,
+      "odds": {
+        "home": 2.15,
+        "draw": 4.2,
+        "away": 2.45,
+        "bookmaker": "Pinnacle"
+      },
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "1",
+        "prob": 62.1,
+        "ev": 0.334,
+        "edge": 15.6,
+        "kelly": 29.1,
+        "confidence": 73.0,
+        "dataQuality": 0.6
+      },
+      "tennis": null,
+      "confidence": 73.0,
+      "value_bet": true
+    },
+    {
+      "id": -3399518873181893911,
+      "homeTeam": "West Auckland Admirals",
+      "awayTeam": "Southern Stampede",
+      "time": "31.05.2026 06:00",
+      "date": "2026-05-31",
+      "league": null,
+      "country": "",
+      "sport": "hockey",
+      "matchUrl": "https://www.livesport.com/pl/mecz/hokej/southern-stampede-0KmYywxP/west-auckland-admirals-xUxSoEGf/?mid=foxWbreJ",
+      "qualifies": false,
+      "h2h": {
+        "home": 2,
+        "draw": 0,
+        "away": 3,
+        "total": 5,
+        "winRate": 40
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null,
+      "confidence": 0,
+      "value_bet": false
+    },
+    {
+      "id": 6266152982149007547,
+      "homeTeam": "Colorado Eagles",
+      "awayTeam": "Chicago Wolves",
+      "time": "31.05.2026 00:05",
+      "date": "2026-05-31",
+      "league": null,
+      "country": "",
+      "sport": "hockey",
+      "matchUrl": "https://www.livesport.com/pl/mecz/hokej/chicago-wolves-jufIjBbC/colorado-eagles-tI34khC9/?mid=v3jXYTl2",
+      "qualifies": false,
+      "h2h": {
+        "home": 2,
+        "draw": 0,
+        "away": 3,
+        "total": 5,
+        "winRate": 40
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null,
+      "confidence": 0,
+      "value_bet": false
+    },
+    {
+      "id": -3149877932950009595,
+      "homeTeam": "Fort Wayne Komets",
+      "awayTeam": "Kansas City",
+      "time": "31.05.2026 21:05",
+      "date": "2026-05-31",
+      "league": null,
+      "country": "",
+      "sport": "hockey",
+      "matchUrl": "https://www.livesport.com/pl/mecz/hokej/fort-wayne-komets-QXkhRv40/kansas-city-mavericks-61YN76Il/?mid=UTGSc53B",
+      "qualifies": false,
+      "h2h": {
+        "home": 1,
+        "draw": 0,
+        "away": 4,
+        "total": 5,
+        "winRate": 20
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null,
+      "confidence": 0,
+      "value_bet": false
+    }
+  ]
+}
