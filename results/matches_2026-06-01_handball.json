@@ -1,0 +1,177 @@
+{
+  "date": "2026-06-01",
+  "sport": "handball",
+  "generatedAt": "2026-06-01T02:54:13.816879",
+  "stats": {
+    "total": 4,
+    "qualifying": 1,
+    "formAdvantage": 1
+  },
+  "matches": [
+    {
+      "id": 6201037493325433958,
+      "homeTeam": "CSKA Moscow",
+      "awayTeam": "St. Petersburg",
+      "time": "01.06.2026 16:30",
+      "date": "2026-06-01",
+      "league": null,
+      "country": "",
+      "sport": "handball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/pilka-reczna/cska-moscow-tCrIDMqn/st-petersburg-x2qKHmXd/?mid=z9WeuK15",
+      "qualifies": true,
+      "h2h": {
+        "home": 3,
+        "draw": 0,
+        "away": 2,
+        "total": 5,
+        "winRate": 60
+      },
+      "homeForm": [
+        "W",
+        "W",
+        "W",
+        "W",
+        "W"
+      ],
+      "awayForm": [
+        "L",
+        "W",
+        "W",
+        "W",
+        "W"
+      ],
+      "homeFormHome": [
+        "W",
+        "W",
+        "W",
+        "W",
+        "W"
+      ],
+      "awayFormAway": [
+        "W",
+        "L",
+        "W",
+        "L",
+        "W"
+      ],
+      "formAdvantage": true,
+      "odds": {
+        "home": 1.7,
+        "draw": 7.75,
+        "away": 2.5,
+        "bookmaker": "Pinnacle"
+      },
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "X",
+        "prob": 16.6,
+        "ev": 0.289,
+        "edge": 3.7,
+        "kelly": 4.3,
+        "confidence": 40.0,
+        "dataQuality": 0.6
+      },
+      "tennis": null,
+      "confidence": 40.0,
+      "value_bet": true
+    },
+    {
+      "id": 314046666543440526,
+      "homeTeam": "Akbuzat",
+      "awayTeam": "Dinamo Astrakhan",
+      "time": "01.06.2026 07:00",
+      "date": "2026-06-01",
+      "league": null,
+      "country": "",
+      "sport": "handball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/pilka-reczna/akbuzat-tA79hjXI/dinamo-astrakhan-SYCFpbps/?mid=z5SSOdkm",
+      "qualifies": false,
+      "h2h": {
+        "home": 1,
+        "draw": 0,
+        "away": 2,
+        "total": 5,
+        "winRate": 20
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null,
+      "confidence": 0,
+      "value_bet": false
+    },
+    {
+      "id": -5634989534819540410,
+      "homeTeam": "Rostov",
+      "awayTeam": "Kaustik",
+      "time": "01.06.2026 14:00",
+      "date": "2026-06-01",
+      "league": null,
+      "country": "",
+      "sport": "handball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/pilka-reczna/kaustik-Gxd9cZD5/rostov-lSZFkv4d/?mid=jeZrLElC",
+      "qualifies": false,
+      "h2h": {
+        "home": 0,
+        "draw": 0,
+        "away": 0,
+        "total": 0,
+        "winRate": 0
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null,
+      "confidence": 0,
+      "value_bet": false
+    },
+    {
+      "id": -8625912282994330617,
+      "homeTeam": "Vojvodina",
+      "awayTeam": "Partizan",
+      "time": "01.06.2026 17:00",
+      "date": "2026-06-01",
+      "league": null,
+      "country": "",
+      "sport": "handball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/pilka-reczna/partizan-belgrad-CCN9TShK/vojvodina-EgcD0iQt/?mid=8GmCIxGF",
+      "qualifies": false,
+      "h2h": {
+        "home": 1,
+        "draw": 0,
+        "away": 4,
+        "total": 5,
+        "winRate": 20
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null,
+      "confidence": 0,
+      "value_bet": false
+    }
+  ]
+}
