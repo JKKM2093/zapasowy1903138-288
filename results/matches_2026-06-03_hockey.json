@@ -1,0 +1,315 @@
+{
+  "date": "2026-06-03",
+  "sport": "hockey",
+  "generatedAt": "2026-06-03T03:00:49.055748",
+  "stats": {
+    "total": 4,
+    "qualifying": 4,
+    "formAdvantage": 1
+  },
+  "matches": [
+    {
+      "id": -166025939961933408,
+      "homeTeam": "Carolina Hurricanes",
+      "awayTeam": "Vegas Golden Knights",
+      "time": "03.06.2026 00:00",
+      "date": "2026-06-03",
+      "league": null,
+      "country": "",
+      "sport": "hockey",
+      "matchUrl": "https://www.livesport.com/pl/mecz/hokej/carolina-hurricanes-Sx0gl0tm/vegas-golden-knights-fTT0TsUg/?mid=t2acDjT6",
+      "qualifies": true,
+      "h2h": {
+        "home": 3,
+        "draw": 0,
+        "away": 2,
+        "total": 5,
+        "winRate": 60
+      },
+      "homeForm": [
+        "W",
+        "W",
+        "W",
+        "W",
+        "L"
+      ],
+      "awayForm": [
+        "W",
+        "W",
+        "W",
+        "W",
+        "W"
+      ],
+      "homeFormHome": [
+        "W",
+        "W",
+        "L",
+        "W",
+        "W"
+      ],
+      "awayFormAway": [
+        "L",
+        "L",
+        "W",
+        "W",
+        "W"
+      ],
+      "formAdvantage": false,
+      "odds": {
+        "home": 2.05,
+        "draw": 4.0,
+        "away": 3.15,
+        "bookmaker": "Pinnacle"
+      },
+      "forebet": {
+        "prediction": "1",
+        "probability": 56.0,
+        "exactScore": "3-2",
+        "overUnder": "Under 5.5",
+        "btts": "Yes",
+        "homeProb": null,
+        "drawProb": null,
+        "awayProb": null
+      },
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "1",
+        "prob": 52.0,
+        "ev": 0.065,
+        "edge": 3.2,
+        "kelly": 6.2,
+        "confidence": 56.0,
+        "dataQuality": 0.7
+      },
+      "tennis": null,
+      "confidence": 56.0,
+      "value_bet": true
+    },
+    {
+      "id": -4255604974668479077,
+      "homeTeam": "Chicago Wolves",
+      "awayTeam": "Colorado Eagles",
+      "time": "03.06.2026 00:00",
+      "date": "2026-06-03",
+      "league": null,
+      "country": "",
+      "sport": "hockey",
+      "matchUrl": "https://www.livesport.com/pl/mecz/hokej/chicago-wolves-jufIjBbC/colorado-eagles-tI34khC9/?mid=69rJdXt9",
+      "qualifies": true,
+      "h2h": {
+        "home": 3,
+        "draw": 0,
+        "away": 2,
+        "total": 5,
+        "winRate": 60
+      },
+      "homeForm": [
+        "L",
+        "L",
+        "W",
+        "W",
+        "D"
+      ],
+      "awayForm": [
+        "W",
+        "W",
+        "L",
+        "W",
+        "W"
+      ],
+      "homeFormHome": [
+        "L",
+        "W",
+        "D",
+        "W",
+        "D"
+      ],
+      "awayFormAway": [
+        "W",
+        "L",
+        "W",
+        "L",
+        "L"
+      ],
+      "formAdvantage": false,
+      "odds": {
+        "home": 2.6,
+        "draw": 4.1,
+        "away": 2.15,
+        "bookmaker": "Pinnacle"
+      },
+      "forebet": {
+        "prediction": "1",
+        "probability": 61.0,
+        "exactScore": "3-2",
+        "overUnder": "Under 5.5",
+        "btts": "Yes",
+        "homeProb": null,
+        "drawProb": null,
+        "awayProb": null
+      },
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "1",
+        "prob": 46.6,
+        "ev": 0.212,
+        "edge": 8.2,
+        "kelly": 13.3,
+        "confidence": 61.0,
+        "dataQuality": 0.7
+      },
+      "tennis": null,
+      "confidence": 61.0,
+      "value_bet": true
+    },
+    {
+      "id": 335969759141587396,
+      "homeTeam": "Toronto Marlies",
+      "awayTeam": "Wilkes-Barre/Scranton",
+      "time": "03.06.2026 23:00",
+      "date": "2026-06-03",
+      "league": null,
+      "country": "",
+      "sport": "hockey",
+      "matchUrl": "https://www.livesport.com/pl/mecz/hokej/toronto-marlies-CleEiiq6/wilkes-barre-scranton-Mo15zCqJ/?mid=8f2A8FBk",
+      "qualifies": true,
+      "h2h": {
+        "home": 3,
+        "draw": 0,
+        "away": 2,
+        "total": 5,
+        "winRate": 60
+      },
+      "homeForm": [
+        "L",
+        "W",
+        "W",
+        "W",
+        "W"
+      ],
+      "awayForm": [
+        "W",
+        "D",
+        "L",
+        "W",
+        "L"
+      ],
+      "homeFormHome": [
+        "L",
+        "W",
+        "L",
+        "L",
+        "W"
+      ],
+      "awayFormAway": [
+        "W",
+        "W",
+        "W",
+        "L",
+        "L"
+      ],
+      "formAdvantage": false,
+      "odds": {
+        "home": 2.6,
+        "draw": 4.0,
+        "away": 2.15,
+        "bookmaker": "Pinnacle"
+      },
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "1",
+        "prob": 46.7,
+        "ev": 0.215,
+        "edge": 8.3,
+        "kelly": 13.4,
+        "confidence": 58.0,
+        "dataQuality": 0.6
+      },
+      "tennis": null,
+      "confidence": 58.0,
+      "value_bet": true
+    },
+    {
+      "id": -6549944614017777691,
+      "homeTeam": "Kansas City",
+      "awayTeam": "Fort Wayne Komets",
+      "time": "03.06.2026 00:05",
+      "date": "2026-06-03",
+      "league": null,
+      "country": "",
+      "sport": "hockey",
+      "matchUrl": "https://www.livesport.com/pl/mecz/hokej/fort-wayne-komets-QXkhRv40/kansas-city-mavericks-61YN76Il/?mid=8ntvNwhI",
+      "qualifies": true,
+      "h2h": {
+        "home": 3,
+        "draw": 0,
+        "away": 2,
+        "total": 5,
+        "winRate": 60
+      },
+      "homeForm": [
+        "W",
+        "L",
+        "W",
+        "W",
+        "L"
+      ],
+      "awayForm": [
+        "D",
+        "W",
+        "L",
+        "L",
+        "W"
+      ],
+      "homeFormHome": [
+        "W",
+        "L",
+        "W",
+        "W",
+        "W"
+      ],
+      "awayFormAway": [
+        "L",
+        "L",
+        "W",
+        "W",
+        "W"
+      ],
+      "formAdvantage": true,
+      "odds": {
+        "home": 1.45,
+        "draw": 4.8,
+        "away": 4.9,
+        "bookmaker": "Pinnacle"
+      },
+      "forebet": {
+        "prediction": "1",
+        "probability": 60.0,
+        "exactScore": "4-3",
+        "overUnder": "Over 5.5",
+        "btts": "Yes",
+        "homeProb": null,
+        "drawProb": null,
+        "awayProb": null
+      },
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": {
+        "pick": "2",
+        "prob": 19.8,
+        "ev": -0.028,
+        "edge": -0.6,
+        "kelly": 0.0,
+        "confidence": 28.0,
+        "dataQuality": 0.7
+      },
+      "tennis": null,
+      "confidence": 28.0,
+      "value_bet": false
+    }
+  ]
+}
