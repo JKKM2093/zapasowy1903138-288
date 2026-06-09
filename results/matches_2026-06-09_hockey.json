@@ -1,0 +1,44 @@
+{
+  "date": "2026-06-09",
+  "sport": "hockey",
+  "generatedAt": "2026-06-09T02:18:06.384406",
+  "stats": {
+    "total": 1,
+    "qualifying": 0,
+    "formAdvantage": 0
+  },
+  "matches": [
+    {
+      "id": -5331723313292977954,
+      "homeTeam": "Colorado Eagles",
+      "awayTeam": "Chicago Wolves",
+      "time": "09.06.2026 01:05",
+      "date": "2026-06-09",
+      "league": null,
+      "country": "",
+      "sport": "hockey",
+      "matchUrl": "https://www.livesport.com/pl/mecz/hokej/chicago-wolves-jufIjBbC/colorado-eagles-tI34khC9/?mid=tQiXYJjm",
+      "qualifies": false,
+      "h2h": {
+        "home": 0,
+        "draw": 0,
+        "away": 0,
+        "total": 0,
+        "winRate": 0
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null,
+      "confidence": 0,
+      "value_bet": false
+    }
+  ]
+}
