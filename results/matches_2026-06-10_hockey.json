@@ -1,0 +1,76 @@
+{
+  "date": "2026-06-10",
+  "sport": "hockey",
+  "generatedAt": "2026-06-10T02:41:46.427638",
+  "stats": {
+    "total": 2,
+    "qualifying": 0,
+    "formAdvantage": 0
+  },
+  "matches": [
+    {
+      "id": 2797817461928807196,
+      "homeTeam": "Vegas Golden Knights",
+      "awayTeam": "Carolina Hurricanes",
+      "time": "10.06.2026 00:00",
+      "date": "2026-06-10",
+      "league": null,
+      "country": "",
+      "sport": "hockey",
+      "matchUrl": "https://www.livesport.com/pl/mecz/hokej/carolina-hurricanes-Sx0gl0tm/vegas-golden-knights-fTT0TsUg/?mid=hONKDKvm",
+      "qualifies": false,
+      "h2h": {
+        "home": 0,
+        "draw": 0,
+        "away": 0,
+        "total": 0,
+        "winRate": 0
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null,
+      "confidence": 0,
+      "value_bet": false
+    },
+    {
+      "id": -5774233076759551483,
+      "homeTeam": "Florida Everblades",
+      "awayTeam": "Kansas City",
+      "time": "10.06.2026 23:30",
+      "date": "2026-06-10",
+      "league": null,
+      "country": "",
+      "sport": "hockey",
+      "matchUrl": "https://www.livesport.com/pl/mecz/hokej/florida-everblades-WAjlSKlf/kansas-city-mavericks-61YN76Il/?mid=xpeslPfE",
+      "qualifies": false,
+      "h2h": {
+        "home": 0,
+        "draw": 0,
+        "away": 0,
+        "total": 0,
+        "winRate": 0
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null,
+      "confidence": 0,
+      "value_bet": false
+    }
+  ]
+}
