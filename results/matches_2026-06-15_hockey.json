@@ -1,0 +1,44 @@
+{
+  "date": "2026-06-15",
+  "sport": "hockey",
+  "generatedAt": "2026-06-15T02:56:50.383957",
+  "stats": {
+    "total": 1,
+    "qualifying": 0,
+    "formAdvantage": 0
+  },
+  "matches": [
+    {
+      "id": -8085473317219680109,
+      "homeTeam": "Vegas Golden Knights",
+      "awayTeam": "Carolina Hurricanes",
+      "time": "15.06.2026 00:00",
+      "date": "2026-06-15",
+      "league": null,
+      "country": "",
+      "sport": "hockey",
+      "matchUrl": "https://www.livesport.com/pl/mecz/hokej/carolina-hurricanes-Sx0gl0tm/vegas-golden-knights-fTT0TsUg/?mid=jcEgjWTb",
+      "qualifies": false,
+      "h2h": {
+        "home": 0,
+        "draw": 0,
+        "away": 0,
+        "total": 0,
+        "winRate": 0
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null,
+      "confidence": 0,
+      "value_bet": false
+    }
+  ]
+}
