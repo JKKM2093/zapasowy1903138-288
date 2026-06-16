@@ -1,0 +1,76 @@
+{
+  "date": "2026-06-16",
+  "sport": "hockey",
+  "generatedAt": "2026-06-16T02:58:04.797151",
+  "stats": {
+    "total": 2,
+    "qualifying": 0,
+    "formAdvantage": 0
+  },
+  "matches": [
+    {
+      "id": -7343039539071170343,
+      "homeTeam": "Toronto Marlies",
+      "awayTeam": "Chicago Wolves",
+      "time": "16.06.2026 23:00",
+      "date": "2026-06-16",
+      "league": null,
+      "country": "",
+      "sport": "hockey",
+      "matchUrl": "https://www.livesport.com/pl/mecz/hokej/chicago-wolves-jufIjBbC/toronto-marlies-CleEiiq6/?mid=j5tKq2V9",
+      "qualifies": false,
+      "h2h": {
+        "home": 0,
+        "draw": 0,
+        "away": 0,
+        "total": 0,
+        "winRate": 0
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null,
+      "confidence": 0,
+      "value_bet": false
+    },
+    {
+      "id": -7422214639799547546,
+      "homeTeam": "Kansas City",
+      "awayTeam": "Florida Everblades",
+      "time": "16.06.2026 00:05",
+      "date": "2026-06-16",
+      "league": null,
+      "country": "",
+      "sport": "hockey",
+      "matchUrl": "https://www.livesport.com/pl/mecz/hokej/florida-everblades-WAjlSKlf/kansas-city-mavericks-61YN76Il/?mid=2Vhw7GyR",
+      "qualifies": false,
+      "h2h": {
+        "home": 0,
+        "draw": 0,
+        "away": 0,
+        "total": 0,
+        "winRate": 0
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null,
+      "confidence": 0,
+      "value_bet": false
+    }
+  ]
+}
