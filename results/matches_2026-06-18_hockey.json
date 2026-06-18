@@ -1,0 +1,44 @@
+{
+  "date": "2026-06-18",
+  "sport": "hockey",
+  "generatedAt": "2026-06-18T02:50:22.163901",
+  "stats": {
+    "total": 1,
+    "qualifying": 0,
+    "formAdvantage": 0
+  },
+  "matches": [
+    {
+      "id": -2256549499255804437,
+      "homeTeam": "Toronto Marlies",
+      "awayTeam": "Chicago Wolves",
+      "time": "18.06.2026 23:00",
+      "date": "2026-06-18",
+      "league": null,
+      "country": "",
+      "sport": "hockey",
+      "matchUrl": "https://www.livesport.com/pl/mecz/hokej/chicago-wolves-jufIjBbC/toronto-marlies-CleEiiq6/?mid=xMvSst0M",
+      "qualifies": false,
+      "h2h": {
+        "home": 0,
+        "draw": 0,
+        "away": 0,
+        "total": 0,
+        "winRate": 0
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null,
+      "confidence": 0,
+      "value_bet": false
+    }
+  ]
+}
