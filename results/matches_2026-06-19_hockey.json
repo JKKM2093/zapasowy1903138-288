@@ -1,0 +1,76 @@
+{
+  "date": "2026-06-19",
+  "sport": "hockey",
+  "generatedAt": "2026-06-19T03:35:19.059668",
+  "stats": {
+    "total": 2,
+    "qualifying": 0,
+    "formAdvantage": 0
+  },
+  "matches": [
+    {
+      "id": -2582393041910056261,
+      "homeTeam": "Southern Stampede",
+      "awayTeam": "Dunedin Thunder",
+      "time": "19.06.2026 07:00",
+      "date": "2026-06-19",
+      "league": null,
+      "country": "",
+      "sport": "hockey",
+      "matchUrl": "https://www.livesport.com/pl/mecz/hokej/dunedin-thunder-r7wOnf1l/southern-stampede-0KmYywxP/?mid=GjZM0Ps4",
+      "qualifies": false,
+      "h2h": {
+        "home": 0,
+        "draw": 0,
+        "away": 0,
+        "total": 0,
+        "winRate": 0
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null,
+      "confidence": 0,
+      "value_bet": false
+    },
+    {
+      "id": 2698721291785458037,
+      "homeTeam": "Toronto Marlies",
+      "awayTeam": "Chicago Wolves",
+      "time": "19.06.2026 23:00",
+      "date": "2026-06-19",
+      "league": null,
+      "country": "",
+      "sport": "hockey",
+      "matchUrl": "https://www.livesport.com/pl/mecz/hokej/chicago-wolves-jufIjBbC/toronto-marlies-CleEiiq6/?mid=fZ2SkWbE",
+      "qualifies": false,
+      "h2h": {
+        "home": 0,
+        "draw": 0,
+        "away": 0,
+        "total": 0,
+        "winRate": 0
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null,
+      "confidence": 0,
+      "value_bet": false
+    }
+  ]
+}
