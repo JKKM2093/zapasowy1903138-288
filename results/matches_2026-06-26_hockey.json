@@ -1,0 +1,44 @@
+{
+  "date": "2026-06-26",
+  "sport": "hockey",
+  "generatedAt": "2026-06-26T02:39:13.349557",
+  "stats": {
+    "total": 1,
+    "qualifying": 0,
+    "formAdvantage": 0
+  },
+  "matches": [
+    {
+      "id": -1680527625346163995,
+      "homeTeam": "CBR Brave",
+      "awayTeam": "Adelaide",
+      "time": "26.06.2026 07:00",
+      "date": "2026-06-26",
+      "league": null,
+      "country": "",
+      "sport": "hockey",
+      "matchUrl": "https://www.livesport.com/pl/mecz/hokej/adelaide-adrenaline-xtBoBAyf/cbr-brave-2Xg829G0/?mid=GK4CbHoQ",
+      "qualifies": false,
+      "h2h": {
+        "home": 0,
+        "draw": 0,
+        "away": 0,
+        "total": 0,
+        "winRate": 0
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null,
+      "confidence": 0,
+      "value_bet": false
+    }
+  ]
+}
