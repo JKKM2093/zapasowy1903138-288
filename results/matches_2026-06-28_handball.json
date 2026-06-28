@@ -1,0 +1,76 @@
+{
+  "date": "2026-06-28",
+  "sport": "handball",
+  "generatedAt": "2026-06-28T02:44:25.843822",
+  "stats": {
+    "total": 2,
+    "qualifying": 0,
+    "formAdvantage": 0
+  },
+  "matches": [
+    {
+      "id": -1818639327443952250,
+      "homeTeam": "Francja U20",
+      "awayTeam": "Hiszpania U20",
+      "time": "28.06.2026 09:00",
+      "date": "2026-06-28",
+      "league": null,
+      "country": "",
+      "sport": "handball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/pilka-reczna/francja-GAI6ukkl/hiszpania-MX0cWf6j/?mid=OOR3kTnd",
+      "qualifies": false,
+      "h2h": {
+        "home": 0,
+        "draw": 0,
+        "away": 0,
+        "total": 0,
+        "winRate": 0
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null,
+      "confidence": 0,
+      "value_bet": false
+    },
+    {
+      "id": -8580914832220773765,
+      "homeTeam": "Szwajcaria U20",
+      "awayTeam": "Niemcy U20",
+      "time": "28.06.2026 11:30",
+      "date": "2026-06-28",
+      "league": null,
+      "country": "",
+      "sport": "handball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/pilka-reczna/niemcy-MkIMjtkg/szwajcaria-hdHifbbc/?mid=jVJkDWv3",
+      "qualifies": false,
+      "h2h": {
+        "home": 0,
+        "draw": 0,
+        "away": 0,
+        "total": 0,
+        "winRate": 0
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null,
+      "confidence": 0,
+      "value_bet": false
+    }
+  ]
+}
