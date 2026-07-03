@@ -1,0 +1,44 @@
+{
+  "date": "2026-07-03",
+  "sport": "hockey",
+  "generatedAt": "2026-07-03T02:10:13.945592",
+  "stats": {
+    "total": 1,
+    "qualifying": 0,
+    "formAdvantage": 0
+  },
+  "matches": [
+    {
+      "id": -5275239089730750728,
+      "homeTeam": "Sydney Ice Dogs",
+      "awayTeam": "Perth",
+      "time": "03.07.2026 09:30",
+      "date": "2026-07-03",
+      "league": null,
+      "country": "",
+      "sport": "hockey",
+      "matchUrl": "https://www.livesport.com/pl/mecz/hokej/perth-thunder-SU3b88LC/sydney-ice-dogs-MiqBWvN8/?mid=fkzR3CN5",
+      "qualifies": false,
+      "h2h": {
+        "home": 0,
+        "draw": 0,
+        "away": 0,
+        "total": 0,
+        "winRate": 0
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null,
+      "confidence": 0,
+      "value_bet": false
+    }
+  ]
+}
