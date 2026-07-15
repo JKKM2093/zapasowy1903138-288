@@ -1,0 +1,44 @@
+{
+  "date": "2026-07-15",
+  "sport": "hockey",
+  "generatedAt": "2026-07-15T01:33:44.961775",
+  "stats": {
+    "total": 1,
+    "qualifying": 0,
+    "formAdvantage": 0
+  },
+  "matches": [
+    {
+      "id": -1203980805215023690,
+      "homeTeam": "Soligorsk (BLR)",
+      "awayTeam": "Yunost Minsk (BLR)",
+      "time": "15.07.2026 10:00",
+      "date": "2026-07-15",
+      "league": null,
+      "country": "",
+      "sport": "hockey",
+      "matchUrl": "https://www.livesport.com/pl/mecz/hokej/soligorsk-rocS3hSt/yunost-minsk-WYaSKhRh/?mid=bwtq38xI",
+      "qualifies": false,
+      "h2h": {
+        "home": 0,
+        "draw": 0,
+        "away": 0,
+        "total": 0,
+        "winRate": 0
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null,
+      "confidence": 0,
+      "value_bet": false
+    }
+  ]
+}
