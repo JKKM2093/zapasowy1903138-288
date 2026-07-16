@@ -1,0 +1,44 @@
+{
+  "date": "2026-07-16",
+  "sport": "hockey",
+  "generatedAt": "2026-07-16T01:54:31.427429",
+  "stats": {
+    "total": 1,
+    "qualifying": 0,
+    "formAdvantage": 0
+  },
+  "matches": [
+    {
+      "id": 4546753656667906330,
+      "homeTeam": "Slavutych (RUS)",
+      "awayTeam": "Vitebsk (BLR)",
+      "time": "16.07.2026 15:00",
+      "date": "2026-07-16",
+      "league": null,
+      "country": "",
+      "sport": "hockey",
+      "matchUrl": "https://www.livesport.com/pl/mecz/hokej/slavutych-smolensk-vhl-Uuo43O7S/vitebsk-WfejbXs0/?mid=hpqBmbd2",
+      "qualifies": false,
+      "h2h": {
+        "home": 0,
+        "draw": 0,
+        "away": 0,
+        "total": 0,
+        "winRate": 0
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null,
+      "confidence": 0,
+      "value_bet": false
+    }
+  ]
+}
