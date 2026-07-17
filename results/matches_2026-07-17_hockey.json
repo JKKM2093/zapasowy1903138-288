@@ -1,0 +1,76 @@
+{
+  "date": "2026-07-17",
+  "sport": "hockey",
+  "generatedAt": "2026-07-17T01:57:49.102814",
+  "stats": {
+    "total": 2,
+    "qualifying": 0,
+    "formAdvantage": 0
+  },
+  "matches": [
+    {
+      "id": -8897135469678162529,
+      "homeTeam": "Melbourne Mustangs",
+      "awayTeam": "Melbourne Ice",
+      "time": "17.07.2026 09:30",
+      "date": "2026-07-17",
+      "league": null,
+      "country": "",
+      "sport": "hockey",
+      "matchUrl": "https://www.livesport.com/pl/mecz/hokej/melbourne-ice-AF0mDjMm/melbourne-mustangs-W2AkAUj0/?mid=vqHGcGC7",
+      "qualifies": false,
+      "h2h": {
+        "home": 0,
+        "draw": 0,
+        "away": 0,
+        "total": 0,
+        "winRate": 0
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null,
+      "confidence": 0,
+      "value_bet": false
+    },
+    {
+      "id": -1263724884966456607,
+      "homeTeam": "Dunedin Thunder",
+      "awayTeam": "Botany Swarm",
+      "time": "17.07.2026 07:00",
+      "date": "2026-07-17",
+      "league": null,
+      "country": "",
+      "sport": "hockey",
+      "matchUrl": "https://www.livesport.com/pl/mecz/hokej/botany-swarm-dA5dgGwR/dunedin-thunder-r7wOnf1l/?mid=Uy6QIc3k",
+      "qualifies": false,
+      "h2h": {
+        "home": 0,
+        "draw": 0,
+        "away": 0,
+        "total": 0,
+        "winRate": 0
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null,
+      "confidence": 0,
+      "value_bet": false
+    }
+  ]
+}
