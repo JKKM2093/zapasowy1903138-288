@@ -1,0 +1,76 @@
+{
+  "date": "2026-07-20",
+  "sport": "hockey",
+  "generatedAt": "2026-07-20T02:14:16.822499",
+  "stats": {
+    "total": 2,
+    "qualifying": 0,
+    "formAdvantage": 0
+  },
+  "matches": [
+    {
+      "id": -7296828780930155725,
+      "homeTeam": "Finlandia U20",
+      "awayTeam": "Szwajcaria U20",
+      "time": "20.07.2026 12:00",
+      "date": "2026-07-20",
+      "league": null,
+      "country": "",
+      "sport": "hockey",
+      "matchUrl": "https://www.livesport.com/pl/mecz/hokej/finlandia-EaxxArR9/szwajcaria-tQ4ibbBg/?mid=xb4Yn3cn",
+      "qualifies": false,
+      "h2h": {
+        "home": 0,
+        "draw": 0,
+        "away": 0,
+        "total": 0,
+        "winRate": 0
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null,
+      "confidence": 0,
+      "value_bet": false
+    },
+    {
+      "id": 2106700184004653281,
+      "homeTeam": "Finlandia U20",
+      "awayTeam": "Czechy U20",
+      "time": "20.07.2026 16:00",
+      "date": "2026-07-20",
+      "league": null,
+      "country": "",
+      "sport": "hockey",
+      "matchUrl": "https://www.livesport.com/pl/mecz/hokej/czechy-n5YYqbwk/finlandia-EaxxArR9/?mid=AB2tosSb",
+      "qualifies": false,
+      "h2h": {
+        "home": 0,
+        "draw": 0,
+        "away": 0,
+        "total": 0,
+        "winRate": 0
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null,
+      "confidence": 0,
+      "value_bet": false
+    }
+  ]
+}

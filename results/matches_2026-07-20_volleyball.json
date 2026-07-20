@@ -1,0 +1,44 @@
+{
+  "date": "2026-07-20",
+  "sport": "volleyball",
+  "generatedAt": "2026-07-20T02:14:02.040767",
+  "stats": {
+    "total": 1,
+    "qualifying": 0,
+    "formAdvantage": 0
+  },
+  "matches": [
+    {
+      "id": -7940472068793875531,
+      "homeTeam": "USA",
+      "awayTeam": "Polska",
+      "time": "20.07.2026 01:00",
+      "date": "2026-07-20",
+      "league": null,
+      "country": "",
+      "sport": "volleyball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/siatkowka/polska-r3l84Njg/usa-QXpoGyUl/?mid=GzhNYBsT",
+      "qualifies": false,
+      "h2h": {
+        "home": 0,
+        "draw": 0,
+        "away": 0,
+        "total": 0,
+        "winRate": 0
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null,
+      "confidence": 0,
+      "value_bet": false
+    }
+  ]
+}
