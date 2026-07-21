@@ -1,0 +1,76 @@
+{
+  "date": "2026-07-21",
+  "sport": "hockey",
+  "generatedAt": "2026-07-21T01:56:25.202774",
+  "stats": {
+    "total": 2,
+    "qualifying": 0,
+    "formAdvantage": 0
+  },
+  "matches": [
+    {
+      "id": -1444583137486031621,
+      "homeTeam": "Brest (BLR)",
+      "awayTeam": "Lida (BLR)",
+      "time": "21.07.2026 12:00",
+      "date": "2026-07-21",
+      "league": null,
+      "country": "",
+      "sport": "hockey",
+      "matchUrl": "https://www.livesport.com/pl/mecz/hokej/brest-OQeQcDSg/hk-lida-GlF2ZnIr/?mid=QFCYmS7r",
+      "qualifies": false,
+      "h2h": {
+        "home": 0,
+        "draw": 0,
+        "away": 0,
+        "total": 0,
+        "winRate": 0
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null,
+      "confidence": 0,
+      "value_bet": false
+    },
+    {
+      "id": 8163503738805067785,
+      "homeTeam": "Slavutych (RUS)",
+      "awayTeam": "Vitebsk (BLR)",
+      "time": "21.07.2026 15:00",
+      "date": "2026-07-21",
+      "league": null,
+      "country": "",
+      "sport": "hockey",
+      "matchUrl": "https://www.livesport.com/pl/mecz/hokej/slavutych-smolensk-vhl-Uuo43O7S/vitebsk-WfejbXs0/?mid=bTAtn6xe",
+      "qualifies": false,
+      "h2h": {
+        "home": 0,
+        "draw": 0,
+        "away": 0,
+        "total": 0,
+        "winRate": 0
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null,
+      "confidence": 0,
+      "value_bet": false
+    }
+  ]
+}
