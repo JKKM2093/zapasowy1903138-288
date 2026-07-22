@@ -1,0 +1,76 @@
+{
+  "date": "2026-07-22",
+  "sport": "volleyball",
+  "generatedAt": "2026-07-22T01:54:59.129093",
+  "stats": {
+    "total": 2,
+    "qualifying": 0,
+    "formAdvantage": 0
+  },
+  "matches": [
+    {
+      "id": 1138819843579967893,
+      "homeTeam": "Włochy K",
+      "awayTeam": "Holandia K",
+      "time": "22.07.2026 08:00",
+      "date": "2026-07-22",
+      "league": null,
+      "country": "",
+      "sport": "volleyball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/siatkowka/holandia-IJV0507F/wlochy-WOxNzHzR/?mid=zyDbV8q3",
+      "qualifies": false,
+      "h2h": {
+        "home": 0,
+        "draw": 0,
+        "away": 0,
+        "total": 0,
+        "winRate": 0
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null,
+      "confidence": 0,
+      "value_bet": false
+    },
+    {
+      "id": -8075845906084747216,
+      "homeTeam": "Brazylia K",
+      "awayTeam": "Japonia K",
+      "time": "22.07.2026 11:30",
+      "date": "2026-07-22",
+      "league": null,
+      "country": "",
+      "sport": "volleyball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/siatkowka/brazylia-hYwJycLK/japonia-YotoKc6R/?mid=04H49RMq",
+      "qualifies": false,
+      "h2h": {
+        "home": 0,
+        "draw": 0,
+        "away": 0,
+        "total": 0,
+        "winRate": 0
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null,
+      "confidence": 0,
+      "value_bet": false
+    }
+  ]
+}
