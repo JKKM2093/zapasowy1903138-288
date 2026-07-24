@@ -1,0 +1,76 @@
+{
+  "date": "2026-07-24",
+  "sport": "handball",
+  "generatedAt": "2026-07-24T01:58:11.901571",
+  "stats": {
+    "total": 2,
+    "qualifying": 0,
+    "formAdvantage": 0
+  },
+  "matches": [
+    {
+      "id": 3515560900064181546,
+      "homeTeam": "Skive (DEN)",
+      "awayTeam": "Holstebro (DEN)",
+      "time": "24.07.2026 13:00",
+      "date": "2026-07-24",
+      "league": null,
+      "country": "",
+      "sport": "handball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/pilka-reczna/holstebro-SbWEj29b/skive-0pbOLNQA/?mid=4YwmdVR7",
+      "qualifies": false,
+      "h2h": {
+        "home": 0,
+        "draw": 0,
+        "away": 0,
+        "total": 0,
+        "winRate": 0
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null,
+      "confidence": 0,
+      "value_bet": false
+    },
+    {
+      "id": -7326737144654437731,
+      "homeTeam": "PLER (HUN)",
+      "awayTeam": "Dabas (HUN)",
+      "time": "24.07.2026 15:00",
+      "date": "2026-07-24",
+      "league": null,
+      "country": "",
+      "sport": "handball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/pilka-reczna/dabas-vse-kc-reZ2sKol/pler-Q9tfeMEE/?mid=WvWYJYJE",
+      "qualifies": false,
+      "h2h": {
+        "home": 0,
+        "draw": 0,
+        "away": 0,
+        "total": 0,
+        "winRate": 0
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null,
+      "confidence": 0,
+      "value_bet": false
+    }
+  ]
+}
