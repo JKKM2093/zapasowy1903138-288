@@ -1,0 +1,44 @@
+{
+  "date": "2026-07-31",
+  "sport": "volleyball",
+  "generatedAt": "2026-07-31T02:03:37.197794",
+  "stats": {
+    "total": 1,
+    "qualifying": 0,
+    "formAdvantage": 0
+  },
+  "matches": [
+    {
+      "id": -1970942307624591224,
+      "homeTeam": "Portoryko",
+      "awayTeam": "Kolumbia",
+      "time": "30.07.2026 23:00",
+      "date": "2026-07-31",
+      "league": null,
+      "country": "",
+      "sport": "volleyball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/siatkowka/kolumbia-tvf4aF17/portoryko-6JpSJoln/?mid=fRlAyHOG",
+      "qualifies": false,
+      "h2h": {
+        "home": 0,
+        "draw": 0,
+        "away": 0,
+        "total": 0,
+        "winRate": 0
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null,
+      "confidence": 0,
+      "value_bet": false
+    }
+  ]
+}
