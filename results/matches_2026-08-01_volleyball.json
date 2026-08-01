@@ -1,0 +1,76 @@
+{
+  "date": "2026-08-01",
+  "sport": "volleyball",
+  "generatedAt": "2026-08-01T02:04:45.284210",
+  "stats": {
+    "total": 2,
+    "qualifying": 0,
+    "formAdvantage": 0
+  },
+  "matches": [
+    {
+      "id": 5556249925549086245,
+      "homeTeam": "Słowenia",
+      "awayTeam": "Polska",
+      "time": "01.08.2026 07:00",
+      "date": "2026-08-01",
+      "league": null,
+      "country": "",
+      "sport": "volleyball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/siatkowka/polska-r3l84Njg/slowenia-bRQQqXZj/?mid=bPtvz8K7",
+      "qualifies": false,
+      "h2h": {
+        "home": 0,
+        "draw": 0,
+        "away": 0,
+        "total": 0,
+        "winRate": 0
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null,
+      "confidence": 0,
+      "value_bet": false
+    },
+    {
+      "id": 6628665249094230715,
+      "homeTeam": "Japonia",
+      "awayTeam": "USA",
+      "time": "01.08.2026 11:30",
+      "date": "2026-08-01",
+      "league": null,
+      "country": "",
+      "sport": "volleyball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/siatkowka/japonia-xKnxMJyF/usa-QXpoGyUl/?mid=hnhmRk5e",
+      "qualifies": false,
+      "h2h": {
+        "home": 0,
+        "draw": 0,
+        "away": 0,
+        "total": 0,
+        "winRate": 0
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null,
+      "confidence": 0,
+      "value_bet": false
+    }
+  ]
+}
