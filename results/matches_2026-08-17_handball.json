@@ -1,0 +1,44 @@
+{
+  "date": "2026-08-17",
+  "sport": "handball",
+  "generatedAt": "2026-08-17T00:47:36.378309",
+  "stats": {
+    "total": 1,
+    "qualifying": 0,
+    "formAdvantage": 0
+  },
+  "matches": [
+    {
+      "id": -7890798297893763743,
+      "homeTeam": "Boden K",
+      "awayTeam": "Boden BK K",
+      "time": "17.08.2026 15:00",
+      "date": "2026-08-17",
+      "league": null,
+      "country": "",
+      "sport": "handball",
+      "matchUrl": "https://www.livesport.com/pl/mecz/pilka-reczna/boden-Sr8EOfe5/boden-bk-bPVzzeD1/?mid=dzslPVUb",
+      "qualifies": false,
+      "h2h": {
+        "home": 0,
+        "draw": 0,
+        "away": 0,
+        "total": 0,
+        "winRate": 0
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeFormHome": [],
+      "awayFormAway": [],
+      "formAdvantage": false,
+      "odds": null,
+      "forebet": null,
+      "sofascore": null,
+      "focusTeam": "home",
+      "scoring": null,
+      "tennis": null,
+      "confidence": 0,
+      "value_bet": false
+    }
+  ]
+}
